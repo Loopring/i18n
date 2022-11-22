@@ -495,8 +495,8 @@
     <string name="approve_status">Approval Status</string>
     <string name="wallet_guardian">Loopring Wallet Guardian</string>
     <string name="other_guardian">Other Guardian</string>
-    <string name="approve_guide_normal">As a Guardian, you use a Loopring Wallet\n\n1 Open Loopring Wallet\n\n2 Tap Profile &gt; Manage Guardians &gt; Who I Protect\n\n3 Find the request by the person you protect\n\n4 Approve</string>
-    <string name="approve_guide_hardware">As a Guardian, use your wallet\n\n1. Visit %s\n\n2. Find the request by the person you protect in the approval record list\n\n3. Approve</string>
+    <string name="approve_guide_normal">As a Guardian, using your Loopring Wallet:\n1. Tap Profile &gt; Manage Guardians &gt; Who I Protect\n2. Find the request by the person you protect\n3. Approve</string>
+    <string name="approve_guide_hardware">As a Guardian, using your wallet:\n1. Visit %s\n2. Find the request by the person you protect in the approval record list\n3. Approve</string>
     <string name="approve_recover_title">Wallet Recovery Approval</string>
     <string name="approve_transfer_title">Exceed Quota Approval</string>
     <string name="approve_recover_detail_desc">You are recovering your wallet %s. Please share the approval code below to at least %s Guardians who can help with the recovery process.</string>
@@ -981,7 +981,7 @@
     <string name="wallet_create_free_notify2">Deposit the equivalent of %s, and you can experience transactions that are 100x cheaper and faster on Loopring L2.</string>
     <string name="wallet_create_to_receive">To deposit</string>
     <string name="wallet_create_to_receive2">To deposit %s seconds</string>
-    <string name="search_noaddress">Sorry, the wallet address you provided is not a Loopring Wallet address</string>
+    <string name="search_noaddress">Sorry, the wallet address provided is not a Loopring Wallet address</string>
     <string name="guardian_advanced_1">If you would like to add non-Loopring Wallet addresses as Guardians, please visit&#160;</string>
     <string name="guardian_advanced_3"> on a computer, connect the Guardian address in consideration, and then scan the QR code on that web page with your Loopring Wallet.</string>
     <string name="lrc_staking_msg2">* Only available on Ethereum L1</string>
@@ -1046,7 +1046,7 @@
     <string name="withdraw_mining_getmoney">Earn your share of one million LRC</string>
     <string name="invite_give_gift">Refer a Friend</string>
     <string name="wallet_create_free_confirm_msg">When the wallet receives %s (or equivalent value) it will be created automatically.</string>
-    <string name="wallet_create_agreement2">Creating a wallet means you agree to </string>
+    <string name="wallet_create_agreement2">Creating a wallet means you agree to&#160;</string>
     <string name="and">&#160;and&#160;</string>
     <string name="update_no_reponse">The current download is unresponsive. Do you want to switch to a browser to download?</string>
     <string name="annualized_return">APR</string>
@@ -1240,7 +1240,7 @@
     <string name="metatx_action_fast_transfer">Fast Send</string>
     <string name="fee_colon">Fee:</string>
     <string name="fee_with_value">Fee %s</string>
-    <string name="my_redpacket">Records</string>
+    <string name="my_redpacket">My Red Packet</string>
     <string name="rp_normal">Normal Red Packet</string>
     <string name="rp_normal_msg">Each recipient receives a pre-set split of the total gift shared.</string>
     <string name="rp_lucky">Lucky Red Packet</string>
@@ -1267,8 +1267,8 @@
     <string name="rp_received_notstart">Hasn\'t started</string>
     <string name="rp_has_received">Received</string>
     <string name="wallet_fees">Wallet Fees</string>
-    <string name="walletconnect_msg_default">Default format, change to <![CDATA[<font color="#2E51FF">UTF-8 format</font>]]></string>
-    <string name="walletconnect_msg_utf8">UTF-8 format, change to <![CDATA[<font color="#2E51FF">Default format</font>]]></string>
+    <string name="walletconnect_msg_default">Default format, change to <![CDATA[<font color="#446EFF">UTF-8 format</font>]]></string>
+    <string name="walletconnect_msg_utf8">UTF-8 format, change to <![CDATA[<font color="#446EFF">Default format</font>]]></string>
     <string name="total_amount">Total</string>
     <string name="input_you_search_token">Enter the token to search</string>
     <string name="ammin_free_out_fee">Free for AMM deposit. AMM withdrawal fee is %s</string>
@@ -1323,8 +1323,8 @@
     <string name="offchain_fee_updated">Fee updated. Please try again.</string>
     <string name="migrate_invalid_qr_code">Failed to migrate the wallet. Please try again later.</string>
     <string name="gas_price_colon">Gas Price:&#160;</string>
-    <string name="gas_price_normal">Normal: %s, &lt; 5 min, change to <![CDATA[<font color="#2E51FF">Fastest</font>]]></string>
-    <string name="gas_price_fast">Fastest: %s, &lt; 0.5 min, change to <![CDATA[<font color="#2E51FF">Normal</font>]]></string>
+    <string name="gas_price_normal">Normal: %s, &lt; 5 min, change to <![CDATA[<font color="#446EFF">Fastest</font>]]></string>
+    <string name="gas_price_fast">Fastest: %s, &lt; 0.5 min, change to <![CDATA[<font color="#446EFF">Normal</font>]]></string>
     <string name="search_dex_quotation">Search or enter Token/Pair</string>
     <string name="point_value">1 Point = %s USDT</string>
     <string name="wallet_sig_error">Warning</string>
@@ -1408,7 +1408,7 @@
     <string name="create_wallet_eoa">Create EOA Wallet</string>
     <string name="import_wallet_eoa">Import EOA Wallet</string>
     <!--eoa string -->
-    <string name="eoa_walletname_hint">1-12 alphanumeric characters</string>
+    <string name="eoa_walletname_hint">1–12 alphanumeric characters</string>
     <string name="backup_tips">Backup tips</string>
     <string name="backup_tips_msg">The seed phrase provides access to the wallet\’s assets.</string>
     <string name="mnemonic_msg1">The seed phrase consists of English words. Please write them down and keep them safe.</string>
@@ -1601,7 +1601,7 @@
     <string name="recreate_wallet_warn">Re-creating the wallet means your previous wallet will be invalid. If you choose to re-create the wallet, the assets on your previous address will be lost forever. Please operate with caution. If you choose to re-create the wallet, please enter "AGREE" to confirm.</string>
     <string name="novice_guide">Novice Guide</string>
     <string name="novice_guide_step1_notice">1/2 This address only supports ERC-20 tokens.Do not send tokens from other blockchains to this address as they will be lost.</string>
-    <string name="novice_guide_step2_notice">2/2 Only send %s to this deposit address. The wallet creation fee amount will not land in your wallet this is cost to create the wallet. To save gas, it is best send more than the wallet creation fee so you will have funds ready to use on the wallet.</string>
+    <string name="novice_guide_step2_notice">2/2 Only send %s to this deposit address. The wallet creation fee amount will not land in your wallet as this is cost to create the wallet. To save gas, it is best send more than the wallet creation fee so you will have funds ready to use on the wallet.</string>
     <string name="open_use_dex_fee">This fee can only be paid with a Loopring L2 balance. Please update your Fee Preference in Profile > Settings > Fee Preference > Use Loopring L2 Tokens</string>
     <string name="unable_to_pay_fee">Unable to pay fee</string>
     <string name="setup_fees">Creation Fee:</string>
@@ -1623,7 +1623,7 @@
     <string name="dex_account_info_title2">Try it Before you Buy it</string>
     <string name="dex_account_info_msg2">This Loopring L2 wallet bypasses Ethereum L1, saving users from expensive, upfront fees to create the full wallet.\n\nThis allows you, the user, to try the L2 wallet, with limited security features, before you decide to upgrade to the full L1 Smart Wallet.</string>
     <string name="dex_account_info_title3">What if it gets lost or stolen?</string>
-    <string name="dex_account_info_msg3">If your wallet is lost, stolen or deleted, you are trusting the Official Loopring Guardian to recover your wallet.\n\nIt is important to note that this is a basic security option. It is recommended to use the full Loopring Wallet (L1 + L2), which offers Social Recovery and Guardians in order access the wallet\’s full security potential.</string>
+    <string name="dex_account_info_msg3">If your wallet is lost, stolen or deleted, you are trusting the Official Loopring Guardian to recover your wallet.\n\nIt is important to note that this is a basic security option. It is recommended to use the full Loopring Wallet (L1 + L2), which offers Social Recovery and Guardians in order to access the wallet\’s full security potential.</string>
     <string name="wallet_create_dex_you_understand1">If your wallet is stolen, lost or deleted, you are trusting the Official Loopring Guardian to recover the wallet. A wallet recovery requires an L1 gas fee.</string>
     <string name="wallet_create_dex_you_understand2">The L2 Wallet does not include Social Recovery or Guardians</string>
     <string name="wallet_create_dex_you_understand3">After your wallet is created, %s. Doing so will delete your private key, and the recovery may be expensive as it requires Ethereum L1 gas fees.</string>
@@ -1711,7 +1711,7 @@
     <string name="wallet_eoa">EOA Wallet</string>
     <string name="wallet_2">Wallet</string>
     <string name="select">Select</string>
-    <string name="wallet_exchange_describe">The following trading platforms currently do not support Loopring L2 transfers (Binance, Coinbase, FTX, etc...). You will need to send assets to the Ethereum L1 account.</string>
+    <string name="wallet_exchange_describe">The following trading platforms currently do not support Loopring L2 transfers (Binance, Coinbase, etc...). You will need to send assets to the Ethereum L1 account.</string>
     <string name="wallet_eoa_describe">This wallet address is not a smart wallet that binds with a smart contract (e.g., MetaMask, GameStop, imToken, Ledger, Trezor, etc...).</string>
     <string name="wallet_l2_noactivite_describe">&#160;Recipient can activate the Loopring L2 account for this address after you send assets.</string>
     <string name="exchange_binance">Binance</string>
@@ -1732,7 +1732,7 @@
     <string name="transfer_confirm_cex_supprot">Confirm CEX Support</string>
     <string name="transfer_confirm_cex_supprot_notice">Before withdrawing, please ensure your CEX accepts deposits from smart contracts.\n\nL2 to L1 withdrawing is via a smart contract. The CEX depositing address may not be able to acknowledge the tokens deposited automatically.\n\nIf the deposited tokens do not appear at the CEX address within 24 hours, please contact your CEX support to manually acknowledge this transaction.</string>
     <string name="understand">I understand and acknowledge the risk</string>
-    <string name="transfer_from_another_eoa">From another L1 account (incl. exchange)</string>
+    <string name="transfer_from_another_eoa">From another L1 account</string>
     <string name="my_balance">My Balance</string>
     <string name="my_amount">My Amount</string>
     <string name="invest_total">Total Investment</string>
@@ -1773,16 +1773,17 @@
     <string name="swap_mix_min_received_desc">The pool price changes dynamically; the price you see when placing an order may be inconsistent with the final transaction price. The protocol can guarantee that you will receive at least this amount.</string>
     <string name="transfer_from_another_l1_wallet_createp">From another L1 account (incl. exchange)</string>
     <string name="qr_scan_code_send">Scan the QR code with your wallet to send %s</string>
-    <string name="layer_swap_notice"><![CDATA[Layerswap is a third-party app service provider that helps move tokens off exchanges and directly to Loopring L2. If you have any concerns regarding their service, please visit their <font color="#2E51FF"><u>TOS</u></font>.]]></string>
+    <string name="layer_swap_notice">Layerswap is a third-party app service provider that helps move tokens off exchanges and directly to Loopring L2. If you have any concerns regarding their service, please visit their TOS.</string>
+    <string name="layer_swap_notice_visit">Visit Layerswap TOS</string>
     <string name="layer_swap_notice_confirm">I understand and acknowledge the risk</string>
     <string name="limit_order">Limit Order</string>
     <string name="market_order">Market Order</string>
     <string name="market_order_min_order_notice">Small trades (below ~$100) incur a higher fee. Please review the fee before confirming.\nEstimated Fee: 【%s】\nMinimum Received: 【%s】</string>
     <string name="fiat">Fiat</string>
-    <string name="you_have_depositing">Deposit pending: %s</string>
-    <string name="you_have_withdraw">Withdraw pending: %s</string>
+    <string name="you_have_depositing">Deposit pending</string>
+    <string name="you_have_withdraw">Withdrawal pending</string>
     <string name="you_have_lock">You have locked %s</string>
-    <string name="you_have_swap">Maker order was Locked: %s</string>
+    <string name="you_have_swap">Maker Order unfilled</string>
     <string name="limit_order_desc">Used to set the maximun or minimum price at which you are willing to buy or sell.</string>
     <string name="market_order_desc">Used to buy or sell immediately at the current market price.</string>
     <string name="cancel_orders_batch">Order Canceled</string>
@@ -1796,7 +1797,6 @@
     <string name="force_withdraw_notice5">&#183;This feature allows a user to move their Loopring L2 tokens to the Ethereum L1 account within the target address. The target address must either be a non-activated L2 account or an exchange address.\n&#183;This operation usually requires more than 30 minutes to take effect, as it needs to interact with Ethereum mainnet. Please be patient.</string>
     <string name="from_small">from</string>
 
-    <string name="my_redpacket2">Records</string>
     <string name="my_l2_account">My L2 Account</string>
     <string name="guardian_add_exchange_address_notice">This address belongs to the Loopring operator for depositing tokens to any Loopring L2 address. If you add this address as a Trusted Contact, there will be no restriction on any of your L2 transfers. Please ensure this is your intention.</string>
     <string name="transfer_guardian_l2_notice">Transfers to any Loopring L2 address are routed through the Loopring operator; the operator then sends the tokens to the proper Loopring L2 address. Guardian approval is required if you do not add the Loopring operator as a Trusted Contact.</string>
@@ -1848,17 +1848,16 @@
     <string name="two_fa_pre_option_error">The information provided is inconsistent with your registration details</string>
     <string name="two_fa_verify_max">You have exceeded the number of verification attempts</string>
     <string name="two_fa_verify_code_error">The verification code you entered is incorrect</string>
-    <string name="submit_ticket">submit a ticket</string>
-    <string name="two_fa_not_enough">You can\'t pass the two-factor authentication process to verify your identity. Please %s to the Loopring support team that contains more information to verify yourself.</string>
+    <string name="two_fa_not_enough">You can\'t pass the two-factor authentication process to verify your identity. Please submit a ticket to the Loopring support team that contains more information to verify yourself.</string>
     <string name="authentication_google_notice">You can install a two-factor authentication (2FA) app to generate a verification code.</string>
     <string name="authentication_google_notice_eg">e.g., Google Authenticator, Microsoft Authenticator, etc...</string>
     <string name="authentication_google_name">Google Authenticator</string>
     <string name="eth_staking">ETH Staking</string>
-    <string name="available_colon">Available</string>
+    <string name="available_colon">Available:&#160;</string>
     <string name="eth_staking_lido_notice_title">What is ETH Staking via Lido?</string>
     <string name="eth_staking_lido_notice_content">Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers. Lido lets users stake their ETH - without locking assets or maintaining infrastructure.\n\nWhen using Lido to stake your ETH on the Ethereum beacon chain, users will receive a token (stETH), which represents their ETH on the Ethereum beacon chain on a 1:1 basis. It effectively acts as a bridge bringing ETH 2.0’s staking rewards to ETH 1.0.\n\nWSTETH is the wrapped version of stETH. The total amount of WSTETH doesn’t change after users receive the token. Instead, the token’s value increases over time to reflect ETH staking rewards earned.</string>
     <string name="eth_staking_lido_risk_warning">It is important to note that users can\'t redeem WSTETH for ETH until phase 2 of Ethereum 2.0. However, users are able to trade WSTETH for ETH on various exchanges at market price.\n\nLoopring will provide a pool to allow users to trade WSTETH for ETH directly on Layer 2. The pool will rebalance periodically when it reaches a specific threshold. If there is not enough inventory on L2, users can always withdraw their WSTETH tokens to Layer 1 and swap for ETH in Lido, Curve, or 1inch.</string>
-    <string name="i_have_read_risk_warning">I have read the risk warning</string>
+    <string name="i_have_read_risk_warning">I have read and understand the risk warning</string>
     <string name="subscribe">Subscribe</string>
     <string name="redeem">Redeem</string>
     <string name="subscribe_success">Subscribe Successful</string>
@@ -1870,7 +1869,7 @@
     <string name="defi_trade_notice1">ETH staking service is not currently available. Please return periodically until the pool is setup. Usually, it will be ready within one hour.</string>
     <string name="defi_trade_notice2">It is not possible for the Loopring pool to fulfill your complete request at the moment.\nYou can choose one of the following approaches for the remaining amount:\n&#183; Withdraw WSTETH to L1 and trade trade through Uniswap, 1Inch or Lido.\n&#183; The Loopring pool will rebalance soon. Please come back later to redeem.</string>
     <string name="defi_trade_notice3">The quota is almost sold out and can\'t fulfill your complete order. You can only use %s ETH to subscribe now. Loopring will set up the pool soon. Please come back later to subscribe. </string>
-    <string name="defi_trade_notice4">It is not possible for the Loopring pool to fulfill your complete request at the moment. You can only use %s to redeem now.\nYou can choose one of the following approaches for the remaining amount:\n&#183; Withdraw WSTETH to L1 and trade trade through Uniswap, 1Inch, or Lido.\n&#183; The Loopring pool will rebalance soon. Please come back later to redeem.</string>
+    <string name="defi_trade_notice4">It is not possible for the Loopring pool to fulfill your complete request at the moment. You can only use %s to redeem now.\nYou can choose one of the following approaches for the remaining amount:\n&#183; Withdraw WSTETH to L1 and trade through Uniswap, 1Inch, or Lido.\n&#183; The Loopring pool will rebalance soon. Please come back later to redeem.</string>
     <string name="defi_trade_notice5">Loopring will set up the pool soon. Please come back later to subscribe.</string>
     <string name="successful">Successful</string>
     <string name="total_earnings">Total Earnings</string>
@@ -1909,7 +1908,7 @@
     <string name="cancel_approve">Cancel approval</string>
     <string name="pwd_cant_use">For wallet security, it is necessary to freeze the 24-hour countdown</string>
     <string name="notice_title">Notice</string>
-    <string name="pwd_forget_notice">You just completed 1 security sensitive operation to reset the Signature Auth. In order to secure your assets, the account will be locked for 24 hours. Please try again afterwards.</string>
+    <string name="pwd_forget_notice">In order to secure your asset, the account will be locked for 24 hours after resetting passcode. Please recheck after then.</string>
     <string name="pwd_forget_notice2">After setting a passcode, it can be used normally after 24 hours</string>
     <string name="two_fa_choose_notice_one_1">Please check 1 authentication method to continue.</string>
     <string name="two_fa_choose_notice_1">Please check 2 authentication methods to continue.</string>
@@ -1941,10 +1940,10 @@
     <string name="recover_from_cloud_msg2">You will regain access after 24 hours</string>
     <string name="recover">Recover</string>
     <string name="google_cloud_backuping">The wallet\'s private key is being backed up...</string>
-    <string name="google_cloud_backup_enable">Encryption key verification</string>
+    <string name="google_cloud_backup_enable">The encrypted key has been stored in the associated Google Drive account.</string>
     <string name="off">OFF</string>
     <string name="on">ON</string>
-    <string name="google_cloud_pwd_msg">This password is the password for Google Drive file backup</string>
+    <string name="google_cloud_pwd_msg">This is the password for the Google Drive file backup</string>
     <string name="google_cloud_not_have">You don\'t have a backup wallet</string>
     <string name="backup_no">No Backup</string>
     <string name="google_cloud_authorize_notice">You need to authorize your Google Drive account to log in</string>
@@ -1955,7 +1954,7 @@
     <string name="google_cloud_turn_off_notice">Turn off Google Drive Backup</string>
     <string name="google_cloud_turn_off_msg">If you disable Google Drive backup, you will have to manually delete the backup from the Google Drive. You will only be able to recover your wallet using Guardian approval, which requires a gas fee. Are you sure you want to disable Google Drive backup?</string>
     <string name="gas_error_notice1">There might be an error in the contract, and this transaction may fail.</string>
-    <string name="gas_error_notice2">We were not able to estimate fee. There might be an error in the contract and this transaction may fail.</string>
+    <string name="gas_error_notice2">We were unable to estimate the fee. There might be an error in the contract, and this transaction may fail.</string>
     <string name="proceed_anyway">I want to proceed anyway</string>
     <!-- Dual Investment -->
     <string name="dual_investment">Dual Investment</string>
@@ -1979,9 +1978,9 @@
     <string name="total_quota_is_too_small">Insufficient Total Quota.</string>
     <string name="settled">Settled</string>
     <string name="delivering">Delivering</string>
-    <string name="dual_notice_title">What\'s Dual Investment?</string>
+    <string name="dual_notice_title">What is Dual Investment?</string>
     <string name="dual_notice_content">Dual Investment offers you a chance to sell cryptocurrency high or buy cryptocurrency low at your desired price on your desired date. Once subscribed, users are not able to cancel or redeem the subscription until the Settlement Date.\nYou may be better off holding your cryptocurrency, and may be required to trade your cryptocurrency at a less favorable rate of exchange than the market rate on Settlement Date. Cryptocurrency trading is subject to high market risk. Please make your trades cautiously. There may be no recourse for any losses.</string>
-    <string name="dual_investment_locked">Dual investment: %s</string>
+    <string name="dual_investment_locked">Dual Investment</string>
     <string name="dual_apr">--%</string>
     <string name="dual_apr_desc">APR is refreshed in real time. We will use the latest APR at the time you complete the subscription successfully.</string>
     <string name="dual_target_price_desc">Target Price is a benchmark price. On Settlement Date, the Settlement Price will be compared against this benchmark price.</string>
@@ -1997,7 +1996,7 @@
     <string name="two_fa_account_risk">Your Account is At Risk</string>
     <string name="authentication_risk_notice_msg">For improved security, it is recommended to enable at least 2 methods of authentication. When recovering the wallet or resetting the passcode, at least 2 methods of authentication are required.</string>
     <string name="passcode_verify">Verify your passcode</string>
-    <string name="two_fa_security_notice">Tap to enable these authentications for improving security</string>
+    <string name="two_fa_security_notice">Tap to enable these authentications for improved security</string>
     <string name="authentication_google_backup_notice">Please make a note of the key and store it somewhere safe. Do not upload it to the internet.\nIf you uninstall or lose your authenticator, you can restore the 2FA with this key.</string>
     <string name="authentication_notice_msg2">For improved security, besides Signature Auth, it is recommended to enable at least another 2 methods of authentication to do the following:\n· Recover wallet\n· Reset passcode </string>
     <string name="authentication_msg_safe">For improved security, it is recommended to enable at least 2 methods of authentication.</string>
@@ -2035,9 +2034,13 @@
     <string name="recover_notice_warning_desc">When you recover your wallet, all of your local data is erased, and you are logged out of your account. The only way to re-login to your account is to recover your wallet.</string>
     <string name="recover_notice_confirm_desc">Are you sure you want to recover your wallet? To confirm, please type \"%s\" below.</string>
     <string name="recover_risk_information_desc">When you decide to recover the wallet, the app will be initialized, and you need to follow the steps below to complete the recovery operation.</string>
-    <string name="recover_choose_have_wallet_desc">Choose I have a Loopring Wallet &gt; Recover from Cloud or Recover from Guardian</string>
+    <string name="recover_choose_have_wallet_desc">Select I have a Loopring Wallet &gt; Recover from Cloud or Recover from Guardian</string>
     <string name="migration_completed">Migration Completed</string>
-    <string name="pwd_msg">This passcode will be used for transactions and other account activity.</string>
+    <string name="pwd_msg">This passcode will be used for transactions and other account activity</string>
     <string name="analytics">Analytics</string>
     <string name="analytics_msg">Allow Loopring to collect crash logs, button clicks, page views, etc... Loopring will use this information to optimize the application\'s user flow and performance.</string>
+    <string name="pwd_input_notice">6–20 characters using letters, numbers &amp; symbols</string>
+    <string name="lock_details">Locked Details</string>
+    <string name="view_progress">View progress</string>
+    <string name="dark_mode">Dark Mode</string>
 </resources>
