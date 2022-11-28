@@ -495,8 +495,8 @@
     <string name="approve_status">Statut d\'approbation</string>
     <string name="wallet_guardian">Gardien du portefeuille Loopring</string>
     <string name="other_guardian">Autre Gardien</string>
-    <string name="approve_guide_normal">En tant que Gardien, via votre portefeuille Loopring\n1 Appuyez sur Profil &gt; Gérer les Gardiens &gt; Qui je protège\n2 Trouvez la requête de la personne que vous protégez\n3 Approuvez</string>
-    <string name="approve_guide_hardware">En tant que Gardien, via votre portefeuille\n1. Visitez %s\n2. Trouvez la requête de la personne que vous protégez dans la liste des approbations\n3. Approuvez</string>
+    <string name="approve_guide_normal">En tant que Gardien, via votre portefeuille Loopring:\n1 Appuyez sur Profil &gt; Gérer les Gardiens &gt; Qui je protège\n2 Trouvez la requête de la personne que vous protégez\n3 Approuvez</string>
+    <string name="approve_guide_hardware">En tant que Gardien, via votre portefeuille:\n1. Visitez %s\n2. Trouvez la requête de la personne que vous protégez dans la liste des approbations\n3. Approuvez</string>
     <string name="approve_recover_title">Approbation de récupération d\'un portefeuille</string>
     <string name="approve_transfer_title">Approbation de dépassement d\'un quota</string>
     <string name="approve_recover_detail_desc">Vous tentez de récupérer votre portefeuille %s. Veuillez partager le code d\'approbation ci-dessous à au moins %s Gardiens qui peuvent vous aider à récupérer votre portefeuille.</string>
@@ -1325,7 +1325,7 @@
     <string name="gas_price_colon">Prix du gaz</string>
     <string name="gas_price_normal">Normal: %s, &lt; 5 min, passer à <![CDATA[<font color="#446EFF">Fastest</font>]]></string>
     <string name="gas_price_fast">Le plus rapide: %s, &lt; 0.5 min, passer à <![CDATA[<font color="#446EFF">Normal</font>]]></string>
-    <string name="search_dex_quotation">Chercher un(e) jeton/paire</string>
+    <string name="search_dex_quotation">Chercher ou entrer un(e) jeton/paire</string>
     <string name="point_value">1 Point = %s USDT</string>
     <string name="wallet_sig_error">Attention</string>
     <string name="wallet_sig_error_content">Une erreur est survenue lors de la récupération de votre portefeuille. Cela peut avoir un impact sur vos transactions.\nSi vous avez récupéré votre portefeuille sur un nouvel appareil, veuillez cesser d\'utiliser votre portefeuille sur votre ancien appareil.\nSi vous n\'avez pas récupéré votre portefeuille sur un nouvel appareil, veuillez réeinstaller l\'application et suivre les étapes de récupération d\'un portefeuille ci-dessous (bouton pour les étapes de récupération).</string>
@@ -1396,7 +1396,7 @@
     <string name="favorite_del">Supprimer</string>
     <string name="favorite_del2">Supprimer des favoris</string>
     <string name="favorite_set">Modifier</string>
-    <string name="favorite_add"> + Ajouter aux favoris</string>
+    <string name="favorite_add">Ajouter aux favoris</string>
     <string name="done2">Terminé</string>
     <string name="favorite_edit">Modifier les favoris</string>
     <string name="concise_version">Convertir</string>
@@ -1732,7 +1732,7 @@
     <string name="transfer_confirm_cex_supprot">Confirmer le support de l\'échange centralisé (CEX)</string>
     <string name="transfer_confirm_cex_supprot_notice">Avant de retirer, veuillez confirmer avec le soutien de l\'échange centralisé (CEX) qu\'ils acceptent les dépôts provenants de contrats intelligents.\n\nLes retraits du L2 vers le L1 se font via un contrat intelligent. Il est possible que l\'adresse de dépôt de l\'échange centralisé (CEX) ne reconnaisse pas automatiquement les jetons déposés.\n\nSi les jetons déposés n\'apparaissent pas à l\'adresse de l\'échange décentralisé (CEX) dans les 24 heures, veuillez contacter l\'équipe de soutien de l\'échange centralisé (CEX) afin d\'approuver manuellement la transaction.</string>
     <string name="understand">Je comprends et reconnais le risque</string>
-    <string name="transfer_from_another_eoa">À partir d\'un autre compte L1 (incluant les échanges)</string>
+    <string name="transfer_from_another_eoa">À partir d\'un autre compte L1</string>
     <string name="my_balance">Mon solde</string>
     <string name="my_amount">Ma quantité</string>
     <string name="invest_total">Investissement total</string>
@@ -1778,7 +1778,7 @@
     <string name="layer_swap_notice_confirm">Je comprends et reconnais le risque</string>
     <string name="limit_order">Ordre à cours limité</string>
     <string name="market_order">Ordre au prix du marché</string>
-    <string name="market_order_min_order_notice">Les petites transactions (moins de ~100$) encourent des frais plus élevés. Veuillez prendre connaissance des frais avant de confirmer.\nFrais estimés : 【%s】\nMinimum reçu : 【%s】</string>
+    <string name="market_order_min_order_notice">Les petites transactions (de moins de ~100$) entraînent un ratio de frais plus élevé.</string>
     <string name="fiat">Monnaie fiduciaire</string>
     <string name="you_have_depositing">Dépôt en attente</string>
     <string name="you_have_withdraw">Retrait en attente</string>
@@ -1868,7 +1868,7 @@
     <string name="stake_ether">Staker de l\'Ether</string>
     <string name="defi_trade_notice1">Le service de staking d\'ETH n\'est pas disponible pour le moment. Demeurez à l\'écoute jusqu\'à la piscine soit configurée. Normalement, celle-ci sera prête d\'ici une heure.</string>
     <string name="defi_trade_notice2">La piscine Loopring n\'est pas en mesure de répondre à votre demande complète pour le moment.\nVous pouvez choisir l\'une des méthodes suivantes pour la quantité restante :\n&#183; Retirer le WSTETH vers le L1 et échanger via Uniswap, 1Inch ou Lido.\n&#183; La piscine Loopring se rebalancera sous peu. Veuillez revenir plus tard pour retirer.</string>
-    <string name="defi_trade_notice3">Le quota est presque épuisé et n\'est pas en mesure de remplir votre ordre au complet. Vous pouvez seulement utiliser %s ETH pour souscrire présentement. Loopring mettra une piscine en place sous peu. Veuillez revenir plus tard pour souscrire.</string>
+    <string name="defi_trade_notice3">Le quota est presque épuisé et nous ne sommes pas en mesure de remplir votre ordre dans son entièreté. Vous pouvez seulement utiliser %s pour souscrire présentement. Loopring configurera la piscine sous peu. Veuillez revenir plus tard pour souscrire. </string>
     <string name="defi_trade_notice4">La piscine Loopring n\'est pas en mesure de remplir votre demande complète pour le moment. Vous pouvez seulement utiliser %s pour racheter présentement.\nVous pouvez choisir l\'une des approches suivantes pour la quantité restante:\n&#183; Retirer le WSTETH vers le L1 et échanger via Uniswap, 1Inch, ou Lido.\n&#183; La piscine Loopring se rebalançera sous peu. Veuillez revenir plus tard pour retirer.</string>
     <string name="defi_trade_notice5">Loopring mettra une piscine sur place sous peu. Veuillez revenir plus tard pour souscrire.</string>
     <string name="successful">Réussie</string>
@@ -1908,7 +1908,7 @@
     <string name="cancel_approve">Annuler l\'approbation</string>
     <string name="pwd_cant_use">Pour la sécurité du portefeuille, il est nécessaire de geler le décompte de 24 heures</string>
     <string name="notice_title">Notice</string>
-    <string name="pwd_forget_notice">Vous venez de compléter une opération sensible afin de réinitialiser l\'authentification Loopring. Afin de sécuriser vos actifs, le compte sera verrouillé pendant 24 heures. Veuillez réessayer par la suite.</string>
+    <string name="pwd_forget_notice">Afin de sécuriser vos actifs, le compte sera verrouillé pendant 24 heures. Veuillez réessayer par la suite.</string>
     <string name="pwd_forget_notice2">Après avoir défini un code d\'accès, il est possible de l\'utiliser normalement après 24 heures.</string>
     <string name="two_fa_choose_notice_one_1">Veuillez cocher 1 méthode d\'authentification pour poursuivre.</string>
     <string name="two_fa_choose_notice_1">Veuillez cocher 2 méthodes d\'authentification pour poursuivre.</string>
@@ -1972,7 +1972,6 @@
     <string name="dual_settlement_return_none">--</string>
     <string name="dual_current_price">Prix courant</string>
     <string name="dual_investment_n">Double\nInvestissement</string>
-    <string name="earn_more_token">Gagnez davantage de %s ou de %s</string>
     <string name="dual_error_notice1">Échec de la souscription. L\'ordre a expiré.</string>
     <string name="exceeded_total_quota">Quota total dépassé.</string>
     <string name="total_quota_is_too_small">Quota total insuffisant.</string>
@@ -1984,8 +1983,9 @@
     <string name="dual_apr">--%</string>
     <string name="dual_apr_desc">Le TAP est actualisé en temps réel. Nous utiliserons le TAP le plus récent au moment ou vous finaliserez la souscription avec succès.</string>
     <string name="dual_target_price_desc">Le prix cible est un prix de référence. à la date de règlement, le prix de règlement sera comparé à ce prix de référence.</string>
-    <string name="dual_invest_token_low">Investir %s (Acheter %s à bas prix)</string>
-    <string name="dual_invest_token_high">Investir %s (Vendre à prix élevé pour %s)</string>
+    <string name="dual_invest_token">Investir %s</string>
+    <string name="dual_invest_token_low">Acheter %s à bas prix</string>
+    <string name="dual_invest_token_high">Vendre à prix élevé pour %s</string>
     <string name="dual_risk_warning1">Je comprends que les produits Double Investissement ne sont PAS des produits à capital protégé.</string>
     <string name="dual_risk_warning2">Je comprends que les actifs souscrits sont verrouillés et que les utilisateurs sont incapables d\'annuler la souscription ou de retirer leurs actifs avant la date de règlement.</string>
     <string name="dual_risk_warning3">Je comprends que je devrais réviser les scénarios possibles de montant du règlement et je confirme les détails de la souscription.</string>
@@ -2043,4 +2043,39 @@
     <string name="lock_details">Détails sur le verrouillage</string>
     <string name="view_progress">Afficher la progression</string>
     <string name="dark_mode">Mode ombre</string>
+    <string name="dual_sold_out_subtitle">Les produits sont épuisés</string>
+    <string name="dual_sold_out_desc">Loopring procédera au rééquilibrage sous peu. Veuillez revenir plus tard pour souscrire.</string>
+    <string name="dual_current_price_products">%s Prix courant : %s</string>
+    <string name="dual_token_lock_hint">*Votre jeton pour investissement sera verrouillé jusqu\'à la date de règlement.</string>
+    <string name="dual_settle_calc_subtitle">Calculateur de règlement</string>
+    <string name="dual_if">si %s</string>
+    <string name="dual_return">Retour %s %s</string>
+    <string name="dual_settle_days_desc">Jours jusqu\'au règlement</string>
+    <string name="dual_waiting_desc">Nous tenterons de traiter votre souscription en quelques minutes. Si la totalité de votre souscription ne peut pas être traitée dans les délais, la partie non remplie sera déverrouillée. Vous pouvez revenir plus tard pour resouscrire.</string>
+    <string name="dual_go_to_my_investment">Aller à Mon investissement</string>
+    <string name="dual_return_single">Retour</string>
+    <string name="dual_delivering_desc">Nous calculerons votre retour sur investissement à la date de règlement à 08:00 UTC en fonction du prix de règlement et du prix cible. Vous recevrez vos retours dans les 6 heures.</string>
+    <string name="staking_via_lido">Via Lido</string>
+    <string name="staking_lido_desc">Stakez de l\'ETH et recevez du WSTETH pendant le staking</string>
+    <string name="staking_via_rocket">Via Rocket Pool</string>
+    <string name="staking_rocket_desc">Stakez de l\'ETH et recevez du rETH pendant le staking</string>
+    <string name="eth_staking_rocket_notice_title">Qu\'est-ce que le staking d\'ETH via Rocket Pool?</string>
+    <string name="eth_staking_rocket_notice_content">Rocket Pool est la première vraie piscine de staking d\'Ethereum décentralisée. Le jeton de staking liquide de Rocket Pool permet à n\'importe qui de gagner des récompenses de staking facilement sans devoir utiliser un logiciel de staking ou verrouiller des actifs. Rocket Pool gère toutes les opérations avec les contrats intelligents sur la couche d\'exécution.\n\nAcquérir et détenir du rETH dans votre portefeuille signifie que vous stakez de l\'ETH. La valeur du rETH augmente constamment par rapport au ETH, indicant la récompense de staking quotidienne reçue.</string>
+    <string name="eth_staking_rocket_risk_warning">Loopring fournira une piscine pour permettre aux utilisateurs d\'échanger du rETH pour de l\'ETH directement sur le Layer 2. La piscine se rééquilibrera périodiquement lorsqu\'un seuil spécifique sera atteint. Si l\'inventaire n\'est pas suffisant sur le Layer 2, les utilisateurs peuvent toujours retirer leurs jetons rETH vers le Layer 1 et convertir ceux-ci en ETH via Rocket Pool, 1Inch, etc.</string>
+    <string name="defi_trade_notice2_rocket">Il est présentement impossible pour la piscine Loopring de remplir votre demande dans son entièreté.\nVous pouvez choisir l\'une des options suivantes pour la quantité restante :\n&#183; Retirer du rETH vers le L1 et échanger via Rocket Pool, 1Inch, etc.\n&#183; La piscine Loopring se rééquilibrera sous peu. Veuillez revenir plus tard pour souscrire.</string>
+    <string name="defi_trade_notice4_rocket">Il est présentement impossible pour la piscine Loopring de remplir votre demande dans son entièreté. Vous pouvez seulement utiliser %s pour souscrire présentement.\nVous pouvez choisir l\'une des options suivantes pour la quantité restante :\n&#183; Retirer du rETH vers le L1 et échanger via Rocket Pool, 1Inch, etc.\n&#183; La piscine Loopring se rééquiliibrera sous peu. Veuillez revenir plus tard pour souscrire.</string>
+    <string name="my_amm_pool">Ma piscine AMM</string>
+    <string name="my_eth_staking">Mon staking d\'ETH</string>
+    <string name="my_dual_investment">Mon Double Investissement</string>
+    <string name="earn_24h">Gains 24h</string>
+    <string name="total_earn">Gains totaux</string>
+    <string name="my_investment_empty">Vous pouvez suivre vos investissements actifs ici</string>
+    <string name="eth_lido_staking">Staking Lido d\'ETH</string>
+    <string name="rocket_pool">Rocket Pool</string>
+    <string name="notice_warn">Attention!</string>
+    <string name="migrate_code_expired">Le code QR de migration a expiré!</string>
+    <string name="migrate_code_expired_msg">Veuillez ouvrir l\'application du portefeuille Loopring sur votre ancien appareil afin de générer le code de migration à nouveau. Si vous êtes incapable de générer le code, vous devrez procéder à la récupération du portefeuille via les Gardiens ou la sauvegarde infonuagique.</string>
+    <string name="recover_cloud_expired">Échec de la récupération du portefeuille!</string>
+    <string name="recover_cloud_expired_msg">Incapable de récupérer votre portefeuille via la sauvegarde infonuagique. Le propriétaire ou la clé privée du portefeuille a changé depuis la dernière sauvegarde réussie. Veuillez essayer la méthode de \'Récupération via les Gardiens\'.</string>
+    <string name="fee_ratio">Taux de frais</string>
 </resources>

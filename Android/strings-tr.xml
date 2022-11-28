@@ -71,7 +71,7 @@
     <string name="etherscan">Etherscan</string>
     <string name="add_contact">Kişi Ekle</string>
     <string name="edit_contact">Kişiyi Düzenle</string>
-    <string name="edit_guardian">Koruyucu\'yu düzenle</string>
+    <string name="edit_guardian">Koruyucuyu düzenle</string>
     <string name="is_add_contact">Bu adresi yeni kişi olarak ekle?</string>
     <string name="contact_address">Adres</string>
     <string name="contact_empty">Kimse Eklenmedi</string>
@@ -358,7 +358,7 @@
     <string name="add_guardian_warning_title">Koruyucu olarak ekle?</string>
     <string name="add_guardian_warning_content">Koruyucularınız telefonunuzun çalınması, kaybolması gibi durumlarda cüzdanınızı kurtarmanıza ve ihtiyacınız olduğunda cüzdanınızı kilitlemenize veya kilidi açmanıza yardm eder.</string>
     <string name="invite">Davet et</string>
-    <string name="remove_guardian_warning_title">Koruyucu\'yu Sil?</string>
+    <string name="remove_guardian_warning_title">Koruyucuyu Sil?</string>
     <string name="remove_guardian_warning_content">Bu adresi silerseniz artık sizi korumaz ve cüzdanınızı kurtarmaya yardım edemez.</string>
     <string name="lock_warning_title">Cüzdanı kilitlemek istiyor musunuz?</string>
     <string name="lock_warning_content">Cüzdan kilitlendiğinde varlıklar dondurulacak. Lütfen bu talebi yapanın cüzdanın sahibi olduğundan emin olun.</string>
@@ -495,8 +495,8 @@
     <string name="approve_status">Onay Durumu</string>
     <string name="wallet_guardian">Loopring Cüzdan Koruyucusu</string>
     <string name="other_guardian">Diğer Koruyucu</string>
-    <string name="approve_guide_normal">Bir Koruyucu olarak onaylamak için,\n1 Uygulamayı açın \n2 Profil &gt; Koruyucu Yönetimi &gt; Kimleri Koruyorum\n3 İsteği bulun\n4 Onaylayın</string>
-    <string name="approve_guide_hardware">Bir Koruyucu olarak,  başka bir cüzdanın talepleri için ct\n1 Uygulamayı açın %s\n2 Koruduğunuz kişinin isteğini onay listesinde bulun \n3 Onaylayın</string>
+    <string name="approve_guide_normal">Bir Koruyucu olarak Loopring Cüzdan kullanmak için:\n1 Profil &gt; Koruyucu Yönetimi &gt; Kimleri Koruyorum yolunu takip edin\n3 Koruduğunuz kişi tarafından gönderilen isteği bulun\n4 Onaylayın</string>
+    <string name="approve_guide_hardware">Bir Koruyucu olarak cüzdanınızı kullanmak için:\n1. Burayı ziyaret edin %s \n2. Koruduğunuz kişi tarafından gönderilen isteği bulun\n3. Onaylayın</string>
     <string name="approve_recover_title">Cüzdan Kurtarma Onayı</string>
     <string name="approve_transfer_title">Kotayı Aşma Onayı</string>
     <string name="approve_recover_detail_desc">%s cüzdanınızı kurtarmaya çalışıyorsunuz. Lütfen size yardım etmeleri için, aşağdaki doğrulama kodunu en az %s Koruyucu ile paylaşın.</string>
@@ -871,7 +871,7 @@
     <string name="signed_in_today">Bugün giriş yapıldı</string>
     <string name="go_invite">Davet et</string>
     <string name="invite_points_title">Arkadaş Daveti</string>
-    <string name="invite_points_sub_title">Davetinizle katılan her arkadaşınız için %s puan kazanın</string>
+    <string name="invite_points_sub_title">Davetinizle katılan ve L1 cüzdanını aktifleştiren her arkadaşınız için %s puan kazanın</string>
     <string name="create_wallet_points_title">Cüzdan Oluşturma</string>
     <string name="create_wallet_points_sub_title">Cüzdanınızı oluşturduğunuz için %s puan kazandınız</string>
     <string name="add_some_points"> +%s</string>
@@ -889,7 +889,7 @@
     <string name="confirm_approve_token">Onaylı token doğrulaması</string>
 
     <!-- Guardians ui-->
-    <string name="guardian_use">Koruyucu\'nun Rolü</string>
+    <string name="guardian_use">Koruyucunun Rolü</string>
     <string name="guardian_whatyoucando">Ailenizi ve arkadaşlarınızı Koruyucu olarak davet ederek varlıklarınızın güvenliğini garanti altında alabilirsiniz.</string>
     <string name="account_danger_notify">Önemli miktarda varlığınız bulunuyor. Güvenliğinizi artırmak için daha fazla Koruyucu eklemenizi öneririz.</string>
     <string name="go_add">Ekle</string>
@@ -986,13 +986,13 @@
     <string name="guardian_advanced_3"> bilgisayarınızdan sayfayı açtıktan sonra, Koruyucu olarak eklemek istediğiniz cüzdanı bağlayın ve oluşturulacak QR kodu Loopring Cüzdan uygulamasıyla tarayın.</string>
     <string name="lrc_staking_msg2">*Sadece Ethereum L1\'de mümkündür</string>
 
-    <string name="remove_guardian_choose_title">Koruyucu\'yu nasıl sileceğinizi seçin</string>
-    <string name="remove_guardian_choose_content">Koruyucu silme işleminin gerçekleşmesi için gereken süre 3 gündür. Alternatif olarak, bir Koruyucu\'nun hemen silinmesi için talepte bulunabilrisiniz. 3 günde silinmesi için Direkt Sil seçeneğine tıklayın. Anında silmek için Silme Onayı opsiyonunu seçin ve istediğinizi onaylamaları için Koruyucularınıza istek gönderin.</string>
+    <string name="remove_guardian_choose_title">Koruyucuyu nasıl sileceğinizi seçin</string>
+    <string name="remove_guardian_choose_content">Koruyucu silme işleminin gerçekleşmesi için gereken süre 3 gündür. Alternatif olarak, bir Koruyucunun hemen silinmesi için talepte bulunabilirsiniz. 3 günde silinmesi için Direkt Sil seçeneğine tıklayın. Anında silmek için Silme Onayı opsiyonunu seçin ve istediğinizi onaylamaları için Koruyucularınıza istek gönderin.</string>
     <string name="remove_guardian_choose_wa">Silme Onayı</string>
     <string name="remove_guardian_choose_normal">Direkt Sil</string>
     <string name="approve_unlock_title">Cüzdan Onayı Kilidini Aç</string>
     <string name="approve_remove_guardian_title">Koruyucu Onayını Sil</string>
-    <string name="approve_remove_guardian">Koruyucu\'yu Sil</string>
+    <string name="approve_remove_guardian">Koruyucuyu Sil</string>
     <string name="cancel_approve_remove_guardian">Koruyucu Silmeyi İptal Et</string>
     <string name="cancel_approve_unlock_wallet">Cüzdanın kilidini açmayı iptal et</string>
     <string name="invite_people_create">Bir arkadaşınıza Loopring Cüzdan için referans olarak kazanabilirsiniz</string>
@@ -1025,7 +1025,7 @@
     <string name="phone_not_match">Girdiğiniz telefon numarası yanlış</string>
     <string name="email_not_match">Bu e-mail adresi geçersiz.</string>
     <string name="invitecode_no_skip">Bir davet kodunuz yoksa \'Atla\'ya basın</string>
-    <string name="invite_title_notify">Siz ve referans arkadaşınız puan kazanırsınız.</string>
+    <string name="invite_title_notify">Siz ve referans olan arkadaşınız puan kazanırsınız.</string>
     <string name="loopring_wallet_intellect">Loopring Cüzdan</string>
     <string name="ens_was_used">Seçtiğiniz ENS önceden alınmış. Lütfen başka bir tane seçin.</string>
     <string name="wallet_was_used">Seçtiğiniz cüzdan adresi önceden alınmış. Lütfen başka bir tane seçin.</string>
@@ -1046,7 +1046,7 @@
     <string name="withdraw_mining_getmoney">bir milyon LRC\'dan payınızı alın</string>
     <string name="invite_give_gift">Referans Olun</string>
     <string name="wallet_create_free_confirm_msg">Adresinize %s yada eşit değerde varlık gönderildiğinde cüzdanınız otomatik olarak oluşturulacak.</string>
-    <string name="wallet_create_agreement2">Devam etmek kullanım koşullarını kabul ettiğinizi doğrular: </string>
+    <string name="wallet_create_agreement2">Devam etmek kullanım koşullarını kabul ettiğinizi doğrular&#160;</string>
     <string name="and">&#160;ve&#160;</string>
     <string name="update_no_reponse">İndirme işlemi cevap vermiyor. Bir tarayıcı kullanarak indirmek ister misiniz?</string>
     <string name="annualized_return">APR</string>
@@ -1354,7 +1354,7 @@
     <string name="coin_net">Resmi Web Sitesi</string>
     <string name="coin_introduction">Hakkında</string>
     <string name="metatx_action_offchain_approve_add_guardian">Koruyucu olarak ekle?</string>
-    <string name="metatx_action_offchain_approve_remove_guardian">Koruyucu\'yu Silmeyi Onaylayın</string>
+    <string name="metatx_action_offchain_approve_remove_guardian">Koruyucuyu Silmeyi Onaylayın</string>
     <string name="metatx_action_offchain_approve_unlock">Cüzdan Onayı Kilidini Aç</string>
     <string name="metatx_action_approve_token_title">Token Transferini Onalya</string>
     <string name="protocol_fee_reward">Protokol ücreti dağıtımı</string>
@@ -1408,7 +1408,7 @@
     <string name="create_wallet_eoa">EOA Cüzdan Oluştur</string>
     <string name="import_wallet_eoa">EOA Cüzdanı İçe Aktar</string>
     <!--eoa string -->
-    <string name="eoa_walletname_hint">1-12 rakam ya da alfabetik karakter</string>
+    <string name="eoa_walletname_hint">Alfanumerik 1-12 karakter</string>
     <string name="backup_tips">Yedekleme Önerileri</string>
     <string name="backup_tips_msg">Gizli Kurtarma Kodu cüzdandaki varlıklara erişiminizi sağlar.</string>
     <string name="mnemonic_msg1">Gizli Kurtarma Kodu İngilizce kelimelerden oluşur. Lütfen onları yazın ve güvenliklerinden emin olun.</string>
@@ -1711,7 +1711,7 @@
     <string name="wallet_eoa">EOA Cüzdan</string>
     <string name="wallet_2">Cüzdan</string>
     <string name="select">Seç</string>
-    <string name="wallet_exchange_describe">Bu borsalar henüz Loopring L2 transferlerini desteklemiyor. (Binance, Coinbase, FTX, vb.). Varlıklarınızı Ethereum L1 kullanarak göndermelisiniz.</string>
+    <string name="wallet_exchange_describe">Bu borsalar henüz Loopring L2 transferlerini desteklemiyor. (Binance, Coinbase, vb.). Varlıklarınızı Ethereum L1 kullanarak göndermelisiniz.</string>
     <string name="wallet_eoa_describe">Bu cüzdan, akıllı kontrata bağlı bir akıllı cüzdan değil. (Örneğin, MetaMask, GameStop, imToken, Ledger, Trezor vb.)</string>
     <string name="wallet_l2_noactivite_describe">&#160;Siz varlık aktardıktan sonra, alıcı Loopring L2 hesabını aktifleştirebilir.</string>
     <string name="exchange_binance">Binance</string>
@@ -1778,10 +1778,10 @@
     <string name="layer_swap_notice_confirm">Riski anladım ve kabul ediyorum.</string>
     <string name="limit_order">Limit Emri</string>
     <string name="market_order">Piyasa Emri</string>
-    <string name="market_order_min_order_notice">Küçük takaslar ($100 ve aşağısı) daha yüksek ücret gerektir. Lütfen onaylamadan önce kontrol edin.\nÖngörülen Ücret: 【%s】\nAlınacak Minimum Tutar: 【%s】</string>
+    <string name="market_order_min_order_notice">Küçük takaslar (~$100 ve altı) daha yüksek bir ücret oranına tabidir.</string>
     <string name="fiat">Fiat</string>
     <string name="you_have_depositing">Yatırma bekleniyor</string>
-    <string name="you_have_withdraw">Çekim bekleniyor</string>
+    <string name="you_have_withdraw">Çekim işlemi sürüyor</string>
     <string name="you_have_lock">Kilitlediniz %s</string>
     <string name="you_have_swap">Yapıcı emri gerçekleşmedi</string>
     <string name="limit_order_desc">Almak ya da satmak için kabul ettiğiniz minimum ya da maksimum miktar ile işlem yapmak için kullanılır.</string>
@@ -1857,7 +1857,7 @@
     <string name="eth_staking_lido_notice_title">Lido üzerinden ETH Stakelemek, ne demek?</string>
     <string name="eth_staking_lido_notice_content">Lido, endüstrinin öncüleri tarafından desteklenen bir staking sağlayıcıdır. Lido, kullanıclarına Ethereum varlıklarını kilitlemeden stake yapma imkânı sunar.\n\nLido ile ETH stakeleyen kullanıcılar, stake edilmiş varlıklarını 1:1 oranında simgeleyen bir token (stETH) alırlar. Bu token, köprü görevi görerek ETH 2.0 stake ödülleri almanızı sağlar.\n\nWSTETH stETH’nin sarmalanmış halidir. Toplam WSTETH miktarı tokeni aldıktan sonra değişmez. Onun yerine tokenin değeri stake ödüllerini gösterecek şekilde artar. </string>
     <string name="eth_staking_lido_risk_warning">Kullanıcıların Ethereum 2.0\'ın ikinci evresine kadar WSETH karşılığında ETH çekemeyeceğini bilmesi önemli bir husustur. Bununla birlikte birçok borsa piyasa değerine göre WSETH karşılığında ETH sunmaktadır. .\n\nLoopring kullanıcılarına, WSTETH varlıklarını L2 üzerinde direkt olarak ETH ile takaslamalarını sağlayan bir havuz oluşturacaktır. Bu havuz bazı eşiklere ulaşınca yeniden dengelenir. Eğer L2 üzerinde yeterli varlık yoksa, kullanıcılar istedikleri her zaman WSETH tokenlerini L1’e çekerek ETH karşılığında takas yapabilecekleri Lido, Curve ya da 1inch gibi servisleri kullanabilirler.</string>
-    <string name="i_have_read_risk_warning">Risk uyarısını okudum</string>
+    <string name="i_have_read_risk_warning">Risk uyarısını okudum ve anladım</string>
     <string name="subscribe">Katıl</string>
     <string name="redeem">Çek</string>
     <string name="subscribe_success">Katılım Başarılı</string>
@@ -1868,7 +1868,7 @@
     <string name="stake_ether">Ether Stakele</string>
     <string name="defi_trade_notice1">ETH staking servisi şu anda kullanılamıyor. Havuz oluşturulana kadar lütfen bekleyin. Genellikle bir saat içinde hazır olur.</string>
     <string name="defi_trade_notice2">Loopring şu an isteğinizin tamamını karşılayamıyor.\nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz.:\n&#183; WSTETH varlıklarınızı L1’e çekin ve Uniswap, 1inch ya da Lido üzerinden takaslayın.\n&#183; Loopring’in havuzu dengelemesini bekleyin ve tekrar deneyin.</string>
-    <string name="defi_trade_notice3">Kota neredeyse tamamen satıldığı için isteğiniz karşılanamıyor. Şimdilik sadece %s ETH ile katılabilirsiniz. Loopring yakında havuzu tekrar dengeleyecektir. Bu gerçekleştiğinde tekrar gelerek katılabilirsiniz.</string>
+    <string name="defi_trade_notice3">Kota neredeyse dolduğu için emrinizin tamamı yerine getirilemedi. Şu an  katılmak için yalnızca %s kullanabilirsiniz. Loopring yakında havuzu dengeleyecek, lütfen katılmayı daha sonra tekrar deneyin.</string>
     <string name="defi_trade_notice4">Loopring Havuzu isteğinizin tamamını şu anda karşılayamıyor. Şimdilik yalnızca bu kadar varlık çekebilirsiniz: %s. \nKalan miktar için aşağıdaki yöntemlerden biri ile devam edebilirsiniz:\n&#183; WSTETH varlıklarınızı L1\'e çekin ve Uniswap, 1Inch ya da Lido üzerinden takaslayın.\n&#183; Loopring Havuzu yakında yeniden dengelenecektir. Daha sonra tekrar çekim işlemi yapmayı deneyin.</string>
     <string name="defi_trade_notice5">Loopring havuzu yakında kuracak. Lütfen katılmak için daha sonra tekrar deneyin.</string>
     <string name="successful">Başarılı</string>
@@ -1908,7 +1908,7 @@
     <string name="cancel_approve">Onayı iptal edin</string>
     <string name="pwd_cant_use">Cüzdan güvenliği için 24 saatlik geri sayımı durdurmak gerekiyor</string>
     <string name="notice_title">Bilgi</string>
-    <string name="pwd_forget_notice">İmza Doğrulayıcı\'yı sıfırlayarak hassas bir güvenlik operasyonu gerçekleştirdiniz. Varlıklarınızın güvenliğini garantilemek için hesabınız 24 saat dondurulacaktır. Lütfen bu süre dolunca tekrar deneyin.</string>
+    <string name="pwd_forget_notice">Varlıklarınızın güvenliğini garantilemek için hesabınız 24 saat dondurulacaktır. Lütfen bu süre dolunca tekrar deneyin.</string>
     <string name="pwd_forget_notice2">Güvenlik kodu oluşturduktan 24 saat sonra normal şekilde kullanılabilir.</string>
     <string name="two_fa_choose_notice_one_1">Lütfen devam etmek için 1 doğrulama yöntemi seçin.</string>
     <string name="two_fa_choose_notice_1">Lütfen devam etmek için 2 doğrulama yöntemi seçin.</string>
@@ -1972,7 +1972,6 @@
     <string name="dual_settlement_return_none">--</string>
     <string name="dual_current_price">Mevcut Fiyat</string>
     <string name="dual_investment_n">Dual\nYatırım</string>
-    <string name="earn_more_token">%s ya da %s kazanın</string>
     <string name="dual_error_notice1">Dual Yatırım Nedir?</string>
     <string name="exceeded_total_quota">Kota Aşıldı.</string>
     <string name="total_quota_is_too_small">Toplam Kota Yetersiz</string>
@@ -1984,8 +1983,9 @@
     <string name="dual_apr">--%</string>
     <string name="dual_apr_desc">APR gerçek zamanlıdır. Katılımınızın gerçekleştiği andaki APR oranı baz alınır.</string>
     <string name="dual_target_price_desc">Hedef Fiyat stardartır. Anlaşma Tarihinde, Anlaşma Fiyatı bu hedefe göre değerlendirilir.</string>
-    <string name="dual_invest_token_low">%s Kullan (Düşükten %s Al)</string>
-    <string name="dual_invest_token_high">%s Kullan (%s İçin Yüksekten Sat)</string>
+    <string name="dual_invest_token">%s Kullan</string>
+    <string name="dual_invest_token_low">Düşükten %s Al</string>
+    <string name="dual_invest_token_high">%s İçin Yüksekten Sat</string>
     <string name="dual_risk_warning1">Dual Yatırım\'ın garantili kazanç OLMADIĞINI anladım.</string>
     <string name="dual_risk_warning2">Katılırken kullandığım varlıkların Anlaşma Tarihi gelene kadar kilitleneceğini, işlemin iptal edilemeyeceğini ve bu tariha kadar çekim yapamayacağımı anladım.</string>
     <string name="dual_risk_warning3">Anlaşma miktarı ile ilgili muhtemel sonuçları incelemem ve katılım detaylarını doğrulamam gerektiğini anladım.</string>
@@ -2024,8 +2024,8 @@
     <string name="migrate_scan_desc">Yeni cihazınızla QR kodu tarayın</string>
     <string name="migrate_risk_warning_desc">· Taşımayı doğrulamak için yeni cihazınızda taşıdığınız hesaba ait güvenlik kodunu girin.\n· Taşımanın ardından eski cihazınızdaki veri silinir.</string>
     <string name="migrate_scan_qrcode_to_migrate_desc">Taşıma işlemi için eski cihazınızdaki QR kodunu tarayın.</string>
-    <string name="recover_loopring_provides_desc">Loopring Cüzdanınızı kurtarmanız için size iki yöntem sunar.</string>
-    <string name="recover_methods_title1">Yöntem1</string>
+    <string name="recover_loopring_provides_desc">Loopring, cüzdanınızı kurtarmanız için size iki yöntem sunar.</string>
+    <string name="recover_methods_title1">Yöntem 1</string>
     <string name="recover_methods_title2">Yöntem 2</string>
     <string name="recover_recover_from_cloud_title">Cloud ile kurtar</string>
     <string name="recover_recover_from_cloud_desc">Bulut yedeklemesi ücretsizdir. Özel anahtarlarınız şifrelenir ve Google Drive hesabınızda saklanır.</string>
@@ -2034,13 +2034,48 @@
     <string name="recover_notice_warning_desc">Cüzdanınızı kurtarırken tüm yerel datanız silinir ve hesabınızdan çıkış yapılır. Yeniden giriş yapmanın tek yolu cüzdanınızı kurtarmak olur.</string>
     <string name="recover_notice_confirm_desc">Cüzdanızı kurtarmak istediğinize emin misiniz? Onaylamak için lütfen aşağıya \"%s\" yazın.</string>
     <string name="recover_risk_information_desc">Cüzdanınızı kurtarırken, uygulamanız başlatılır ve aşağıdaki adımları takipederek kurtarma işlemini gerçekleştirebilirsiniz.</string>
-    <string name="recover_choose_have_wallet_desc">Bir Loopring Cüzdanım var &gt; Cloud ile Kurtar ya da Koruyucular ile kurtar arasından birini seçin.</string>
+    <string name="recover_choose_have_wallet_desc">Bu yolu kullanın: Bir Loopring cüzdanım var &gt; Cloud ile kurtar ya da Koruyucular ile Kurtar  </string>
     <string name="migration_completed">Taşıma Tamamlandı</string>
-    <string name="pwd_msg">Bu güvenlik kodu transferleriniz ve diğer cüzdan işlemleriniz için kullanılır.</string>
+    <string name="pwd_msg">Güvenlik kodunuz transferleriniz ve diğer hesap işlemleriniz için kullanılır</string>
     <string name="analytics">Analitik</string>
     <string name="analytics_msg">Loopring uygulamasına hata kayıtıları, tıklama verisi, sayfa görüntülemeleri vb. bilgileri toplamak için izin verin. Loopring bu verileri uygulamanın performansını artırmak için kullanır.</string>
     <string name="pwd_input_notice">Harf, rakam ve &amp; sembol ile 6–20 karakter</string>
     <string name="lock_details">Kilitleme Detayları</string>
-    <string name="view_progress">İlerlemeyi İncele</string>
+    <string name="view_progress">İlerlemeyi Göster</string>
     <string name="dark_mode">Karanlık Mod</string>
+    <string name="dual_sold_out_subtitle">Ürünler tamamen satıldı</string>
+    <string name="dual_sold_out_desc">Loopring yakında yeniden dengeleme gerçekleştirecek. Lütfen daha sonra tekrar katılmayı deneyin.</string>
+    <string name="dual_current_price_products">%s Güncel Fiyatı: %s</string>
+    <string name="dual_token_lock_hint">*Yatırım gerçekleştirdiğiniz tokenler Anlaşma Tarihi\'ne kadar kilitli kalacaktır.</string>
+    <string name="dual_settle_calc_subtitle">Anlaşma Hesaplayıcı</string>
+    <string name="dual_if">Eğer %s</string>
+    <string name="dual_return">Dönüş %s %s</string>
+    <string name="dual_settle_days_desc">Anlaşma İçin Kalan Gün</string>
+    <string name="dual_waiting_desc">Katılma istediğinizi dakikalar içinde gerçekleştirmeyi deneyeceğiz. Eğer katılımınız bu süre içinde tamamen gerçekleşmezse, kullanılmayan miktar üzerindeki kilit kaldırılacak. Daha sonra tekrar katılmayı deneyebilirsiniz. </string>
+    <string name="dual_go_to_my_investment">Yatırımlarıma Git</string>
+    <string name="dual_return_single">Dönüş</string>
+    <string name="dual_delivering_desc">Yatırımınızın elde ettiği geri dönüş; Anlaşma Tarihinde saat 08.00 UTC olduğunda, hedef fiyat ve anlaşma fiyatına bağlı olarak hesaplanır. Kazancınız 6 saat içinde size ulaşır.</string>
+    <string name="staking_via_lido">Lido ile</string>
+    <string name="staking_lido_desc">ETH stakeleyin ve stake süreniz boyunca WSTETH kazanın</string>
+    <string name="staking_via_rocket">Rocket Pool ile</string>
+    <string name="staking_rocket_desc">ETH stakeleyin ve stake süreniz boyunca rETH kazanın</string>
+    <string name="eth_staking_rocket_notice_title">Rocket Pool ile ETH Stakelemek Ne Demek?</string>
+    <string name="eth_staking_rocket_notice_content">Rocket Pool gerçekten merkeziyetsiz olan ilk Ethereum staking havuzudur. Rocket Pool, likit staking tokeni aracılığıyla, staking yazılımları kullanmadan ve varlıkları kilitlemeden staking yapmanıza olanak tanır. Rocket Pool tüm Ethereum onay operasyonlarını Execution katmanı üzerinde tamamlar. \n\nrETH edinmek ve cüzdanınızda tutmak ETH stakelediğiniz anlamına gelir. rETH\'nin değeri ETH\'ye oranlı olarak sürekli yükselir ve bu günlük staking kazancınızı takip etmenizi sağlar.</string>
+    <string name="eth_staking_rocket_risk_warning">Loopring kullanıclarının rETH tokenlerini ETH ile takaslayabilmeleri için bir havuz oluşturacak. Havuz belirlenen hedeflere ulaştıkça belirli aralıklarla dengelenir. Eğer Layer 2 üzerinde yeterli varlık yoksa, kullanıcı her zaman rETH tokenlerini Layer 1\'e çekme ve Rocket Pool, 1inch gibi seçenekleri kullanarak ETH ile takaslama hakkına sahiptir.</string>
+    <string name="defi_trade_notice2_rocket">Loopring isteğinizin tamamını şu anda karşılayamıyor.\nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz.\n&#183; rETH tokenlerinizi to L1\'e çekince ve Rocket Pool, 1Inch, gibi seçenekleri kullanarak takaslayın.\n&#183; Loopring havuzu çok yakında dengeleyecek, daha sonra tekrar deneyin.</string>
+    <string name="defi_trade_notice4_rocket">Loopring isteğinizin tamamını şu anda karşılayamıyor. Çekebileceğiniz miktar şimdilik: %s \n&#183; rETH tokenlerinizi L1\'e çekin ve Rocket Pool, 1Inch, gibi seçenekleri kullanarak takaslayın.\n&#183; Loopring havuzu çok yakında dengeleyecek, daha sonra tekrar deneyin.</string>
+    <string name="my_amm_pool">AMM Havuzu Varlıklarım</string>
+    <string name="my_eth_staking">ETH Stakinglerim</string>
+    <string name="my_dual_investment">Dual Yatırımlarım</string>
+    <string name="earn_24h">24s Kazanç</string>
+    <string name="total_earn">Toplam Kazanç</string>
+    <string name="my_investment_empty">Yatırımlarınızı burada takip edebilirsiniz</string>
+    <string name="eth_lido_staking">ETH Lido Staking</string>
+    <string name="rocket_pool">Rocket Pool</string>
+    <string name="notice_warn">Uyarı!</string>
+    <string name="migrate_code_expired">Taşıma QR kodunun süresi doldu!</string>
+    <string name="migrate_code_expired_msg">Lütfen eski cihazınızda Loopring Cüzdan uygulamasını açın ve taşıma kodunu yeniden oluşturun. Eğer kodu yeniden oluşturamazsanız cüzdanınızı Koruyucular ya da bulut yedeklemesi ile kurtarmanız gerekir.</string>
+    <string name="recover_cloud_expired">Cüzdan Kurtarma Başarısız!</string>
+    <string name="recover_cloud_expired_msg">Cüzdanınız bulut yedeklemesi ile kurtarılamadı çünkü son başarılı yedeklemenin ardından cüzdan sahibi ya da özel anahtarda değişiklik olmuş. Lütfen  \'Koruyucular ile kurtar\' seçeneğini seçin.</string>
+    <string name="fee_ratio">Ücret Oranı</string>
 </resources>
