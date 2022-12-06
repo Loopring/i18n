@@ -1778,7 +1778,7 @@
     <string name="layer_swap_notice_confirm">Riski anladım ve kabul ediyorum.</string>
     <string name="limit_order">Limit Emri</string>
     <string name="market_order">Piyasa Emri</string>
-    <string name="market_order_min_order_notice">Küçük takaslar (~$100 ve altı) daha yüksek bir ücret oranına tabidir.</string>
+    <string name="market_order_min_order_notice">Küçük takaslar (~$100 altında)  daha yüksek ücret oranına sahiptir.</string>
     <string name="fiat">Fiat</string>
     <string name="you_have_depositing">Yatırma bekleniyor</string>
     <string name="you_have_withdraw">Çekim işlemi sürüyor</string>
@@ -1908,7 +1908,7 @@
     <string name="cancel_approve">Onayı iptal edin</string>
     <string name="pwd_cant_use">Cüzdan güvenliği için 24 saatlik geri sayımı durdurmak gerekiyor</string>
     <string name="notice_title">Bilgi</string>
-    <string name="pwd_forget_notice">Varlıklarınızın güvenliğini garantilemek için hesabınız 24 saat dondurulacaktır. Lütfen bu süre dolunca tekrar deneyin.</string>
+    <string name="pwd_forget_notice">Varlıklarınızı güvende tutmak için, güvenlik kodunuz değiştirildikten sonra hesabınız 24 saat boyunca kilitlenir. Lütfen bu sürenin ardından tekrar deneyin.</string>
     <string name="pwd_forget_notice2">Güvenlik kodu oluşturduktan 24 saat sonra normal şekilde kullanılabilir.</string>
     <string name="two_fa_choose_notice_one_1">Lütfen devam etmek için 1 doğrulama yöntemi seçin.</string>
     <string name="two_fa_choose_notice_1">Lütfen devam etmek için 2 doğrulama yöntemi seçin.</string>
@@ -2056,13 +2056,13 @@
     <string name="dual_return_single">Dönüş</string>
     <string name="dual_delivering_desc">Yatırımınızın elde ettiği geri dönüş; Anlaşma Tarihinde saat 08.00 UTC olduğunda, hedef fiyat ve anlaşma fiyatına bağlı olarak hesaplanır. Kazancınız 6 saat içinde size ulaşır.</string>
     <string name="staking_via_lido">Lido ile</string>
-    <string name="staking_lido_desc">ETH stakeleyin ve stake süreniz boyunca WSTETH kazanın</string>
+    <string name="staking_lido_desc">ETH stakeleyin ve WSTETH kazanın</string>
     <string name="staking_via_rocket">Rocket Pool ile</string>
-    <string name="staking_rocket_desc">ETH stakeleyin ve stake süreniz boyunca rETH kazanın</string>
+    <string name="staking_rocket_desc">ETH stakeleyin ve RETH kazanın</string>
     <string name="eth_staking_rocket_notice_title">Rocket Pool ile ETH Stakelemek Ne Demek?</string>
-    <string name="eth_staking_rocket_notice_content">Rocket Pool gerçekten merkeziyetsiz olan ilk Ethereum staking havuzudur. Rocket Pool, likit staking tokeni aracılığıyla, staking yazılımları kullanmadan ve varlıkları kilitlemeden staking yapmanıza olanak tanır. Rocket Pool tüm Ethereum onay operasyonlarını Execution katmanı üzerinde tamamlar. \n\nrETH edinmek ve cüzdanınızda tutmak ETH stakelediğiniz anlamına gelir. rETH\'nin değeri ETH\'ye oranlı olarak sürekli yükselir ve bu günlük staking kazancınızı takip etmenizi sağlar.</string>
-    <string name="eth_staking_rocket_risk_warning">Loopring kullanıclarının rETH tokenlerini ETH ile takaslayabilmeleri için bir havuz oluşturacak. Havuz belirlenen hedeflere ulaştıkça belirli aralıklarla dengelenir. Eğer Layer 2 üzerinde yeterli varlık yoksa, kullanıcı her zaman rETH tokenlerini Layer 1\'e çekme ve Rocket Pool, 1inch gibi seçenekleri kullanarak ETH ile takaslama hakkına sahiptir.</string>
-    <string name="defi_trade_notice2_rocket">Loopring isteğinizin tamamını şu anda karşılayamıyor.\nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz.\n&#183; rETH tokenlerinizi to L1\'e çekince ve Rocket Pool, 1Inch, gibi seçenekleri kullanarak takaslayın.\n&#183; Loopring havuzu çok yakında dengeleyecek, daha sonra tekrar deneyin.</string>
+    <string name="eth_staking_rocket_notice_content">Rocket Pool gerçekten merkeziyetsiz olan ilk Ethereum staking havuzudur. Rocket Pool, likit staking tokeni aracılığıyla, staking yazılımları kullanmadan ve varlıklarınızı kilitlemeden staking yapmanıza olanak tanır. Rocket Pool tüm Ethereum onay operasyonlarını Execution katmanı üzerinde tamamlar. \n\nrETH edinmek ve cüzdanınızda tutmak ETH stakelediğiniz anlamına gelir. rETH\'nin değeri ETH\'ye oranlı olarak sürekli yükselir ve bu günlük staking kazancınızı takip etmenizi sağlar.</string>
+    <string name="eth_staking_rocket_risk_warning">Loopring, kullanıcılarının rETH tokenlerini ETH ile takaslayabilmeleri için bir havuz oluşturacak. Havuz belirlenen hedeflere ulaştıkça belirli aralıklarla dengelenir. Eğer Layer 2 üzerinde yeterli varlık yoksa, kullanıcı her zaman rETH tokenlerini Layer 1\'e çekme ve Rocket Pool, 1inch gibi seçenekleri kullanarak ETH ile takaslama hakkına sahiptir.</string>
+    <string name="defi_trade_notice2_rocket">Loopring isteğinizin tamamını şu anda karşılayamıyor.\nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz.\n&#183; rETH tokenlerinizi to L1\'e çekin ve Rocket Pool, 1Inch, gibi seçenekleri kullanarak takaslayın.\n&#183; Loopring havuzu çok yakında dengeleyecek, daha sonra tekrar deneyin.</string>
     <string name="defi_trade_notice4_rocket">Loopring isteğinizin tamamını şu anda karşılayamıyor. Çekebileceğiniz miktar şimdilik: %s \n&#183; rETH tokenlerinizi L1\'e çekin ve Rocket Pool, 1Inch, gibi seçenekleri kullanarak takaslayın.\n&#183; Loopring havuzu çok yakında dengeleyecek, daha sonra tekrar deneyin.</string>
     <string name="my_amm_pool">AMM Havuzu Varlıklarım</string>
     <string name="my_eth_staking">ETH Stakinglerim</string>
@@ -2077,5 +2077,9 @@
     <string name="migrate_code_expired_msg">Lütfen eski cihazınızda Loopring Cüzdan uygulamasını açın ve taşıma kodunu yeniden oluşturun. Eğer kodu yeniden oluşturamazsanız cüzdanınızı Koruyucular ya da bulut yedeklemesi ile kurtarmanız gerekir.</string>
     <string name="recover_cloud_expired">Cüzdan Kurtarma Başarısız!</string>
     <string name="recover_cloud_expired_msg">Cüzdanınız bulut yedeklemesi ile kurtarılamadı çünkü son başarılı yedeklemenin ardından cüzdan sahibi ya da özel anahtarda değişiklik olmuş. Lütfen  \'Koruyucular ile kurtar\' seçeneğini seçin.</string>
+    <string name="amm_apr_details_msg">Protokol APR\'si spesifik bir havuzdan kazanılmış protokol ücretlerini ifade eder</string>
     <string name="fee_ratio">Ücret Oranı</string>
+    <string name="apr_amm_pool">AMM Havuzu APR:</string>
+    <string name="apr_activity">Etkinlik APR:</string>
+    <string name="apr_protocol">Protokol APR:</string>
 </resources>

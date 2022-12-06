@@ -1778,7 +1778,7 @@
     <string name="layer_swap_notice_confirm">Eu entendo e reconheço os riscos</string>
     <string name="limit_order">Pedido limite</string>
     <string name="market_order">Ordem de Mercado</string>
-    <string name="market_order_min_order_notice">Trocas pequenas (menor que ~$100) incorrem em uma taxa de taxa mais alta.</string>
+    <string name="market_order_min_order_notice">Trocas pequenas (menor que ~$100) geram taxas maiores.</string>
     <string name="fiat">Dinheiro</string>
     <string name="you_have_depositing">Depósito pendente</string>
     <string name="you_have_withdraw">Withdrawal pending</string>
@@ -1908,7 +1908,7 @@
     <string name="cancel_approve">Cancelar aprovação</string>
     <string name="pwd_cant_use">Pela segurança da carteira é necessário congelar a contagem regressiva de 24 horas.</string>
     <string name="notice_title">Aviso</string>
-    <string name="pwd_forget_notice">Para garantir a segurança de seus ativos a conta será bloqueada por 24 horas. Por favor tente novamente mais tarde.</string>
+    <string name="pwd_forget_notice">Para proteger seus ativos a conta será bloqueada por 24 horas após a redefinição do código de acesso. Por favor tente novamente após este tempo.</string>
     <string name="pwd_forget_notice2">Após configurar um código de acesso, pode ser usado normalmente depois de 24 horas</string>
     <string name="two_fa_choose_notice_one_1">Por favor selecione 1 método de autenticação para continuar.</string>
     <string name="two_fa_choose_notice_1">Por favor selecione 2 métodos de autenticação para continuar.</string>
@@ -2056,9 +2056,9 @@
     <string name="dual_return_single">Retorno</string>
     <string name="dual_delivering_desc">Calcularemos o retorno na Data de Liquidação as 08:00 UTC baseado em seu Preço de Liquidação e Preço Alvo. Você receberá seus retornos dentro de 6 horas.</string>
     <string name="staking_via_lido">Via Lido</string>
-    <string name="staking_lido_desc">Faça o stake de ETH e receba WSTETH durante o staking</string>
+    <string name="staking_lido_desc">Faça o stake de ETH e receba WSTETH</string>
     <string name="staking_via_rocket">Via Rocket Pool</string>
-    <string name="staking_rocket_desc">Faça o stake de ETH e receba rETH durante o staking</string>
+    <string name="staking_rocket_desc">Faça o stake de ETH e receba RETH</string>
     <string name="eth_staking_rocket_notice_title">O que é Staking de ETH via Rocket Pool?</string>
     <string name="eth_staking_rocket_notice_content">Rocket Pool é o primeiro pool de stake Ethereum realmente decentralizado.  A token de liquidez da Rocket Pool permite que qualquer pessoa ganhe recompensas de staking facilmente sem precisar rodar um software de staking ou bloquear ativos. Rocket Pool lida com todas operações de validação com contratos inteligentes na Layer de Execução.\n\nAo receber e guardar rETH em sua carteira significa que você está fazendo stake de ETH. O valor do rETH cresce continuamente relativo ao ETH, indicando as recompensas de stake diárias recebidas.</string>
     <string name="eth_staking_rocket_risk_warning">Loopring providenciará uma pool para que usuários troquem rETH por ETH diretamente na Layer 2. A pool irá rebalancear periodicamente quando chegar em um limite específico. Se o inventório da Layer 2 não for suficiente, usuários poderão sacar seus tokens rETH para L1 e efetuar o câmbio por ETH em Rocket Pool, 1inch, etc.</string>
@@ -2077,5 +2077,9 @@
     <string name="migrate_code_expired_msg">Por favor abra o aplicativo da Carteira Loopring em seu dispositivo antigo e recrie o código de migração. Se você não puder recriar o código, você terá que recuperar a carteira usando Guardiões ou backup na nuvem.</string>
     <string name="recover_cloud_expired">Recuperação de Carteira Falhou!</string>
     <string name="recover_cloud_expired_msg">Não foi possível recuperar a carteira usando backup na nuvem. O dono da carteira ou chave privada mudaram desde a última vez que o backup foi efetuado com sucesso. Por favor tente usar o método \'Recuperar com Guardiões\'.</string>
-    <string name="fee_ratio">Taxa de Taxa</string>
+    <string name="amm_apr_details_msg">APR do Protocolo se refere as recompensas ganhadas pelas taxas do protocolo da pool especificado</string>
+    <string name="fee_ratio">Percentagem de Taxa</string>
+    <string name="apr_amm_pool">APR da Pool AMM</string>
+    <string name="apr_activity">Atividade APR:</string>
+    <string name="apr_protocol">Protocolo APR:</string>
 </resources>

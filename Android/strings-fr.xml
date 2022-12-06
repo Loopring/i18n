@@ -89,8 +89,8 @@
     <string name="set_manage_wallet">Gérer le portefeuille</string>
     <string name="set_money_type">Devise</string>
     <string name="set_color">Couleurs</string>
-    <string name="set_color_red_green">Hausse de la valeur en rouge et baisse de la valeur en vert</string>
-    <string name="set_color_green_red">Hausse de la valeur en vert et baisse de la valeur en rouge</string>
+    <string name="set_color_red_green">Hausse en rouge et baisse en vert</string>
+    <string name="set_color_green_red">Hausse en vert et baisse en rouge</string>
     <string name="set_language">Langue</string>
     <string name="set_itouch">Touch ID</string>
     <string name="official_website">Site Web</string>
@@ -395,8 +395,8 @@
     <string name="verify_phone">Validation par numéro de téléphone cellulaire</string>
     <string name="change_to_create_by_phone">Passer à l\'utilisation d\'un numéro de téléphone cellulaire pour la création d\'un portefeuille</string>
     <string name="change_to_create_by_email">Passer à l\'utilisation d\'une adresse courriel pour la création d\'un portefeuille</string>
-    <string name="email_enter_number">Saisissez votre courriel</string>
-    <string name="phone_enter_number">Saisissez votre numéro de téléphone</string>
+    <string name="email_enter_number">Saisir votre courriel</string>
+    <string name="phone_enter_number">Saisir votre numéro de téléphone</string>
     <string name="email_enter_code">Saisissez le code de vérification (courriel)</string>
     <string name="phone_enter_code">Saisissez le code de vérification (SMS)</string>
     <string name="send_code">Envoyer le code de vérification</string>
@@ -615,11 +615,11 @@
     <!-- DeFi Compound Protocol -->
     <string name="defi_compound_protocol">Protocole composé</string>
     <string name="defi_supply">Offre</string>
-    <string name="defi_supply_apy">APY de l\'offre</string>
+    <string name="defi_supply_apy">TAP de l\'offre</string>
     <string name="supply_markets">Marchés de l\'offre</string>
     <string name="defi_withdraw">Retirer</string>
     <string name="defi_borrow">Prêter</string>
-    <string name="defi_borrow_apy">APY du prêt</string>
+    <string name="defi_borrow_apy">TAP du prêt</string>
     <string name="borrow_markets">Marchés du prêt</string>
     <string name="new_add_project">DApps ajoutées récemment</string>
 
@@ -1052,7 +1052,7 @@
     <string name="annualized_return">TAP</string>
     <!-- swap -->
     <string name="swap_now">Échanger</string>
-    <string name="swap">Convertir</string>
+    <string name="swap">Échanger</string>
     <string name="swap_title">Échanger</string>
     <string name="slippage_limit">Tolérance au glissement</string>
     <string name="buy_min">Minimum reçu</string>
@@ -1061,19 +1061,19 @@
     <string name="layer2_no_balance">Le compte Loopring n\'a pas un solde disponible de %s. Le compte Ethereum a un solde de %s.</string>
     <string name="slippage_limit_msg">Votre transaction se renversera si le prix change infavorablement par plus de ce pourcentage.</string>
     <string name="buy_min_msg">Comme le prix de la piscine change dynamiquement, le prix que vous voyez lorsque vous placez un ordre pourrait ne pas correspondre au prix final de la transaction. Le protocole garantit que vous recevrez au moins cette quantité.</string>
-    <string name="swap_fee_msg">Les frais de conversion sont constitués de frais d\'approvisionnement en liquidité (%s) et de frais de transactions (%s). Les frais de protocole Loopring sont payés par l\'opérateur de l\'échange via les frais transactions.</string>
+    <string name="swap_fee_msg">Les frais d\'échange sont constitués de frais d\'approvisionnement en liquidité (%s) et de frais de transactions (%s). Les frais de protocole Loopring sont payés par l\'opérateur de l\'échange via les frais transactions.</string>
     <string name="price_impact_msg">La différence entre le prix du marché et le prix estimé est dûe à la taille de la transaction.</string>
     <string name="swap_amount_min">Quantité trop petite (Min %s)</string>
     <string name="swap_amount_max">Quantité trop grande (Max %s)</string>
     <string name="comming_soon">À venir sous peu</string>
-    <string name="swap_records">Registre des conversions</string>
-    <string name="swap_records_details">Détails des conversions</string>
-    <string name="swap_success">Conversion réussie</string>
-    <string name="swap_failed">Conversion échouée</string>
+    <string name="swap_records">Registre des échanges</string>
+    <string name="swap_records_details">Détails des échanges</string>
+    <string name="swap_success">Échange réussi</string>
+    <string name="swap_failed">Échec du rachat</string>
     <string name="swap_timeout">Veuillez vérifier l\'état dans les registres</string>
     <string name="swap_price_impact">La quantité de votre transaction aura un impact sur le prix commun de plus de %s. Souhaitez-vous poursuivre?</string>
-    <string name="swap_confirm_two_msg">Êtes-vous certain de vouloir convertir du %s en %s?</string>
-    <string name="swap_confirm_two">Une confirmation est requise pour la conversion</string>
+    <string name="swap_confirm_two_msg">Êtes-vous certain de vouloir échanger du %s pour du %s?</string>
+    <string name="swap_confirm_two">Confirmation requise pour l\'échange</string>
     <string name="swap_confirm_not_notify">Ne pas me le rappeler</string>
     <string name="phone_area_code">Choisir le code régional</string>
     <string name="search_phone_area">Zone de recherche</string>
@@ -1090,8 +1090,8 @@
     <string name="tv_feedback_discord_desc">Veuillez joindre notre canal Discord.</string>
     <!-- AMM -->
     <string name="amm_title">Liquidité AMM</string>
-    <string name="amm_title_msg">Fournissez de la liquidité afin de gagner %s des frais d\'échange pour chaque conversion.</string>
-    <string name="amm_title_msg2">Les fournisseurs de liquidité (LPs) gagnent des frais à chaque conversion. Chaque profit d\'un LPs est proportionnel à sa part du total capital des fonds mis en commun. Pour certaines piscines AMM, les LPs gagnent également des récompenses de minage de liquidités en LRC et autres jetons.</string>
+    <string name="amm_title_msg">Fournissez de la liquidité afin de gagner %s des frais de transaction pour chaque échange.</string>
+    <string name="amm_title_msg2">Les fournisseurs de liquidité (LPs) gagnent des frais à chaque échange. Chaque profit d\'un LPs est proportionnel à sa part du total capital des fonds mis en commun. Pour certaines piscines AMM, les LPs gagnent également des récompenses de minage de liquidités en LRC et autres jetons.</string>
     <string name="amm_in">Déposer</string>
     <string name="amm_out">Retirer</string>
     <string name="amm_in_out">Liquidité</string>
@@ -1133,8 +1133,8 @@
     <string name="official_reward">Récompense officielle</string>
     <string name="withdrawal_reward">Récompense de retrait</string>
     <string name="order_reward">Récompense d\'ordre</string>
-    <string name="swap_reward">Récompense de conversion</string>
-    <string name="amm_reward">Récompense AMM</string>
+    <string name="swap_reward">Tournoi</string>
+    <string name="amm_reward">Minage AMM</string>
     <string name="price_about">Prix</string>
     <string name="lptoken_swap">Mis en commun</string>
     <string name="stake">Staker</string>
@@ -1142,7 +1142,7 @@
     <string name="yes">Oui</string>
     <string name="no">Non</string>
     <string name="amm_out_min">La quantité à retirer est trop petite</string>
-    <string name="swap_records_msg">Convertir %s en %s</string>
+    <string name="swap_records_msg">Échanger du %s pour du %s</string>
     <string name="amm_in_out_record2">Registres</string>
     <string name="all_rewards">Récompenses totales</string>
     <string name="mining_my_reward">Mes récompenses</string>
@@ -1187,7 +1187,7 @@
     <string name="to_trade">Transaction</string>
     <string name="trade_vol">Volume</string>
     <string name="ranking">Rang</string>
-    <string name="ranking_pk">Convertir du PK</string>
+    <string name="ranking_pk">Tournoi</string>
     <string name="fee_rewards2">Récompenses des frais</string>
     <string name="mining_rewards2">Récompenses de minage</string>
     <string name="my_mining_rewards">Mes récompenses: %s</string>
@@ -1344,7 +1344,7 @@
     <string name="uni_toggle_mode">Basculer au mode expert</string>
     <string name="uni_toggle_mode_msg">Contourne les modèles de confirmation et permet les transactions à glissement élevé. Utiliser à vos risques.</string>
     <string name="uni_disable_multihops">Désactiver Multihops</string>
-    <string name="uni_disable_multihops_msg">Restreindre les conversions aux paires directes seulement</string>
+    <string name="uni_disable_multihops_msg">Restreindre les échanges aux paires directes seulement</string>
     <string name="uni_choose_coin">Sélectionner une monnaie</string>
     <string name="coin_details">Introduction %s</string>
     <string name="coin_start_time">Date de début</string>
@@ -1370,7 +1370,7 @@
     <string name="unclaimed_earning">Gains non réclamés</string>
     <string name="claimed_earning">Gains réclamés</string>
     <string name="total_earning">Gains cumulatifs</string>
-    <string name="swap_time_countdown">La conversion sera amorcée à la fin du décompte.</string>
+    <string name="swap_time_countdown">L\'échange sera ouvert à la fin du décompte.</string>
 
     <!--uniswap-->
     <string name="not_support_multi_routs">Les Multihops ne sont pas pris en charge présentement</string>
@@ -1399,7 +1399,7 @@
     <string name="favorite_add">Ajouter aux favoris</string>
     <string name="done2">Terminé</string>
     <string name="favorite_edit">Modifier les favoris</string>
-    <string name="concise_version">Convertir</string>
+    <string name="concise_version">Échanger</string>
     <string name="professional_version_selector">Version professionnelle par défaut</string>
     <string name="finger_error2">Vous pouvez activer l\'authentification par empreinte digitale via la page Sécurité du portefeuille.</string>
     <string name="order_failed">Transaction échouée</string>
@@ -1763,7 +1763,7 @@
     <string name="wallet_create_p_success_confirmation_msg3">Pour des raisons de sécurité, nous n\'effectuerons pas de sauvegarde infonuagique de votre clé privée.</string>
     <string name="wallet_create_p_success_confirmation_msg2">Suite à la création de votre portefeuille, ne désinstallez pas l\'application. Cela supprimerait votre clé privée et la récupération de celle-ci pourrait s\'avérer dispendieuse puisqu\'il faudra payer des frais de gaz L1 d\'Ethereum.</string>
     <string name="wallet_create_p_success_understand">Je comprends que je suis responsable de la sécurité de mon portefeuille L1.</string>
-    <string name="daily_income2">Taux approx. (APR)</string>
+    <string name="daily_income2">Taux approx. (TAP)</string>
     <string name="wallet_create_p_failed_title">Échec de l\'auto-activation</string>
     <string name="wallet_create_p_failed_msg">L\'activation du compte %s a échouée. Ne désinstallez pas l\'application. Veuillez contacter notre équipe de soutien technique pour obtenir de l\'aide.</string>
     <string name="submit">Submit</string>
@@ -1778,7 +1778,7 @@
     <string name="layer_swap_notice_confirm">Je comprends et reconnais le risque</string>
     <string name="limit_order">Ordre à cours limité</string>
     <string name="market_order">Ordre au prix du marché</string>
-    <string name="market_order_min_order_notice">Les petites transactions (de moins de ~100$) entraînent un ratio de frais plus élevé.</string>
+    <string name="market_order_min_order_notice">Les petites transactions (de moins de ~$100) encourent un ratio des frais plus élevé.</string>
     <string name="fiat">Monnaie fiduciaire</string>
     <string name="you_have_depositing">Dépôt en attente</string>
     <string name="you_have_withdraw">Retrait en attente</string>
@@ -1856,7 +1856,7 @@
     <string name="available_colon">Disponible:&#160;</string>
     <string name="eth_staking_lido_notice_title">Qu\'est-ce que le staking d\'ETH via Lido?</string>
     <string name="eth_staking_lido_notice_content">Lido est une solution de staking liquide pour Eth 2.0 soutenue par les meilleurs fournisseurs de liquidité de l\'industrie. Lido permet aux utilisateurs de staker de l\'ETH sans verrouiller leurs actifs et sans entretenir l\'infrastructure.</string>
-    <string name="eth_staking_lido_risk_warning">Il est important de noter que les utilisateurs ne peuvent pas convertir du WSTETH pour de l\'ETH avant la phase 2 d\'Ethereum 2.0. Toutefois, les utilisateurs peuvent échanger du WSTETH pour de l\'ETH sur différents échanges au prix du marché.</string>
+    <string name="eth_staking_lido_risk_warning">Il est important de noter que les utilisateurs ne peuvent pas échanger du WSTETH pour de l\'ETH avant la phase 2 d\'Ethereum 2.0. Toutefois, les utilisateurs peuvent échanger du WSTETH pour de l\'ETH sur différents échanges au prix du marché.</string>
     <string name="i_have_read_risk_warning">J\'ai lu et je comprends l\'avertissement sur les risques encourus</string>
     <string name="subscribe">S\'abonner</string>
     <string name="redeem">Retirer</string>
@@ -1908,7 +1908,7 @@
     <string name="cancel_approve">Annuler l\'approbation</string>
     <string name="pwd_cant_use">Pour la sécurité du portefeuille, il est nécessaire de geler le décompte de 24 heures</string>
     <string name="notice_title">Notice</string>
-    <string name="pwd_forget_notice">Afin de sécuriser vos actifs, le compte sera verrouillé pendant 24 heures. Veuillez réessayer par la suite.</string>
+    <string name="pwd_forget_notice">Afin de sécuriser vos actifs, le compte sera gelé pendant 24 heures suite à la réinitialisation du code d\'accès. Veuillez réessayer par la suite.</string>
     <string name="pwd_forget_notice2">Après avoir défini un code d\'accès, il est possible de l\'utiliser normalement après 24 heures.</string>
     <string name="two_fa_choose_notice_one_1">Veuillez cocher 1 méthode d\'authentification pour poursuivre.</string>
     <string name="two_fa_choose_notice_1">Veuillez cocher 2 méthodes d\'authentification pour poursuivre.</string>
@@ -2056,12 +2056,12 @@
     <string name="dual_return_single">Retour</string>
     <string name="dual_delivering_desc">Nous calculerons votre retour sur investissement à la date de règlement à 08:00 UTC en fonction du prix de règlement et du prix cible. Vous recevrez vos retours dans les 6 heures.</string>
     <string name="staking_via_lido">Via Lido</string>
-    <string name="staking_lido_desc">Stakez de l\'ETH et recevez du WSTETH pendant le staking</string>
+    <string name="staking_lido_desc">Stakez de l\'ETH et recevez du WSTETH</string>
     <string name="staking_via_rocket">Via Rocket Pool</string>
-    <string name="staking_rocket_desc">Stakez de l\'ETH et recevez du rETH pendant le staking</string>
+    <string name="staking_rocket_desc">Stakez de l\'ETH et recevez du RETH</string>
     <string name="eth_staking_rocket_notice_title">Qu\'est-ce que le staking d\'ETH via Rocket Pool?</string>
     <string name="eth_staking_rocket_notice_content">Rocket Pool est la première vraie piscine de staking d\'Ethereum décentralisée. Le jeton de staking liquide de Rocket Pool permet à n\'importe qui de gagner des récompenses de staking facilement sans devoir utiliser un logiciel de staking ou verrouiller des actifs. Rocket Pool gère toutes les opérations avec les contrats intelligents sur la couche d\'exécution.\n\nAcquérir et détenir du rETH dans votre portefeuille signifie que vous stakez de l\'ETH. La valeur du rETH augmente constamment par rapport au ETH, indicant la récompense de staking quotidienne reçue.</string>
-    <string name="eth_staking_rocket_risk_warning">Loopring fournira une piscine pour permettre aux utilisateurs d\'échanger du rETH pour de l\'ETH directement sur le Layer 2. La piscine se rééquilibrera périodiquement lorsqu\'un seuil spécifique sera atteint. Si l\'inventaire n\'est pas suffisant sur le Layer 2, les utilisateurs peuvent toujours retirer leurs jetons rETH vers le Layer 1 et convertir ceux-ci en ETH via Rocket Pool, 1Inch, etc.</string>
+    <string name="eth_staking_rocket_risk_warning">Loopring fournira une piscine pour permettre aux utilisateurs d\'échanger du rETH pour de l\'ETH directement sur le Layer 2. La piscine se rééquilibrera périodiquement lorsqu\'un seuil spécifique sera atteint. Si l\'inventaire n\'est pas suffisant sur le Layer 2, les utilisateurs peuvent toujours retirer leurs jetons rETH vers le Layer 1 et échanger ceux-ci pour de l\'ETH via Rocket Pool, 1Inch, etc.</string>
     <string name="defi_trade_notice2_rocket">Il est présentement impossible pour la piscine Loopring de remplir votre demande dans son entièreté.\nVous pouvez choisir l\'une des options suivantes pour la quantité restante :\n&#183; Retirer du rETH vers le L1 et échanger via Rocket Pool, 1Inch, etc.\n&#183; La piscine Loopring se rééquilibrera sous peu. Veuillez revenir plus tard pour souscrire.</string>
     <string name="defi_trade_notice4_rocket">Il est présentement impossible pour la piscine Loopring de remplir votre demande dans son entièreté. Vous pouvez seulement utiliser %s pour souscrire présentement.\nVous pouvez choisir l\'une des options suivantes pour la quantité restante :\n&#183; Retirer du rETH vers le L1 et échanger via Rocket Pool, 1Inch, etc.\n&#183; La piscine Loopring se rééquiliibrera sous peu. Veuillez revenir plus tard pour souscrire.</string>
     <string name="my_amm_pool">Ma piscine AMM</string>
@@ -2077,5 +2077,9 @@
     <string name="migrate_code_expired_msg">Veuillez ouvrir l\'application du portefeuille Loopring sur votre ancien appareil afin de générer le code de migration à nouveau. Si vous êtes incapable de générer le code, vous devrez procéder à la récupération du portefeuille via les Gardiens ou la sauvegarde infonuagique.</string>
     <string name="recover_cloud_expired">Échec de la récupération du portefeuille!</string>
     <string name="recover_cloud_expired_msg">Incapable de récupérer votre portefeuille via la sauvegarde infonuagique. Le propriétaire ou la clé privée du portefeuille a changé depuis la dernière sauvegarde réussie. Veuillez essayer la méthode de \'Récupération via les Gardiens\'.</string>
-    <string name="fee_ratio">Taux de frais</string>
+    <string name="amm_apr_details_msg">Le TAP du protocole indique la récompense gagnée à partir des frais de protocole de la piscine spécifiée</string>
+    <string name="fee_ratio">Ratio des frais</string>
+    <string name="apr_amm_pool">TAP de la piscine AMM :</string>
+    <string name="apr_activity">TAP de l\'activité :</string>
+    <string name="apr_protocol">TAP du protocole :</string>
 </resources>

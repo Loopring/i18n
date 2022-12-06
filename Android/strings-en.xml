@@ -2058,7 +2058,7 @@
     <string name="staking_via_lido">Via Lido</string>
     <string name="staking_lido_desc">Stake ETH and receive WSTETH</string>
     <string name="staking_via_rocket">Via Rocket Pool</string>
-    <string name="staking_rocket_desc">Stake ETH and receive rETH</string>
+    <string name="staking_rocket_desc">Stake ETH and receive RETH</string>
     <string name="eth_staking_rocket_notice_title">What is ETH Staking via Rocket Pool?</string>
     <string name="eth_staking_rocket_notice_content">Rocket Pool is the first truly decentralized Ethereum staking pool. Rocket Pool\’s liquid staking token allows anyone to earn staking rewards easily without running staking software or locking assets. Rocket Pool handles all of the Ethereum validator operations with smart contracts on the Execution layer.\n\nAcquiring and holding rETH in your wallet means that you are staking ETH. rETH\'s value continuously increases relative to ETH, indicating the daily stake reward received.</string>
     <string name="eth_staking_rocket_risk_warning">Loopring will provide a pool to allow users to trade rETH for ETH directly on Layer 2. The pool will rebalance periodically when it reaches a specific threshold. If there is not enough inventory on Layer 2, users can always withdraw their rETH tokens to Layer 1 and swap for ETH in Rocket Pool, 1Inch, etc.</string>
@@ -2077,5 +2077,9 @@
     <string name="migrate_code_expired_msg">Please open the Loopring Wallet app on your old device and regenerate the migration code. If you\’re unable to regenerate the code, you will need to recover the wallet using Guardians or a cloud backup.</string>
     <string name="recover_cloud_expired">Wallet Recovery Failed!</string>
     <string name="recover_cloud_expired_msg">Unable to recover your wallet using the cloud backup. The wallet owner or the private key has changed since the last successful backup. Please try using the \'Recover from Guardian\' method.</string>
+    <string name="amm_apr_details_msg">Protocol APR indicates the reward earned from the specified pool\'s protocol fee</string>
     <string name="fee_ratio">Fee Ratio</string>
+    <string name="apr_amm_pool">AMM Pool APR:</string>
+    <string name="apr_activity">Activity APR:</string>
+    <string name="apr_protocol">Protocol APR:</string>
 </resources>

@@ -2077,5 +2077,9 @@
     <string name="migrate_code_expired_msg">请在您的旧设备上打开路印协议钱包应用程序并重新生成迁移代码。 如果您无法重新生成代码，则需要使用 Guardians 或云备份来恢复钱包。</string>
     <string name="recover_cloud_expired">钱包恢复失败！</string>
     <string name="recover_cloud_expired_msg">无法使用云备份恢复您的钱包。 自上次成功备份以来，钱包所有者或私钥已更改。 请尝试使用“通過守護人恢復”方法。</string>
+    <string name="amm_apr_details_msg">協議APR表示從指定池的協議費用中獲得的獎勵</string>
     <string name="fee_ratio">費用比率</string>
+    <string name="apr_amm_pool">AMM池子APR:</string>
+    <string name="apr_activity">活動APR:</string>
+    <string name="apr_protocol">協議APR:</string>
 </resources>
