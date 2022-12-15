@@ -1,0 +1,1925 @@
+
+"main_wallet_tab" = "資產";
+"set_wallet_name" = "設置錢包名字";
+"generate_wallet" = "創建新錢包";
+"recover_wallet" = "恢復錢包 ";
+"migrate_wallet" = "遷移錢包 ";
+"next" = "下一步";
+"password" = "請輸入密碼";
+"repeat_password" = "請再次輸入密碼";
+"backup_mnemonic" = "備份助記詞";
+"confirm" = "確認";
+"cancel" = "取消";
+"committing" = "正在提交";
+"rejected" = "已拒絕";
+"retry" = "再次嘗試";
+"tap_to_view" = "點擊顯示";
+"cancelled" = "已取消";
+"not_support" = "還不支持";
+"et_mnemonic" = "請輸入助記詞並用空格隔開";
+"private_key_hint" = "請輸入私鑰";
+"wallet_existed" = "錢包已存在";
+"unlock" = "解鎖";
+"receive_set_money" = "設置收款金額";
+"send" = "轉賬";
+"receive" = "收款";
+"transfer_in_hebao" = "劃轉";
+"buy" = "買入";
+"sell" = "賣出";
+"other" = "其他交易類型";
+"trade" = "交易";
+"copy_address" = "複製地址";
+"save" = "保存";
+"main_wallet_tab" = "資產";
+"defi" = "DeFi";
+"search_token" = "幣種";
+"search_token_in_markets_placehold" = "搜索幣種/交易對";
+"search_nodata" = "沒有搜索結果";
+"setting" = "設置";
+"mine" = "我";
+"my_" = "我的";
+"add_contact" = "添加聯繫人";
+"edit_contact" = "編輯聯繫人";
+"edit_guardian" = "編輯守護人";
+"is_add_contact" = "是否將該地址添加為新聯繫人？";
+"contact_empty" = "您還沒有聯繫人";
+"password_login" = "通過密碼登錄";
+"password_forget" = "忘記密碼？";
+"password_forget2" = "忘記密碼";
+"reset" = "重置";
+"wallet_locking" = "錢包被鎖定";
+"share" = "分享";
+"copy_link" = "複製鏈接";
+"refresh" = "刷新";
+"set_money_type" = "貨幣";
+"set_color" = "顏色";
+"set_color_red_green" = "紅漲綠跌";
+"set_color_green_red" = "綠漲紅跌";
+"official_website" = "官網";
+"set_contract_address" = "智能合約";
+"version" = "版本";
+"export_private_key" = "導出私鑰";
+"copy_private_key" = "複製私鑰";
+"mnemonic" = "助記詞";
+"private_key" = "私鑰";
+"legal" = "法律";
+"user_feedback" = "反饋";
+"qr_code" = "二維碼";
+"qr_scan_code" = "掃描二維碼";
+"align_qr_code" = "將掃描框對準二維碼圖片自動掃描";
+"set_eth_gas_limit" = "轉賬ETH時，Gas上限設置為 ";
+"enter_the_amount" = "請輸入金額";
+"enter_the_count" = "請輸入數量";
+"address_or_ens_hint" = "輸入地址或ENS";
+"input_valid_address" = "您輸入的地址是無效的";
+"not_enough_balance" = "餘額不足";
+"available" = "可用的";
+"money" = "金額";
+"tokens" = "幣種";
+"token" = "幣種";
+"input_pay_password" = "請輸入支付密碼";
+"to" = "到";
+"from" = "從";
+"address" = "地址";
+"ID" = "交易哈希";
+"memo" = "備註";
+"gas_fee" = "礦工費";
+"gas_price" = "Gas價格";
+"gas_limit" = "Gas限制";
+"tx_status_success" = "成功";
+"tx_status_pending" = "處理中";
+"tx_status_failed" = "失敗";
+"received" = "已收到";
+"status" = "狀態";
+"date" = "日期";
+"pending" = "處理中";
+"time" = "時間";
+"no_data_approve_records" = "無審批記錄";
+"keystore_psw_error" = "密碼無效";
+"transfer_error" = "轉賬失敗，請稍後重試";
+"private_key_error" = "私鑰無效";
+"mnemonic_invalid" = "助記詞無效";
+"upgrade_confirm" = "升級";
+"upgrade_contract" = "升級智能合約";
+"dex_account" = "路印二層賬號";
+"export_dex_warning" = "請對以下信息嚴格保密，請勿以明文形式將其存儲在聯網的設備中，否則您交易所的資產可能會丟失。";
+"dex_createing_account" = "正在激活";
+"dex_createing" = "路印二層賬號正在創建中";
+"dex_deposit" = "充值";
+"copy" = "複製";
+"copy_to_clipborad_success" = "已複製到剪貼板 ";
+"save_pic_success" = "圖片已保存到相冊";
+"order_expired" = "已過期";
+"order_detail" = "訂單明細";
+"total" = "全部";
+"completed" = "已完成";
+"success" = "成功";
+"succeeded" = "已成功";
+"failed" = "失敗";
+"submit_to_ethereum" = "已提交到以太坊";
+"failed_and_retry" = "發生錯誤，請稍後再試。如果問題仍然存在，請聯繫我們。";
+"upgrade_to_latest_version" = "請升級到最新版本";
+"cant_get_token_info" = "無法獲取加密貨幣信息，請稍後再試";
+"amount" = "金額";
+"amount_input" = "請輸入金額";
+"price" = "價格";
+"trading_fee" = "手續費";
+"order_time" = "下單時間";
+"trade_pair" = "名稱";
+"dex_enter_coin" = "請選擇幣種";
+"save_to_album" = "保存到相冊";
+"delete" = "刪除";
+"no_data" = "無記錄";
+"no_datas" = "無數據";
+"no_market" = "無交易對";
+"committing_to_eth" = "正在提交到以太坊，請稍候";
+"guardian" = "守護人";
+"guardian_manager" = "守護人管理";
+"add_guardian" = "添加守護人";
+"trusted_title" = "信任的聯繫人";
+"contact_title" = "聯繫人";
+"account_details" = "我的賬號";
+"contact_all" = "所有聯繫人";
+"contact_others" = "其他聯繫人";
+"from_intenet" = "從網絡";
+"who_protects_me" = "守護我的";
+"who_i_protect" = "我守護的";
+"wallet_i_protect" = "我守護的錢包";
+"pending_requests" = "待處理請求";
+"guardian_activity" = "交易";
+"transfer_to" = "到 %@";
+"layer_transfer_to" = "%@ ⭢ %@";
+"received_from" = "從 %@";
+"pay" = "付款";
+"deposit" = "充值";
+"security_desc" = "添加守護人確保在您無法訪問手機時可以恢復錢包";
+"add_as_guardian" = "添加為您的守護人";
+"add" = "添加";
+"trust" = "信任人";
+"add_trust" = "添加信任人";
+"remove_trust" = "刪除信任人";
+"security" = "安全";
+"remove" = "刪除";
+"remove_someone_contact" = "刪除聯系人";
+"lock" = "鎖定";
+"migrate_account_instruction" = "您可以掃描舊設備的二維碼將錢包遷移到新設備";
+"ask_guardian_lock_wallet" = "您可以聯繫您的守護人鎖定您的錢包。";
+"lock_wallet_msg" = "您的錢包鎖定請求已提交到以太坊，一旦上鏈確認，您的錢包資產將被凍結，您可以使用錢包恢復功能找回資產。";
+"wallet_locked_msg" = "您的錢包已被鎖定，點擊解鎖";
+"unlock_wallet" = "解鎖錢包";
+"approve_unlock_wallet_title" = "解鎖錢包批准";
+"locking" = "正在鎖定...";
+"unlocking" = "正在解鎖...";
+"wallet_locked" = "您的錢包已被鎖定";
+"wallet_locked_until" = "錢包已鎖定";
+"wallet_unlocked" = "錢包已解鎖";
+"locked_by_someone" = "被 %@ 鎖定";
+"trust_warning_title" = "信任此聯繫人嗎？ ";
+"trust_warning_content" = "一旦信任，您就可以向該聯繫人進行無限額轉賬。您的每日限額將不再適用";
+"remove_trust_warning_title" = "您想要停止信任此聯繫人嗎？";
+"remove_trust_warning_content" = "一旦刪除，每日限額將適用於給此聯繫人轉賬";
+"add_guardian_warning_title" = "添加守護人？";
+"add_guardian_warning_content" = "您的守護人可以鎖定/解鎖您的錢包，並在您丟失手機時幫助您找回錢包";
+"invite" = "邀請";
+"remove_guardian_warning_title" = "刪除守護人？";
+"remove_guardian_warning_content" = "一旦刪除，該地址將無法幫助您恢復錢包或守護您。";
+"lock_warning_title" = "您想鎖定錢包嗎？";
+"lock_warning_content" = "一旦鎖定，錢包資產即被凍結，請確保是錢包的主人要求您幫助凍結錢包資產。";
+"unlock_warning_title" = "您想解鎖錢包嗎？";
+"unlock_warning_content" = "當錢包的主人要求您解鎖他們的資產時，請使用這個";
+"choose_guardians" = "選擇守護人";
+"start_scan" = "開始掃描";
+"add_guardian_to_eth" = "添加守護人正在提交到以太坊";
+"add_guardian_in_pending" = "添加守護人正在處理，在 %@ 生效";
+"wait_guardian_approve" = "等待守護人審批";
+"remove_guardian_in_pending" = "刪除守護人正在處理，在 %@ 生效";
+"add_guardian_rejected" = "對方拒絕做您的守護人";
+"add_guardian_failed" = "添加守護人失敗，點擊重試";
+"need_your_approve" = "需要您的審批";
+"need_guardian_approve" = "需要審批";
+"need_you_approve_sth" = "%@ 需要您的審批";
+"you_are_submit_approve_sth" = "您對 %@ 的審批已提交";
+"add_whitelist_to_eth" = "添加信任人正在提交到以太坊";
+"add_whitelist_in_pending" = "添加信任人正在處理，在 %@ 生效";
+"remove_whitelist_to_eth" = "刪除信任人正在提交到以太坊";
+"guardian_address_hint" = "以太坊地址或ENS";
+"guardian_address_hint_without_network" = "錢包地址或ENS";
+"guardian_address_hint_without_ens" = "以太坊地址";
+"verify_email" = "通過郵箱驗證";
+"verify_phone" = "通過手機驗證";
+"verify_register_phone" = "請輸入您的手機號碼";
+"verify_register_email" = "請輸入您的郵箱";
+"email_enter_number" = "輸入郵箱";
+"phone_enter_number" = "輸入手機號碼";
+"email_enter_code" = "輸入郵箱驗證碼";
+"phone_enter_code" = "輸入短信驗證碼";
+"send_code" = "發送驗證碼";
+"resend_code" = "重新發送";
+"set_password" = "設置錢包密碼";
+"start_app_need_pwd" = "打開APP需要密碼";
+"enter_password" = "輸入密碼";
+"enter_new_password" = "輸入新密碼";
+"enter_new_password_again" = "再次輸入新密碼";
+"ens_support_character" = "·錢包名字只支持字母小寫和數字。";
+"ens_already_registered" = "ENS名字已被佔用，請嘗試其他名字";
+"invalid_wallet_or_ens_address" = "錢包地址或ENS無效";
+"invalid_email_address" = "郵箱地址無效";
+"invalid_phone_num" = "手機號碼無效";
+"get_email_code_fail" = "獲取驗證碼失敗，請重試";
+"email_code_sent" = "驗證碼已發送";
+"email_already_registered" = "該郵箱已註冊";
+"phone_already_registered" = "該手機號碼已註冊";
+"request_phone_email_too_frequency" = "驗證碼請求過於頻繁，請在24小時後重試。";
+"request_verify_code_too_frequency" = "驗證碼請求過於頻繁，請在 %@ 後重試。";
+"verify_email_code_fail" = "驗證失敗，請檢查驗證碼是否正確";
+"change_pwd" = "更改密碼";
+"change" = "更改";
+"change_pwd_please" = "請更改密碼";
+"reset_pwd" = "重置密碼";
+"generate_migrate_info_exception" = "生成遷移二維碼異常，請重試，如仍失敗，請聯繫官方！";
+"pwd_not_same" = "密碼不一致";
+"secure" = "錢包安全";
+"wallet_queue3" = "您的錢包正在創建中，可能需要等待幾分鐘或幾小時。\n一旦您的錢包創建成功，我們將通過 %@ 通知您。<";
+"email_notify" = "郵箱";
+"phone_notify" = "短信";
+"wallet_create_now" = "立即創建錢包";
+"cancel_create_wallet_agree" = "請輸入大寫 \"AGREE\"再次確認";
+"create_wallet_again" = "重新創建";
+"button_think" = "讓我想想";
+"accept_guardian_request_title" = "守護人請求";
+"accept_guardian_request_content" = "您想要成為 %@ 的守護人嗎？ ";
+"guardian_added" = "添加";
+"reject" = "拒絕";
+"accept" = "接受";
+"approve" = "審批";
+"notify_guardian" = "通知守護人";
+"notify_person_do_it" = "請通知他/她打開路印錢包進行審批";
+"notify_approve_recover_wallet_title" = "您守護的 %@ 正在恢復錢包需要您的審批，請打開路印錢包並在下方輸入審批碼進行批准。";
+"daily_limit_remain" = "剩餘 %@ ETH";
+"add_now" = "立即添加";
+"protects_empty_title" = "您沒有守護任何錢包。";
+"ok" = "好的";
+"close" = "關閉";
+"open" = "打開";
+"already_your_contact_canchangename" = "聯繫人已存在，您可以更改名字";
+"already_your_guardian_canchangename" = "守護人已存在，您可以更改名字";
+"official_guardian" = "官方守護人";
+"official_guardian_name" = "路印官方守護人";
+"official_guardian_desc_one" = "路印官方守護人是路印提供的守護人服務。";
+"official_guardian_desc_two" = "它與您的其他守護人機制是一致的。";
+"official_guardian_desc_three" = "通過啟用，您會收到驗證碼以授權恢復錢包或超出每日限額的轉賬。";
+"cancel_guardian_addition" = "取消添加守護人";
+"cancel_guardian_removal" = "取消刪除守護人";
+"retry_add_guardian_addition" = "重新添加守護人";
+"retry_add_guardian_addition_content" = "添加守護人失敗，您可以重新添加。";
+"retry_add_rejected_guardian_content" = "已拒絕，要重新添加嗎？";
+"waiting_approve" = "等待審批";
+"approving" = "正在審批";
+"approved" = "已審批";
+"approve_id" = "審批ID";
+"approve_id2" = "審批ID：%@";
+"your_approve_code" = "審批碼";
+"operator_guide" = "操作指南";
+"approve_status" = "審批狀態";
+"wallet_guardian" = "錢包守護人";
+"other_guardian" = "其他守護人";
+"approve_guide_normal" = "您使用的是路印錢包作為守護人\n\n1. 打開路印錢包 \n\n2. 點擊 我 -> 守護人管理 -> 我守護的 \n\n3. 查找您守護的人的請求 \n\n4. 審批";
+"approve_guide_hardware" = "您使用的是非路印錢包作為守護人\n\n1. 訪問 %@\n\n2. 在審批記錄列表中查找您守護的人的請求 \n\n3. 審批";
+"approve_recover_title" = "錢包恢復審批";
+"approve_transfer_title" = "超過限額審批";
+"approve_code" = "審批碼";
+"approve_submitter" = "所有者";
+"approve_history" = "審批記錄";
+"get_approve_detail_error" = "加載審批詳情失敗，請稍後重試";
+"approve_action_recover" = "恢復錢包";
+"approve_action_exceed_quota" = "超過每日限額";
+"cancel_approve_quota_transfer" = "取消超額轉賬";
+"cancel_approve_recover" = "取消恢復錢包";
+"please_select_guardian" = "請至少選擇 %@ 個守護人";
+"choose_one_guardian" = "請選擇一個守護人";
+"approve_tx_content" = "數量：%@ ETH";
+"approve_tx_content2" = "數量：";
+"approve_tx_data" = "數據： %@";
+"approve_tx_data2" = "數據：";
+"approve_send_to" = "到：%@";
+"approve_send_to2" = "到： ";
+"sign_msg" = "Aprobar WalletConnect";
+"Sign" = "簽名";
+"Message:" = "信息:";
+"done" = "完成";
+"name" = "名稱";
+"to_top" = "刷到頂部";
+"pay_list" = "費用偏好";
+"dapp_settings" = "DApp設置";
+"dapp_settings_private_mode" = "DApp隱私模式";
+"dapp_settings_private_mode_description" = "啟用隱私模式後，DApp第一次需要許可操作才能從您的錢包讀取信息。";
+"dapp_settings_clean_up_network_cache" = "清理網絡緩存";
+"dapp_settings_clean_up_network_cache_success" = "成功清理網絡緩存。";
+"dapp_settings_clear_allowance" = "清除DApp許可操作";
+"dapp_settings_clear_allowance_description" = "刪除許可記錄後，您未來將不得不再次對每個DApp進行許可操作。";
+"dapp_settings_clear_allowance_success" = "成功清除DApp許可記錄。";
+"liquidity" = "流動性";
+"hide_small_money" = "隱藏小額資產";
+"hide_money" = "隱藏資產";
+"balance_only" = "餘額";
+"all" = "全部";
+"all2" = "全部";
+"wallet_create" = "創建錢包";
+"create_wallet_fail" = "創建錢包失敗，請稍後重試。";
+"loopring_wallet" = "路印錢包";
+"transfer_fee" = "費用";
+"transfer_fee_:" = "費用: ";
+"transfer_fee_desc" = "免費 — 由路印支付";
+"operator_fee_with_value" = "以太坊費用：%@";
+"loopring_pay_account_not_found" = "收款人尚未註冊路印二層賬號";
+"email_title" = "您的郵箱";
+"phone_title" = "您的手機號碼";
+"lrc_total_reward" = "總獎勵";
+"lrc_action_claim" = "領取";
+
+//<!-- DeFi Compound Protocol -->
+"defi_withdraw" = "提現";
+
+// <!-- DApp -->
+"dapp_browser" = "DApp瀏覽器";
+"dapp_msg" = "與去中心化應用交互的Web3瀏覽器。";
+
+"DApp_instruction_title" = "您正在訪問第三方DApp";
+"DApp_instruction_description" = "您對第三方Dapp的使用將受第三方DApp的用戶協議和隱私政策的約束，並對你承擔直接和全權責任。";
+"DApp_connect_title" = "連接到 %@?";
+"DApp_connect_description" = "通過點擊確認，您允許 %@ 查看您的公開地址。";
+"uniswap_title" = "Uniswap";
+"uniswap_description" = "存入資金在AMM交易所賺取代幣";
+"sushiswap_title" = "SushiSwap";
+"sushiswap_description" = "AMM交易所";
+"dodo_title" = "DODO";
+"dodo_description" = "使用PMM算法的去中心化交易所";
+"aave_title" = "Aave";
+"aave_description" = "開源的DeFi協議";
+"balancer_title" = "Balancer";
+"balancer_description" = "自動化投資組合管理和交易平台";
+"debank_title" = "DeBank";
+"debank_description" = "一體化的DeFi平台";
+"pooltogether_title" = "PoolTogether";
+"pooltogether_description" = "無損失彩票";
+"wepiggy_title" = "WePiggy";
+"wepiggy_description" = "加密借貸市場協議";
+"1inch_title" = "1inch";
+"1inch_description" = "最高效的DeFi聚合器";
+"compound_title" = "Compound";
+"compound_description" = "賺取利息 & 借貸";
+"curve_title" = "Curve";
+"curve_description" = "使用高級聯合曲線創造鏈上流動性";
+"zapper_title" = "Zapper.Fi";
+"zapper_description" = "在一個簡單的界面中管理您的DeFi資產";
+"makerdao_title" = "MakerDAO";
+"makerdao_description" = "公正的全球金融體系";
+
+//<!--daily limit-->
+"daily_limit_title" = "每日限額";
+"adjust_daily_limit_title" = "調整每日限額";
+"reset_in_times" = "在 %@ 後重置";
+"changing_to_in_times" = "在 %@ 後更改為 %@ ETH";
+"changing_to_eth" = "更改為 %@ ETH正在提交到以太坊";
+"daily_limit_desc" = "請注意，每日限額僅適用於已知價值的代幣。";
+"transfer_amount" = "可用的";
+
+//<!--chart type -->
+"chart_15m" = "15分";
+"chart_1h" = "1h";
+"chart_4h" = "4h";
+"chart_1d" = "日線";
+"chart_1w" = "週線";
+
+//<!--metaTx type-->
+"metatx_action_transfer" = "轉賬";
+"metatx_action_approved_transfer" = "轉賬超過每日限額";
+"metatx_action_lock_wallet" = "鎖定錢包";
+"metatx_action_unlock_wallet" = "解鎖錢包";
+"metatx_action_dex_account" = "創建/重置路印二層賬號";
+"metatx_action_dex_deposit" = "劃轉";
+"metatx_action_dex_withdraw" = "劃轉";
+"metatx_action_token_approval" = "代幣審批";
+"metatx_action_add_guardian" = "添加 %@";
+"metatx_action_confirm_guardian_addition" = "確認添加守護人";
+"metatx_action_cancel_guardian_addition" = "取消添加 %@";
+"metatx_action_reject_guardian_addition" = "拒絕添加守護人";
+"metatx_action_remove_guardian" = "刪除 %@";
+"metatx_action_cancel_guardian_removal" = "取消刪除 %@";
+"metatx_action_add_trust" = "添加信任人";
+"metatx_action_remove_trust" = "刪除信任人";
+"metatx_action_approve" = "審批";
+"metatx_action_unknown" = "合約調用";
+"metatx_action_offchain_approve_recover" = "恢復錢包審批";
+"metatx_action_offchain_approve_transfer" = "超過每日限額轉賬審批";
+"metatx_action_offchain_approve_token" = "超過每日限額代幣審批";
+
+"input_error" = "輸入錯誤";
+
+"wallet_not_created" = "請激活您的賬號";
+"wallet_not_L1_created" = "請激活您的以太坊賬號";
+"wallet_not_L2_created" = "請激活您的路印賬號";
+
+"wallet_creating" = "錢包正在創建中";
+"wallet_recovering" = "錢包正在恢復中";
+"free_time_use_up" = "今天的免費次數已用完，請明天再試。";
+
+"invitation_code" = "邀請碼";
+"quota" = "邀請名額";
+
+"about" = "關於";
+"terms" = "條款";
+"Terms" = "條款";
+"privacy" = "隱私 ";
+"Privacy" = "隱私";
+"risk_disclose" = "風險披露";
+"net_error" = "無網絡連接！";
+"net_error_retry" = "網路錯誤，請稍後再試！";
+"agree" = "同意";
+"custom_amount" = "設置金額";
+
+"year" = "年";
+"month" = "月";
+"day" = "日";
+"hour" = "小時";
+"minute" = "分";
+"second" = "秒";
+"ago" = "之前";
+"Just now" = "現在";
+"favorite" = "收藏";
+
+//<!--Transfer -->
+"transfer_to_account" = "選擇轉到哪個賬號";
+"transfer_to_prople" = "選擇收款人";
+"transfer_choose_token" = "選擇代幣";
+"transfer_confirm" = "確認轉賬";
+"transfer_set_count" = "設置 %@ 的數量";
+"transfer_canot_zero" = "數量不能為零";
+
+"to_new" = "到";
+"from_new" = "從";
+"transfer_new" = "轉賬";
+"account_progressing" = "您的交易已提交到以太坊，實際時間取決於以太坊網絡情況。";
+"speed_fast" = "快";
+"speed_generally" = "正常";
+
+//<!-- Guiding -->
+"free_activation" = "激活";
+"free_activation2" = "激活";
+"set_up_key" = "設置密鑰";
+"layer2_guidepage_msg" = "二層賬號繼承了以太坊相同級別的安全性";
+"layer2_guidepage_fast" = "轉賬和交易實時完成";
+"layer2_guidepage_lowfee" = "交易費用非常低；無需高昂的Gas費";
+
+//<!--new main -->
+"ethereum_account_layer" = "以太坊一層";
+"loopring_account_layer" = "路印二層";
+"ethereum_account_layer_fee" = "/一層";
+"loopring_account_layer_fee" = "/二層";
+"account_first" = "一層";
+"account_first_me" = "我的以太坊賬號";
+"account_second" = "二層";
+"account_second_me" = "我的路印賬號";
+"account_second_msg" = "超快，低費用";
+"second_floor" = "路印";
+"first_account" = "以太坊賬號";
+"second_account" = "路印賬號";
+"arbitrum_account" = "Arbitrum賬號";
+"transfer_to_my_second" = "轉給自己（一層到二層）";
+"transfer_to_my_first" = "轉給自己（二層到一層）";
+"transfer_to_myself" = "轉給自己（%@ 到 %@）";
+"to_deposit" = "充值";
+"search_selector" = "篩選";
+
+"set_token_show" = "篩選代幣";
+"token_show_have_record" = "您曾經擁有的代幣";
+"token_show_small" = "價值低於1美金的代幣";
+"token_show_noprice" = "沒有價格的代幣";
+
+"gasfee_lower" = "低費用";
+"transfer_fast" = "快速轉賬";
+"new_people_guide" = "指南";
+"easy_use" = "使用方便";
+"easy_use_notify" = "您可以選擇一個好記的名字和地址";
+"security_notify" = "無需備份私鑰以保證資產安全";
+
+"comming_wallet" = "打開錢包";
+"wallet_migrated_doscancode" = "掃描完成遷移";
+"migrate_account_notice" = "請在其他設備上使用路印錢包掃描遷移當前錢包。";
+"wallet_migrated_success_content" = "您的錢包已遷移成功，此設備無法使用錢包。點擊刪除數據，當前數據即被刪除。";
+"wallet_migrated_open_new_wallet" = "在新設備上打開遷移的錢包";
+"wallet_migrated_help_img" = "migHelp_en";
+"wallet_migrated_success" = "錢包遷移成功！";
+"wallet_migrated_pending" = "錢包正在遷移";
+"wallet_migrated_old_stepone" = "1. 在舊設備上打開錢包";
+"wallet_migrated_old_steptwo" = "2. 掃描舊設備的二維碼";
+"wallet_migrated_old_stepone_notify" = "進入我 > 設置 > 安全 > 遷移錢包";
+"free" = "免費";
+
+//<!-- Create Wallet  -->
+"wallet_create_phonenum" = "通過手機號碼創建";
+"wallet_create_email" = "通過郵箱創建";
+"wallet_create_name_is_onlyone" = "名字全網唯一，永久有效";
+"wallet_create_create_money" = "創建費用：";
+"wallet_create_create_name" = "名字費用：";
+"wallet_create_create_address" = "地址費用：";
+"wallet_create_choose_pay_way" = "選擇充值方式";
+"wallet_create_choose_deposit" = "選擇充值方式";
+
+//<!-- RecoverWallet-->
+"wallet_recover_input_phone" = "請輸入您註冊的手機 %@";
+"wallet_recover_input_email" = "請輸入您註冊的郵箱 %@";
+"verify_register_people" = "請自己驗證";
+"can_not_add_self_guardian" = "這是您的錢包地址，不能添加自己為守護人";
+"dex_hide_other_token" = "隱藏其他";
+"dex_change_rate" = "24小時變化%";
+"dex_price" = " 最新價格 ";
+"dex_pair" = "交易對";
+"name_this_contact" = "給該地址命名";
+"overdue" = "已過期";
+"recover_wait_approve_to_main" = "您的錢包恢復正在等待守護人審批，前往首頁查看。";
+"recover_close_hint" = "關閉進入錢包，可以在首頁左上角重新進入此頁面";
+
+//<!-- Point-->
+"points" = "積分";
+"my_points" = "我的積分";
+"sign_in" = "簽到";
+"point_records" = "積分記錄";
+"invite_create_wallet" = "邀請創建錢包";
+"freeze" = "凍結";
+"unfreeze" = "退回";
+"sign_in_continues_day" = "連續簽到：%@ 天";
+"sign_in_more_points" = "連續簽到，每天賺取 %@ 積分";
+"signed_in_today" = "今天簽到";
+"invite_points_title" = "邀請朋友";
+"invite_points_sub_title" = "每成功邀請一個朋友賺取 %@ 積分";
+"create_wallet_points_title" = "創建錢包";
+"create_wallet_points_sub_title" = "創建錢包獎勵 %@ 積分";
+"points_rules" = "關於路印積分";
+"frozon" = "鎖定";
+"get_points" = "獲取積分";
+"use_points" = "使用積分";
+"system_points" = "官方積分";
+
+//<!-- Guardians ui-->
+"guardian_use" = "守護人角色";
+"account_danger_notify" = "您擁有大量資產，建議添加更多的守護人以確保錢包安全。";
+"account_danger_notify2" = "您擁有大量資產，激活一層支持您添加更多的守護人以確保錢包安全。>>";
+"go_add" = "添加";
+"fee" = "費用";
+"guardian_add_success" = "添加守護人請求已發送";
+"guardian_add_success_msg" = "請將您的請求告知守護人。他們可以選擇接受或拒絕操作。";
+"your_friend" = "您的朋友";
+"invite_you_to_guardian" = "邀請您成為他/她路印錢包的守護人";
+"invite_guardian_do" = "1.打開路印錢包\n\n2.打開我 ->守護管理 ->我守護的\n\n3. 找到對方發起的請求\n\n4. 點擊批准或拒絕";
+"receive_code_other" = "二維碼";
+"name_this_guardian" = "給此守護人命名";
+"dex_volume" = "交易量";
+
+"set_sure_close_Touch_ID" = "您確定要關閉觸控ID嗎?";
+"set_sure_close_Face_ID" = "您確定要關閉面容ID嗎?";
+"finger_login" = "啟用觸控ID";
+"faceId_login" = "啟用面容ID";
+"add_again" = "重新添加";
+"no_capture" = "不要截圖";
+"no_capture_desc" = "您的操作涉及錢包安全，請勿截圖分享和保存，可能會被第三方惡意收集，造成資產損失";
+"i_know" = "我知道了";
+
+"find_new_version_app" = "發現新版本";
+"pay_use_fen_first" = "優先使用積分";
+"pay_custom" = "自定義費用代幣順序";
+"pay_system_set" = "系統將根據下面排列順序扣款";
+"pay_system_choose" = "如果沒有開啟，系統會自動選擇支付方式";
+"drag" = "下拉";
+"system_recommend" = "系統推薦";
+"custom" = "自定義";
+
+"resend_invitecode" = "重新發送";
+"verification_code" = "驗證碼";
+"wallet_create_choose_orgin" = "選擇創建方式";
+"congratulations" = "祝賀！";
+"activate" = "激活";
+"timedown" = "倒計時";
+"delete_data" = "刪除數據";
+
+"ens_min_character" = "·4-12個字符";
+"ens_input_placeholder" = "請輸入4-12個字符";
+"ens_min_character_7" = "·7-12個字符";
+"guardian_notify_security" = "您的錢包非常安全；您可以自己保管資產。守護人是您選擇的親朋好友或設備。最好有至少3個守護人。";
+"guardian_notify_security_relative" = "您的錢包是安全的。\n最好有至少3個守護人，添加更多的守護人提高錢包安全性。";
+"guardian_notify_danger" = "您的錢包還不夠安全，請盡快添加更多守護人";
+"guardian_use_notify" = "守護人是您絕對信任的人。它可以是您自己（自己控制的另一個錢包）。只要您半數以上的守護人對您忠誠，您的資產就是安全的，手機丟失了都可以恢復錢包。我們建議您添加信任的人（配偶、父母、兄弟姐妹、孩子或朋友）以及您控制的其他錢包。";
+"guardian_add_notify" = "您可以添加其他路印錢包作為您的守護人，以保護您的身份和加密資產。邀請您的家人和朋友使用路印錢包。\n%@";
+"guardian_add_notify2" = "如果您想添加非路印錢包地址作為守護人，請訪問電腦上的 %@。";
+"you_are_someone_guardian" = "您是 %@ 的守護人，您可以鎖定他/她的錢包。";
+"guardian_lock_unlock" = "鎖定/解鎖";
+"wallet_lock_unlock_point" = "·鎖定/解鎖我的錢包";
+"recover_wallet_point" = "·恢復我的錢包";
+"metatx_action_approve_transfer_point" = "·審批超過每日限額的轉賬";
+"balance_not_enough" = "（餘額不足）";
+"about_fee" = "最大 ";
+"about_fee_with_value" = "（最大）";
+"wallet_create_free_notify" = "您有資格免費創建錢包";
+"wallet_create_free_notify2" = "我們只是要求您先充值（至少%@，或等值的ETH或穩定幣）。充值的資產將是您的，這只是幫助我們免於白白創建錢包！";
+"wallet_create_to_receive" = "去充值";
+"wallet_create_to_receive2" = "%@ 秒後去充值";
+"search_noaddress" = "抱歉，您提供的錢包地址不是路印錢包地址";
+"guardian_advanced_1" = "要添加不是路印錢包的地址，請訪問";
+"guardian_advanced_3" = " 在電腦上，連接守護人的地址，然後用路印錢包掃描該網頁上的二維碼。";
+"scancode_transfer_toaddress" = "這個地址只支持ERC20代幣。不要從其他的公鏈轉賬到這個地址，資產將會丟失。";
+"transfer_confirm2" = "確認劃轉";
+"code_sended" = "已發送到 %@";
+"approve_unlock_title" = "解鎖錢包審批";
+"approve_remove_guardian" = "刪除守護人";
+"cancel_approve_unlock_wallet" = "取消解鎖錢包 ";
+"invite_people_create" = "將路印錢包推薦給朋友賺取";
+"invite_people_send_you" = "%@ 積分";
+"invite_code_me" = "我的推薦碼";
+"invite_now" = "邀請";
+"interpretation" = "\@ 解釋權歸路印科技有限公司所有。";
+"created_send" = "推薦朋友創建路印錢包";
+"set_limit_notify" = "設置每日限額通過限制24小時內轉賬的資產數量來提高錢包的安全性（除非您講特殊收款人列入白名單支持更多的轉賬）。";
+"set_limit_notify3" = "因為設置限額，您未來以太坊一層交易的費用將增加 ~20%。";
+"go_set" = "設置";
+"day_limit_all" = "當前每日限額：%@ ETH";
+"day_limit_no" = "未設置限額";
+"not_unlock_other_wallet" = "無法解鎖別人的錢包";
+"daily_quota_off_title" = "關閉每日限額";
+"daily_quota_off_content" = "每日限額關閉後，每筆以太坊交易手續費將減少約20%，但轉賬到任何地址都沒有額度限制";
+"daily_quota_off_committing" = "關閉每日限額已提交到以太坊";
+"daily_quota_off_time" = "關閉每日限額 %@ 後生效";
+"daily_quota_not_zero" = "每日限額不能設置為0";
+"daily_quota_the_same" = "與當前限額相同";
+"invite_people_now" = "現在邀請他們";
+"choose_approve_transfer_title" = "需要審批轉賬";
+"choose_approve_transfer_content" = "礦工費也將計入限額。當前轉賬金額加上礦工費將超過每日限額，需要審批。 ";
+"go_approve" = "啟動審批";
+"phone_not_match" = "您輸入的手機號碼不正確";
+"email_not_match" = "您輸入的郵箱不正確";
+"L2_not_support_token" = "路印賬號不支持該幣種";
+"migrate_not_find_info" = "沒有識別出有效的遷移信息";
+"migrate_eos_unsupport" = "不支持遷移EOA錢包";
+"migrate_error" = "遷移失敗，請再試一次。如仍失敗，請聯繫官方！";
+"migrate_old_layer_one_error" = "舊版本的一層賬號不支持遷移，請在新設備恢復錢包";
+"migrate_old_layer_two_error" = "舊版本的二層賬號不支持遷移，請先重置二層賬號";
+"rule" = "規則";
+"invite_give_gift" = "推薦朋友";
+
+"wallet_create_timeout_deposit_notify" = "轉賬 %@ 到該充值地址，請不要轉其他幣種，以免丟失您的資產。";
+"wallet_create_agreement2" = "創建錢包即表示您同意";
+"and" = "和";
+"choose_fee_type" = "選擇付款方式";
+
+//<!-- swap -->
+"estimate_fee" = "預估費用";
+"swap_now" = "閃兌";
+"swap_title" = "簡潔版";
+"slippage_limit" = "滑點容忍度";
+"buy_min" = "最少收到";
+"price_impact" = "價格影響";
+"estimate_received" = "預估收到";
+"spot" = "現貨";
+"layer2_no_balance" = "路印賬號還沒有 %@ 餘額，以太坊賬號有 %@ 餘額";
+"slippage_limit_msg" = "如果價格變化超過這個百分比，您的交易將無法成功。";
+"min_swaped" = "池子價格是動態變化的，您下單時看到的價格可能與最終成交價不一致；收到的金額也需要兌換後的金額中扣除費用。協議可以保證您最少收到的這個數量的代幣。";
+"new_swap_fee" = "交易費用取決於您的 VIP 等級和交易規模。小額交易（低於 100 美元）會產生更高的費用。請在確認前查看費用。 ";
+"estimate_received_desc" = "扣除費用後在您的二層賬戶中收到的代幣。 ";
+"price_impact_msg" = "交易規模導致市場價格和預估價格之間的差異";
+"swap_amount_min" = "數量太小（最小 %@）";
+"swap_amount_min2" = "數量太小（最小 %@ %@）";
+"swap_amount_max2" = "數量太大（最大 %@ %@）";
+"swap_records" = "閃兌記錄";
+"swap_records_details" = "閃兌明細";
+"swap_success" = "閃兌成功";
+"swap_failed" = "閃兌失敗";
+"swap_price_impact" = "您的交易數量將影響池子價格超過 %@。您確定要閃兌嗎？";
+"swap_confirm_two_msg" = "您確定將 %@ 兌換成 %@嗎？";
+"swap_confirm_two" = "閃兌需要確認";
+"swap_confirm_not_notify" = "下次閃兌不再提醒";
+"confirm_not_notify" = "下次不再提醒";
+"phone_area_code" = "選擇地區";
+"search_phone_area" = "搜索地區";
+
+"metatx_action_recover_wallet" = "以太坊一層賬號恢復";
+"learn_more" = "·了解更多";
+"wallet_create_phone_usage" = "我們需要一個聯繫方式來驗證您對路印官方守護人的請求，以防您需要我們幫助您恢復或鎖定錢包。";
+"wallet_verify_phone_usage" = "我們需要與您聯繫以驗證您的請求。";
+"button_continue" = "下一步";
+"security_spec" = "安全等級";
+
+//<!-- Orderbook -->
+"orderbook_hide_others" = "隱藏其他";
+"orderbook_cancel_all" = "全部取消";
+"orderbook_active_orders" = "當前委託";
+"orderbook_latest_trade" = "最新交易";
+"orderbook_select_side_default" = "默認";
+"orderbook_select_side_buy" = "買";
+"orderbook_select_side_sell" = "賣";
+"orderbook_limit_buy" = "限價/買入";
+"orderbook_limit_sell" = "限價/賣出";
+"orderbook_record_status" = "狀態";
+"orderbook_record_filled_and_amount" = "成交數量/數量";
+"orderbook_record_avg_and_price" = "均價/價格";
+"orderbook_record_market_name" = "名稱";
+"orderbook_record_title_active" = "歷史訂單";
+"orderbook_record_title_historical" = "已處理的訂單";
+"orderbook_record_title" = "訂單";
+"orderbook_record_detail_title" = "訂單明細";
+"orderbook_trade_time" = "時間";
+"orderbook_trade_price" = "價格";
+"orderbook_trade_amount" = "數量";
+"orderbook_24_highest" = "24h最高";
+"orderbook_24_lowest" = "24h最低";
+"orderbook_24_volume" = "24h交易量";
+"orderbook_trade_detail" = "交易詳情";
+"orderbook_price_lower_than_20_percent" = "賣出價格比最新價格低20%。請確認是否要下單？";
+"orderbook_price_higher_than_20_percent" = "買入價格比最新價格高出20%。請確認是否要下單？";
+
+//<!-- L2L1 Packed Activation-->
+"L2_L1_activation_L1" = "基於智能合約激活路印一層賬號，可以實現更高級的安全功能：社交恢復、鎖定賬號、設置每日交易限額等。";
+"L2_L1_activation_L2" = "通過激活二層錢包，您將能夠使用路印二層中提供的所有功能，包括代幣/NFT轉賬、DEX交易、AMM 投資等，同時gas費降低 100 倍。 ";
+"L2_L1_activation_together_1" = "通過激活基於合約的一層智能錢包，您將能夠擁有更高級的安全功能，如社交恢復、緊急時鎖定賬號、設置每日交易限額等。";
+"L2_L1_activation_together_2" = "您還可以同時激活路印二層錢包，這是通向以太坊的超快速、超便宜和強大的入口。通過激活二層錢包，您將能夠使用路印二層中提供的所有酷炫功能";
+
+"L2_L1_payment_title" = "選擇要激活的代幣";
+"L2_L1_Activation_fee" = "激活費：";
+
+"L2_L1_insuffcient_balance_title" = "您的路印二層賬戶餘額不足";
+"L2_L1_insuffcient_balance_description" = "請確保以下其中一種代幣具有激活您的二層賬號所需的最低金額。";
+"L2_L1_insuffcient_balance_tip" = "如果您已充值，請耐心等待，因為以太坊一層上的交易可能需要等待長達 30 分鐘。";
+"L2_L1_insuffcient_balance_add_asset_popover" = "代幣轉賬需要 Gas，這可能會從您的首次充值中扣除。建議您充值更多的代幣以確保向您的二層賬號存入足夠的激活費。";
+"L2_L1_insufficient_section_title_token" = "代幣";
+"L2_L1_insufficient_section_title_minRequirement" = "最低金額";
+"L2_L1_insufficient_section_title_recommend" = "推薦";
+
+"L2_L1_add_asset" = "添加資產";
+"L2_L1_add_L2_asset_title" = "添加路印二層資產";
+"L2_L1_add_L2_asset_subtitle" = "您希望如何添加二層資產？";
+"L2_L1_reminder_description" = "您的二層資產不足，但您的一層資產是充足的。您可以通過激活一層來自動激活二層。";
+"L2_L1_reminder_title" = "您可以同時激活一層和二層";
+"L2_L1_reminder_subtitle" = "通過激活基於合約的一層智能錢包，您將能夠擁有更高級的安全功能，如社交恢復、緊急時鎖定賬號、設置每日交易限額等。您還將能夠使用 Dapp 服務和一層代幣轉賬。";
+
+"L2_L1_acknowledege_title" = "自動激活確認";
+"L2_L1_acknowledege_description" = "路印將在您的二層賬號收到資金後自動激活您的賬號。扣除錢包激活費後，剩餘資產將在二層可用。";
+"L2_L1_acknowledge_pick_up_activation_token" = "選擇要激活的代幣";
+
+"L2_L1_L2_receive_warning" = "僅將 %@ 發送到此充值地址";
+"L2_L1_card_activating" = "正在激活";
+"L2_L1_activating_in_progress_title" = "正在激活";
+"L2_L1_activating_in_progress_subtitle" = "您已選擇使用 %@ 來激活帳戶。在二層收到資金後，路印會自動為您激活。或者，如果您尚未完成所需的代幣充值，您可以在訂單過期後使用其他代幣重新啟動激活流程。";
+"L2_L1_buy_with_card_title" = "用銀行卡購買";
+"L2_L1_buy_with_card_description" = "您可以使用銀行卡直接在路印上購買加密貨幣。";
+"L2_L1_success_confirmation_title" = "確認";
+"L2_L1_success_subtitle" = "請確認您理解：";
+"L2_L1_success_description" = "創建錢包後，請勿卸載應用程序。這樣做會刪除您的私鑰，並且恢復可能會很昂貴，因為它需要以太坊一層的 Gas 費用。";
+"L2_L1_success_description_subtitle" = "出於安全原因，我們不會將您的私鑰保存在我們的雲端中。";
+"L2_L1_success_I_understand_title" = "我明白我對我的錢包的安全性負責。";
+"L2_L1_old_activate_l2_activate_first" = "您還沒有激活以太坊賬號，請先激活它。";
+"L2_L1_old_activate_l2_isRecoverActive" = "您還沒有激活以太坊賬號。";
+"L2_L1_old_activate_l2_waiting_deposit" = "您的以太坊賬號激活正在等待充值，請先充值。";
+"L2_L1_alert_activateL1_title" = "激活賬號";
+"L2_L1_alert_activateL1_message" = "您需要激活 %@ 的一層賬號。";
+"L2_L1_alert_activateL2_title" = "激活賬號";
+"L2_L1_alert_activateL2_message" = "您需要激活 %@ 的二層賬號。";
+"L2_L1_alert_activationInProgress_title" = "正在激活";
+"L2_L1_alert_activationInProgress_message" = "路印正在激活您的 %@ 賬號。這可能需要一些時間，請耐心等待此過程完成。";
+"L2_L1_alert_activationFailed_title" = "自動激活失敗";
+"L2_L1_alert_activationFailed_message" = "賬號無法激活。請聯繫官方尋求幫助，不要卸載該應用程序。";
+//<!-- AMM -->
+"amm_title" = "AMM流動性";
+"amm_title_msg" = "提供流動性，即可賺取每筆閃兌 0.20% 交易手續費。";
+"amm_title_msg2" = "流動性提供者（LP）賺取所有閃兌的交易手續費(0.20%)。每個LP的利潤與他/她池子份額成正比。對於特定的AMM池，LP還可以獲得LRC和其他代幣的流動性挖礦獎勵。";
+"amm_in" = "入金";
+"amm_out" = "出金";
+"amm_in_out" = "流動性";
+"amm_in_out_details" = "明細";
+"amm_all_money" = "總持倉";
+"daily_income" = "年利率";
+"amm_my_lptoken" = "我的LP Token";
+"amm_all_lptoken" = "總LP Token";
+"me_s" = "我的 %@";
+"amm_all_s" = "總 %@";
+"amm_my_proportion" = "我的池子份額";
+"amm_do_layer" = "* 僅適用於路印二層";
+"mining" = "挖礦";
+"action_need_pay" = "此操作需要付款";
+"walletconnect" = "WalletConnect";
+"walletconnect_protocol" = "WalletConnect協議支持該服務 >";
+"walletconnect_success_msg" = "WalletConnect已連接";
+"walletconnect_dis" = "斷開連接";
+"type" = "類型";
+"amm_lp_count" = "LP數量";
+"wallet_connect_request_connect" = "請求連接您的錢包";
+"wallet_connect_connected" = "已連接您的錢包";
+"send_transaction" = "發送交易";
+"history" = "記錄";
+"amm_in_confirm_two" = "確定將 %@ 存入池子？";
+"amm_out_confirm_two" = "確定從池子取出 %@ ？";
+"fee_amm" = "池子費用";
+"official_reward" = "官方獎勵";
+"withdrawal_reward" = "提現獎勵";
+"order_reward" = "訂單獎勵";
+"swap_reward" = "閃兌獎勵";
+"amm_reward" = "AMM獎勵";
+"price_about" = "價格";
+"stake" = "質押";
+"lptoken_notify" = "當您為資金池提供流動性時，資金池會鑄造相應的LP Token，表示您的資產在資金池中的比例";
+"yes" = "是";
+"no" = "否";
+"swap_records_msg" = "%@ 兌換成 %@";
+"amm_in_out_record2" = "記錄";
+"all_rewards" = "總獎勵";
+"mining_my_reward" = "我的獎勵";
+"amm_my_pool" = "我的流動性頭寸";
+"recommend" = "推薦";
+"amm_all_money_msg" = "您所有流動性頭寸的當前價值";
+"rewards" = "獎勵";
+"amount_of_funds" = "流動性";
+"amm_join_type" = "AMM入金";
+"amm_exit_type" = "AMM出金";
+"pre_pay_fee" = "預付費用";
+"refund_fee" = "退款費用";
+"send_redpacket_type" = "發送紅包";
+"receive_redpacket_type" = "紅包提現";
+"quotation" = "市場";
+"fee_rewards" = "費用獎勵:";
+
+"new_activity" = "新活動";
+"announcement_center" = "新公告";
+"new_pairs" = "新交易對";
+"will_open" = "即將推出  ";
+"opening" = " 挖礦  ";
+"end" = "  已結束  ";
+"activity_time" = "時間: %@";
+"mining_rewards" = "獎勵";
+"amm_volume" = "交易量";
+"liquidity_time" = "活動時間:";
+"pay_use_layer2" = "使用路印二層幣種";
+"pay_with_layer2" = "路印二層支付";
+"pay_with_layer1" = "以太坊一層支付";
+"pay_with_arbitrum" = "支付";
+
+"pay_with_layer1_switch_1" = "以太坊一層支付，更改為 ";
+"pay_with_layer1_switch_2" = "路印二層";
+"pay_with_layer2_switch_1" = "路印二層支付， 更改為 ";
+"pay_with_layer2_switch_2" = "以太坊一層";
+"gas_price_normal" = "正常: %@ GWEI, < 5分鐘, 更改為 ";
+"gas_price_normal_suffix" = "最快";
+"gas_price_fast" = "最快: %@ GWEI, < 30秒, 更改為 ";
+"gas_price_fast_suffix" = "正常";
+
+"activite_ranking" = "· 交易排名 ·";
+"activite_your_trade" = "您的交易量: %@";
+"activite_your_ranking" = "您的排名：";
+"activite_rank_before" = "No.%@";
+"activite_rank_after" = "不在前 %@";
+"trade_vol" = "交易量";
+"ranking" = "排名";
+"fee_rewards2" = "費用獎勵";
+"mining_rewards2" = "挖礦獎勵";
+"amm_in_totry" = "AMM 入金";
+"you_pay" = "您支付";
+"you_get" = "您獲得";
+"activite_total_rewards" = "獎勵>";
+"ranking_wait" = "即將推出";
+"amm_other" = "其他";
+"asset_not_found" = "您沒有相應的資產";
+"not_found_qrcode_info" = "未找到信息";
+"mining_will_open" = " 挖礦即將推出 ";
+"mining_opening" = "挖礦 ";
+"mining_end" = " 挖礦已結束";
+"dialog_yes" = "是";
+"dialog_no" = "否";
+
+"Hide" = "隱藏";
+
+"fee_is" = "費用是 %@";
+"red_package" = "紅包";
+"rp_can_withdraw" = "提現";
+"rp_send" = "發送紅包";
+"rp_i_send" = "已發送";
+"rp_i_receive" = "已收到";
+"rp_private" = "私有紅包";
+"rp_public" = "公開紅包";
+"rp_relay" = "接力紅包";
+"rp_public_msg" = "每個人都可以看到公開紅包並嘗試分一杯羹";
+"rp_count" = "數量";
+"rp_input_count" = "數量";
+"send_time" = "發送時間";
+"send_now" = "現在發送";
+"rp_money_to_rp" = "準備紅包";
+"rp_expired_msg" = "紅包24小時後過期，未領取的金額將在1天內退回。";
+"rp_best_wishes" = "最好的祝福";
+"rp_balance" = "紅包餘額";
+"feeling_lucky" = "錦鯉大獎";
+"rp_type_normal" = "相同數量";
+"rp_amount_each" = "每個數量";
+"rp_one" = "";
+"rp_set_name" = "更改簽名";
+"rp_receive_details" = "顯示明細 >";
+"rp_help_me" = "分享紅包";
+"rp_help_me_msg" = "接力紅包分享給他人，別人獲得多少，分享者也獲得多少。";
+"waiting" = "正在等待...";
+"transfer_to_L1_msg" = "如果您轉到交易所地址，請注意：\n1：確保交易所支持合約充值；\n2：在轉賬成功之前，不要將二層的同一個代幣再次轉入相同的一層地址。";
+"transfer_to_L2_msg" = "您可以從二層轉賬到任何非託管的以太坊錢包。但是，如果您轉賬到託管錢包（比如有交易所託管的），請確保它們允許用戶與路印二層進行交互。";
+"normal_withdraw_msg_colon" = "正常";
+"fast_withdraw_msg_colon" = "快（~15 秒）:";
+"my_redpacket" = "我的紅包";
+"rp_normal" = "普通紅包";
+"rp_normal_msg" = "每個紅包領取金額一樣。";
+"rp_lucky" = "拼手氣紅包";
+"rp_lucky_msg" = "每個紅包隨機領取金額。";
+"rp_choost_type" = "選擇紅包類型";
+"main_hot" = "火爆";
+"amm_mining_rewards_total" = "當前/總挖礦獎勵";
+"rp_open" = "打開";
+"rp_invite_frien" = "邀請朋友";
+"rp_use_ens" = "使用ENS";
+"rp_use_sign" = "使用簽名";
+"rp_start" = "開始";
+"rp_receive_end" = "紅包已被領完";
+"rp_relay2" = "接力";
+"rp_lucky2" = "拼手氣";
+"rp_total_amount" = "總";
+"rp_received_finish" = "結束";
+"rp_received_pending" = "打開";
+"rp_received_notstart" = "還沒開始";
+"rp_has_received" = "已領取";
+"walletconnect_msg_default" = "默認格式，更改為 ";
+"walletconnect_msg_utf8" = "UTF-8格式, 更改為 ";
+"walletconnect_had_disconnect" = "walletconnect未連接";
+"wc_connect_failed" = "連接失敗，請重試";
+"utf8_format" = "UTF-8格式";
+"default_format" = "默認格式";
+"total_amount" = "總";
+"input_you_search_token" = "輸入幣種進行搜索";
+"connect_success" = "成功連接。";
+"amm_join_fee" = "AMM入金費用為 %@";
+"rp_msg" = "一個紅包，勝過千言萬語。現在您可以使用任何代幣發送紅包。與朋友和社區分享美好的祝福。\n";
+"application" = "投資";
+"rp_max_count" = "紅包最大數量為 %@";
+"rp_received_finish_2" = "紅包已領完";
+"rp_received_end" = "紅包已過期";
+"rp_private2" = "私有";
+"rp_public2" = "公開";
+
+"rp_number_max" = "紅包數量不超過 ";
+"rp_number_min" = "每個紅包至少 ;";
+"rp_private_msg" = "您的私有紅包可以通過自定義的二維碼私下分享給別人。";
+"rp_use_wallet_scan" = "掃描並使用 \"路印錢包\"打開";
+//    "left_brackets" = " &#40; ";
+//    "right_brackets" = " &#41; ";
+"send_redpacket_type" = "發送紅包";
+"receive_redpacket_type" = "紅包提現";
+"rp_start" = "開始";
+"rp_who_help_other" = "幫助";
+"rp_who_help_me" = " 幫助我";
+"no_limit" = "沒有限制，現在不支持更改";
+"long_press_drag" = "長按拖動";
+"open_time_yet" = "現在還不是開放時間";
+"rp_fast_to_receive" = "快搶";
+"feed_back_email" = "郵箱";
+"fee_deploy" = "部署智能錢包合約的Gas費（支付給以太坊網絡）。";
+"red_Packet_send_time_earlier" = "紅包發送時間不能早於現在";
+"red_Packet_send_time_exceed" = "紅包發送時間不能超過24小時";
+"dex_trade_swap_fee" = "小額費用";
+"dex_trade_fee_details_trade" = "小於 %@ 訂單的taker fee將根據當前Gas價格而變化，並且只能是已成交的訂單（maker零手續費）。提高您的訂單金額，並享受最低 %@ 的訂單。";
+"offchain_fee_updated" = "費用已更新，請重試";
+
+"protocol_fee_reward" = "協議費用分配";
+"maker_fee_reward" = "掛單返佣";
+"referrer_fee_reward" = "推薦返佣";
+"channel_fee_reward" = "渠道返佣";
+"rp_now_help_me_count_msg1" = "";//这里是空串
+"rp_now_help_me_count_msg2" = " 朋友幫我搶了紅包，拿到了 數量";
+
+"coin_details" = "介紹";
+"coin_start_time" = "開始時間";
+"coin_start_amount" = "總供給";
+"coin_start_pirce" = "開盤價";
+"coin_address" = "代幣合約地址";
+"coin_net" = "官網";
+"coin_introduction" = "介紹";
+
+"verify_face_id" = "需要驗證您的面容ID";
+"verify_touch_id" = "需要驗證您的觸控ID";
+"input_Password" = "輸入密碼";
+"face_Id_to_open" = "輕觸使用面容ID";
+"touch_Id_to_open" = "輕觸使用觸控ID";
+
+
+//EOA
+"create_loopring_wallet" = "創建 %@ 智能錢包";
+"recover_loopring_wallet" = "恢復智能錢包";
+"import_wallet_eoa" = "導入EOA錢包";
+"eoa_walletname_hint" = "1-12位數字或字母字符";
+"backup_tips" = "備份提示";
+"backup_tips_msg" = "擁有助記詞等於擁有所有資產。";
+"mnemonic_msg1" = "助記詞由英文單詞組成，請抄錄並妥善保管。";
+"backup_mnemonic" = "備份助記詞";
+"backup_mnemonic_msg1" = "請寫下助記詞，以確保備份正確。";
+"mnemonic_save_msg1" = "將您的助記詞保存在安全的地方，與任何網絡隔離。";
+"mnemonic_save_msg2" = "不要與網絡共享和存儲助記詞，例如郵箱，照片，社交應用等。";
+"backup_confirm" = "確認備份";
+"mnemonic_verify" = "確認助記詞";
+"mnemonic_verify_msg1" = "您需要檢查3個連續的助記詞來創建錢包。";
+"mnemonic_verify_msg2" = "請選擇 %@ 助記詞以確保您已正確備份";
+"backup_mnemonic_error" = "您已出錯3次，請重新備份";
+"import_wallet_use_mnemonic" = "導入錢包助記詞";
+"import_wallet_use_key" = "導入錢包私鑰";
+"import_mnemonic" = "助記詞";
+"import_privatekey" = "私鑰";
+"output_key_outline" = "離線保存";
+"output_key_outline_msg" = "請不要將任何重要信息保存在郵箱/雲存儲/記事本/IM工具等，這可能會危及資產安全。";
+"output_key_net" = "請不要通過互聯網傳輸";
+"output_key_net_msg" = "請勿通過互聯網工具進行傳輸，以免遭到黑客攻擊，造成不可挽回的資產損失。建議離線掃描錢包二維碼進行交易。";
+"output_key_tools" = "利用密碼管理工具";
+"output_key_tools_msg" = "建議使用專業的密碼管理工具來存儲和管理密碼。";
+"private_key_hint" = "請輸入私鑰";
+"et_mnemonic" = "請輸入助記詞並用空格隔開";
+"lptoken_notify" = "當您為資金池提供流動性時，資金池將鑄造相應的LP Token，表明您的資產在資金池中的比例。";
+"private_key_error" = "無效的私鑰";
+"mnemonic_invalid" = "無效的助記詞";
+"speed_fast" = "快";
+"speed_generally" = "正常";
+
+"speed_up_tx" = "加速";
+"speed_up_tx_msg" = "以最優惠的費率加速交易";
+"cancel_tx" = "取消發送";
+"cancel_tx_msg" = "向您的錢包地址轉賬 0 ETH交易";
+"speed_up_before" = "加速前";
+"speed_up_after" = "加速後";
+
+"apply_authorization" = "請求授權 ";
+
+"authorization_details" = "授權詳情 ";
+"authorization_amount" = "授權數量 ";
+"authorization_address" = "授權地址 ";
+"authority" = "授權";
+"unlimited" = "無限";
+"dex_apply_for_authorization" = "路印二層申請授權";
+
+"activite_dex" = "激活路印二層";
+"activite_dex_msg" = " 激活路印二層賬號需要一層賬號 %@ ETH  ";
+"activite_dex_msg2" = " 激活路印二層賬號需要一筆到二層賬號的轉賬 ";
+
+"edit_your_wallet_name" = "在這裡輸入名字 ";
+"account_available" = "可用的 ";
+
+"to_trade1" = "交易>>";
+"ranking" = "排名";
+"ranking_pk1" = "交易大賽";
+"favorite_add" = " + 添加收藏";
+"favorite_del" = "取消";
+"favorite_del2" = "取消收藏";
+"favorite_del3" = "取消收藏";
+"favorite_add2" = "添加收藏";
+"favorite_set" = "編輯";
+"swap_time_countdown" = "倒計時結束後會開啟閃兌";
+"no_trade_ranking_found" = "未找到交易排名";
+"favorite_edit" = "編輯收藏";
+"favorite_edit_done" = "已完成";
+"transfer_again" = "再次轉賬";
+
+
+"arbitrum" = "Arbitrum";
+"ethereum" = "以太坊";
+
+"chart_24hour" = "24小時";
+"chart_1week" = "1週";
+"chart_1month" = "1月";
+
+"only_support_same_network_contact" = "這是 %@ 錢包地址，只能添加同一個網絡的守護人。";
+
+"time_oneday2" = "24小時";
+"time_oneWeek2" = "1週";
+"time_oneMonth2" = "1月";
+
+
+"arbitrum_address_description" = "該地址僅支持Arbitrum網絡，請勿將其他網絡資產轉入。";
+
+"manage_wallet" = "管理錢包";
+"Waiting_for_Payment" = "等待充值，點擊繼續";
+"Waiting_for_Payment_title" = "等待充值";
+
+"wallet_status_creating" = "正在創建";
+"wallet_status_recovering" = "正在恢復";
+
+"transfer_warning_1" = "地址 %@ 不支持Arbitrum網絡，無法轉賬到此地址";
+"transfer_warning_2" = "請確保地址 %@ 支持Arbitrum網絡，否則您轉賬的代幣將會丟失";
+"transfer_warning_3" = "地址 %@ 不支持以太坊網絡，無法提現到該地址";
+"transfer_warning_4" = "請確保地址 %@ 支持以太坊網絡，否則您提現的代幣將會丟失";
+"transfer_warning_5" = "地址 %@ 不支持以太坊網絡，無法轉賬到此地址";
+"add_trust_guardian_warning_1" = "請確保該地址 %@ 支持 %@ 網絡";
+
+"can_not_lock" = "您守護的錢包合約版本是1.0版本，不能鎖定錢包。請通過其他守護人或官方守護人聯繫您守護的錢包並將其鎖定。";
+"others" = "其他";
+
+"network_support_pre" = "支持";
+"no_assets_yet" = "您還沒有資產，請點擊 %@";
+
+"ens_fee" = "ENS費用:";
+"bind_ens" = "綁定ENS";
+"ens_fee_title" = "錢包ENS";
+"bind_ens_nav" = "請輸入錢包ENS";
+"fee_title_suffix" = "%@ 費用";
+"confirm_pay" = "確認支付";
+"title_ens_name" = "ENS名字";
+"title_ens_fee" = "ENS費用";
+"fee_purpose" = "目的";
+"title_transaction_fee" = "費用";
+"title_ens_payment" = "付款";
+"title_ens_create_fee" = "ENS註冊費";
+"ens_binding_status_failed" = "失敗";
+"ens_binding_status_binding" = "正在處理";
+"ens_binding_status_bound" = "成功";
+"ens_binding_status_submitted" = "已提交";
+"ens_invalid_msg" = "無效的ENS";
+"wallet_create_or_recover" = "+ 創建或恢復錢包";
+"wallet_create_choose" = "選擇網絡創建錢包";
+"arbitrum_what_is" = "Arbitrum介紹?";
+"arbitrum_msg" = "Arbitrum是一個旨在提升以太坊智能合約性能的二層擴容方案。 Arbitrum在實現了高吞吐量和可擴展性的同時，還額外增加了能提高隱私性的可選功能。";
+"arbitrum_how_to_work" = "Arbitrum工作原理";
+"arbitrum_how_to_work_msg" = "Arbitrum編譯器需要將以太坊Solidity合約進行再次編譯才能在Arbitrum上運行。 Arbitrum特有的Ethbridge功能可以將 Arbitrum 和以太坊連接起來，讓用戶實現跨鏈通信以及代幣流通。在Arbitrum上，你的代碼會由你所選擇的驗證者（Validators）來運行，Arbitrum特有的AnyTrust機制保證了只要你選擇的驗證者有一個可信，那合約便能正確運行。";
+"arbitrum_additional_benefits" = "Arbitrum优势";
+"arbitrum_additional_benefits_msg" = "Arbitrum與以太坊兼容，幾乎能移植所有以太坊DApp。 Arbitrum基本將所有的運算都遷移到了鏈下，這使得運行在Arbitrum上的DApp的花費不再與它的代碼或是數據相關，有效提升了DApp的可擴展性；另外，Arbitrum允許用戶選擇DApp的運行對誰可見，保證了DApp的隱私性；最後，由於AnyTrust機制，只要所選的驗證者中有一個可信便能保證DApp準確運行，這使Arbitrum賦予了DApp極高的準確性。";
+
+"ac_check_trade_warning" = "抱歉，根據我們的使用條款，我們無法通過對您IP地址所在地區提供訂單和AMM入金服務。";
+"ac_check_regist_warning" = "抱歉，根據我們的使用條款，我們無法對您IP地址所在地區（或手機號所在地區）提供錢包註冊服務。";
+
+"counterfactual_name" = "反事實";
+"recover_not_create" = "您的以太坊一層賬號未激活，想要進行恢復操作，您需要先激活一層賬號。";
+"receiveInfo" = "恢復錢包是基於以太坊賬號激活的，所以費用包括激活費用安打恢復費用。激活費用：$ %@ 恢復費用：$ %@";
+"Reactivate" = "重新激活";
+"activate_l2" = "激活路印賬號";
+"activate_Account" = "激活賬號";
+"activate_newQR_infor_l1" = "該地址僅支持以太坊資產，請不要接收其他公鏈資產。";
+"activate_newQR_infor_l2" = "請使用路印賬號轉賬，以免資產損失。";
+"activate_newQR_message1_l1" = "到賬可能需要時間（因為上鏈需要時間）。";
+"activate_newQR_message2_l1" = "訂單過期倒計時 ";
+"activate_newQR_message3_l1" = "您也可以轉賬超過這個數量。錢包成功創建後，剩餘資產將保留在錢包中。";
+"activate_newQR_message4_l1_main" = "這個地址可以 %@，請不要轉賬其他代幣，以免資產損失。";
+"activate_newQR_message4_l1_sub" = "只收到 %@";
+
+//"activate_newQR_message1_l2" = "注意：這個地址只收到 %@，請不要轉賬其他代幣，以免資產損失。";
+"activate_newQR_only_receive_main" = "注意：這個地址可以 %@，請不要轉賬其他代幣，以免資產損失。";
+"activate_newQR_only_receive_sub" = "只收到 %@";
+
+"set_No_account_L2_transfer_message" = "收款人還沒註冊路印二層賬號，如果您正在轉賬給託管錢包（比如由交易所託管的），請確保他們允許用戶和路印二層進行交互";
+"migration_Warning" = "僅支持路印智能錢包遷移。";
+"pay_again" = "再次充值";
+"contact_us" = "聯繫我們";
+"unable_to_pay_fee" = "無法支付費用";
+"open_l2_fee" = "該費用只能使用路印二層餘額支付，請在我 > 設置 > 費用偏好 > 使用路印二層代幣中更新您的費用偏好";
+"waring_message" = "·該地址僅支持ERC20代幣。不要從其他公鏈轉賬代幣到該地址，以免資產損失。
+·錢包創建費用不會再出現在您的錢包中，這是創建錢包的費用。為了節省Gas，最好轉賬比錢包創建費用更多的資金，這樣您就可以在錢包上使用剩餘資產。";
+"lp_token_cannot_withdrawn" = "LP token無法提現。";
+"network_unstable" = "網絡連接不穩定。";
+"order_expires" = "訂單在 %@後過期，等待充值。";
+"order_expires_main" = "等待充值後訂單過期。";
+"order_expired_title" = "訂單已過期";
+"order_expired_message" = "您激活的以太坊賬號超過24小時未充值，導致訂單無效。";
+"new_l1_l2_receive" = "收款";
+"new_l1_l2_send" = "轉賬";
+"new_l1_l2_segment_control_l2" = "路印二層";
+"new_l1_l2_segment_control_l1" = "以太坊一層";
+"UnKnwon_NFT" = "未知NFT";
+"l1_activating" = "您的以太坊賬號正在激活，請稍候。";
+"approval_failed" = "審批失敗。請重新發起請求。";
+"reset_approval0" = "由於充值超過審批的數量，您需要執行以下操作: \n\n·重置審批 \n\n·設置當前審批數量";
+"reset_approval1" = "已超過每日審批額度，可通過守護人審批";
+"daily_limit_reached" = "您的每日限額已達到";
+"number_min2" = "輸入值不能低於充值數量 (最少 %@ %@)";
+
+"reset_approval_exceed_daily_quota" = "您的審批數量超過每日限額，您需要執行以下操作: \n\n·重置審批 \n\n·設置當前審批數量";
+
+"corrupted_data" = "
+    1. 請不要刪除APP。
+    2. 請不要充值或者轉賬任何代幣到該地址。
+    3. 請前往我->關於，點擊頁面下方的空白處，從彈出的日誌中複製日誌，然後發送給我們。
+";
+
+"enable_push_notification" = "啟用推送通知";
+"sed_red_pack_sensitive_words" = "檢測到敏感詞。請重新發送另一個祝福。";
+"take_a_little_time" = "因為在鏈上需要一些時間";
+"l1_receive_item1" = "用銀行卡購買";
+"l1_receive_item2" = "從我的一層賬號";
+"l1_receive_item3" = "從另一個路印二層賬號";
+"l1_receive_item4" = "從其他的一層賬號";
+"from_my_L2_account" = "從我的二層賬號";
+"from_another_wallet" = "從另一個ETH錢包或地址";
+"myL1ToMyL2" = "我的一層到我的二層";
+"myL2ToMyL1" = "我的二層到我的一層";
+"anotherL2ToMyL2" = "另一個路印二層賬號到我的二層";
+"anotherL1ToMyL1" = "從另一個一層錢包或交易所";
+
+"to_my_l2_account_send" = "到我的二層賬號";
+"to_my_l1_account_send" = "到我的一層賬號";
+"to_loopring_l2_account" = "到另一個路印二層賬號";
+"to_eth_l1_account_incl_exchange" = "到另一個ETH錢包（包括交易所）";
+"to_eth_l1_account_incl_exchange_2" = "到另一個一層賬號（包括交易所）";
+
+
+"eoa_wallet" = "EOA錢包";
+"wallet_" = "錢包";
+"binance" = "幣安";
+"huobi" = "火幣";
+"other_smar_twallet" = "其他智能錢包";
+
+"eoa_wallet_desc" = "該錢包不綁定智能合約。 （例如 MetaMask、imtoken、Ledger、Trezor 等...） ";
+"loopring_wallet_desc" = "該錢包是使用路印錢包手機APP端創建的，並與路印智能合約綁定。 ";
+"l2_not_active" = "收款人可以在您轉賬後為此地址激活路印二層賬號。 ";
+"other_smar_twallet_desc" = "該錢包與不支持路印二層的智能合約綁定。您需要將資金發送到一層賬號。";
+
+"exchange_desc" = "以下交易平台目前不支持路印二層轉賬（Binance、Coinbase 等）。您需要將資金轉到一層賬號。";
+"l2_address_origin" = "請再次確認地址類型，以確保資產不會被錯誤發送到交易所地址。";
+"l2_not_open_risk" = "此地址尚未激活路印二層賬號。請在發送前確認錢包可以訪問路印二層，否則轉賬的資金可能會丟失。";
+"address_type" = "地址類型";
+"select_address_source" = "請選擇地址來源： ";
+"eg_eoa_wallet" = "例如：路印錢包、Metamask、Coinbase 錢包、Gamestop錢包、imtoken、Ledger、Trezor ... EOA錢包 ";
+"hobi_transactions_time" = "交易需要等待24小時 ";
+"amm_pool" = "AMM池子";
+"set_your_payment_passcode" = "設置錢包密碼";
+"confirm_your_payment_passcode" = "確認錢包密碼";
+"seconds_Reacquire" = " 秒重新獲取";
+"mobile_phone_" = "手機號碼";
+"email_creation" = "郵箱創建";
+"mobile_phone_creation" = "手機創建";
+"create_wallet_desc" = "我們需要一種聯繫方式來驗證您對路印協議官方守護人的請求。 （不要使用一次性的手機號碼或郵箱地址）。如果您需要恢復或鎖定您的錢包，我們將使用此聯繫方式。";
+"enter_your_email" = "輸入您的郵箱";
+"enter_your_phone" = "輸入您的手機";
+"invitation_code" = "邀請碼";
+"invitation_code_input" = "填寫邀請碼";
+"optional" = "（ 可選的 ）";
+"invite_dode_desc" = "要獲得推薦積分，被推薦人必須首先激活以太坊一層";
+"from_an_exchange" = "從交易所";
+"from_an_exchange" = "來自交易所";
+"my_balance" = "我的餘額";
+"my_amount" = "我的金額";
+"accessRedPacket" = "訪問紅包";
+"others_" = "其他";
+"confirm_cex_support_title" = "確認中心化交易所支持";
+"confirm_cex_support" = "
+在提現之前，請與您的中心化交易所客服確認他們接受來自智能合約的充值。
+
+二層到一層的提現是通過智能合約進行的。中心化交易所充值地址可能無法自動確認充值的代幣。
+
+如果充值的代幣在 24 小時內沒有在中心化交易所地址到賬，請聯繫您的中心化交易所客服手動確認此交易。
+";
+"understand_risk" = "我理解並承認風險";
+"exceed_daily_quota_deposit_approval" = "超過每日限額充值批准";
+
+//<!-- 2FA -->
+"1fa_reset_password_fill_code" = "驗證碼將發送到 %@";
+"2fa_introduction_title" = "雙重身份驗證 (2FA)";
+"2fa_btn_sms_title" = "短信驗證";
+"2fa_btn_email_title" = "郵箱驗證";
+"2fa_btn_loopringauth_title" = "路印驗證";
+"2fa_btn_authenticator" = "身份驗證器";
+"2fa_loopringauth_info" = "路印驗證需要訪問私鑰並通過您的密碼或生物識別驗證與路印官方運營商交互。";
+"2fa_looprintauth_frozen_toast" = "為了錢包安全，需要凍結24小時倒計時。";
+"2fa_sms_auth_title_add" = "添加新的短信驗證";
+"2fa_email_auth_title_add" = "添加新的郵箱驗證";
+"2fa_sms_auth_title_delete" = "刪除短信驗證";
+"2fa_email_auth_title_delete" = "刪除郵箱驗證";
+"2fa_have_not_set_passcode" = "你還沒有設置密碼。出於安全考慮，請先添加其他的身份驗證";
+"2fa_choose_verification_title" = "選擇驗證";
+"2fa_choose_verification_title_only_official" = "官方守護人驗證";
+"2fa_choose_select_secondary_auth" = "選擇二次驗證";
+"2fa_choose_verification_subtitle" = "此驗證過程需要兩種身份驗證，路印驗證和二次驗證。";
+"2fa_choose_verification_subtitle_only_official" = "請選擇驗證，此驗證過程需要 %@ 種驗證方式。";
+"2fa_choose_one_or_empty_tip" = "請選擇 %@ 種身份驗證方式以繼續。";
+"2fa_choose_more_than_one_tip" = "需要 %@ 種身份驗證方式，請取消選中其中一種以繼續。";
+"2fa_choose_verification_loopringAuth_subtitle" = "通過您的密碼或人生物識別驗證。";
+"2fa_verification_title" = "驗證";
+"2fa_enter_email" = "輸入郵箱 %@";
+"2fa_enter_phone" = "輸入手機 %@";
+"2fa_enter_authenticator_code" = "輸入驗證碼";
+"2fa_send_email_code" = "驗證碼將發送到 %@";
+"2fa_send_phone_code" = "驗證碼將發送到 %@";
+"2fa_input_authenticator_code" = "請輸入六位驗證碼";
+"2fa_sign_button_not_sign" = "簽名";
+"2fa_sign_button_signed" = "已簽名";
+"2fa_security_verification_title" = "安全驗證";
+"2fa_change_auth_description" = "%@為您的資產增加了另一層安全性。";
+"2fa_change_auth_authenticator" = "身份驗證器為您的資產提供第二層安全保障。";
+"2fa_enable_auth_authenticator_des" = "您可以安裝驗證器應用程序來生成驗證碼。";
+"2fa_delete_forbid_description" = "您必須有 2 種身份驗證方式。您可以先添加其他可信任的驗證方式，然後禁用該方式。";
+"2fa_delete_title" = "您確定要禁用 %@ 嗎？";
+"2fa_i_understand" = "我明白";
+"2fa_recover_title" = "請輸入ENS或錢包地址";
+// https://desk.zoho.com/portal/loopring/en/newticket
+"2fa_require_count_not_satisfy_alert" = "您無法通過2FA來驗證您的身份。請向路印團隊提交工單，以提供更多信息來驗證是您本人。";
+"2fa_require_cooldown_24hours" = "您剛剛完成了一項安全敏感操作來重置路印官方身份驗證。為了保護您的資產，該賬號將被鎖定 24 小時。之後請重新檢查。";
+"2fa_add_authenticator_des" = "例如谷歌驗證器、微軟驗證器...";
+"2fa_add_authenticator_title_1" = "1. 使用身份驗證器APP掃描二維碼";
+"2fa_add_authenticator_subtitle_1" = "如果您無法掃描二維碼，您可以手動輸入賬號和密鑰到身份驗證器 APP。";
+"2fa_add_authenticator_title_2" = "2. 請輸入驗證碼";
+"2fa_add_authenticator_account" = "賬號：";
+"2fa_add_authenticator_key" = "密鑰：";
+"2fa_google_authenticator" = "谷歌驗證器";
+"2fa_pre_verify_subtitle" = "完整的驗證信息";
+"2fa_choose_verification_method" = "選擇驗證方式";
+"2fa_error_111005" = "您的 2FA 驗證已超過每日限制";
+"2fa_error_111006" = "您的驗證已過期";
+"2fa_error_111007" = "您已超過最大發送次數";
+"2fa_error_111008" = "提供的信息與您的註冊信息不一致";
+"2fa_error_111009" = "您已超過驗證嘗試次數";
+"2fa_error_111010" = "您輸入的驗證碼不正確";
+"2fa_reset_authenticator" = "更改身份驗證器";
+"2fa_security_frozen_str" = "在 之後有效";
+"2fa_card_frozen_str" = "倒計時 ";
+"2fa_recover_step_1" = "步驟1：通過通知守護人批准來恢復您的錢包。";
+"2fa_recover_step_2" = "步驟2：要開始恢復操作，我們需要驗證您的身份，以確保不會向錢包守護人發送垃圾郵件。";
+"2fa_recover_step_3" = "步驟3：請先設置錢包密碼以準備恢復。";
+"2fa_loopringAuth_freezing" = "凍結";
+"2fa_forget_loopringAuth_notice" = "通知";
+"2fa_forget_loopringAuth_notice_subtitle" = "為確保資產安全，重置密碼後您的賬戶將鎖定24小時，請稍後重試。";
+
+//
+"l2_trade" = "將 %@ 交易為 %@";
+"redeem_amm_pool" = "贖回AMM池子";
+"to_my_l1_account_u" = "到我的一層賬號";
+"to_my_l2_account_u" = "到我的二層賬號";
+"l1_receive_item2_u" = "從我的一層賬號";
+"pay_l1_transaction_fee" = "支付一層交易費用";
+"l2_paid_fee" = "二層付費/費用";
+"l2_paid" = "二層付費";
+"add_trust_address" = "添加信任地址";
+"remove_trust_address" = "刪除信任地址";
+"enable_daily_quota" = "啟用每日限額";
+"disable_daily_quota" = "禁用每日限額";
+"activate_l2_account" = "激活二層賬號";
+"new_l1_l2_activity_2" = "交易";
+"l1_transactions" = "一層交易";
+"l2_transactions" = "二層交易";
+"to_l1_account" = "一層賬號";
+"to_l2_account" = "二層賬號";
+"send_redpacket" = "發送紅包";
+"claim_redPacket" = "領取紅包";
+"recover_account" = "恢復賬號";
+"active_l1_account" = "激活一層賬號";
+"paid_by_loopring" = "由路印支付";
+"metatx_update_account" = "創建/重置二層賬號 ";
+"invest_amm_pool" = "投資 AMM 池子";
+"cant_transfer_to_yourself" = "不能轉給自己";
+"refund" = "退款";
+"exceed_daily_quota_deposit_approval" = "超過每日限額充值批准";
+"layerSwap_title" = "通知";
+"layerSwap_desc" = "LayerSwap 是第三方應用服務提供商，可幫助將代幣從交易所直接轉賬到路印二層。如果您對他們的服務有任何疑問，請查看他們的 %@。";
+"dex_deposit_tos" = "服務條款";
+"l2_receive" = "二層收款";
+"new_swap_title" = "閃兌";
+"new_orderbook_title" = "訂單本";
+"new_fiat_title" = "法幣";
+"claim_to_loopring_l2" = "領取到路印二層";
+"claim" = "領取";
+"my_redPacket" = "我的紅包";
+"my_l2_account" = "我的二層賬號";
+"lockToken_info" = "
+充值待處理：%@
+提現待處理：%@
+Maker訂單被鎖定：%@
+雙幣投資被鎖定：%@
+";
+"force_withdraw" = "強制提現";
+"force_withdraw_detail_sub" = "代幣從二層提現到一層的地址 ";
+"force_withdraw_detail_pop" = "·該功能允許用戶將其二層代幣劃轉到一層地址。目標地址必須是錢包或交易所地址。
+·此操作通常需要 30 分鐘以上才能生效，因為它需要與以太坊主網交互。請耐心等待。
+";
+
+"trust_address" = "信任地址";
+"force_Withdraw" = "強制提現";
+"force_Withdraw_subtitle" = "代幣將從二層提現到一層的地址。";
+"force_Withdraw_desc" = "如果收款人沒有激活路印二層賬號，您可以將代幣從二層提現到以太坊一層。此過程通常僅在使用路印二層將代幣發送到中心化交易所地址時才需要。由於中心化交易所無權訪問二層賬號，因此您需要執行此操作來收取代幣。 ";
+
+"force_Withdraw_confirm_warning" = "·該功能允許用戶將其二層代幣轉到一層地址。目標地址必須是錢包或交易所地址。
+·此操作通常需要 30 分鐘以上才能生效，因為它需要與以太坊主網交互。請耐心等待。";
+
+"force_Withdraw_error" = "該地址將激活路印二層賬號。出於安全原因，路印將不再允許其他用戶將代幣從其二層強制提現到一層。";
+"force_Withdraw_no_token_error" = "沒有從該地址檢測到代幣進行操作。";
+"force_Withdraw_input_place_holder" = "請輸入地址";
+"updating" = "更新";
+"fee_full_fail" = "費用拉取失敗";
+"limit_order" = "限價單";
+"limit_order_alert_body" = "用於設置您願意買入或賣出的最高或最低價格。";
+"market_order" = "市價單";
+"market_order_alert_body" = "用於以當前市場價格立即買入或賣出。";
+"add_exchange_address_to_trust" = "該地址是路印運營商，用於將代幣存入任何二層地址。如果將此地址添加到信任列表中，則對任何二層轉賬都沒有限制。請確保這是您想要的。";
+"l1_to_l2_no_exchange_address" = "向路印二層地址轉賬是通過路印運營商，然後運營商將代幣發送到二層地址；因此，您必須獲得守護人的批准才能進行此轉賬";
+"subscribe" = "申購";
+"market_order_min_quantity_alert" = "
+小額交易（低於 100 美元）會產生更高的費用。請在確認前查看費用。
+預估費用：%@
+最少收到：%@
+";
+"market_order_success" = "交易成功";
+"market_order_fail" = "交易失敗";
+"ethereum_fee" = "以太坊費用：";
+
+"delete_account" = "刪除賬號";
+"delete_account_detail" = "刪除您的賬號將永久刪除您與此錢包地址關聯的所有註冊信息。
+
+刪除後您將無法恢復您的錢包。
+
+請確保您的資產已完全轉移。";
+"confirm_delete_account" = "您確定要刪除您的賬號嗎？";
+"send_success" = "發送成功";
+"send_request" = "您的請求已收到，我們將在兩個工作日內回复。";
+"stacked_risk_title" = "什麼是通過 Lido 進行 ETH 質押？";
+"stacked_risk_sub_title" = "Lido 是由行業領先的質押提供商支持的 ETH 2.0 的流動質押解決方案。 Lido 讓用戶可以質押他們的 ETH——無需鎖定資產或維護基礎設施。
+
+當使用 Lido 在以太坊信標鏈上質押您的 ETH 時，用戶將收到一個代幣（stETH），它以 1:1 的比例代表他們在以太坊信標鏈上的 ETH。它其實是充當了將 ETH 2.0 的質押獎勵引入ETH 1.0 的橋樑。
+
+WSTETH 是 stETH 的封裝版。用戶收到代幣後，WSTETH 的總量不會改變。相反，代幣的價值會隨著時間的推移而增加，以反映獲得的 ETH 質押獎勵。";
+"risk_warning" = "我已閱讀風險警告";
+"risk_warning_2" = "需要注意的是，在以太坊 2.0 的第二階段之前，用戶無法將 WSTETH 兌換為 ETH。但是，用戶可以在各種交易所以市場價格將 WSTETH 換成 ETH。
+
+路印將提供一個池子，允許用戶直接在二層將 WSTETH 換成 ETH。當達到特定閾值時，池子將定期重新平衡。如果二層沒有足夠的資產，用戶可以隨時將其 WSTETH 代幣提現到一層，並在 Lido、Curve 或 1inch 中兌換成ETH。";
+"overview" = "總覽";
+"staking" = "質押";
+"eth_staking" = "ETH 質押";
+"stake_ether" = "質押ETH";
+"est_rate_apr" = "預估年利率";
+"my_investment" = "我的投資";
+"stake_ether" = "質押ETH";
+"your_balance_is_insufficient" = "您的餘額不足";
+
+"no_quota_available" = "路印將很快調整池子。請稍後回來申購。";
+
+"no_quota_available2" = "路印池子目前無法滿足您的全部請求。
+剩餘金額您可以選擇以下其中一種方法處理：
+· 將 WSTETH 提現到一層並通過 Uniswap、1Inch 或 Lido 進行交易。
+· 路印池子將很快重新平衡。請稍後再回來贖回。 ";
+
+"redeem" = "贖回";
+"subscribe" = "申購";
+"detail" = "明細";
+"transaction" = "交易";
+
+"max_staking_deposit" = "額度即將售罄，無法完成您的全部訂單。您現在只能使用 %@ ETH 申購。路印將很快調整池子。請稍後回來申購。";
+
+"max_staking_withdraw" = "路印池子目前無法滿足您的全部請求。您現在只能使用 %@ WSTETH 贖回。
+剩餘金額您可以選擇以下其中一種方法處理：
+· 將 WSTETH 提現到一層並通過 Uniswap、1Inch 或 Lido 進行交易。
+· 路印池子將很快重新平衡。請稍後再回來贖回。 ";
+
+"from2" = "從";
+"developer_mode" = "開發者模式";
+"developer_mode_desc" = "請輸入語言字符串 URL";
+"network_notice_defi_invest" = "抱歉，根據我們的使用條款，我們無法向您提供您所在地區的投資服務。";
+"total_earnings" = "總收益";
+"subscribe_success" = "申購成功";
+"redeem_success" = "贖回成功";
+"subscribe_failed" = "申購失敗";
+"redeem_failed" = "贖回失敗";
+"total_invest" = "總投資";
+"stake_pool_enable" = "ETH質押服務目前不可用。請繼續關注，直到池子調整完成。通常會在一個小時內準備好。 ";
+"import_language" = "導入語言";
+"log" = "日誌";
+"reset_english" = "重置英語";
+"import" = "導入";
+"stake_pool_enable" = "路印將很快調整池子。請稍後回來申購。 ";
+"earn" = "理財";
+"mint" = "鑄造";
+"deploy" = "部署";
+"tokenId" = "代幣 ID";
+"tokenId_2" = "代幣 ID";
+"swap_check_record_timeout" = "請檢查記錄中的狀態";
+"delete_account_alert_title" = "刪除賬號失敗";
+"delete_account_alert_msg" = "如果您刪除您的賬號，您錢包中的資產將無法再獲得。在刪除您的賬號之前，請務必將您的資產從錢包中轉出，以防止資產丟失。";
+"what_dual_investment_title" = "什麼是雙幣理財";
+
+"what_dual_investment_subtitle" = "雙幣理財讓您有機會在您想要的日期以您想要的價格低買或高賣加密貨幣。一旦申購，用戶無法在結算日期之前取消或贖回。
+您最好持有您的加密貨幣，並且可能需要以低於結算日市場價格的交易價格交易您的加密貨幣。加密貨幣交易面臨高市場風險。請謹慎交易。任何損失都可能無法追索。";
+
+"dual_investment_title" = "雙幣理財";
+"today" = "今天";
+"1_day" = "一天";
+
+"total_quota" = "總份額";
+"subscription_succeeded" = "申購成功";
+"subscription_succeeded_desc" = "由於路印是去中心化交易所，您的投資代幣只是被鎖定，但仍在您的賬戶中。
+交易到期時，如未達到結算價格，您將獲得利潤，同時凍結的代幣也將被解鎖；如果達到結算價格，您的投資和利潤收入將以目標價格轉換為目標代幣。";
+// eg: Invest USDC
+"dual_inves" = "投資 %@ ";
+
+//eg:(Buy LRC Low)
+"dual_inves_buy_low" = "低買 %@ ";
+
+//eg:(Sell High for LRC)
+"dual_inves_sell_height" = "高賣獲得 %@";
+
+//eg: Earn more USDC or BTC
+"dual_inves_earn" = "賺取更多的 %@ or %@ ";
+
+//eg: "Return"
+"dual_return_token" = "返還";
+
+//eg: Current BTC Price
+"dual_token_current_price" = "當前 %@ 價格";
+"dual_current_price" = "當前價格";
+
+"dual_settlement_price" = "結算價格";
+"dual_settlement_date" = "結算日期";
+
+"dual_apr" = "年利率";
+"dual_target_price" = "目標價格";
+"dual_product" = "產品";
+"dual_apr_desc" = "年利率是實時更新的。我們將使用您成功完成申購時的最新年利率。";
+"dual_target_price_desc" = "目標價格為基準價。在結算日，結算價格將與該基準價格進行比較。";
+"dual_insufficient_total_quota" = "總份額不足。";
+"dual_order_has_expired" = "申購失敗！ \n 訂單已過期。";
+"dual_exceeded_total_quota" = "超過總份額。";
+"dual_delivering" = "交付";
+
+//eg: Amount is too small (Min 100).
+"dual_amount_is_too_small" = "金額太小 (最少 %@).";
+"dual_settled" = "已結算";
+"dual_subscribe" = "申購";
+"dual_insufficinet_balance" = "餘額不足";
+//eg: Amount is too large (Max 100).
+"dual_amount_over_max" = "金額太大 (最多 %@)";
+
+"dual_risk_msg_1" = "我了解雙幣理財並非保本產品。";
+"dual_risk_msg_2" = "我了解申購的資產已被鎖定，用戶無法在結算日期之前取消或贖回。 ";
+"dual_risk_msg_3" = "我了解我應該查看可能的結算金額情況並確認申購詳情。";
+"dual_risk_msg_4" = "我已閱讀風險警告。";
+"dual_commingsoon" = "即將上線";
+"dual_subscribe_time" = "申購時間";
+"dual_days" = "天";
+
+
+//这里是nft 的
+"balance_2" = "餘額：";
+"amount_2" = "數量： ";
+"contract_address_" = "合約地址";
+"minter_" = "Minter";
+"token_id" = "代幣ID";
+"token_standard" = "代幣標準";
+"blockchain" = "區塊鏈";
+"description" = "描述";
+"refresh_nft_metadata" = "刷新元數據！ \n 我們已在排隊等待更新！ \n 請過幾分鐘再回來查看。";
+"refresh_nft_metadata_refreshing" = "元數據正在刷新...\n 您可以過幾分鐘再回來查看。";
+"hide_small_liquidity" = "隱藏小額流動性";
+"nft_self_trading" = "自買自賣";
+"nft_collectibles" = "收藏品";
+"nft_item" = "藏品";
+"nft_items" = "藏品";
+"new_trade_title" = "交易";
+
+
+//<!-- iCloud --> add from icloud branch
+"icloud_security_setting_title" = "iCloud 備份";
+"icloud_security_setting_subtitle" = "無備份";
+"icloud_introduction_title" = "iCloud 備份";
+"icloud_introduction_des1" = "啟用雲備份是免費的。您的私鑰已加密並存儲在您的 iCloud 中。";
+"icloud_introduction_des2" = "· 上傳到雲端的數據經過加密以確保安全。
+· 路印與這些雲服務的安全性無關。如果您對風險有任何擔憂，您可以隨時手動禁用此功能，然後將從雲中刪除關聯的備份。";
+"icloud_introduction_des3" = "· 上傳到 iCloud 的數據經過加密以確保安全。
+· 如果您的密鑰丟失了，您可以通過 '從 iCloud 恢復' 免費恢復您的錢包。";
+"icloud_disable_alert_title" = "未檢測到 iCloud 帳戶，或未啟用 iCloud Drive";
+"icloud_disable_alert_description" = "要使用 iCloud 恢復備份，您需要從手機設置中啟用 iCloud";
+"icloud_status_no_backup" = "無備份";
+"icloud_status_enabled" = "啟用自動備份驗證";
+"icloud_status_verifyFailed" = "自動備份驗證失敗";
+"icloud_enter_passcode" = "請輸入您的密碼";
+"icloud_enter_passcode_subtitle" = "此密碼用於雲文件加密";
+"icloud_recover_from_cloud" = "從雲端恢復";
+"icloud_recover_from_cloud_description" = "請選擇要恢復的錢包，這可以讓您免費恢復您的錢包。您將在 24 小時後重新獲得訪問權限。";
+"icloud_recover_list_button_title" = "恢復";
+"icloud_recover_list_empty" = "您沒有備份";
+"icloud_recover_decrypt_failed" = "無法解密私鑰。賬號密碼可能不正確或加密密鑰可能已損壞。請輸入正確的密碼，再試一次。";
+"icloud_recover_decrypt_subtitle" = "該密碼是雲文件備份的密碼。";
+"icloud_migrate_previous_title" = "您之前已開啟雲備份。你想重新打開嗎？";
+"icloud_recover_list_wallet_prefix" = "錢包 %@";
+"icloud_backuping" = "正在備份中...";
+"icloud_close_confirm_description" = "如果您禁用 iCloud 雲端備份，您將需要手動從 iCloud 雲端硬盤刪除備份，並且您將只能使用守護人審批恢復您的錢包，這需要支付 Gas 費。您確定要禁用 iCloud 雲端備份嗎？";
+"icloud_close_confirm_title" = "禁用 iCloud 雲端備份";
+
+//
+
+//2fa remind
+"2fa_add_guard_title" = "雙重身份驗證 (2FA)";
+"2fa_account_at_risk" = "您的賬號有風險";
+"2fa_less_than_three_options" = "您的錢包存在風險，請啟用更多的驗證方式保障安全性。為了提高安全性，建議至少啟用 2 種身份驗證。
+如果身份驗證少於 2 種，如果您丟失手機或忘記密碼，您將無法驗證您是錢包所有者。";
+"2fa_account_fix_me" = "修復";
+"2fa_verify_your_passcode" = "驗證您的密碼";
+"2fa_have_not_setup_passcode" = "你還沒有設置密碼。";
+"2fa_set_new_passcode" = "設置新密碼";
+"2fa_set_new_passcode_description" = "此密碼將用於交易和其他賬號操作。";
+"2fa_confirm_new_passcode" = "確認新密碼";
+"2fa_enabled" = "啟用";
+"2fa_account_at_risk_tip_security" = "為了提高安全性，建議啟用至少 2 種身份驗證。";
+"2fa_less_than_three_options_with_space" = "為了提高安全性，建議啟用至少 2 種身份驗證。
+
+如果身份驗證少於 2 種，如果您丟失手機或忘記密碼，您將無法驗證您是錢包所有者。";
+"2fa_change_passcode" = "更改密碼";
+"2fa_add_authenticator_save_key" = "請記下密鑰並將其存放在安全的地方。不要將其上傳到互聯網。
+如果您卸載或丟失身份驗證器，您可以使用此密鑰恢復 2FA。";
+"2fa_introduction_content" = "為了提高安全性，除了簽名驗證，建議至少啟用另外 2 種身份驗證來執行以下操作：
+· 恢復錢包
+· 重置密碼
+
+請先確認您的密碼再繼續";
+"2fa_introduction_info_content" = "為了提高安全性，除了簽名驗證，建議至少啟用另外 2 種身份驗證來執行以下操作：
+· 恢復錢包
+· 重置密碼";
+"2fa_verify_to_upgrade_description" = "為了保障您賬號的安全性，我們需要密碼驗證";
+"2fa_introduction_mask_description" = "點擊啟用這些身份驗證方式來提高安全性";
+//add order orderbook
+"orderbook_order_processing" = "正在處理";
+"orderbook_order_processted" = "已處理";
+"orderbook_order_cancelled" = "已取消";
+
+//ramp
+"buy_with_ramp" = "用Ramp購買";
+"buy_with_banxa" = "用Banxa購買";
+"buy_with_card_desc" = "用Ramp和Banxa購買加密貨幣";
+"buy_with_other_wallet" = "使用路印錢包轉賬";
+"buy_with_receive_l2" = "從二層錢包收款";
+
+//active
+"until_next_check" = "直到下次進入";
+
+//transfer
+"transfer_l1_send" = "一層轉賬";
+"transfer_l2_send" = "二層轉賬";
+"transfer_select" = "選擇";
+//eg: The currency ETH will not be transferred to the contract address 0x00000";
+"transfer_alert_message" = "貨幣 %@ 不能轉到合約地址  %@";
+"transfer_alert_not_supported" = "代幣不支持";
+
+//管理钱包
+"manager_wallet_layer2" = "二層";
+"manager_wallet_delete_alert_title" = "您確定您想要刪除錢包";
+"manager_wallet_delete_alert_message" = "刪除錢包後，只有恢復錢包才能使用錢包。";
+
+//alert title
+"alert_title_clear_data" = "清除數據";
+"alert_title_corrupted" = "錢包數據損壞";
+"alert_title_corrupted_data" = "數據損壞";
+
+//tableViewFoot loading
+"tableview_foot_looding" = "加載中 ... ";
+
+"2fa_signature_auth_passcode" = "簽名驗證（通過密碼）";
+"create_novice_guide" = "新手指南";
+"creation_fee" = "創建費用";
+"nfts" = "NFTs";
+"records_my" = "我的";
+"verification_code_sent_to_user" = "驗證碼已發送到 %@";
+"create_wallet_pay_qr" = "/2 只轉 %@ 到這個充值地址。錢包創建費用不會出現在您的錢包中，這是創建錢包的費用。為了節省Gas，最好發送比錢包創建費用更多的資產，這樣您就可以在錢包上使用剩餘的資產。";
+"create_wallet_rewardpoint" = "您的錢包已成功創建，積分為 %@";
+"create_wallet_rewardpoint_desc" = "註冊錢包，您將獲得 %@ 積分";
+
+
+"push_setting_title" = "打開推送通知";
+"push_setting_message" = "接收交易和錢包安全相關信息的通知。";
+"push_setting_cancel" = "不允許";
+"push_setting_allow" = "允許";
+"order_book_cancel_all_order" = "取消所有訂單成功";
+"order_book_cancel_order" = "取消訂單成功";
+"2fa_require_count_not_satisfy_alert_sub" = "提交工單";
+"2fa_button_title" = "提交";
+"2fa_email_sent" = "郵件已發送";
+"2fa_sent_code" = "驗證碼已發送";
+"2fa_enter_code" = "輸入您的驗證碼";
+"2fa_loopring_address" = "路印(%@)";
+"2fa_set_passcode_alert_continue" = "去設置";
+"2fa_set_login_alert_continue" = "確認";
+"2fa_time_emaining" = "剩余時間：";
+"2fa_submit_created" = "您是否已經充值？";
+"tost_copied" = "已複製";
+
+"order_book_error_1" = "未創建錢包";
+"order_book_error_2" = "金額太小";
+"order_book_error_3" = "金額太大";
+"order_book_error_4" = "未知錯誤";
+"order_book_error_5" = "二層未創建";
+"order_book_error_6" = "錢包餘額不足";
+"active_ask_friend" = "邀請朋友";
+"active_ask_friend_desc" = "邀請已經有路印二層的朋友轉賬資金到您的賬號";
+"feed_back_report" = "請提交反饋。";
+
+"gro_desc" = "GRO投資描述";
+"gro_message" = "這是GRO描述 ...... ";
+
+"new_asset_guide_title" = "路印二層";
+"new_asset_guide_desc" = "App (loopring.io/#/layer2) 是路印團隊運營的高性能、非託管交易（AMM 和訂單簿）和支付平台。它基於路印協議構建，由路印中繼運行，並提供以太坊上最絲滑的交易體驗。零Gas，交易速度快，百分百安全。無論您是進行單筆閃兌、每分鐘 30 筆交易、在 AMM 池子或訂單簿中提供流動性，或者將代幣轉賬給 1 位 或 100 位朋友，路印二層都是二層賽道的標桿。";
+
+"new_asset_wallet" = "前往錢包";
+"gwei" = "GWEI";
+
+"l1_receive_title" = "一層收款";
+"expired_warning" = "提示";
+
+"create_wallet_visit" = "我有路印錢包";
+"2fa_change_auth" = "更改 %@";
+"expired_need_help" = "需要幫助？查看常見問題？";
+"debug_log_alert_title" = "調試日誌";
+"payment_style_available_pay" = "可用的： %@ 支付： %@";
+"payment_style_available_pay_using" = "可用的： %@ (使用 %@ 支付)";
+"payment_style_using" = "使用 %@ 支付";
+"transfer_fee_discount" = "折扣";
+"tost_create_wallet" = "請創建錢包";
+"tost_fee_load_failed" = "費加載失敗，請重試";
+"tost_exchange_load_failed" = "獲取平臺信息失敗";
+"tost_generateeddsa_failed" = "生成eddsa失敗";
+"tost_dexopenAccount_failed" = "二層開戶失敗";
+"tost_l2_toke_list_empty" = "獲取二層token列表為空";
+"tost_twoFactorInfo_nil" = "twoFactorInfo 為空";
+"tost_unsupport_style" = "不支持 %@ 類型";
+"orderbook_market_not_support" = "這個交易對目前暫不支持";
+
+"alert_verb_content_send" = "轉出";
+"alert_verb_content_send_2" = "轉賬";
+"alert_verb_content_receive" = "收款";
+"alert_verb_content_send_red_packet" = "發紅包";
+"alert_verb_content_claim_red_packet" = "拆紅包";
+"alert_verb_content_swap" = "兌換";
+"alert_verb_content_place_order" = "下訂單";
+"alert_verb_content_scan_qr_code" = "掃描二維碼";
+"alert_verb_content_invest" = "投資";
+"alert_verb_content_send_token" = "轉賬";
+"alert_verb_content_receive_token" = "收款";
+"alert_verb_content_send_nft" = "NFT轉賬";
+"alert_verb_content_dapp" = "DApp";
+"alert_verb_content_bind_ens" = "綁定ENS";
+"alert_verb_content_add_guardians" = "添加守護人";
+"alert_verb_content_manage_guardians" = "管理守護人";
+//
+"set_up_fee_desc" = "創建費是創建錢包的gas費用。以下金額不計入您的余額。建議發送超過創建費的金額，以便您在錢包準備好後有可用的資產。";
+"re_creation" = "重新創建意味著您之前的錢包將失效。如果您選擇重新創建錢包，您之前地址上的資產將永遠丟失。請謹慎操作。如果您選擇重新創建錢包，請輸入 首都同意確認。";
+"next_update_time" = "下次更新 %@ 刷新";
+"expired_alert_message" = "很遺憾時間已過期。如果您已將資產轉移到此地址，請不要卸載此應用。";
+
+//
+"address_type_exchange" = "交易所";
+
+"lock_result_desc" = "發生錯誤，請稍後重試";
+"lock_result_try_again" = "重試";
+
+//set money type
+"currency_cny" = "人民幣";
+"currency_usd" = "美元";
+"currency_hkd" = "港幣";
+"currency_jpy" = "日元";
+"currency_eur" = "歐元";
+"currency_krw" = "韓元";
+"currency_gbp" = "英鎊";
+"currency_cad" = "加元";
+"currency_aud" = "澳元";
+
+//
+"my_investments_no_data" = "您可以在這裏追蹤您的活躍投資。";
+"trust_desc" = "通過信任一個聯系人，您可以立即向他/她發送無限的每日配額。";
+"you_not_trusted" = "你不信任這個聯系人";
+"trusted_no_consume" = "每日無限額度";
+"my_red_packet" = "我的紅包";
+"add_guardian_tip_risk" = "危險";
+"add_guardian_tip_very_security" = "非常安全";
+"address_can_not_added_guardian" = "您提供的錢包地址目前無法添加為守護人，成為守護人需要以太坊L1交互，請先激活該地址的L1賬戶";
+"you_trusted" = "您信任此聯系人";
+
+//新遷移
+"recover_smart_wallet" = "恢復錢包";
+"migrate_to_new_device_title" = "將錢包遷移到新設備";
+"migrate_install_new_desc" = "在你的新設備上安裝路印錢包";
+"migrate_choose_have_wallet_desc" = "選擇我有路印錢包 > 遷移錢包";
+"migrate_generate_qrcode_btn" = "生成二維碼";
+"migrate_not_take_screenshot_title" = "不要截圖";
+"migrate_not_take_screenshot_desc" = "為安全起見，請不要截取遷移二維碼。截取的圖片可能會被您手機的雲存儲或第三方應用程序訪問，可能導致您的資產丟失。" ;
+"migrate_scan_desc" = "用你的新設備掃描二維碼";
+"migrate_risk_warning_desc_1" = "在您的新設備上輸入密碼以確認遷移。";
+"migrate_risk_warning_desc_2" = "遷移後，此設備上的錢包數據將被刪除。";
+"migrate_wallet" = "遷移錢包";
+"migrate_wallet_migrating" = "遷移";
+"migrate_wallet_migration_completed" = "遷移完成";
+"migrate_wallet_go_to_wallet" = "轉到錢包";
+"migrate_scan_qrcode_to_migrate_desc" = "掃描舊設備上的二維碼遷移錢包。";
+"recover_input_word" = "recover my wallet";
+
+
+//新恢復
+"recover_loopring_provides_desc" = "路印提供了 2 種方法來恢復你的錢包。";
+"recover_method1" = "方法 1";
+"recover_method2" = "方法 2";
+"recover_notice" = "通知";
+"recover_notice_warning_desc" = "當您恢復您的錢包時，您的所有本地數據都將被清除，並且您將退出您的帳戶。重新訪問您的帳戶的唯一方法是恢復您的錢包。
+您確定要找回您的錢包嗎？要確認，請在下方輸入'recover my wallet'。
+";
+"recover_input_word" = "recover my wallet";
+"recover_risk_information_desc" = "當您決定恢復錢包時，應用程序將被初始化。您需要按照以下步驟完成恢復操作。";
+"recover_choose_have_wallet_desc" = "選擇我有一個路印錢包 > 從雲端恢復或從監護人恢復";
+"recover_from_cloud" = "從雲端恢復";
+"recover_from_guardian" = "從監護人那裏恢復";
+"recover_enabling_cloud" = "啟用雲備份是免費的。您的私鑰已加密並存儲在您的 iCloud 中。";
+"recover_enabling_guardian" = "支付區塊鏈網絡費用並通過您的監護人找回您的錢包。";
+
+//新密码
+"psd_alphanumeric_menu" = "自定義字母數字代碼";
+"psd_digit_menu" = "6 位數字代碼";
+"psd_change_passcode" = "更改密碼";
+"psd_weak_hint" = "弱";
+"psd_normal_hint" = "普通";
+"psd_strong_hint" = "強";
+"psd_switch_passcode_type" = "更改密碼類型";
+"psd_passcode_option_btn" = "密碼選項";
+"psd_set_passcode_desc" = "此密碼將用於交易和其他賬戶活動。";
+"psd_length_hint" = "6-20個字符，使用字母、數字或符號組合";
+"psd_use_touch_id" = "使用 Touch ID";
+"psd_use_face_id" = "使用 Face ID";
+
+// Analytics Settings
+"settings_analytics" = "分析";
+"settings_analytics_description" = "允許路印協議收集應用崩潰、按鈕點擊、頁面瀏覽等信息，優化應用的用戶流量和性能。";
+
+//lock screen
+"lock_screen_more" = "更多";
+"token_locked_details" = "凍結詳情";
+"token_locked_details_deposit" = "充值待處理";
+"token_locked_details_withdraw" = "提现待处理";
+"token_locked_details_makerOrder" = "Maker訂單被鎖定";
+"token_locked_details_dual_investment" = "雙幣理財";
+
+// Orderbook new cancel all alert
+"orderbook_cancel_all_alert_description" = "確認取消所有訂單？";
+"orderbook_active_orders_depth" = "深度";
+
+//settings
+"settings_appearance" = "外觀";
+"settings_appearance_dark" = "深色";
+"settings_appearance_light" = "淺色";
+"settings_appearance_system" = "跟隨系統設置";
+"settings_appearance_system_description" = "激活後，日間或夜間模式將跟隨系統設置。";
+
+// Migration Bugfix
+"migration_qr_code_expired_alert_title" = "遷移二維碼已過期！";
+"migration_qr_code_expired_alert_description" = "請在您的舊設備上打開應用程序 Loopring Wallet並重新生成遷移二維碼。如果您無法重新生成，則需要使用守護人或云備份來恢復錢包。";
+// Activation
+"activation_view_progress" = "查看進度";
+
+// Migration Bugfix
+"migration_qr_code_expired_alert_title" = "遷移二維碼已過期！";
+"migration_qr_code_expired_alert_description" = "請在您的舊設備上打開 Loopring Wallet應用程序並重新生成遷移二維碼。如果您無法重新生成二維碼，則需要使用守護人或云備份來恢復錢包。";
+"icloud_recovery_qr_code_expired_alert_title" = "錢包恢復失敗！";
+"icloud_recovery_qr_code_expired_alert_description" = "由於雲端備份的錢包所有者或私鑰已更改，無法使用雲備份功能恢復您的錢包。請使用'從監護人恢復'功能恢復錢包。";
+
+//rocket pool
+"staking_list_via_lido" = "通過 Lido";
+"staking_list1_via_lido" = "質押 ETH 獲得 WSTETH";
+
+"staking_list_via_rocket_pool" = "通過 Rocket Pool";
+"staking_list1_via_rocket_pool" = "質押 ETH 獲得 RETH";
+
+"nav_title_rocket" = "什麼是用 Rocket Pool 質押 ETH 質押？";
+"nav_pop_contect_rocket" = "Rocket Pool 是第一個真正去中心化的以太坊質押池。Rocket Pool 的流動性質押代幣讓任何人無需運行質押軟件或鎖定資產即可輕鬆獲得質押獎勵。Rocket Pool 通過執行層上的智能合約處理所有以太坊驗證器操作。
+
+在您的錢包中獲取並持有 rETH 意味著你在抵押 ETH。 rETH 的價值相對於 ETH 不斷增加，表示每天收到的質押獎勵";
+
+"nav_pop_contect_risk_rocket" = "Loopring 將提供一個池子，允許用戶直接在路印二層上用 rETH 換取 ETH。池子在達到特定閾值時會定期重調整。如果路印二層上沒有足夠的庫存，用戶可以隨時提取他們的rETH 代幣到以太坊一層並在 Rocket Pool、1Inch 等交換 ETH";
+
+"rocketpool_redeem_tips" = "Loopring 礦池目前無法完成您的全部請求。\n您可以選擇以下方法來獲取剩餘金額：\n
+· 將rETH提現至以太坊一層，通過Rocket Pool、1Inch等進行交易。
+· Loopring 礦池將很快重調整。請稍後再回來兌換。";
+
+"rocketpool_redeem1_tips" = "Loopring 礦池暫時無法完成您的全部請求。您現在只能贖回 %@ rETH 。\n剩餘金額您可以選擇以下方法進行兌換：\n
+· 將rETH提取到以太坊一層，通過Rocket Pool、1Inch等進行交易。
+· Loopring 礦池將很快重調整。請稍後再回來兌換。";
+
+"reth_stake_title" = "Rocket Pool";
+
+
+//swap less than $100
+"swap_less_than_100_warning" = "註意";
+
+
+
+
+
+
+
+
+
+
+
+
+// Keep it at the bottom of the file.
+// ==== 👇 Multi-language settings, do not change
+"language" = "語言";
+"en" = "English";
+"zh-Hans" = "中文简体";
+"zh-Hant" = "中文繁體";
+"tr" = "Türkçe";
+"pt-PT" = "Português";
+"fr" = "Français"; //记得修改。app中多语言选项、图形验证码语言
+"jp" = "日本語";
+"español" = "Español";
+"developModel" = "DevelopModel";
+//====== 👆 Multi-language settings, do not change
+
+
+
+
