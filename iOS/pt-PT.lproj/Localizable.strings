@@ -462,7 +462,7 @@
 "account_progressing" = "A transação foi enviada. O tempo de transação depende da rede.";
 "speed_fast" = "Rápido";
 "speed_generally" = "Normal";
-
+"speed_standard" = "Standard";
 //<!-- Guiding -->
 "free_activation" = "Ativar";
 "free_activation2" = "Ativar";
@@ -1039,8 +1039,6 @@ Ao ativar a conta Loopring L2, você conseguirá utilizar todos recursos interes
 "lptoken_notify" = "Quando você fornece liquidez para o pool de reserva, o pool de reserva vai fazer o mint dos tokens de capital próprio do LP correspondente. Isto indica a proporção de seus ativos no pool de reserva.";
 "private_key_error" = "Chave privada inválida";
 "mnemonic_invalid" = "Frase Secreta de Recuperação Inválida";
-"speed_fast" = "Rápido";
-"speed_generally" = "Normal";
 
 "speed_up_tx" = "Acelerar";
 "speed_up_tx_msg" = "Acelere transações com as melhores taxas";
@@ -1915,20 +1913,19 @@ Ao receber e guardar rETH em sua carteira significa que você está fazendo stak
 
 
 //dual beginner model
-"dual_beginner_step1" = "Passo 1/5:";
-"dual_beginner_step1_desc" = "Selecione um token para vender ou comprar";
+"dual_beginner_desc" = "Selecione um token para vender ou comprar";
 
-"dual_beginner_step2" = "Passo 2/5:";
-"dual_beginner_step2_desc" = "Escolha para vender ou comprar por seu preço desejado no futuro";
+"dual_beginner_step1" = "Passo 1/4:";
+"dual_beginner_step1_desc" = "Escolha para vender ou comprar por seu preço desejado no futuro";
 
-"dual_beginner_step3" = "Passo 3/5:";
-"dual_beginner_step3_desc" = "Escolha o Preço Alvo e Data de Liquidação";
+"dual_beginner_step2" = "Passo 2/4:";
+"dual_beginner_step2_desc" = "Escolha o Preço Alvo e Data de Liquidação";
 
-"dual_beginner_step4" = "Passo 4/5:";
-"dual_beginner_step4_desc" = "Insira Quantia para Inscrição";
+"dual_beginner_step3" = "Passo 3/4:";
+"dual_beginner_step3_desc" = "Insira Quantia para Inscrição";
 
-"dual_beginner_step5" = "Passo 5/5:";
-"dual_beginner_step5_desc" = "Verificar Cenários Vencedores";
+"dual_beginner_step4" = "Passo 4/4:";
+"dual_beginner_step4_desc" = "Verificar Cenários Vencedores";
 
 "dual_beginner_mode_title" = "Modo Iniciante";
 "dual_beginner_mode_desc" = "Passo-a-passo para vender alto ou comprar baixo";
@@ -1941,9 +1938,30 @@ Ao receber e guardar rETH em sua carteira significa que você está fazendo stak
 "settle_date_title" = "Na Data de Liquidação";
 "settle_price_desc" = "Índice de Preço é derivado de algumas corretoras líderes.";
 "token_locked_hint" = "Seu token de investimento será bloqueado até a Data de Liquidação.";
+"dual_beginner_sell_high" = "Vender %@ Alto";
+"dual_beginner_buy_low" = "Comprar %@ Barato";
+"dual_beginner_sell_high_desc" = "Você receberá USDC ou USDT";
+"dual_beginner_buy_low_desc" = "Você pode investir USDC ou USDT";
 
+"dual_delivering_desc" = "Calcularemos o retorno na Data de Liquidação as 08:00 UTC baseado em seu Preço de Liquidação e Preço Alvo. Você receberá seus retornos dentro de 6 horas.";//new add
+"dual_beginner_return_token_type" = "Tipo de Token de Retorno";
+"dual_professional_desc" = "Selecione um token para vender ou comprar";
+"invest" = "Investir";
+"dual_price_desc" = "Preço Atual é baseado em USDT derivado de algumas corretoras líderes.";
 
+// Fee
+"fee_settings_advanced" = "Avançado";
+"fee_settings_advanced_title" = "Customizar Taxa";
+"fee_settings_process_anyway_description" = "Não foi possível estimar a taxa. É possível que tenha um erro no contrato e esta transação poderá falhar.";
+"fee_settings_process_anyway_button_title" = "Quero continuar de qualquer forma";
+"L2_withdraw_to_L1_navigation_title" = "Confirme o Saque";
 
+// 'normal_withdraw_msg_colon' will change from 'Normal' to 'Normal (~40 minutes):' in the next version.
+"normal_withdraw_msg_colon" = "Normal (~40 minuto(s)):";
+"40_minutes_suffix" = "(~40 minuto(s))";
+"available_colon_prefix" = "Disponível:";
+"gas_estimate_updating" = "Atualizando";
+"approve_token_description" = "Por favor espere enquanto sua conta Ethereum L1 está sendo criada. Este processo é feito na rede e pode levar vários minutos.";
 
 
 

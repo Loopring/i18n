@@ -84,8 +84,8 @@
 "ID" = "TxID";
 "memo" = "Memo";
 "gas_fee" = "Network fee";
-"gas_price" = "Gas price";
-"gas_limit" = "Gas limit";
+"gas_price" = "Gas Price";
+"gas_limit" = "Gas Limit";
 "tx_status_success" = "Success";
 "tx_status_pending" = "Pending";
 "tx_status_failed" = "Failed";
@@ -462,7 +462,7 @@
 "account_progressing" = "Your transaction has been submitted. The transaction time depends on the network.";
 "speed_fast" = "Fast";
 "speed_generally" = "Normal";
-
+"speed_standard" = "Standard";
 //<!-- Guiding -->
 "free_activation" = "Activate";
 "free_activation2" = "Activate";
@@ -667,7 +667,7 @@
 "deposited_me" = "I have deposited";
 "wallet_create_agreement2" = "Creating a wallet means you agree to ";
 "and" = "and";
-"choose_fee_type" = "Select Payment Method";
+"choose_fee_type" = "Select Token";
 
 //<!-- swap -->
 "estimate_fee" = "Trading Fee (est.)";
@@ -710,7 +710,7 @@
 "orderbook_hide_others" = "Hide Others";
 "orderbook_cancel_all" = "Cancel All";
 "orderbook_active_orders" = "Active Orders";
-"orderbook_latest_trade" = "Latest Trade";
+"orderbook_latest_trade" = "Trade History";
 "orderbook_select_side_default" = "Default";
 "orderbook_select_side_buy" = "Buy";
 "orderbook_select_side_sell" = "Sell";
@@ -923,7 +923,6 @@ By activating a Loopring L2 account, you will be able to utilize all the cool fe
 "waiting" = "Waiting...";
 "transfer_to_L1_msg" = "If you transfer to an exchange address, please note:\n1: Make sure the exchange can support contract deposits;\n2: Do not transfer the same token from L2 to the same L1 address again before the first succeeds.";
 "transfer_to_L2_msg" = "You can send on L2 to any self-custodial Ethereum wallet. However, if you are sending to a custodial wallet, (e.g. hosted by an exchange) please ensure they allow users to interact with Loopring L2.";
-"normal_withdraw_msg_colon" = "Normal:";
 "fast_withdraw_msg_colon" = "Fast (~15 seconds):";
 "my_redpacket" = "Records";
 "rp_normal" = "Normal Red Packet";
@@ -1039,8 +1038,6 @@ By activating a Loopring L2 account, you will be able to utilize all the cool fe
 "lptoken_notify" = "When you supply the liquidity pools with an equal value of two cryptocurrency tokens, you will receive LP tokens minted by the AMM pool. This indicates the proportion of your assets in the AMM pool.";
 "private_key_error" = "Invalid private key";
 "mnemonic_invalid" = "Invalid seed phrase";
-"speed_fast" = "Fast";
-"speed_generally" = "Normal";
 
 "speed_up_tx" = "Accelerate";
 "speed_up_tx_msg" = "Accelerate transactions with the best fee rate";
@@ -1558,7 +1555,7 @@ When the transaction expires, if the Settlement Price is greater than the Target
 "dual_target_price" = "Target Price";
 "dual_product" = "Product";
 "dual_apr_desc" = "APR is refreshed in real time. We will use the latest APR at the time you complete the subscription successfully.";
-"dual_target_price_desc" = "Target Price is a benchmark price. On Settlement Date, the Settlement Price will be compared against this benchmark price.";
+"dual_target_price_desc" = "Target Price is a benchmark price based on USDT. On Settlement Date, the Settlement Price will be compared against this benchmark price.";
 "dual_insufficient_total_quota" = "Insufficient Total Quota.";
 "dual_order_has_expired" = "Subscription Failed! \nThe order has expired.";
 "dual_exceeded_total_quota" = "Exceeded Total Quota.";
@@ -1896,7 +1893,7 @@ Acquiring and holding rETH in your wallet means that you are staking ETH. rETH\'
 "swap_less_than_100_warning" = "Warning";
 
 //dual invest update
-"dual_settle_days_desc" = "Days Until Settlement";
+"dual_settle_days_desc" = "Subscription Length (days)";
 "dual_if_desc" = "if";
 "dual_token_lock_hint" = "*Your token for investment will be locked until Settlement Date.";
 "dual_settle_calc_subtitle" = "Settlement Calculator";
@@ -1915,44 +1912,54 @@ Acquiring and holding rETH in your wallet means that you are staking ETH. rETH\'
 
 
 //dual beginner model
-"dual_beginner_step1" = "Step 1/5:";
-"dual_beginner_step1_desc" = "Choose a token to sell or buy";
+"dual_beginner_desc" = "Choose a token to sell or buy";
 
-"dual_beginner_step2" = "Step 2/5:";
-"dual_beginner_step2_desc" = "Choose to sell or buy at desired price in the future";
+"dual_beginner_step1" = "Step 1/4:";
+"dual_beginner_step1_desc" = "Choose to sell or buy at desired price in the future";
 
-"dual_beginner_step3" = "Step 3/5:";
-"dual_beginner_step3_desc" = "Choose Target Price and Settlement Date";
+"dual_beginner_step2" = "Step 2/4:";
+"dual_beginner_step2_desc" = "Choose Target Price and Settlement Date";
 
-"dual_beginner_step4" = "Step 4/5:";
-"dual_beginner_step4_desc" = "Enter Subscription Amount";
+"dual_beginner_step3" = "Step 3/4:";
+"dual_beginner_step3_desc" = "Enter Subscription Amount";
 
-"dual_beginner_step5" = "Step 5/5:";
-"dual_beginner_step5_desc" = "Check Winning Scenarios";
+"dual_beginner_step4" = "Step 4/4:";
+"dual_beginner_step4_desc" = "Check Winning Scenarios";
 
 "dual_beginner_mode_title" = "Beginner Mode";
 "dual_beginner_mode_desc" = "Step-by-step guide for selling high or buying low";
 "dual_professional_mode_title" = "Professional Mode";
 "dual_professional_mode_desc" = "Choose a token pair to invest";
-"dual_beginner_mode_title" = "Beginner Mode";
 "dual_return_token_type" = "Return Token Type";
 "dual_waiting_subtitle" = "Waiting for completion";
 "dual_waiting_desc" = "We will try to fulfill your subscription request within minutes. If your subscription cannot be fully completed within the time frame, the unfilled portion will be unlocked. You can return later to resubscribe.";
 "settle_date_title" = "At Settlement Date";
 "settle_price_desc" = "Index Price is derived from some leading exchanges.";
 "token_locked_hint" = "Your token for investment will be locked until Settlement Date.";
+"dual_beginner_sell_high" = "Sell %@ High";
+"dual_beginner_buy_low" = "Buy %@ Low";
+"dual_beginner_sell_high_desc" = "You will receive USDC or USDT";
+"dual_beginner_buy_low_desc" = "You can invest USDC or USDT";
 
 "dual_delivering_desc" = "We will calculate your investment return on the Settlement Date at 08:00 UTC based on the Settlement Price and the Target Price. You will receive your returns within 6 hours."; //new add
+"dual_beginner_return_token_type" = "Return Token Type";
+"dual_professional_desc" = "Choose a token to sell or buy";
+"invest" = "Invest";
+"dual_price_desc" = "Current Price is based on USDT derived from some leading exchanges.";
 
+// Fee
+"fee_settings_advanced" = "Advanced";
+"fee_settings_advanced_title" = "Customize Fee";
+"fee_settings_process_anyway_description" = "We were unable to estimate the fee. There might be an error in the contract, and this transaction may fail.";
+"fee_settings_process_anyway_button_title" = "I want to proceed anyway";
+"L2_withdraw_to_L1_navigation_title" = "Confirm the Withdrawal";
 
-
-
-
-
-
-
-
-
+// 'normal_withdraw_msg_colon' will change from 'Normal' to 'Normal (~40 minutes):' in the next version.
+"normal_withdraw_msg_colon" = "Normal (~40 minutes):";
+"40_minutes_suffix" = "(~40 minutes)";
+"available_colon_prefix" = "Available:";
+"gas_estimate_updating" = "Updating";
+"approve_token_description" = "It may take some time for this transaction to execute on-chain.";
 
 
 

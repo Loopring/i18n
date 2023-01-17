@@ -462,7 +462,7 @@
 "account_progressing" = "İşleminiz başlatıldı. Tamamlanma süresi ağın durumuna bağlıdır.";
 "speed_fast" = "Hızlı";
 "speed_generally" = "Normal";
-
+"speed_standard" = "Standard";
 //<!-- Guiding -->
 "free_activation" = "Aktiflleştir";
 "free_activation2" = "Aktifleştir";
@@ -1039,8 +1039,6 @@ Bir Loopring L2 hesabı aktifleştirerek, tüm L2 işlevlerini 100 kata kadar da
 "lptoken_notify" = "Bir havuza likidite sağladığınızda, havuz buna karşılık gelen LP tokenleri oluşturur. Bu, varlıklarınızın havuzdaki oranına karşılık düşer.";
 "private_key_error" = "Geçersiz özel anahtar";
 "mnemonic_invalid" = "Geçersiz Gizli Kurtarma Kodu";
-"speed_fast" = "Hızlı";
-"speed_generally" = "Normal";
 
 "speed_up_tx" = "Hızlandır";
 "speed_up_tx_msg" = "İşlemlerin hızını en iyi ücretlerle hızlandırın";
@@ -1555,7 +1553,7 @@ Anlaşma Zamanı geldiğinde, bazı durumlarda kripto varlıklarınızı tutman�
 "dual_target_price" = "Hedef Fiyat";
 "dual_product" = "Ürün";
 "dual_apr_desc" = "APR anlık olarak yenilenir. Katılımınız tamamlanırken en güncel APR oranı baz alınır.";
-"dual_target_price_desc" = "Hedef Fiyat stardartır. Anlaşma Tarihinde, Anlaşma Fiyatı bu hedefe göre değerlendirilir.";
+"dual_target_price_desc" = "Hedef fiyat USDT bazlıdır ve referans noktasıdır. Anlaşma Tarihi geldiğinde Anlaşma Fiyatı bu veriye göre değerlendirilir.";
 "dual_insufficient_total_quota" = "Toplam Kota Yetersiz";
 "dual_order_has_expired" = "Katılım başarısız! \nEmrin süresi doldu.";
 "dual_exceeded_total_quota" = "Kota Aşıldı.";
@@ -1913,36 +1911,55 @@ rETH almak ve cüzdanınızda tutmak ETH stakelediğinizi gösterir. rETH\'nin d
 "apr_activity" = "Etkinlik APR:";
 "apr_protocol" = "Protokol APR:";
 
-
 //dual beginner model
-"dual_beginner_step1" = "Adım 1/5:";
-"dual_beginner_step1_desc" = "Almak ya da satmak için bir token seçin";
+"dual_beginner_desc" = "Almak ya da satmak için bir token seçin";
 
-"dual_beginner_step2" = "Adım 2/5:";
-"dual_beginner_step2_desc" = "Gelecekte istediğiniz fiyat üzerinden, almayı ya da satmayı seçin";
+"dual_beginner_step1" = "Adım 1/4:";
+"dual_beginner_step1_desc" = "Gelecekte istediğiniz fiyat üzerinden, almayı ya da satmayı seçin";
 
-"dual_beginner_step3" = "Adım 3/5:";
-"dual_beginner_step3_desc" = "Hedef Fiyat ve Anlaşma Tarihi Seçin";
+"dual_beginner_step2" = "Adım 2/4:";
+"dual_beginner_step2_desc" = "Hedef Fiyat ve Anlaşma Tarihi Seçin";
 
-"dual_beginner_step4" = "Adım 4/5:";
-"dual_beginner_step4_desc" = "Katılma Miktarınızı Seçin";
+"dual_beginner_step3" = "Adım 3/4:";
+"dual_beginner_step3_desc" = "Katılım Miktarınızı Seçin";
 
-"dual_beginner_step5" = "Adım 5/5:";
-"dual_beginner_step5_desc" = "Kazanç Senaryolarını İnceleyin";
+"dual_beginner_step4" = "Adım 4/4:";
+"dual_beginner_step4_desc" = "Kazanç Senaryoları";
 
 "dual_beginner_mode_title" = "Basitleştirilmiş Mod";
 "dual_beginner_mode_desc" = "Yüksekten satmak ya da düşükten almak için adım adım açıklamalı klavuz";
 "dual_professional_mode_title" = "Profesyonel Mod";
 "dual_professional_mode_desc" = "Yatırım yapmak istediğiniz token çiftini seçin";
-"dual_beginner_mode_title" = "Basitleştirilmiş Mod";
 "dual_return_token_type" = "Dönüş Tokeni Cinsi";
 "dual_waiting_subtitle" = "Tamamlanma bekleniyor";
 "dual_waiting_desc" = "Katılma isteğinizi dakikalar içinde gerçekleştirmeyi deneyeceğiz. Eğer katılımınız bu süre içinde tamamen gerçekleşmezse, kullanılmayan miktar üzerindeki kilit kaldırılacak. Daha sonra tekrar katılmayı deneyebilirsiniz.";
 "settle_date_title" = "Anlaşma Tarihinde";
 "settle_price_desc" = "İndeks fiyatı önde gelen borsalara göre belirlenir.";
 "token_locked_hint" = "Yatırım gerçekleştirdiğiniz tokenler Anlaşma Tarihine kadar kilitli kalacaktır.";
+"dual_beginner_sell_high" = "Yüksekten %@ Sat";
+"dual_beginner_buy_low" = "Düşükten %@ Al";
+"dual_beginner_sell_high_desc" = "USDC ya da USDT alacaksınız";
+"dual_beginner_buy_low_desc" = "USDC ya da USDT kullanabilirsiniz";
 
+"dual_delivering_desc" = "Kazancınız Anlaşma Tarihinde 08.00 UTC saatinde mevcut Hedef Fiyatı ve Anlaşma Fiyatına göre hesaplanır. Kazancınız 6 saat içinde size ulaşır.";
+"dual_beginner_return_token_type" = "Dönüş Tokeni Cinsi";
+"dual_professional_desc" = "Almak ya da satmak için bir token seçin";
+"invest" = "Yatırım Yap";
+"dual_price_desc" = "Mevcut Fiyat USDT tabanlıdır ve önde gelen borsalardan alınan bilgiye dayanır.";
 
+// Fee
+"fee_settings_advanced" = "Gelişmiş";
+"fee_settings_advanced_title" = "Ücret Ayarları";
+"fee_settings_process_anyway_description" = "Ücret öngörülemedi. Kontratta bir hata olabilir ve bu yüzden bu işlem başarısız sonuçlanabilir.";
+"fee_settings_process_anyway_button_title" = "Yine de devam etmek istiyorum";
+"L2_withdraw_to_L1_navigation_title" = "Çekmeyi Onaylayın";
+
+// 'normal_withdraw_msg_colon' will change from 'Normal' to 'Normal (~40 minutes):' in the next version.
+"normal_withdraw_msg_colon" = "Normal (~40 dakika):";
+"40_minutes_suffix" = "(~40 dakika)";
+"available_colon_prefix" = "Müsait:";
+"gas_estimate_updating" = "Güncelleniyor";
+"approve_token_description" = "Bu işlemin ağ üzerinde gerçekleşmesi biraz vakit alabilir.";
 
 
 

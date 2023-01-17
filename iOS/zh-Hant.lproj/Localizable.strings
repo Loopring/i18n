@@ -462,7 +462,7 @@
 "account_progressing" = "您的交易已提交到以太坊，實際時間取決於以太坊網絡情況。";
 "speed_fast" = "快";
 "speed_generally" = "正常";
-
+"speed_standard" = "正常";
 //<!-- Guiding -->
 "free_activation" = "激活";
 "free_activation2" = "激活";
@@ -1040,8 +1040,6 @@
 "lptoken_notify" = "當您為資金池提供流動性時，資金池將鑄造相應的LP Token，表明您的資產在資金池中的比例。";
 "private_key_error" = "無效的私鑰";
 "mnemonic_invalid" = "無效的助記詞";
-"speed_fast" = "快";
-"speed_generally" = "正常";
 
 "speed_up_tx" = "加速";
 "speed_up_tx_msg" = "以最優惠的費率加速交易";
@@ -1895,9 +1893,82 @@ WSTETH 是 stETH 的封裝版。用戶收到代幣後，WSTETH 的總量不會�
 //swap less than $100
 "swap_less_than_100_warning" = "註意";
 
+//dual invest update
+"dual_settle_days_desc" = "結算前天數";
+"dual_if_desc" = "如果";
+"dual_token_lock_hint" = "*您投資的資產在結算前將被鎖定";
+"dual_settle_calc_subtitle" = "結算計算器";
+"dual_sold_out_subtitle" = "產品已售罄";
+"dual_sold_out_desc" = "Loopring 將很快進行重調整；請稍後返回訂閱。";
+"dual_waiting_desc" = "我們將盡力在幾分鐘內完成您的訂閱請求。 如果您的訂閱不能在期限內全部完成，未完成的部分將被解鎖。 您可以重新返回訂閱。";
+"go_my_dual_btn" = "前往我的雙幣理財";
+
+//amm earning
+"amm_pool_24_earn" = "24小時收益";
+"stake_total_earn" = "總收益";
+
+"apr_amm_pool" = "AMM 池子 APR:";
+"apr_activity" = "活動 APR:";
+"apr_protocol" = "協議 APR:";
+
+//dual beginner model
+"dual_beginner_desc" = "選擇要出售或購買的代幣";
+
+"dual_beginner_step1" = "步驟 1/4:";
+"dual_beginner_step1_desc" = "選擇在未來以期望的價格賣出或買入";
+
+"dual_beginner_step2" = "步驟 2/4:";
+"dual_beginner_step2_desc" = "選擇目標價和結算日";
+
+"dual_beginner_step3" = "步驟 3/4:";
+"dual_beginner_step3_desc" = "輸入訂閱金額";
+
+"dual_beginner_step4" = "步驟 4/4:";
+"dual_beginner_step4_desc" = "確認盈利場景";
+
+"dual_beginner_mode_title" = "初學者模式";
+"dual_beginner_mode_desc" = "一步步教你高賣或低買的指南";
+"dual_professional_mode_title" = "專業模式";
+"dual_professional_mode_desc" = "選擇要投資的代幣對";
+"dual_return_token_type" = "返回代幣類型";
+"dual_waiting_subtitle" = "等待完成";
+"dual_waiting_desc" = "我們會盡量在幾分鐘內完成您的訂閱請求。如果您的訂閱不能在規定時間內完全完成，未完成的部分將被解鎖。您可以稍後返回重新訂閱。";
+"settle_date_title" = "在結算日";
+"settle_price_desc" = "指數價格來自一些領先的交易所。";
+"token_locked_hint" = "您的投資代幣將在結算日之前被鎖定。";
+"dual_beginner_sell_high" = "高價賣出 %@";
+"dual_beginner_buy_low" = "低價買入 %@";
+"dual_beginner_sell_high_desc" = "您將收到 USDC 或 USDT";
+"dual_beginner_buy_low_desc" = "您可以投資 USDC 或 USDT";
+
+"dual_delivering_desc" = "我們將在世界標準時間 08:00 的結算日根據結算價格和目標價格計算您的投資回報。您將在 6 小時內收到您的回報。"; //新增
+"dual_beginner_return_token_type" = "返回代幣類型";
+"dual_professional_desc" = "選擇要出售或購買的代幣";
+"invest" = "投資";
+"dual_price_desc" = "當前價格基於一些主要交易所的 USDT 價格。";
+
+// 費用
+"fee_settings_advanced" = "高級";
+"fee_settings_advanced_title" = "自定義費用";
+"fee_settings_process_anyway_description" = "我們無法預估手續費。合约中可能存在錯誤，交易可能會失敗。";
+"fee_settings_process_anyway_button_title" = "我想要繼續";
+"L2_withdraw_to_L1_navigation_title" = "確認提現";
 
 
 
+
+
+
+
+
+
+
+// 'normal_withdraw_msg_colon' 將在下一個版本中從 'Normal' 更改為 'Normal (~40 minutes):'。
+"normal_withdraw_msg_colon" = "正常（~40 分鐘）：";
+"40_minutes_suffix" = "（~40 分鐘）";
+"available_colon_prefix" = "可用：";
+"gas_estimate_updating" = "正在更新";
+"approve_token_description" = "這筆交易在鏈上執行可能需要一些時間。";
 
 
 
