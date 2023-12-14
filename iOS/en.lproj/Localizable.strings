@@ -1,0 +1,1981 @@
+
+"main_wallet_tab" = "Assets";
+"set_wallet_name" = "Set the wallet name";
+"generate_wallet" = "Create Wallet";
+"recover_wallet" = "Recover Wallet";
+"migrate_wallet" = "Migrate Wallet";
+"next" = "Next";
+"password" = "Set Account Passcode";
+"repeat_password" = "Confirm Account Passcode";
+"backup_mnemonic" = "Back up seed phrase";
+"confirm" = "Confirm";
+"cancel" = "Cancel";
+"committing" = "Submitting";
+"rejected" = "Rejected";
+"retry" = "Retry";
+"tap_to_view" = "Tap to Reveal";
+"cancelled" = "Canceled";
+"not_support" = "Not supported at this time";
+"et_mnemonic" = "Please enter the seed phrase, separated by spaces";
+"private_key_hint" = "Please enter the private key";
+"wallet_existed" = "The wallet already exists";
+"unlock" = "Unlock";
+"receive_set_money" = "Set Amount to Receive";
+"send" = "Send";
+"receive" = "Receive";
+"transfer_in_hebao" = "Deposit";
+"buy" = "Buy";
+"sell" = "Sell";
+"other" = "Other transaction types";
+"trade" = "Trade";
+"copy_address" = "Copied Address";
+"save" = "Save";
+"main_wallet_tab" = "Assets";
+"defi" = "DeFi";
+"search_token" = "Token";
+"search_token_in_markets_placehold" = "Search or enter Token/Pair";
+"search_nodata" = "No results found";
+"setting" = "Settings";
+"mine" = "Profile";
+"my_" = "My ";
+"add_contact" = "Add Contact";
+"edit_contact" = "Edit Contact";
+"edit_guardian" = "Edit Guardian";
+"is_add_contact" = "Add this address as a new contact?";
+"contact_empty" = "No Contacts";
+"password_login" = "Login with your passcode";
+"password_forget" = "Forgot passcode?";
+"password_forget2" = "Forgot passcode";
+"reset" = "Reset";
+"wallet_locking" = "Wallet is locking";
+"share" = "Share";
+"copy_link" = "Copy Link";
+"refresh" = "Refresh";
+"set_money_type" = "Currency";
+"set_color" = "Colors";
+"set_color_red_green" = "Red Up and Green Down";
+"set_color_green_red" = "Green Up and Red Down";
+"official_website" = "Website";
+"set_contract_address" = "Smart Contracts";
+"version" = "Version";
+"export_private_key" = "Export private key";
+"copy_private_key" = "Copy private key";
+"mnemonic" = "Seed phrase";
+"private_key" = "Private key";
+"legal" = "Legal";
+"user_feedback" = "Support";
+"qr_code" = "QR Code";
+"qr_scan_code" = "Scan the QR code";
+"align_qr_code" = "Align camera with the QR code to scan";
+"set_eth_gas_limit" = "When transferring ETH, the upper limit of gas \n should be set to ";
+"enter_the_amount" = "Please enter the value";
+"enter_the_count" = "Please enter the amount";
+"address_or_ens_hint" = "Please enter the address or ENS";
+"input_valid_address" = "Invalid address";
+"not_enough_balance" = "Insufficient balance";
+"available" = "Available";
+"money" = "Value";
+"tokens" = "Tokens";
+"token" = "Token";
+"input_pay_password" = "Please enter the account passcode";
+"to" = "To";
+"from" = "From";
+"address" = "Address";
+"ID" = "TxID";
+"memo" = "Memo";
+"gas_fee" = "Network fee";
+"gas_price" = "Gas Price";
+"gas_limit" = "Gas Limit";
+"tx_status_success" = "Success";
+"tx_status_pending" = "Pending";
+"tx_status_failed" = "Failed";
+"received" = "Received";
+"status" = "Status";
+"date" = "Date";
+"pending" = "Pending";
+"time" = "Time";
+"no_data_approve_records" = "No approval records";
+"keystore_psw_error" = "Invalid passcode";
+"transfer_error" = "Failed to transfer. Please try again later.";
+"private_key_error" = "Invalid private key";
+"mnemonic_invalid" = "Invalid seed phrase";
+"upgrade_confirm" = "Upgrade";
+"upgrade_contract" = "Upgrade Wallet Contract";
+"dex_account" = "Loopring L2 Account";
+"export_dex_warning" = "Please keep the following information strictly confidential and do not store it in any networked computer in plain text. Doing so may result in the loss of your assets on the exchange due to low-price orders.";
+"dex_createing_account" = "Activating";
+"dex_createing" = "Your Loopring L2 account is being created.";
+"dex_deposit" = "Deposit";
+"copy" = "Copy";
+"copy_to_clipborad_success" = "Copied to clipboard";
+"save_pic_success" = "The photo has been saved to the album";
+"order_expired" = "Expired";
+"order_detail" = "Order Details";
+"total" = "Total ";
+"completed" = "Completed";
+"success" = "Success";
+"succeeded" = "Success!";
+"failed" = "Failed";
+"submit_to_ethereum" = "Submitted";
+"failed_and_retry" = "An error has occurred. Please try again later.";
+"upgrade_to_latest_version" = "Upgrade to the newest version";
+"cant_get_token_info" = "Unable to obtain cryptocurrency information. Please try again later.";
+"amount" = "Amount ";
+"amount_input" = "Please enter the amount";
+"price" = "Price";
+"trading_fee" = "Fee";
+"order_time" = "Time Placed";
+"trade_pair" = "Name";
+"dex_enter_coin" = "Select the Token";
+"save_to_album" = "Save to album ";
+"delete" = "Delete";
+"no_data" = "No records";
+"no_datas" = "No data";
+"no_market" = "No trading pair";
+"committing_to_eth" = "Committing. Please wait";
+"guardian" = "Guardian";
+"guardian_manager" = "Guardian Management";
+"add_guardian" = "Add Guardian";
+"trusted_title" = "Trusted Contacts";
+"contact_title" = "Contacts";
+"account_details" = "My Account";
+"contact_all" = "All Contacts";
+"contact_others" = "Other Contacts";
+"from_intenet" = "From the Internet";
+"who_protects_me" = "Who Protects Me";
+"who_i_protect" = "Who I Protect";
+"wallet_i_protect" = "Wallets I Protect";
+"pending_requests" = "Pending requests";
+"guardian_activity" = "Transactions";
+"transfer_to" = "To %@";
+"layer_transfer_to" = "%@ ⭢ %@";
+"received_from" = "From %@";
+"pay" = "Pay";
+"deposit" = "Deposit";
+"security_desc" = "Add a Guardian to ensure you are able to recover your wallet in the event your mobile device is lost or stolen.";
+"add_as_guardian" = "Add as a Guardian";
+"add" = "Add";
+"trust" = "Trust";
+"add_trust" = "Add Trust";
+"remove_trust" = "Remove Trust";
+"security" = "Security";
+"remove" = "Remove";
+"remove_someone_contact" = "Delete Contact";
+"lock" = "Lock";
+"migrate_account_instruction" = "You can migrate your wallet to a new device by scanning the QR code on the original device.";
+"ask_guardian_lock_wallet" = "Contact your Guardians to lock your wallet.";
+"lock_wallet_msg" = "The request to lock your wallet has been submitted. Once confirmed on-chain, your wallet\’s assets will be frozen. You can then use the wallet recovery feature to regain access.";
+"wallet_locked_msg" = "Your wallet has been locked. Tap to unlock.";
+"unlock_wallet" = "Unlock Wallet";
+"approve_unlock_wallet_title" = "Unlock Wallet Approval";
+"locking" = "Locking...";
+"unlocking" = "Unlocking...";
+"wallet_locked" = "Your wallet has been locked";
+"wallet_locked_until" = "The wallet is locked";
+"wallet_unlocked" = "Wallet is unlocked";
+"locked_by_someone" = "Locked by %@";
+"trust_warning_title" = "Trust this contact? ";
+"trust_warning_content" = "Once trusted, you can transfer unlimited Ethereum L1 assets to this contact. Your daily quota will no longer apply.";
+"remove_trust_warning_title" = "Remove trust for this contact?";
+"remove_trust_warning_content" = "Once removed, transfers to this contact will count towards your daily quota.";
+"add_guardian_warning_title" = "Approve Add Guardian";
+"add_guardian_warning_content" = "Your Guardians can lock/unlock your wallet and help recover it in the event your mobile device is lost or stolen.";
+"invite" = "Invite";
+"remove_guardian_warning_title" = "Approve Remove Guardian";
+"remove_guardian_warning_content" = "Once removed, this address can no longer help you recover your wallet or protect you.";
+"lock_warning_title" = "Do you want to lock the wallet?";
+"lock_warning_content" = "Once locked, the wallet\’s assets are frozen. Please confirm the wallet owner is the one requesting help to freeze the assets.";
+"unlock_warning_title" = "Do you want to unlock the wallet?";
+"unlock_warning_content" = "This should be used when the owner of the wallet asked you to unlock their assets.";
+"choose_guardians" = "Select Guardians";
+"start_scan" = "Start Scanning";
+"add_guardian_to_eth" = "Adding Guardian";
+"add_guardian_in_pending" = "Guardian addition is pending. Takes effect in %@";
+"wait_guardian_approve" = "Waiting for the Guardian\’s approval";
+"remove_guardian_in_pending" = "Guardian removal is pending. Takes effect in %@";
+"add_guardian_rejected" = "Guardian request was rejected";
+"add_guardian_failed" = "Failed to add Guardian. Tap to try again.";
+"need_your_approve" = "Approval required";
+"need_guardian_approve" = "Guardian approval required";
+"need_you_approve_sth" = "Approval required for %@";
+"you_are_submit_approve_sth" = "Your approval for %@ is submitted";
+"add_whitelist_to_eth" = "Adding trust";
+"add_whitelist_in_pending" = "Adding trust is pending. Takes effect in %@";
+"remove_whitelist_to_eth" = "Removing trust";
+"guardian_address_hint" = "Ethereum address or ENS";
+"guardian_address_hint_without_network" = "Wallet address or ENS";
+"guardian_address_hint_without_ens" = "Ethereum address";
+"verify_email" = "Verify through email";
+"verify_phone" = "Verify through phone number";
+"verify_register_phone" = "Please input your phone number";
+"verify_register_email" = "Please input your email";
+"email_enter_number" = "Enter email";
+"phone_enter_number" = "Enter phone number";
+"email_enter_code" = "Enter the email verification code";
+"phone_enter_code" = "Enter the SMS verification code";
+"send_code" = "Send Code";
+"resend_code" = "Resend";
+"set_password" = "Set Account Passcode";
+"start_app_need_pwd" = "Login Requires Passcode";
+"enter_password" = "Enter password";
+"enter_new_password" = "Set Account Passcode";
+"enter_new_password_again" = "Confirm Account Passcode";
+"ens_support_character" = "The ENS only supports lowercase letters and numbers";
+"ens_already_registered" = "The ENS is already taken";
+"invalid_wallet_or_ens_address" = "Invalid wallet address or ENS";
+"invalid_email_address" = "Invalid email address";
+"invalid_phone_num" = "Invalid phone number";
+"get_email_code_fail" = "Failed to obtain the verification code. Please try again.";
+"email_code_sent" = "The verification code has been sent";
+"email_already_registered" = "The email address has been previously registered";
+"phone_already_registered" = "The phone number has been previously registered";
+"request_phone_email_too_frequency" = "The verification code has been requested too many times. Please try again after 24 hours.";
+"request_verify_code_too_frequency" = "The verification code has been requested too many times. Please try again after %@.";
+"verify_email_code_fail" = "Verification failed. Please confirm the verification code is correct";
+"change_pwd" = "Change Passcode";
+"change" = "Change";
+"change_pwd_please" = "Please change the passcode";
+"reset_pwd" = "Reset Passcode";
+"generate_migrate_info_exception" = "Unable to generate the migration QR code. Please try again. If the issue persists, please contact support.";
+"pwd_not_same" = "Passcode does not match";
+"secure" = "Wallet Secured";
+"wallet_queue3" = "Your wallet is being created. It may take several minutes or hours to complete.\nWe\'ll notify you by %@ as soon as your wallet is ready.";
+"email_notify" = "Email";
+"phone_notify" = "SMS";
+"wallet_create_now" = "Create a wallet now";
+"cancel_create_wallet_agree" = "Please enter 'AGREE' to confirm again";
+"create_wallet_again" = "Create Again";
+"button_think" = "Cancel";
+"accept_guardian_request_title" = "Guardian request";
+"accept_guardian_request_content" = "Do you want to be the Guardian of %@? ";
+"guardian_added" = "Added on";
+"reject" = "Deny";
+"accept" = "Accept";
+"approve" = "Approve";
+"notify_guardian" = "Notify Guardian";
+"notify_person_do_it" = "Please notify them to open their Loopring Wallet for approval.";
+"notify_approve_recover_wallet_title" = "The person you protect %@ is attempting to recover their wallet. This action requires Guardian approval. Please open your Loopring Wallet and input the approval code.";
+"daily_limit_remain" = "%@ ETH remaining";
+"add_now" = "Add Now";
+"protects_empty_title" = "No Wallets to Protect";
+"ok" = "OK";
+"close" = "Close";
+"open" = "Open";
+"already_your_contact_canchangename" = "This contact already exists. You can change the name.";
+"already_your_guardian_canchangename" = "The Guardian already exists. You can change the name.";
+"official_guardian" = "Official Loopring Guardian";
+"official_guardian_name" = "Official Loopring Guardian";
+"official_guardian_desc_one" = "The Official Loopring Guardian is a Guardian Service provided by Loopring.";
+"official_guardian_desc_two" = "It works in consensus with your other Guardians.";
+"official_guardian_desc_three" = "The Official Loopring Guardian will send a verification code to authorize wallet recovery or transfers exceeding your daily quota.";
+"cancel_guardian_addition" = "Cancel Guardian Addition";
+"cancel_guardian_removal" = "Cancel Guardian Removal";
+"retry_add_guardian_addition" = "Retry Adding Guardian";
+"retry_add_guardian_addition_content" = "Failed to add Guardian. Please try again.";
+"retry_add_rejected_guardian_content" = "Rejected. Try again?";
+"waiting_approve" = "Waiting for approval";
+"approving" = "Approving";
+"approved" = "Approved";
+"approve_id" = "Approval ID";
+"approve_id2" = "Approval ID: %@";
+"your_approve_code" = "Approval Code";
+"operator_guide" = "Operating Guide";
+"approve_status" = "Approval Status";
+"wallet_guardian" = "Wallet Guardian";
+"other_guardian" = "Other Guardian";
+"approve_guide_normal" = "As a Guardian, using your Loopring Wallet:\n1. Tap Profile > Guardian Management > Who I Protect\n2. Find the request by the person you protect\n3. Approve";
+"approve_guide_hardware" = "As a Guardian, using your wallet:\n1. Visit %@\n2. Find the request by the person you protect in the approval record list\n3. Approve";
+"approve_recover_title" = "Wallet Recovery Approval";
+"approve_transfer_title" = "Exceed Quota Approval";
+"approve_code" = "Approval Code";
+"approve_submitter" = "Owner";
+"approve_history" = "Approval Records";
+"get_approve_detail_error" = "Failed to obtain the approval code. Please try again later.";
+"approve_action_recover" = "Recover Wallet";
+"approve_action_exceed_quota" = "Exceed Daily Quota";
+"cancel_approve_quota_transfer" = "Cancel Exceed Quota Transfer";
+"cancel_approve_recover" = "Cancel Wallet Recovery ";
+"please_select_guardian" = "Please select at least %@ Guardians";
+"choose_one_guardian" = "Please select a Guardian";
+"approve_tx_content" = "Amount: %@ ETH";
+"approve_tx_content2" = "Amount: ";
+"approve_tx_data" = "Data: %@";
+"approve_tx_data2" = "Data:";
+"approve_send_to" = "To: %@";
+"approve_send_to2" = "To: ";
+"sign_msg" = "Sign Message";
+"Sign" = "Sign";
+"Message:" = "Message:";
+"done" = "Done";
+"name" = "Name";
+"to_top" = "Move to the top";
+"pay_list" = "Fee Preference";
+"dapp_settings" = "DApp Settings";
+"dapp_settings_private_mode" = "DApp Privacy Mode";
+"dapp_settings_private_mode_description" = "With privacy mode enabled, a one-time allowance step is required for DApps to read information from your wallet address for the first time.";
+"dapp_settings_clean_up_network_cache" = "Clear Network Cache";
+"dapp_settings_clean_up_network_cache_success" = "Successfully cleared network cache.";
+"dapp_settings_clear_allowance" = "Clear DApp Allowance";
+"dapp_settings_clear_allowance_description" = "After clearing DApp allowance, you will have to allow access for each DApp again in the future.";
+"dapp_settings_clear_allowance_success" = "Successfully cleared DApp allowance.";
+"liquidity" = "Liquidity";
+"hide_small_money" = "Hide small assets";
+"hide_money" = "Hide Balance";
+"balance_only" = "Balance";
+"all" = "All";
+"all2" = "All";
+"wallet_create" = "Create Wallet";
+"create_wallet_fail" = "Failed to create wallet. Please try again later.";
+"loopring_wallet" = "Loopring Wallet";
+"transfer_fee" = "Fee";
+"transfer_fee_:" = "Fee: ";
+"transfer_fee_desc" = "Free - Paid by Loopring";
+"operator_fee_with_value" = "Ethereum Fee: %@";
+"loopring_pay_account_not_found" = "The recipient does not have an active Loopring L2 account.";
+"email_title" = "Email";
+"phone_title" = "Phone Number";
+"lrc_total_reward" = "Total Rewards";
+"lrc_action_claim" = "Claim";
+
+//<!-- DeFi Compound Protocol -->
+"defi_withdraw" = "Withdraw";
+
+// <!-- DApp -->
+"dapp_browser" = "DApp Browser";
+"dapp_msg" = "A Web3 browser to interact with decentralized applications.";
+
+"DApp_instruction_title" = "You are visiting a third-party DApp";
+"DApp_instruction_description" = "Your use of the third-party DApp will be governed by the user agreement and privacy policy of the third-party DApp, and %@ will be directly and solely responsible to you.";
+"DApp_connect_title" = "Connect to %@?";
+"DApp_connect_description" = "By tapping confirm, you allow %@ to view your wallet\'s public address.";
+"uniswap_title" = "Uniswap";
+"uniswap_description" = "Pool funds to earn tokens on the AMM exchange";
+"sushiswap_title" = "SushiSwap";
+"sushiswap_description" = "AMM exchange";
+"dodo_title" = "DODO";
+"dodo_description" = "Decentralized exchange with PMM algorithm";
+"aave_title" = "Aave";
+"aave_description" = "Open source DeFi protocol";
+"balancer_title" = "Balancer";
+"balancer_description" = "Automated portfolio manager and trading platform";
+"debank_title" = "DeBank";
+"debank_description" = "An all-in-one DeFi platform";
+"pooltogether_title" = "PoolTogether";
+"pooltogether_description" = "No-loss lottery";
+"wepiggy_title" = "WePiggy";
+"wepiggy_description" = "Crypto lending market protocol";
+"1inch_title" = "1inch";
+"1inch_description" = "The most efficient DeFi aggregator";
+"compound_title" = "Compound";
+"compound_description" = "Earn interest & borrow tokens";
+"curve_title" = "Curve";
+"curve_description" = "Creating deep on-chain liquidity using advanced bonding curves";
+"zapper_title" = "Zapper.Fi";
+"zapper_description" = "Manage your DeFi assets and liabilities in one simple interface";
+"makerdao_title" = "MakerDAO";
+"makerdao_description" = "An unbiased global financial system";
+
+//<!--daily limit-->
+"daily_limit_title" = "Daily Quota";
+"adjust_daily_limit_title" = "Adjust Daily Quota";
+"reset_in_times" = "Reset in %@";
+"changing_to_in_times" = "Changing to %@ ETH in %@";
+"changing_to_eth" = "Change to %@ ETH is committing";
+"daily_limit_desc" = "Please note, the daily quota only applies to Ethereum L1 transfers of tokens for which there is a known value.";
+"transfer_amount" = "Amount";
+
+//<!--chart type -->
+"chart_15m" = "15m";
+"chart_1h" = "1H";
+"chart_4h" = "4H";
+"chart_1d" = "1D";
+"chart_1w" = "1W";
+
+//<!--metaTx type-->
+"metatx_action_transfer" = "Send";
+"metatx_action_approved_transfer" = "Transfer Exceeds Daily Quota";
+"metatx_action_lock_wallet" = "Lock Wallet";
+"metatx_action_unlock_wallet" = "Unlock Wallet";
+"metatx_action_dex_account" = "Create/Reset Loopring L2 Account";
+"metatx_action_dex_deposit" = "Move";
+"metatx_action_dex_withdraw" = "Move";
+"metatx_action_token_approval" = "Token Approval";
+"metatx_action_add_guardian" = "Add %@";
+"metatx_action_confirm_guardian_addition" = "Confirm Guardian Addition";
+"metatx_action_cancel_guardian_addition" = "Cancel %@ Addition";
+"metatx_action_reject_guardian_addition" = "Reject Guardian Addition";
+"metatx_action_remove_guardian" = "Remove %@";
+"metatx_action_cancel_guardian_removal" = "Cancel Removal of %@";
+"metatx_action_add_trust" = "Add Trust";
+"metatx_action_remove_trust" = "Remove Trust";
+"metatx_action_approve" = "Approve";
+"metatx_action_unknown" = "Contract Call";
+"metatx_action_offchain_approve_recover" = "Wallet Recovery Approval";
+"metatx_action_offchain_approve_transfer" = "Exceed Daily Quota Transfer Approval";
+"metatx_action_offchain_approve_token" = "Exceed Daily Quota Token Approval";
+
+"input_error" = "Input error";
+
+"wallet_not_created" = "You haven\'t created a wallet yet. Please create one first.";
+"wallet_not_L1_created" = "Please activate the Ethereum L1 account";
+"wallet_not_L2_created" = "Please activate the Loopring L2 account";
+
+"wallet_creating" = "Your wallet is being created. Please wait a moment.";
+"wallet_recovering" = "Wallet is recovering. Please wait a moment.";
+"free_time_use_up" = "There have been too many attempts. Please try again tomorrow.";
+
+"invitation_code" = "Invitation Code";
+"quota" = "invitation places";
+
+"about" = "About";
+"terms" = " Terms ";
+"Terms" = "Terms ";
+"privacy" = " Privacy ";
+"Privacy" = "Privacy";
+"risk_disclose" = "Risk Disclosure";
+"net_error" = "No network connection!";
+"net_error_retry" = "Network error. Please try again later.";
+"agree" = "Agree";
+"custom_amount" = "Set Amount";
+
+"year" = " years";
+"month" = " months";
+"day" = " days";
+"hour" = " hours";
+"minute" = " minutes";
+"second" = " seconds";
+"ago" = " ago";
+"Just now" = "Just now";
+"favorite" = "Favorite";
+
+//<!--Transfer -->
+"transfer_to_account" = "Choose to which account";
+"transfer_to_prople" = "Select the Recipient";
+"transfer_choose_token" = "Choose Token";
+"transfer_confirm" = "Confirm the Transfer";
+"transfer_set_count" = "Set the amount of %@";
+"transfer_canot_zero" = "Amount cannot be zero";
+
+"to_new" = "To";
+"from_new" = "From";
+"transfer_new" = "Transfer";
+"account_progressing" = "Your transaction has been submitted. The transaction time depends on the network.";
+"speed_fast" = "Fast";
+"speed_generally" = "Normal";
+"speed_standard" = "Standard";
+//<!-- Guiding -->
+"free_activation" = "Activate";
+"free_activation2" = "Activate";
+"set_up_key" = "Set Up Key";
+"layer2_guidepage_msg" = "The Loopring L2 account ensures Ethereum-level security.";
+"layer2_guidepage_fast" = "Transfers and trades happen instantly.";
+"layer2_guidepage_lowfee" = "Transactions are 100x cheaper and faster.";
+
+//<!--new main -->
+"ethereum_account_layer" = "Ethereum L1";
+"loopring_account_layer" = "Loopring L2";
+"ethereum_account_layer_fee" = "/L1";
+"loopring_account_layer_fee" = "/L2";
+"account_first" = "L1";
+"account_first_me" = "My Ethereum Account";
+"account_second" = "L2";
+"account_second_me" = "My Loopring Account";
+"account_second_msg" = "Super-Fast, Low Fee";
+"second_floor" = "Loopring";
+"first_account" = "Ethereum Account";
+"second_account" = "Loopring Account";
+"arbitrum_account" = "Arbitrum Account";
+"transfer_to_my_second" = "To myself (L1 to L2)";
+"transfer_to_my_first" = "To myself (L2 to L1)";
+"transfer_to_myself" = "To myself (%@ to %@)";
+"to_deposit" = "Deposit";
+"search_selector" = "Filters";
+
+"set_token_show" = "Filter Tokens";
+"token_show_have_record" = "Tokens held";
+"token_show_small" = "Tokens whose value is less than $1";
+"token_show_noprice" = "Tokens without price";
+
+"gasfee_lower" = "Low Fee";
+"transfer_fast" = "Fast Transfer";
+"new_people_guide" = "Guidelines";
+"easy_use" = "Easy to use";
+"easy_use_notify" = "You can select a memorable name and address";
+"security_notify" = "Self-custodial without private keys. Social recovery and smart logic keep your assets secure.";
+
+"comming_wallet" = "Open Wallet";
+"wallet_migrated_doscancode" = "Scan to complete the migration";
+"migrate_account_notice" = "Please use a Loopring Wallet on another device to scan and migrate the current wallet.";
+"wallet_migrated_success_content" = "Your wallet was successfully migrated to a new device; this device can no longer use the wallet. Tap Delete Wallet to remove the current wallet.";
+"wallet_migrated_open_new_wallet" = "Open the migrated wallet on the new device";
+"wallet_migrated_help_img" = "migHelp_en";
+"wallet_migrated_success" = "Success! Wallet has been migrated!";
+"wallet_migrated_pending" = "Wallet is being migrated";
+"wallet_migrated_old_stepone" = "1. Open the Loopring wallet on your old device";
+"wallet_migrated_old_steptwo" = "2. Scan the QR code from the old device";
+"wallet_migrated_old_stepone_notify" = "Tap Profile > Security > Migrate Wallet";
+"free" = "Free";
+
+//<!-- Create Wallet -->
+"wallet_create_phonenum" = "Create via mobile phone";
+"wallet_create_email" = "Create via email address";
+"wallet_create_name_is_onlyone" = "This name will be unique on the entire network \nand is permanent.";
+"wallet_create_create_money" = "Creation Fee:";
+"wallet_create_create_name" = "Name Fee:";
+"wallet_create_create_address" = "Address Fee:";
+"wallet_create_choose_pay_way" = "Please Select a Deposit Method";
+"wallet_create_choose_deposit" = "Select a Deposit Method";
+
+//<!-- RecoverWallet-->
+"wallet_recover_input_phone" = "Please enter your registered phone number %@";
+"wallet_recover_input_email" = "Please enter your registered email address %@";
+"verify_register_people" = "Please Verify Yourself";
+"can_not_add_self_guardian" = "This is your wallet address. You cannot add yourself as a Guardian.";
+"dex_hide_other_token" = "  Hide Others";
+"dex_change_rate" = "24h Chg%";
+"dex_price" = " Last Price ";
+"dex_pair" = " Pair ";
+"name_this_contact" = "Enter a name for the contact";
+"overdue" = "Expired";
+"recover_wait_approve_to_main" = "Your wallet recovery is waiting for Guardian approval. Go to the Ethereum L1 screen to view.";
+"recover_close_hint" = "Close to return to your wallet. You can re-enter this page at the top left of the homepage.";
+
+//<!-- Point-->
+"points" = "Points";
+"my_points" = "My Points";
+"sign_in" = "Sign in";
+"point_records" = "Records";
+"invite_create_wallet" = "Invite to create wallet";
+"freeze" = "Locked";
+"unfreeze" = "Refund";
+"sign_in_continues_day" = "Sign in Streak: %@ days";
+"sign_in_more_points" = "Keep your sign in streak alive! Earn %@ points per day.";
+"signed_in_today" = "Signed in today";
+"invite_points_title" = "Invite Friends";
+"invite_points_sub_title" = "Earn %@ points per successful referral.\nL1 activation required.";
+"create_wallet_points_title" = "Create Wallet";
+"create_wallet_points_sub_title" = "Rewarded %@ points for wallet creation";
+"points_rules" = "About Loopring Points";
+"frozon" = "Locked";
+"get_points" = "Get Points";
+"use_points" = "Use Points";
+"system_points" = "Official gift";
+
+//<!-- Guardians ui-->
+"guardian_use" = "The Role of Guardian";
+"account_danger_notify" = "You have a substantial amount of assets. We recommend adding more Guardians to ensure the security of your wallet.";
+"account_danger_notify2" = "You have substantial assets. Activating the Ethereum L1 account will allow you to add more Guardians which will enhance the security of your wallet.";
+"go_add" = "Add";
+"fee" = "Fee";
+"guardian_add_success" = "Add Guardian request has been sent";
+"guardian_add_success_msg" = "Please notify your potential Guardian of the request. They can accept or reject this responsibility.";
+"your_friend" = "Your friend ";
+"invite_you_to_guardian" = " invites you to be the Guardian of his/her Loopring Wallet";
+"invite_guardian_do" = "1. Open Loopring Wallet\n\n2. Tap Profile > Guardian Management > Who I Protect\n\n3. Find the request initiated by the other party\n\n4. Tap Approve or Reject";
+"receive_code_other" = "QR Code";
+"name_this_guardian" = "Please give the Guardian a name";
+"dex_volume" = "Vol.";
+
+"set_sure_close_Touch_ID" = "Disable Touch ID?";
+"set_sure_close_Face_ID" = "Disable Face ID?";
+"finger_login" = "Enable Touch ID";
+"faceId_login" = "Enable Face ID";
+"add_again" = "Re-add";
+"no_capture" = "Do not take a screenshot";
+"no_capture_desc" = "The migration QR code should be kept safe and secure. Please avoid taking screenshots to share or store this code, as it could compromise the security of your wallet.";
+"i_know" = "I Know";
+
+"find_new_version_app" = "Found a new version";
+"pay_use_fen_first" = "Use Loopring Points";
+"pay_custom" = "Customize Fee Token Order";
+"pay_system_set" = "Loopring will deduct fees according to the following order:";
+"pay_system_choose" = "If it is not enabled, the system will automatically select the payment method";
+"drag" = "Drag";
+"system_recommend" = "System recommendation";
+"custom" = "Custom";
+
+"resend_invitecode" = "Resend";
+"verification_code" = "Verification Code";
+"wallet_create_choose_orgin" = "Choose Creation Method";
+"congratulations" = "Congratulations!";
+"activate" = "Activate";
+"timedown" = "Countdown";
+"delete_data" = "Delete Data";
+
+"ens_min_character" = "4-12 characters";
+"ens_input_placeholder" = "4-12 characters";
+"ens_min_character_7" = "7-12 characters";
+"guardian_notify_security" = "Your wallet is very secure; you are in control of your assets. Guardians are people or devices you choose as part of your \'security team\'. It is best practice to have at least 3 Guardians.";
+"guardian_notify_security_relative" = "Your wallet is secure. \nBest practice calls for at least 3 Guardians. Add more Guardians to improve your security.";
+"guardian_notify_danger" = "Your wallet is not secure. Please add more Guardians as soon as possible.";
+"guardian_use_notify" = "A Guardian should be someone you absolutely trust; it can also be yourself (on another wallet you control). As long as more than half of your Guardians are faithful to you, your assets are safe and can be recovered in the event you lose your device. We recommend adding people you trust (spouse, parents, siblings, children, or friends) and other wallets you control.";
+"guardian_add_notify" = "Easily add other Loopring Wallets as Guardians to secure your identity and crypto assets. After entering the wallet address, the user will receive a notification of the request directly in their Loopring Wallet app. Invite your friends and family to use the Loopring Wallet.\n%@";
+"guardian_add_notify2" = "If you would like to add a non-Loopring Wallet address as a Guardian, please visit the following link on a computer to complete the operation:\n%@.";
+"you_are_someone_guardian" = "You are the Guardian of %@ and can lock his/her wallet.";
+"guardian_lock_unlock" = "Lock/Unlock";
+"wallet_lock_unlock_point" = "· Lock/unlock my wallet";
+"recover_wallet_point" = "· Recover my wallet";
+"metatx_action_approve_transfer_point" = "· Approval of transfers over my daily quota";
+"balance_not_enough" = "(Insufficient balance)";
+"about_fee" = "Max ";
+"about_fee_with_value" = "(Max)";
+"wallet_create_free_notify" = "You are eligible to create a wallet for free";
+"wallet_create_free_notify2" = "Deposit the equivalent of %@, and you can experience transactions that are 100x cheaper and faster on Loopring L2.";
+"wallet_create_to_receive" = "To deposit";
+"wallet_create_to_receive2" = "To deposit %@ seconds";
+"search_noaddress" = "Sorry, the wallet address provided is not a Loopring Wallet address";
+"guardian_advanced_1" = "To add addresses that are not also Loopring Wallets, please visit ";
+"guardian_advanced_3" = " on a computer, connect the Guardian address in consideration, and then scan the QR code on that web page with your Loopring Wallet.";
+"scancode_transfer_toaddress" = "This address only supports ERC20 tokens. Do not send tokens from other blockchains to this address as they will be lost.";
+"transfer_confirm2" = "Confirm the Move";
+"code_sended" = "Has been sent to %@";
+"approve_unlock_title" = "Approve Unlock Wallet";
+"approve_remove_guardian" = "Delete Guardian";
+"cancel_approve_unlock_wallet" = "Cancel Wallet Unlock ";
+"invite_people_create" = "Refer Loopring Wallet to a friend to earn";
+"invite_people_send_you" = "%@ Points";
+"invite_code_me" = "My referral code";
+"invite_now" = "Invite";
+"interpretation" = "\@The right of interpretation belongs to Loopring HK Technology Limited.";
+"created_send" = "Refer a friend to create a Loopring Wallet";
+"set_limit_notify" = "Setting a daily quota increases the security of your wallet by limiting the amount of Ethereum L1 assets that can be sent out within a 24-hour period (unless you \'whitelist\' a special recipient to receive more). ";
+"set_limit_notify3" = "Your future Ethereum L1 transactions will have fees that are ~20% higher due to a quota being set.";
+"go_set" = "Set";
+"day_limit_all" = "Current daily quota: %@ ETH";
+"day_limit_no" = "Daily quota has not been set";
+"not_unlock_other_wallet" = "Cannot unlock someone else\’s wallet";
+"daily_quota_off_title" = "Close daily quota";
+"daily_quota_off_content" = "After closing the daily quota, each transaction fee will be reduced by about 20%. Additionally, there is no limit on Ethereum L1 transfers.";
+"daily_quota_off_committing" = "Close daily quota submitted";
+"daily_quota_off_time" = "Remove the daily quota %@ after it takes effect";
+"daily_quota_not_zero" = "Daily quota cannot be set to 0";
+"daily_quota_the_same" = "The quota is the same as the current quota";
+"invite_people_now" = "Send invite.";
+"choose_approve_transfer_title" = "Approval required for the transfer";
+"choose_approve_transfer_content" = "The network fee will also be calculated into the limit. The current transfer amount plus the network fee will exceed the daily quota, and the transfer needs to be approved.";
+"go_approve" = "Initiate approval";
+"phone_not_match" = "The phone number entered is invalid.";
+"email_not_match" = "The mailbox entered is invalid.";
+"L2_not_support_token" = "This token is not supported on Loopring L2";
+"migrate_not_find_info" = "Unable to find effective migration information";
+"migrate_eos_unsupport" = "Only supports Loopring Wallet migration";
+"migrate_error" = "Failed to migrate the wallet. Please try again later.";
+"migrate_old_layer_one_error" = "The Ethereum L1 account you are attempting to migrate is an older version. You will need to recover the wallet on a new device.";
+"migrate_old_layer_two_error" = "The Loopring L2 account you are attempting to migrate is an older version. Please reset the Loopring L2 account first.";
+"rule" = "Rules";
+"invite_give_gift" = "Refer a Friend";
+"deposited_me" = "I have deposited";
+"wallet_create_agreement2" = "Creating a wallet means you agree to ";
+"and" = "and";
+"choose_fee_type" = "Select Token";
+
+//<!-- swap -->
+"estimate_fee" = "Trading Fee (est.)";
+"swap_now" = "Swap";
+"swap_title" = "Concise";
+"slippage_limit" = "Slippage Tolerance";
+"buy_min" = "Minimum Received";
+"price_impact" = "Price Impact";
+"spot" = "Spot";
+"buy_about" = "Buy";
+"layer2_no_balance" = "Loopring account does not have %@ balance yet. Ethereum account has a balance of %@";
+"slippage_limit_msg" = "Your trade will revert if the price changes unfavorably by more than this percentage.";
+"min_swaped" = "The pool price changes dynamically; the price you see when placing an order may be inconsistent with the final transaction price. Additionally, the received amount needs to deduct the fees from the converted amount. The protocol can guarantee that the value shown is the minimum amount received.";
+"new_swap_fee" = "The trading fee is determined by your VIP level and the size of your trade. Small trades (below ~$100) incur a higher fee. Please review the fee before confirming.";
+"estimate_received_desc" = "The received token in your L2 account after deducting the fee. ";
+"price_impact_msg" = "The difference between the market price and estimated price due to trade size.";
+"swap_amount_min" = "Amount is too small (Min %@)";
+"swap_amount_min2" = "Amount is too small (Min %@ %@)";
+"swap_amount_max2" = "Amount is too large (Max %@ %@)";
+"swap_records" = "Swap Records";
+"swap_records_details" = "Swap Details";
+"swap_success" = "Success!";
+"swap_failed" = "Error! Unable to Swap.";
+"swap_price_impact" = "Your transaction amount will affect the pool price by more than %@. Continue?";
+"swap_confirm_two_msg" = "Are you sure you want to swap %@ to %@?";
+"swap_confirm_two" = "Swap Requires Confirmation";
+"swap_confirm_not_notify" = "No reminder for next time";
+"confirm_not_notify" = "No reminder for next time";
+"phone_area_code" = "Choose Area";
+"search_phone_area" = "Search Area";
+
+"metatx_action_recover_wallet" = "Ethereum L1 Account Recovery";
+"learn_more" = "· Learn more";
+"wallet_create_phone_usage" = "We need a contact method to verify your requests to the Official Loopring Guardian in the event you require help to recover or lock your wallet.";
+"wallet_verify_phone_usage" = "We need to contact you to verify your request.";
+"button_continue" = "Continue";
+"security_spec" = "Security Specs";
+
+//<!-- Orderbook -->
+"orderbook_hide_others" = "Hide Others";
+"orderbook_cancel_all" = "Cancel All";
+"orderbook_active_orders" = "Active Orders";
+"orderbook_latest_trade" = "Trade History";
+"orderbook_select_side_default" = "Default";
+"orderbook_select_side_buy" = "Buy";
+"orderbook_select_side_sell" = "Sell";
+"orderbook_limit_buy" = "Limit / Buy";
+"orderbook_limit_sell" = "Limit / Sell";
+"orderbook_record_status" = "Status";
+"orderbook_record_filled_and_amount" = "Filled/Amount";
+"orderbook_record_avg_and_price" = "Avg./Price";
+"orderbook_record_market_name" = "Name";
+"orderbook_record_title_active" = "Historical Orders";
+"orderbook_record_title_historical" = "Completed Orders";
+"orderbook_record_title" = "Orders";
+"orderbook_record_detail_title" = "Order Details";
+"orderbook_trade_time" = "Time";
+"orderbook_trade_price" = "Price";
+"orderbook_trade_amount" = "Amount";
+"orderbook_24_highest" = "24h Highest";
+"orderbook_24_lowest" = "24h Lowest";
+"orderbook_24_volume" = "24h Volume";
+"orderbook_trade_detail" = "Transaction Details";
+"orderbook_price_lower_than_20_percent" = "The selling price is 20% lower than the latest price. Please confirm you want to place the order.";
+"orderbook_price_higher_than_20_percent" = "The purchase price is 20% higher than the latest price. Please confirm you want to place the order.";
+
+//<!-- L2L1 Packed Activation-->
+"L2_L1_activation_L1" = "By activating the Ethereum L1 account, which is based on a smart contract, you have access to more advanced security features like social recovery, locking your account when necessary, setting a daily transaction quota, etc… You will also be able to activate a Loopring L2 account, which is an ultra-fast, super cheap, and powerful gateway to Ethereum. By activating an L2 account, you will be able to utilize all the cool features available in Loopring L2.";
+"L2_L1_activation_L2" = "By activating a Loopring L2 account, you will be able to utilize all the cool features available in L2 with up to 100x cheaper transaction fees. You can also take full advantage of gas-free token/NFT transfers, NFT minting, DEX trading, AMM Pools, and more!";
+"L2_L1_activation_together_1" = "By activating the Ethereum L1 account, which is based on a smart contract, you will be able to have more advanced security features like social recovery, locking your account when necessary, setting a daily transaction quota, etc…";
+"L2_L1_activation_together_2" = "You will also be able to activate a Loopring L2 account, which is an ultra-fast, super cheap, and powerful gateway to Ethereum.
+By activating a Loopring L2 account, you will be able to utilize all the cool features available in L2 with up to 100x cheaper transaction fees. You can also take full advantage of gas-free token/NFT transfers, NFT minting, DEX trading, AMM Pools, and more!";
+
+"L2_L1_payment_title" = "Select token to activate";
+"L2_L1_Activation_fee" = "Activation fee:";
+
+"L2_L1_insuffcient_balance_title" = "Insufficient balance in your Loopring L2 account";
+"L2_L1_insuffcient_balance_description" = "Please ensure one of the tokens below has the minimum amount required to activate your L2 account.";
+"L2_L1_insuffcient_balance_tip" = "If you have already made a deposit, please be patient as transactions on Ethereum L1 may take up to 30 minutes.";
+"L2_L1_insuffcient_balance_add_asset_popover" = "Transferring tokens requires gas, which may be deducted from your initial deposit. We recommend sending a little over the minimum amount required to ensure enough tokens are deposited to cover the L2 activation fee.";
+"L2_L1_insufficient_section_title_token" = "Token";
+"L2_L1_insufficient_section_title_minRequirement" = "Min Requirement";
+"L2_L1_insufficient_section_title_recommend" = "Recommend";
+
+"L2_L1_add_asset" = "Add Assets";
+"L2_L1_add_L2_asset_title" = "Add Loopring L2 Assets";
+"L2_L1_add_L2_asset_subtitle" = "How would you like to add L2 assets?";
+"L2_L1_reminder_description" = "Your L2 balance is insufficient, but you have enough assets in L1. Activating L1 will automatically activate L2.";
+"L2_L1_reminder_title" = "You can activate both L1 & L2";
+"L2_L1_reminder_subtitle" = "The Loopring Smart Wallet is based on a contract, allowing for more advanced security features: social recovery, locking the account, setting daily transaction quotas, etc... You will also be able to utilize DApp services and L1 token transfers.";
+
+"L2_L1_acknowledege_title" = "Auto-activation Acknowledgement";
+"L2_L1_acknowledege_description" = "Loopring will automatically activate your Loopring L2 account once the deposit is received. After deducting the wallet activation fee, the remaining assets will be available in the L2 account.";
+"L2_L1_acknowledge_pick_up_activation_token" = "Select token to activate";
+
+"L2_L1_L2_receive_warning" = "Send only %@ to this deposit address";
+"L2_L1_card_activating" = "Activating";
+"L2_L1_activating_in_progress_title" = "Activation in progress";
+"L2_L1_activating_in_progress_subtitle" = "You have selected to use %@ to activate the account. After receiving the assets in L2, Loopring will automatically activate the account for you. If you would like to restart the activation process with a different token, you may do so after the initial order has expired.";
+"L2_L1_buy_with_card_title" = "Buy with a Card";
+"L2_L1_buy_with_card_description" = "Purchase crypto directly on Loopring with your card";
+"L2_L1_success_confirmation_title" = "Confirmation";
+"L2_L1_success_subtitle" = "Please verify that you understand:";
+"L2_L1_success_description" = "After your wallet is created, do not uninstall the application. Doing so will delete your private key, and the recovery may be expensive as it requires Ethereum L1 gas fees.";
+"L2_L1_success_description_subtitle" = "For security reasons, we will not save your private key in our cloud.";
+"L2_L1_success_I_understand_title" = "I understand that I am responsible for the security of my wallet.";
+"L2_L1_old_activate_l2_activate_first" = "You haven\'t activated your Ethereum L1 account yet. Please activate it first.";
+"L2_L1_old_activate_l2_isRecoverActive" = "You haven\'t activated your Ethereum L1 account yet.";
+"L2_L1_old_activate_l2_waiting_deposit" = "Your Ethereum L1 account activation is awaiting deposit. Please deposit first.";
+"L2_L1_alert_activateL1_title" = "Activate Account";
+"L2_L1_alert_activateL1_message" = "You will need to activate the L1 account to %@.";
+"L2_L1_alert_activateL2_title" = "Activate Account";
+"L2_L1_alert_activateL2_message" = "You will need to activate the L2 account to %@.";
+"L2_L1_alert_activationInProgress_title" = "Activation in progress";
+"L2_L1_alert_activationInProgress_message" = "Loopring is activating your %@ account, which may take some time. Please be patient while this process completes.";
+"L2_L1_alert_activationFailed_title" = "Auto-activation Failed";
+"L2_L1_alert_activationFailed_message" = "The account failed to activate. Do not uninstall the app. Please contact support for help.";
+//<!-- AMM -->
+"amm_title" = "AMM Liquidity";
+"amm_title_msg" = "Provide liquidity to earn a 0.20% trading fee from every swap.";
+"amm_title_msg2" = "Liquidity provider (LPs) earn trading fees (0.20%) from all swaps. Each LP\'s profit is proportional to his/her share of the pool\'s total capital. For selected AMM pools, LPs also earn liquidity mining rewards in LRC and other tokens.";
+"amm_in" = "Deposit";
+"amm_out" = "Withdraw";
+"amm_in_out" = "Liquidity";
+"amm_in_out_details" = "Details";
+"amm_all_money" = "Total Position Value";
+"daily_income" = "APR";
+"amm_my_lptoken" = "My LP Tokens";
+"amm_all_lptoken" = "Total LP Tokens";
+"me_s" = "My %@";
+"amm_all_s" = "Total %@";
+"amm_my_proportion" = "My Pool Share";
+"amm_do_layer" = "* Only available on Loopring L2";
+"mining" = "Mining";
+"action_need_pay" = "This action requires payment";
+"walletconnect" = "WalletConnect";
+"walletconnect_protocol" = "The service is supported by the WalletConnect protocol >";
+"walletconnect_success_msg" = "WalletConnect connected";
+"walletconnect_dis" = "Disconnect";
+"type" = "Type";
+"amm_lp_count" = "LP amount";
+"wallet_connect_request_connect" = " is requesting to connect to your wallet";
+"wallet_connect_connected" = " connected to your wallet";
+"send_transaction" = "Send Transaction";
+"history" = "Records";
+"amm_in_confirm_two" = "Confirm the deposit of %@ to the pool? ";
+"amm_out_confirm_two" = "Confirm the withdrawal of %@ from the pool?";
+"fee_amm" = "Pool Fee";
+"official_reward" = "Official Reward";
+"withdrawal_reward" = "Withdrawal Reward";
+"order_reward" = "Order Mining";
+"swap_reward" = "Tournament";
+"amm_reward" = "AMM Mining";
+"price_about" = "Price";
+"stake" = "Stake";
+"lptoken_notify" = "When you supply the liquidity pools with an equal value of two cryptocurrency tokens, you will receive LP tokens minted by the AMM pool. This indicates the proportion of your assets in the AMM pool.";
+"yes" = "Yes";
+"no" = "No";
+"swap_records_msg" = "Swap %@ to %@";
+"amm_in_out_record2" = "Records";
+"all_rewards" = "Total Rewards";
+"mining_my_reward" = "My Rewards";
+"amm_my_pool" = "My Liquidity Position";
+"recommend" = "Recommended";
+"amm_all_money_msg" = "The current value of all your liquidity positions";
+"rewards" = "Reward";
+"amount_of_funds" = "Liquidity";
+"amm_join_type" = "AMM Deposit";
+"amm_exit_type" = "AMM Withdraw";
+"pre_pay_fee" = "Prepaid Fee";
+"refund_fee" = "Refund Fee";
+"send_redpacket_type" = "Send Red Packet";
+"receive_redpacket_type" = "Red Packet withdrawal";
+"quotation" = "Markets";
+"fee_rewards" = "Fee Rewards:";
+
+"new_activity" = "New Activities";
+"announcement_center" = "New Announcement";
+"new_pairs" = "New Pairs";
+"will_open" = "  Coming Soon  ";
+"opening" = "  Mining  ";
+"end" = "  Ended  ";
+"activity_time" = "Time: %@";
+"mining_rewards" = "Rewards";
+"amm_volume" = "Vol.";
+"liquidity_time" = "Incentive Period: ";
+"pay_use_layer2" = "Use Loopring L2 Tokens";
+"pay_with_layer2" = "Paid by Loopring L2";
+"pay_with_layer1" = "Paid by Ethereum L1";
+"pay_with_arbitrum" = "Paid by Arbitrum";
+
+"pay_with_layer1_switch_1" = "Paid by Ethereum L1. Change to ";
+"pay_with_layer1_switch_2" = "Loopring L2";
+"pay_with_layer2_switch_1" = "Paid by Loopring L2. Change to ";
+"pay_with_layer2_switch_2" = "Ethereum L1";
+"gas_price_normal" = "Normal (< 5 min): %@ gwei. Change to ";
+"gas_price_normal_suffix" = "Fastest";
+"gas_price_fast" = "Fastest (< 0.5 min): %@ gwei. Change to ";
+"gas_price_fast_suffix" = "Normal";
+
+"activite_ranking" = "· Trade Ranking ·";
+"activite_your_trade" = "Your volume: %@";
+"activite_your_ranking" = "Your ranking：";
+"activite_rank_before" = "No.%@";
+"activite_rank_after" = "Not in the top %@";
+"to_trade" = "Trade";
+"trade_vol" = "Volume";
+"ranking" = "Rank";
+"fee_rewards2" = "Fee Rewards";
+"mining_rewards2" = "Mining Rewards";
+"amm_in_totry" = "Join the AMM";
+"you_pay" = "You Pay";
+"you_get" = "You Get";
+"activite_total_rewards" = "Rewards";
+"ranking_wait" = "Coming Soon";
+"amm_other" = "Others";
+"asset_not_found" = "Asset not found";
+"not_found_qrcode_info" = "No info found";
+"mining_will_open" = " Mining Coming Soon ";
+"mining_opening" = " Mining ";
+"mining_end" = " Mining Ended ";
+"dialog_yes" = "Yes";
+"dialog_no" = "No";
+
+"Hide" = "Hide";
+
+"fee_is" = "fee is %@";
+"red_package" = "Red Packets";
+"rp_can_withdraw" = "Withdraw";
+"rp_send" = "Send Red Packet";
+"rp_i_send" = "Sent";
+"rp_i_receive" = "Received";
+"rp_private" = "Private Red Packet";
+"rp_public" = "Public Red Packet";
+"rp_relay" = "Relay Red Packet";
+"rp_public_msg" = "Your Red Packet is public, and everyone can try to claim a share of it.";
+"rp_count" = "Split";
+"rp_input_count" = "Quantity";
+"send_time" = "Send Time";
+"send_now" = "Now";
+"rp_money_to_rp" = "Prepare Red Packet";
+"rp_expired_msg" = "Red Packets expire within 24 hours. Any unclaimed tokens remaining after the expiration will be returned within 1 day.";
+"rp_best_wishes" = "Best wishes";
+"rp_balance" = "Red Packet Balance";
+"feeling_lucky" = "Luckiest Draw";
+"rp_type_normal" = "Identical Amount";
+"rp_amount_each" = "Amount Each";
+"rp_one" = "";
+"rp_set_name" = "Change Signature";
+"rp_receive_details" = "Show Details >";
+"rp_help_me" = "Share the Red Packet";
+"rp_help_me_msg" = "If the recipient of the gift also re-shares the packet, they will receive half of whatever the next person receives.";
+"waiting" = "Waiting...";
+"transfer_to_L1_msg" = "If you transfer to an exchange address, please note:\n1: Make sure the exchange can support contract deposits;\n2: Do not transfer the same token from L2 to the same L1 address again before the first succeeds.";
+"transfer_to_L2_msg" = "You can send on L2 to any self-custodial Ethereum wallet. However, if you are sending to a custodial wallet, (e.g. hosted by an exchange) please ensure they allow users to interact with Loopring L2.";
+"fast_withdraw_msg_colon" = "Fast (~15 seconds):";
+"my_redpacket" = "Records";
+"rp_normal" = "Normal Red Packet";
+"rp_normal_msg" = "Each recipient receives a pre-set split of the total gift shared.";
+"rp_lucky" = "Lucky Red Packet";
+"rp_lucky_msg" = "Each recipient receives a random amount of the total gift shared.";
+"rp_choost_type" = "Select Red Packet Type";
+"main_hot" = "Hot";
+"amm_mining_rewards_total" = "Current/Total Mining Rewards";
+"rp_open" = "Open";
+"rp_invite_frien" = "Invite friends";
+"rp_use_ens" = "Use ENS";
+"rp_use_sign" = "Use Signature";
+"rp_start" = "Start";
+"rp_receive_end" = "Sorry, Red Packet has ended";
+"rp_relay2" = "Relay";
+"rp_lucky2" = "Lucky";
+"rp_total_amount" = "Total";
+"rp_received_finish" = "Finish";
+"rp_received_pending" = "Opened";
+"rp_received_notstart" = "Hasn\'t started";
+"rp_has_received" = "Received";
+"walletconnect_msg_default" = "Default format. Change to";
+"walletconnect_msg_utf8" = "UTF-8 format. Change to";
+"walletconnect_had_disconnect" = "WalletConnect disconnected";
+"wc_connect_failed" = "Connection failed. Please try again.";
+"utf8_format" = "UTF-8 format";
+"default_format" = "Hex format";
+"total_amount" = "Total";
+"input_you_search_token" = "Enter the token to search";
+"connect_success" = "Success! Connected.";
+"amm_join_fee" = "AMM deposit fee is %@";
+"rp_msg" = "A red envelope is worth a hundred blessings. Now you can send red envelopes with any tokens. Share the good wishes with friends and communities.\n";
+"application" = "Utility";
+"rp_max_count" = "The maximum number of Red Packets is %@";
+"rp_received_finish_2" = "Red Packet ended";
+"rp_received_end" = "The Red Packet expired";
+"rp_private2" = "Private";
+"rp_public2" = "Public";
+
+"rp_number_max" = "The total amount of the Red Packet cannot exceed ";
+"rp_number_min" = "A single amount cannot be less than ";
+"rp_private_msg" = "Your Red Packet is shared privately with others via a custom QR code.";
+"rp_use_wallet_scan" = "Scan and open with 'Loopring Wallet' ";
+
+"send_redpacket_type" = "Send Red Packet";
+"receive_redpacket_type" = "Red Packet withdrawal";
+"rp_start" = "Start";
+"rp_who_help_other" = "Help";
+"rp_who_help_me" = "Help Me";
+"no_limit" = "There is no limit, but changes are currently not supported";
+"long_press_drag" = "Long press and drag";
+"open_time_yet" = "Unable to open at this time";
+"rp_fast_to_receive" = "Hurry up and claim it ~~";
+"feed_back_email" = "Email";
+"fee_deploy" = "Gas fee for deploying your smart wallet contract (paid to Ethereum network).";
+"red_Packet_send_time_earlier" = "The Red Packet cannot be sent in the past";
+"red_Packet_send_time_exceed" = "The Red Packet must be sent within 24 hours";
+"dex_trade_swap_fee" = "Small amount fee";
+"dex_trade_fee_details_trade" = "The trade fee for orders smaller than %@ is variable based on current gas prices and can only be Fill Or Kill/Market orders. Increase your order size and enjoy the lowest %@ order.";
+"offchain_fee_updated" = "Fee updated. Please try again.";
+
+"protocol_fee_reward" = "Protocol Fee Distribution";
+"maker_fee_reward" = "Maker Rebate";
+"referrer_fee_reward" = "Referral Rebate";
+"channel_fee_reward" = "Channel Rebate";
+"rp_now_help_me_count_msg1" = "";
+"rp_now_help_me_count_msg2" = " friends helped me claim the Red Packet and have received the amount of ";
+
+"coin_details" = " Introduction";
+"coin_start_time" = "Start Date";
+"coin_start_amount" = "Total Supply";
+"coin_start_pirce" = "Opening Price";
+"coin_address" = "Token Contract Address";
+"coin_net" = "Official";
+"coin_introduction" = "Introduction";
+
+"verify_face_id" = "Verify with Face ID";
+"verify_touch_id" = "Verify with Touch ID";
+"input_Password" = "Enter Passcode";
+"face_Id_to_open" = "Tap to use Face ID";
+"touch_Id_to_open" = "Tap to use Touch ID";
+
+
+//EOA
+"create_loopring_wallet" = "Create %@ Smart Wallet";
+"recover_loopring_wallet" = "Recover Smart Wallet";
+"import_wallet_eoa" = "Import EOA Wallet";
+"eoa_walletname_hint" = "1–12 alphanumeric characters";
+"backup_tips" = "Backup tips";
+"backup_tips_msg" = "The seed phrase provides access to the wallet\’s assets.";
+"mnemonic_msg1" = "The seed phrase consists of English words. Please write them down and keep them safe.";
+"backup_mnemonic" = "Back up seed phrase";
+"backup_mnemonic_msg1" = "Please write the seed phrase down in order to ensure the backup is correct.";
+"mnemonic_save_msg1" = "Keep your seed phrase in a safe place, isolated from any network.";
+"mnemonic_save_msg2" = "Don\'t share or store your seed phrase with a network via email, photo, social apps, etc…";
+"backup_confirm" = "Confirm backup";
+"mnemonic_verify" = "Confirm seed phrase";
+"mnemonic_verify_msg1" = "You need to confirm 3 consecutive words from your seed phrase to create a wallet.";
+"mnemonic_verify_msg2" = "Please select the %@ seed phrase to make sure you backed it up correctly.";
+"backup_mnemonic_error" = "You have made an error 3 times. Please back up again.";
+"import_wallet_use_mnemonic" = "Import wallet seed phrase";
+"import_wallet_use_key" = "Import wallet private key";
+"import_mnemonic" = "Seed phrase";
+"import_privatekey" = "Private key";
+"output_key_outline" = "Save offline";
+"output_key_outline_msg" = "Please refrain from saving any important information on email, cloud storage, notepad, IM tools, etc…. It may jeopardize the security of assets.";
+"output_key_net" = "Please do not transfer via the internet.";
+"output_key_net_msg" = "Avoid transferring through internet tools to help prevent attacks by hackers, resulting in irreversible loss of assets. It is recommended to execute a transaction by scanning the wallet\'s QR Code offline.";
+"output_key_tools" = "Utilize Password Management Tools";
+"output_key_tools_msg" = "It is recommended to use professional password management tools to store and manage passwords.";
+"private_key_hint" = "Please enter the private key";
+"lptoken_notify" = "When you supply the liquidity pools with an equal value of two cryptocurrency tokens, you will receive LP tokens minted by the AMM pool. This indicates the proportion of your assets in the AMM pool.";
+"private_key_error" = "Invalid private key";
+"mnemonic_invalid" = "Invalid seed phrase";
+
+"speed_up_tx" = "Accelerate";
+"speed_up_tx_msg" = "Accelerate transactions with the best fee rate";
+"cancel_tx" = "Cancel the Transaction";
+"cancel_tx_msg" = "Send a 0 ETH transaction to your wallet address";
+"speed_up_before" = "Before Acceleration";
+"speed_up_after" = "After Acceleration";
+"apply_authorization" = "Token Authorization ";
+
+"authorization_details" = "Authorization Details ";
+"authorization_amount" = "Authorization Amount";
+"authorization_address" = "Authorization Address";
+"authority" = "Authority";
+"unlimited" = "Unlimited";
+"dex_apply_for_authorization" = "Loopring L2 Token Authorization";
+
+"activite_dex" = "Activate Loopring L2 account";
+"activite_dex_msg" = "Activating Loopring L2 requires a deposit of %@ ETH on the Loopring L2 account.";
+"activite_dex_msg2" = " Activating the Loopring L2 account requires a transfer to the Loopring L2 account ";
+
+"edit_your_wallet_name" = "Enter name here";
+"account_available" = "Available";
+
+"to_trade1" = "Trade>>";
+"ranking" = "Rank";
+"ranking_pk1" = "Tournament";
+"favorite_add" = " + Add Favorite";
+"favorite_del" = "Delete";
+"favorite_del2" = "Delete Favorite";
+"favorite_del3" = "  Delete Favorite";
+"favorite_add2" = "Add Favorite";
+"favorite_set" = "Edit";
+"swap_time_countdown" = "Swap will be opened after the countdown ends";
+"no_trade_ranking_found" = "Trade Ranking not found";
+"favorite_edit" = "Edit Favorites";
+"favorite_edit_done" = "Done";
+"transfer_again" = "Transfer again";
+
+
+"arbitrum" = "Arbitrum";
+"ethereum" = "Ethereum";
+
+"chart_24hour" = "24 Hour";
+"chart_1week" = "1 Week";
+"chart_1month" = "1 Month";
+
+"only_support_same_network_contact" = "This wallet address belongs to %@. Only they can add the same network Guardian.";
+
+"time_oneday2" = "24 Hour";
+"time_oneWeek2" = "1 Week";
+"time_oneMonth2" = "1 Month";
+
+
+"arbitrum_address_description" = "This address only supports the Arbitrum network. Please don\'t transfer assets to another network.";
+
+"manage_wallet" = "Wallet Management";
+"Waiting_for_Payment" = "Waiting for deposit. Tap to continue";
+"Waiting_for_Payment_title" = "Wait for deposit";
+
+"wallet_status_creating" = " Creating";
+"wallet_status_recovering" = "Recovering";
+
+"transfer_warning_1" = "The address %@ is not supported by the Arbitrum network. Cannot send to this address.";
+"transfer_warning_2" = "Please confirm the address %@ supports the Arbitrum network. Otherwise, the token you transferred will be lost.";
+"transfer_warning_3" = "The address %@ does not support the Ethereum network. Cannot withdraw to this address.";
+"transfer_warning_4" = "Please confirm the address %@ supports the Ethereum network. Otherwise, the token you withdraw will be lost.";
+"transfer_warning_5" = "The address %@ does not support the Ethereum network. Cannot send to this address.";
+"add_trust_guardian_warning_1" = "Please confirm the address %@ supports the %@ network.";
+
+"can_not_lock" = "The person you protect has wallet contract version V1. You cannot lock the wallet. Please ask them to lock it using another Guardian or the Official Loopring Guardian.";
+"others" = "Others";
+
+"network_support_pre" = "Supports";
+"no_assets_yet" = "No available balance. Please tap to %@.";
+
+"ens_fee" = "ENS Fee:";
+"bind_ens" = "Bind ENS";
+"ens_fee_title" = "Wallet ENS";
+"bind_ens_nav" = "Please enter the wallet ENS";
+"fee_title_suffix" = "%@ Fee";
+"confirm_pay" = "Confirm Payment";
+"title_ens_name" = "ENS";
+"title_ens_fee" = "ENS Fee";
+"fee_purpose" = "Purpose";
+"title_transaction_fee" = "Fee";
+"title_ens_payment" = "Payment";
+"title_ens_create_fee" = "ENS Fee";
+"ens_binding_status_failed" = "Failed";
+"ens_binding_status_binding" = "Processing";
+"ens_binding_status_bound" = "Success";
+"ens_binding_status_submitted" = "Submitted";
+"ens_invalid_msg" = "Invalid ENS";
+"wallet_create_or_recover" = "+ Create or Recover Wallet";
+"wallet_create_choose" = "Choose the network to create the wallet";
+"arbitrum_what_is" = "What is Arbitrum?";
+"arbitrum_msg" = "Arbitrum is a Layer 2 solution designed to improve the capabilities of Ethereum smart contracts — boosting their speed and scalability, while adding in additional privacy features to boot.";
+"arbitrum_how_to_work" = "How does Arbitrum work?";
+"arbitrum_how_to_work_msg" = "The Arbitrum compiler takes your Solidity contracts and compiles them to run on Arbitrum. The EthBridge connects Arbitrum-land with Ethereum-land, letting you communicate and pass ether and tokens back and forth. Your Arbitrum code is run by validators, whom you choose. Your contract will run correctly if even one of your chosen validators is honest — that’s the AnyTrust guarantee. All of this can happen quickly and mostly off-chain.";
+"arbitrum_additional_benefits" = "Additional benefits";
+"arbitrum_additional_benefits_msg" = "Arbitrum is compatible with Ethereum. Arbitrum makes your DApp scalable, by moving almost all of its activity off-chain and making your DApp\'s cost independent of the size of its code and data. Arbitrum also preserves privacy by letting you choose who gets to see what your DApp is doing. And Arbitrum gives you confidence in your DApp\'s correctness due to the AnyTrust Guarantee which lets you pick your validators and requires only one honest validator to ensure correct behavior.";
+
+"ac_check_trade_warning" = "Apologies but we are unable to provide order services or AMM deposits in your area as per our Terms of Use.";
+"ac_check_regist_warning" = "Apologies but we are unable to provide wallet registration services in your area as per our Terms of Use.";
+
+"counterfactual_name" = "Counterfactual";
+"recover_not_create" = "Your Ethereum L1 account is not activated. Please activate the L1 account and then recover the wallet.";
+"receiveInfo" = "Because your wallet\’s Ethereum L1 account is not activated, you will need to activate it before recovering your wallet. Please deposit the required amount of assets to recover your wallet. Creation cost (est.): %@. Recovery cost (est.): %@.";
+"Reactivate" = "Reactivate";
+"activate_l2" = "Activate Loopring L2 Account";
+"activate_Account" = "Activate Account";
+"activate_newQR_infor_l1" = "This address only supports Ethereum assets. Please do not send assets via other blockchains.";
+"activate_newQR_infor_l2" = "Please use a Loopring L2 account when transferring to avoid loss of assets.";
+"activate_newQR_message1_l1" = "The assets may take time to reach the account because the process occurs on-chain.";
+"activate_newQR_message2_l1" = "Order expires after";
+"activate_newQR_message3_l1" = "You can also transfer more assets. After the wallet is successfully created, the remaining assets will be available in your wallet.";
+"activate_newQR_message4_l1_main" = "This address can %@. Please do not transfer other tokens to avoid loss of assets.";
+"activate_newQR_message4_l1_sub" = "Only receive %@";
+
+
+"activate_newQR_only_receive_main" = "This address can %@. Please do not transfer other tokens to avoid loss of assets.";
+"activate_newQR_only_receive_sub" = "Only receive %@";
+
+"set_No_account_L2_transfer_message" = "The recipient does not have a registered Loopring L2 account. If you are sending to a custodial wallet, (e.g., hosted by an exchange) please ensure they allow users to interact with Loopring L2.";
+"migration_Warning" = "Only supports Loopring Wallet migration";
+"pay_again" = "Deposit Again";
+"contact_us" = "Contact us";
+"unable_to_pay_fee" = "Unable to pay fee";
+"open_l2_fee" = "This fee can only be paid with a Loopring L2 balance. Please update your Fee Preference in Profile > Settings > Fee Preference > Use Loopring L2 Tokens";
+"waring_message" = "·This address only supports ERC-20 tokens. Do not send tokens from other blockchains to this address as they will be lost.
+·The wallet creation fee is the cost to create the wallet. These funds will not be avaible after creation. To save gas, it is best to send more than the creation fee so assets are available once the wallet is active.";
+"lp_token_cannot_withdrawn" = "LP token cannot be withdrawn.";
+"network_unstable" = "The network connection is unstable";
+"order_expires" = "Order expires after %@, waiting for deposit.";
+"order_expires_main" = "Order expires after waiting for deposit.";
+"order_expired_title" = "Order Expired";
+"order_expired_message" = "The Ethereum L1 account you created has not been funded causing the order to become invalid. Please re-create the wallet.";
+"new_l1_l2_receive" = "Receive";
+"new_l1_l2_send" = "Send";
+"new_l1_l2_segment_control_l2" = "Loopring L2";
+"new_l1_l2_segment_control_l1" = "Ethereum L1";
+"UnKnwon_NFT" = "Unknown NFT";
+"l1_activating" = "Your Ethereum L1 account is being activated. Please wait a moment.";
+"approval_failed" = "Approval failed. Please re-initiate the request.";
+"reset_approval0" = "Due to the deposit being greater than the approved amount, you need to perform following actions: \n\n·Reset approval \n\n·Set current approve amount";
+"reset_approval1" = "You have exceeded your approved daily quota. You can update it through your Guardians.";
+"daily_limit_reached" = "Your daily quota has been reached.";
+"number_min2" = "Input value cannot be lower than the deposit amount (Min %@ %@)";
+
+"reset_approval_exceed_daily_quota" = "Your approval amount exceeds your daily quota. You need to perform following actions: \n\n·Reset approval \n\n·Set current approve amount";
+
+"corrupted_data" = "
+    1. Please do not delete the app.
+    2. Please do not deposit or transfer any tokens to the wallet.
+    3. Please go to Profile > About, tap the Loopring logo 5x to access Developer Mode. Copy the logs and then send them to us.
+";
+
+"enable_push_notification" = "Enable Push Notifications";
+"sed_red_pack_sensitive_words" = "Inappropriate words detected. Please resend using another wish.";
+"take_a_little_time" = "It may take some time for this transaction to execute on-chain.";
+"l1_receive_item1" = "Buy with a card";
+"l1_receive_item2" = "From my L1 account";
+"l1_receive_item3" = "From another Loopring L2 account";
+"l1_receive_item4" = "From another L1 account";
+"from_my_L2_account" = "From my L2 account";
+"from_another_wallet" = "From another L1 wallet or exchange";
+"myL1ToMyL2" = "My L1 to my L2";
+"myL2ToMyL1" = "My L2 to my L1";
+"anotherL2ToMyL2" = "Another Loopring L2 account to my L2";
+"anotherL1ToMyL1" = "From another L1 wallet or exchange";
+
+"to_my_l2_account_send" = "To my L2 account";
+"to_my_l1_account_send" = "To my L1 account";
+"to_loopring_l2_account" = "To another Loopring L2 account";
+"to_eth_l1_account_incl_exchange" = "To another ETH wallet\n(incl. exchange)";
+"to_eth_l1_account_incl_exchange_2" = "To another L1 account\n(incl. exchange)";
+
+"eoa_wallet" = "EOA Wallet";
+"wallet_" = "Wallet";
+"binance" = "Binance";
+"huobi" = "Huobi";
+"other_smar_twallet" = "Other Smart Wallet";
+
+"eoa_wallet_desc" = "This wallet does not bind with a smart contract. (e.g. MetaMask, imtoken, Ledger, Trezor, etc....) ";
+"loopring_wallet_desc" = "This wallet is created using the Loopring Wallet app and binds with the Loopring smart contract.";
+"l2_not_active" = "Recipient can activate the Loopring L2 account for this address after you send assets.";
+"other_smar_twallet_desc" = "This wallet binds with a smart contract that does not support Loopring L2. You will need to send assets to the Ethereum L1 account.";
+
+"exchange_desc" = "The following trading platforms currently do not support Loopring L2 transfers (Binance, Coinbase, etc...). You will need to send assets to the Ethereum L1 account.";
+"l2_address_origin" = "Please confirm the address type to ensure the assets are sent to an address that supports Loopring L2.";
+"l2_not_open_risk" = "This address has not activated a Loopring L2 account. Please confirm the wallet can access Loopring L2 before sending or the assets transferred may be lost.";
+"address_type" = "Address Type";
+"select_address_source" = "Please select the address type:";
+"eg_eoa_wallet" = "e.g., Loopring Wallet, MetaMask, GameStop Wallet, Coinbase Wallet, imToken, Ledger, Trezor, and other EOA wallets.";
+"hobi_transactions_time" = "Transactions need to wait 24 hours";
+"amm_pool" = "AMM Pool";
+"set_your_payment_passcode" = "Set Account Passcode";
+"confirm_your_payment_passcode" = "Confirm Account Passcode";
+"seconds_Reacquire" = " seconds remaining";
+"mobile_phone_" = "Mobile Phone";
+"email_creation" = "Email Creation";
+"mobile_phone_creation" = "Mobile Phone Creation";
+"create_wallet_desc" = "We need a contact method to verify your requests to the Official Loopring Guardian. (Do not use a throwaway SMS or email address). We\'ll use this contact method if you ever need to recover or lock your wallet.";
+"enter_your_email" = "Enter your email";
+"enter_your_phone" = "Enter your phone number";
+"invitation_code" = "Invitation Code";
+"invitation_code_input" = "Enter an invitation code";
+
+"optional" = "( Optional )";
+"invite_dode_desc" = "To receive referral points, the person referred must first activate Ethereum L1";
+"from_an_exchange" = "From an exchange";
+"my_balance" = "My Balance";
+"my_amount" = "My Amount";
+"accessRedPacket" = "Access Red Packets";
+"others_" = "Others";
+"confirm_cex_support_title" = "Confirm CEX Support";
+"confirm_cex_support" = "
+Before withdrawing, please ensure your CEX accepts deposits from smart contracts.
+
+L2 to L1 withdrawing is via a smart contract. The CEX depositing address may not be able to acknowledge the tokens deposited automatically.
+
+If the deposited tokens do not appear at the CEX address within 24 hours, please contact your CEX support to manually acknowledge this transaction.";
+
+"understand_risk" = "I understand and acknowledge the risk";
+"exceed_daily_quota_deposit_approval" = "Exceed Daily Quota Deposit Approval";
+
+//<!-- 2FA -->
+"1fa_reset_password_fill_code" = "Verification code will be sent to %@";
+"2fa_introduction_title" = "Two-Factor Authentication (2FA)";
+"2fa_btn_sms_title" = "SMS Authentication";
+"2fa_btn_email_title" = "Email Authentication";
+"2fa_btn_loopringauth_title" = "Signature Auth";
+"2fa_btn_authenticator" = "Authenticator";
+"2fa_loopringauth_info" = "Signature Auth requires access to the wallet\'s private key. It performs a handshake with the Official Loopring Guardian via the account passcode or biometric authentication.";
+"2fa_looprintauth_frozen_toast" = "For wallet security, it is necessary to freeze the 24-hour countdown.";
+"2fa_sms_auth_title_add" = "Add New SMS Authentication";
+"2fa_email_auth_title_add" = "Add New Email Authentication";
+"2fa_sms_auth_title_delete" = "Remove SMS Authentication";
+"2fa_email_auth_title_delete" = "Remove Email Authentication";
+"2fa_have_not_set_passcode" = "You haven\'t set an Account Passcode. Please add an additional authentication source for security consideration.";
+"2fa_choose_verification_title" = "Choose Verification";
+"2fa_choose_verification_title_only_official" = "Official Guardian Verification";
+"2fa_choose_select_secondary_auth" = "Select secondary authentication";
+"2fa_choose_verification_subtitle" = "This verification process requires 2 authentication methods, Signature Auth and a secondary.";
+"2fa_choose_verification_subtitle_only_official" = "Please choose an authentication method. This verification process requires %@ authentication methods.";
+"2fa_choose_one_or_empty_tip" = "Please check %@ authentication methods to continue.";
+"2fa_choose_more_than_one_tip" = "Only %@ authentication methods are required. Please uncheck one to continue.";
+"2fa_choose_verification_loopringAuth_subtitle" = "Via your passcode or biometric authentication.";
+"2fa_verification_title" = "Verification";
+"2fa_enter_email" = "Enter email %@";
+"2fa_enter_phone" = "Enter phone number %@";
+"2fa_enter_authenticator_code" = "Enter Authenticator code";
+"2fa_send_email_code" = "Verification code will be sent to %@";
+"2fa_send_phone_code" = "Verification code will be sent to %@";
+"2fa_input_authenticator_code" = "Enter the 6-digit code from Authenticator";
+"2fa_sign_button_not_sign" = "Sign";
+"2fa_sign_button_signed" = "Signed";
+"2fa_security_verification_title" = "Security Verification";
+"2fa_change_auth_description" = "%@ adds another layer of security to your assets.";
+"2fa_change_auth_authenticator" = "Authenticator provides a second layer of security for your assets.";
+"2fa_enable_auth_authenticator_des" = "You can install an authenticator app to generate a verification code.";
+"2fa_delete_forbid_description" = "You must have 2 authentication sources. You must add another trusted source before disabling this one.";
+"2fa_delete_title" = "Are you sure you want to disable %@?";
+"2fa_i_understand" = "I Understand";
+"2fa_recover_title" = "Please enter the wallet name or address";
+// https://desk.zoho.com/portal/loopring/en/newticket
+"2fa_require_count_not_satisfy_alert" = "You can\'t pass the two-factor authentication process to verify your identity. Please submit a ticket to the Loopring support team that contains more information to verify yourself.";
+"2fa_require_cooldown_24hours" = "You just completed 1 security sensitive operation to reset the Signature Auth. In order to secure your assets, the account will be locked for 24 hours. Please try again afterwards.";
+"2fa_add_authenticator_des" = "e.g., Google Authenticator, Microsoft Authenticator...";
+"2fa_add_authenticator_title_1" = "1. Scan the QR code with the Authenticator app";
+"2fa_add_authenticator_subtitle_1" = "If you are unable to scan the QR code, you can manually enter the account and key into the Authenticator app.";
+"2fa_add_authenticator_title_2" = "2. Please enter the verification code";
+"2fa_add_authenticator_account" = "Account:";
+"2fa_add_authenticator_key" = "Key:";
+
+"2fa_google_authenticator" = "Google Authenticator";
+"2fa_pre_verify_subtitle" = "Complete authentication information";
+"2fa_choose_verification_method" = "Choose a verification method";
+"2fa_error_111005" = "Your 2FA verification has exceeded the daily limit";
+"2fa_error_111006" = "Your verification has expired";
+"2fa_error_111007" = "You have exceeded the maximum number of sends";
+"2fa_error_111008" = "The information provided is inconsistent with your registration details";
+"2fa_error_111009" = "You have exceeded the number of verification attempts";
+"2fa_error_111010" = "The verification code you entered is incorrect";
+"2fa_reset_authenticator" = "Change Authenticator";
+"2fa_security_frozen_str" = "Valid after ";
+"2fa_card_frozen_str" = "Countdown ";
+"2fa_recover_step_1" = "Step 1/3: Recover your wallet by notifying Guardians for approval.";
+"2fa_recover_step_2" = "Step 2/3: To begin the recovery process, we must first verify your identity to ensure the request is authentic.";
+"2fa_recover_step_3" = "Step 3/3: Please setup the Account Passcode to prepare for the recovery.";
+"2fa_loopringAuth_freezing" = "Locked";
+"2fa_forget_loopringAuth_notice" = "Notice";
+"2fa_forget_loopringAuth_notice_subtitle" = "In order to secure your assets, the account will be locked for 24 hours after resetting the passcode. Please try again afterwards.";
+"2fa_add_guard_title" = "Two-Factor Authentication (2FA)";
+"2fa_account_at_risk" = "Your Account is At Risk";
+"2fa_account_at_risk_tip_security" = "For improved security, it is recommended to enable at least 2 methods of authentication.";
+"2fa_less_than_three_options_with_space" = "For improved security, it is recommended to enable at least 2 methods of authentication.
+
+If there are less than 2 authentication methods,
+you will be unable to verify you are the wallet owner in the event you lose your phone or forget the account passcode.";
+"2fa_account_fix_me" = "Fix me";
+"2fa_verify_your_passcode" = "Verify your passcode";
+"2fa_have_not_setup_passcode" = "You haven\'t setup the passcode.";
+"2fa_set_new_passcode" = "Set New Passcode";
+"2fa_set_new_passcode_description" = "This passcode will be used for transactions and other account activity.";
+"2fa_confirm_new_passcode" = "Confirm New Passcode";
+"2fa_enabled" = "Enabled";
+"2fa_less_than_three_options" = "Your wallet is at risk, please enable more authentication sources to secure. For improved security, it is recommended to enable at least 2 methods of authentication.";
+"2fa_change_passcode" = "Change Passcode";
+"2fa_introduction_mask_description" = "Tap to enable additional Authentications to improve security";
+"2fa_verify_to_upgrade_description" = "For security reasons, we require passcode verification.";
+"2fa_add_authenticator_save_key" = "Please make a note of the key and store it somewhere safe. Do not upload it to the internet.
+If you uninstall or lose your authenticator, you can restore the 2FA with this key.";
+
+"2fa_introduction_content" = "For improved security, besides Signature Auth, it is recommended to enable at least 2 additional methods of authentication. Doing so will allow you to:
+
+· Recover wallet
+· Reset passcode
+
+Please verify your passcode first to proceed.";
+"2fa_introduction_info_content" = "For improved security, besides Signature Auth, it is recommended to enable at least 2 additional methods of authentication. Doing so will allow you to:
+
+· Recover wallet
+· Reset passcode";
+//
+"l2_trade" = "Trade %@ to %@ ";
+"redeem_amm_pool" = "Redeem AMM Pool";
+"to_my_l1_account_u" = "To My L1 Account";
+"to_my_l2_account_u" = "To My L2 Account";
+"l1_receive_item2_u" = "From My L1 Account";
+"pay_l1_transaction_fee" = "Pay L1 Transaction Fee";
+"l2_paid_fee" = "L2 Paid/Fee";
+"l2_paid" = "L2 Paid";
+"add_trust_address" = "Add Trust Address";
+"remove_trust_address" = "Remove Trust Address";
+"enable_daily_quota" = "Enable Daily Quota";
+"disable_daily_quota" = "Disable Daily Quota";
+"activate_l2_account" = "Activate L2 Account";
+"new_l1_l2_activity_2" = "Transactions";
+"l1_transactions" = "L1 Transactions";
+"l2_transactions" = "L2 Transactions";
+"to_l1_account" = "L1 Account";
+"to_l2_account" = "L2 Account";
+"send_redpacket" = "Send Red Packet";
+"claim_redPacket" = "Claim Red Packet";
+"recover_account" = "Recover Account";
+"active_l1_account" = "Active L1 Account";
+"paid_by_loopring" = "Paid by Loopring";
+"metatx_update_account" = "Create/Reset L2 Account ";
+"invest_amm_pool" = "Invest AMM Pool";
+"cant_transfer_to_yourself" = "Cannot transfer to yourself";
+"refund" = "Refund";
+"exceed_daily_quota_deposit_approval" = "Exceed Daily Quota Deposit Approval";
+"layerSwap_title" = "Notice";
+"layerSwap_desc" = "Layerswap is a third-party app service provider that helps move tokens off exchanges and directly to Loopring L2. If you have any concerns regarding their service, please visit their %@.";
+"dex_deposit_tos" = "TOS";
+"l2_receive" = "L2 Receive";
+"new_swap_title" = "Swap";
+"new_orderbook_title" = "Order Book";
+"new_fiat_title" = "Fiat";
+"claim_to_loopring_l2" = "Claim to Loopring L2";
+"claim" = "Claim";
+"my_l2_account" = "My L2 Account";
+"lockToken_info" = "
+Deposit pending: %@
+Withdrawal pending: %@
+Maker Order unfilled: %@
+Dual investment: %@
+";
+"force_withdraw" = "Force Withdraw";
+"force_withdraw_detail_sub" = "The address from which the token will be withdrawn from the Loopring L2 account to the Ethereum L1 account.";
+"force_withdraw_detail_pop" = "This feature allows a user to move their Loopring L2 tokens to the Ethereum L1 account within the target address. The target address must either be a non-activated L2 account or an exchange address.
+This operation usually requires more than 30 minutes to take effect, as it needs to interact with Ethereum mainnet. Please be patient.
+";
+
+"trust_address" = "Trust Address";
+"force_Withdraw" = "Force Withdraw";
+"force_Withdraw_subtitle" = "The address from which the token will be withdrawn from L2 to L1.";
+"force_Withdraw_desc" = "If the recipient doesn\'t have an active Loopring L2 account, you will be able to withdraw the token from L2 to Ethereum L1. This process is usually only needed when tokens were sent to a CEX address using Loopring L2. Since the CEX does not have access to the L2 account, you will need to perform this action to reclaim the tokens. ";
+
+"force_Withdraw_confirm_warning" = "·This feature allows a user to move their L2 tokens to the L1 address. The target address must either be a wallet or exchange address.
+·This operation usually requires more than 30 minutes to take effect, as it needs to interact with Ethereum mainnet. Please be patient. ";
+
+"force_Withdraw_error" = "The Loopring L2 account is activated in this address. For security reasons, Loopring does not allow another user to force withdraw tokens from its L2 to L1.";
+"force_Withdraw_no_token_error" = "Unable to detect a L2 token to withdraw to L1 on this address.";
+"force_Withdraw_input_place_holder" = "Please enter target address";
+"updating" = "Updating";
+"fee_full_fail" = "Fee Pull Fail";
+"limit_order" = "Limit Order";
+"limit_order_alert_body" = "Used to set the maximum or minimum price at which you are willing to buy or sell.";
+"market_order" = "Market Order";
+"market_order_alert_body" = "Used to buy or sell immediately at the current market price.";
+"add_exchange_address_to_trust" = "This address belongs to the Loopring operator for depositing tokens to any Loopring L2 address. If you add this address as a Trusted Contact, there will be no restriction on any of your L2 transfers. Please ensure this is your intention.";
+"l1_to_l2_no_exchange_address" = "Transfers to any Loopring L2 address are routed through the Loopring operator; the operator then sends the tokens to the proper Loopring L2 address. Guardian approval is required if you do not add the Loopring operator as a Trusted Contact.";
+"subscribe" = "Subscribe";
+
+"market_order_min_quantity_alert" = "Small trades (below ~$100) incur a higher fee ratio.
+Trading Fee: %@
+Fee Ratio: %@
+Minimum Received: %@";
+
+"market_order_success" = "Success! Order placed.";
+"market_order_fail" = "Failed! Error placing order.";
+"ethereum_fee" = "Ethereum Fee: ";
+
+"delete_account" = "Delete Account";
+"delete_account_detail" = "Deleting your account will permanently delete all your registered information associated with this wallet address.
+
+Once your information is removed, you will no longer have access to the wallet, and it will be irrecoverable.
+
+Please ensure all assets are transferred out of your wallet prior to deletion.";
+"confirm_delete_account" = "Are you sure you want to delete your account?";
+"send_success" = "Request Sent";
+"send_request" = "Your request has been received. We will respond within 2 working days.";
+"stacked_risk_title" = "What is ETH Staking via Lido?";
+"stacked_risk_sub_title" = "Lido is a liquid staking solution for ETH 2.0 backed by industry-leading staking providers. Lido lets users stake their ETH without locking assets or maintaining infrastructure.
+
+When using Lido to stake ETH on the Ethereum beacon chain, users will receive a token (stETH), which represents their ETH on the Ethereum beacon chain on a 1:1 basis. It effectively acts as a bridge bringing ETH 2.0\’s staking rewards to ETH 1.0.
+
+WSTETH is the wrapped version of stETH. The total amount of WSTETH doesn\’t change after users receive the token. Instead, the token\’s value increases over time to reflect ETH staking rewards earned.";
+"risk_warning" = "I have read and understand the risk warning";
+"risk_warning_2" = "It is important to note that users can\'t redeem WSTETH for ETH until phase 2 of Ethereum 2.0. However, users are able to trade WSTETH for ETH on various exchanges at market prices.
+
+Loopring will provide a pool allowing users to trade WSTETH for ETH directly on L2. The pool will rebalance periodically when it reaches a specific threshold. If there is not enough inventory on L2, users can always withdraw their WSTETH tokens to L1 and swap for ETH in Lido, Curve, or 1inch.";
+"overview" = "Overview";
+"staking" = "Staking";
+"eth_staking" = "ETH Staking";
+"stake_ether" = "Stake Ether";
+"est_rate_apr" = "Est. rate (APR)";
+"my_investment" = "My Investments";
+"stake_ether" = "Stake Ether";
+"your_balance_is_insufficient" = "Insufficient balance";
+
+"no_quota_available" = "Loopring will set up the pool soon. Please come back later to subscribe. ";
+
+"no_quota_available2" = "It is not possible for the Loopring pool to fulfill your complete request at this time.
+You can choose one of the following approaches for the remaining amount:
+· Withdraw WSTETH to L1 and trade through Uniswap, 1Inch, or Lido.
+· The Loopring pool will rebalance soon. Please come back later to redeem.";
+
+"redeem" = "Redeem";
+"subscribe" = "Subscribe";
+"detail" = "Details";
+"transaction" = "Transactions";
+
+"max_staking_deposit" = "The quota is almost sold out and can\'t fulfill your complete order. You can only use %@ ETH to subscribe now. Loopring will set up the pool soon. Please come back later to subscribe. ";
+
+"max_staking_withdraw" = "It is not possible for the Loopring pool to fulfill your complete request at the moment. You can only use %@ WSTETH to redeem now.
+You can choose one of the following approaches for the remaining amount:
+· Withdraw WSTETH to L1 and trade through Uniswap, 1Inch, or Lido.
+· The Loopring pool will rebalance soon. Please come back later to redeem. ";
+
+"from2" = "from";
+"developer_mode" = "Developer Mode";
+"developer_mode_desc" = "Please enter the Language String URL";
+"network_notice_defi_invest" = "Apologies but we are unable to provide investment services in your area as per our Terms of Use.";
+"total_earnings" = "Total Earnings";
+"subscribe_success" = "Success! Subscribed.";
+"redeem_success" = "Success! Redeemed.";
+"subscribe_failed" = "Failed! Unable to subscribe.";
+"redeem_failed" = "Failed! Unable to redeem.";
+"total_invest" = "Total Investment";
+"stake_pool_enable" = "ETH staking service is not currently available. Please return periodically until the pool is setup. Usually, it will be ready within one hour.";
+"import_language" = "Import Language";
+"log" = "Log";
+"reset_english" = "Reset English";
+"import" = "Import";
+"stake_pool_enable" = "Loopring will set up the pool soon. Please come back later to subscribe. ";
+"earn" = "Earn";
+"mint" = "Mint";
+"deploy" = "Deploy";
+"tokenId" = "TokenId";
+"tokenId_2" = "TokenID";
+"swap_check_record_timeout" = "Please check the status in the records";
+"delete_account_alert_title" = "Failed to delete account";
+"delete_account_alert_msg" = "The assets in your wallet will no longer be accessible if you delete your account. Transferring your valuable assets out of the wallet is essential before deleting your account in order to prevent asset loss.";
+
+"what_dual_investment_title" = "What is Dual Investment?";
+
+"what_dual_investment_subtitle" = "Dual Investment offers you a chance to sell cryptocurrency high or buy cryptocurrency low at your desired price on your desired date. Once subscribed, users are not able to cancel or redeem the subscription until the Settlement Date.
+You may be better off holding your cryptocurrency and may be required to trade your cryptocurrency at a less favorable rate of exchange than the market rate on Settlement Date. Cryptocurrency trading is subject to high market risk. Please make your trades cautiously. There may be no recourse for any losses.";
+
+"risk_warning_3" = "Dual Investment is a high-risk product. Subscribed assets are locked and users aren\’t able to cancel or redeem before the Settlement Date. You may be better off holding your cryptocurrency, and may be required to trade your cryptocurrency at a less favorable rate of exchange than the market rate on Settlement Date. Cryptocurrency trading is subject to high market risk. Please make your trades cautiously. There may be no recourse for any losses.";
+
+"dual_investment_title" = "Dual Investment";
+"today" = "Today";
+"1_day" = "1 Day";
+
+"total_quota" = "Total Quota";
+"subscription_succeeded" = "Subscription Succeeded";
+"subscription_succeeded_desc" = "Your token for investment is locked but still in your account, as Loopring is a DEX.
+When the transaction expires, if the Settlement Price is greater than the Target Price, you will get a profit and the frozen token will also be unlocked. If the Settlement Price reaches or is lower than the Target Price, your investment and interest income will be converted into the Target Token at the Target Price.";
+// eg: Invest USDC
+"dual_inves" = "Invest %@ ";
+
+//eg:(Buy LRC Low)
+"dual_inves_buy_low" = "Buy %@ Low";
+
+//eg:(Sell High for LRC)
+"dual_inves_sell_height" = "Sell High for %@";
+
+//eg: Earn more USDC or BTC
+"dual_inves_earn" = "Earn more %@ or %@ ";
+
+//eg: "Return"
+"dual_return_token" = "Return";
+
+//eg: Current BTC Price
+"dual_token_current_price" = "Current %@ Price";
+"dual_current_price" = "Current Price";
+
+"dual_settlement_price" = "Settlement Price";
+"dual_settlement_date" = "Settlement Date";
+
+"dual_apr" = "APR";
+"dual_target_price" = "Target Price";
+"dual_product" = "Product";
+"dual_apr_desc" = "APR is refreshed in real time. We will use the latest APR at the time you complete the subscription successfully.";
+"dual_target_price_desc" = "Target Price is a benchmark price based on USDT. On Settlement Date, the Settlement Price will be compared against this benchmark price.";
+"dual_insufficient_total_quota" = "Insufficient Total Quota.";
+"dual_order_has_expired" = "Subscription Failed! \nThe order has expired.";
+"dual_exceeded_total_quota" = "Exceeded Total Quota.";
+"dual_delivering" = "Delivering";
+
+//eg: Amount is too small (Min 100).
+"dual_amount_is_too_small" = "Amount is too small (Min %@).";
+"dual_settled" = "Settled";
+"dual_subscribe" = "Subscribe";
+"dual_insufficinet_balance" = "Insufficient Balance";
+//eg: Amount is too large (Max 100).
+"dual_amount_over_max" = "Amount is too large (Max %@)";
+
+"dual_risk_msg_1" = "I understand that Dual Investment is NOT principal-guaranteed products.";
+"dual_risk_msg_2" = "I understand that subscribed assets are locked and users aren\’t able to cancel or redeem before the Settlement Date.";
+"dual_risk_msg_3" = "I understand that I should review the possible scenarios of settlement amount and confirm the subscription details.";
+"dual_risk_msg_4" = "I have read and understand the risk warning.";
+"dual_commingsoon" = "Coming soon";
+"dual_subscribe_time" = "Subscribe Time";
+"dual_days" = "Days";
+
+
+//NFT related strings below
+"balance_2" = "Balance:";
+"amount_2" = "Amount: ";
+"contract_address_" = "Contract Address";
+"minter_" = "Minter";
+"token_id" = "Token ID";
+"token_standard" = "Token Standard";
+"blockchain" = "Blockchain";
+"description" = "Description";
+"refresh_nft_metadata" = "Refresh metadata! \n We’ve queued this item for an update! \n Check back in a few minutes.";
+"refresh_nft_metadata_refreshing" = "Metadata is refreshing... \n You can check back in a few minutes.";
+"hide_small_liquidity" = "Hide small liquidity";
+"nft_self_trading" = "Self-trading";
+"nft_collectibles" = "Collectibles";
+"nft_item" = "item";
+"nft_items" = "items";
+"new_trade_title" = "Trade";
+"commingsoon" = "Coming soon";
+
+//<!-- iCloud --> add from icloud branch
+"icloud_security_setting_title" = "iCloud Backup";
+"icloud_security_setting_subtitle" = "No Backup";
+"icloud_introduction_title" = "iCloud Backup";
+
+"icloud_introduction_des1" = "Enabling iCloud backup is free. Your private key is encrypted and stored in your iCloud.";
+"icloud_introduction_des2" = "· The data uploaded to iCloud is encrypted for security.
+· Loopring has no control over the security of the iCloud service. If you have any concern regarding the risk, you can manually disable this feature any time.";
+"icloud_introduction_des3" = "· The data uploaded to iCloud is encrypted for security.
+· If you lose your keys, you can recover your wallet for free by selecting 'Recover Wallet from Cloud'";
+"icloud_disable_alert_title" = "No iCloud account detected, or iCloud Drive is not enabled";
+"icloud_disable_alert_description" = "To recover your backup using iCloud, you need to enable iCloud from your iPhone’s Settings app.";
+"icloud_status_no_backup" = "No Backup";
+"icloud_status_enabled" = "The encrypted key has been stored in your active iCloud account";
+"icloud_status_verifyFailed" = "Auto Backup verification failed";
+"icloud_enter_passcode" = "Please enter your passcode";
+"icloud_enter_passcode_subtitle" = "This passcode is used for cloud file encryption";
+"icloud_recover_from_cloud" = "Recover from Cloud";
+"icloud_recover_from_cloud_description" = "Please select a wallet to recover. This lets you recover your wallet for free. You will regain access after 24 hours.";
+"icloud_recover_list_button_title" = "Recover";
+"icloud_recover_list_empty" = "You don\'t have a backup";
+"icloud_recover_decrypt_failed" = "Unable to decrypt the private key. The account passcode may be incorrect or the encrypted key may be corrupted. Please enter the correct passcode and try again.";
+"icloud_recover_decrypt_subtitle" = "This password is for the cloud file backup.";
+"icloud_migrate_previous_title" = "You have previously turned on cloud backup. Do you wish to turn on again?";
+"icloud_recover_list_wallet_prefix" = "Wallet %@";
+"icloud_backuping" = "The wallet\'s private key is being backed up...";
+"icloud_close_confirm_description" = "If you disable iCloud backups, the wallet data in iCloud will become out of sync. This may result in failure when attempting to recover the wallet from the cloud in the future. If you\’d like to delete the cloud wallet data, please manually delete the relevant files there.";
+"icloud_close_confirm_title" = "Turn off iCloud Backup";
+//add order orderbook
+"orderbook_order_processing" = "Processing";
+"orderbook_order_processted" = "Processed";
+"orderbook_order_cancelled" = "Canceled";
+
+//ramp
+"buy_with_ramp" = "Buy with Ramp";
+"buy_with_banxa" = "Buy with Banxa";
+"buy_with_card_desc" = "Purchase Crypto with Ramp & Banxa";
+"buy_with_other_wallet" = "Transfer using a Loopring Wallet";
+"buy_with_receive_l2" = "Receive from L2 wallet";
+
+//active
+"until_next_check" = "Until next check-in:";
+
+//transfer
+"transfer_l1_send" = "L1 Send";
+"transfer_l2_send" = "L2 Send";
+"transfer_select" = "Select";
+//eg: The currency ETH will not be transferred to the contract address 0x00000";
+"transfer_alert_message" = "The currency %@ will not be transferred to the contract address %@";
+"transfer_alert_not_supported" = "Token Not Supported";
+
+//管理钱包
+"manager_wallet_layer2" = "Layer 2";
+"manager_wallet_delete_alert_title" = "Are you sure you want to delete the wallet?";
+"manager_wallet_delete_alert_message" = "After deleting the wallet, it can only be accessed by performing a recovery.";
+
+//alert title
+"alert_title_clear_data" = "Clear Data";
+"alert_title_corrupted" = "Wallet Data Corrupted";
+"alert_title_corrupted_data" = "Corrupted Data";
+
+//tableViewFoot loading
+"tableview_foot_looding" = "Loading ... ";
+
+//
+"2fa_signature_auth_passcode" = "Signature Auth (via Passcode)";
+"create_novice_guide" = "Novice Guide";
+"creation_fee" = "Creation Fee";
+"nfts" = "NFTs";
+"records_my" = "My";
+"verification_code_sent_to_user" = "Sent to %@";
+"create_wallet_pay_qr" = "/2 Only send %@ to this deposit address. The wallet creation fee amount will not land in your wallet as this is cost to create the wallet. To save gas it is best send more than the wallet creation fee so you will have assets ready to use on the wallet.";
+"create_wallet_rewardpoint" = "Your wallet has been successfully created with %@ points";
+"create_wallet_rewardpoint_desc" = "Sign up using an invitation code and receive %@ points";
+"create_wallet_visit" = "I have a Loopring Wallet";
+
+"push_setting_title" = "Enable Push Notifications";
+"push_setting_message" = "Receive alerts for transactions and wallet security related information.";
+"push_setting_cancel" = "Don’t Allow";
+"push_setting_allow" = "Allow";
+"order_book_cancel_all_order" = "All Orders Canceled";
+"order_book_cancel_order" = "Order Canceled";
+"2fa_require_count_not_satisfy_alert_sub" = "submit a ticket"; //lowercase first letter
+"2fa_button_title" = "Submit";
+"2fa_email_sent" = "Email has been sent";
+"2fa_sent_code" = "Code has been sent";
+"2fa_enter_code" = "Enter your code";
+"2fa_loopring_address" = "Loopring (%@)";
+"2fa_change_auth" = "Change %@";
+"2fa_set_passcode_alert_continue" = "Continue";
+"2fa_set_login_alert_continue" = "Continue";
+"2fa_time_emaining" = "Time Remaining:";
+"2fa_submit_created" = "Have you already deposited？";
+"tost_copied" = "Copied";
+
+"order_book_error_1" = "Wallet Not Created";
+"order_book_error_2" = "Amount too small";
+"order_book_error_3" = "Amount too large";
+"order_book_error_4" = "Unknown Error";
+"order_book_error_5" = "Layer 2 Not Created";
+"order_book_error_6" = "Insufficient Wallet Balance";
+"active_ask_friend" = "Ask a friend";
+"active_ask_friend_desc" = "Ask a friend who is already on L2 to deposit funds into your account";
+"feed_back_report" = "Please submit a report.";
+
+"gro_desc" = "GRO Invest Description";
+"gro_message" = "this is GRO description ...... ";
+
+"new_asset_guide_title" = "Loopring L2";
+"new_asset_guide_desc" = "The Loopring app (loopring.io/#/layer2) is a high-performance, non-custodial exchange (AMM and order book) and payment platform operated by the Loopring team. It is built on the Loopring protocol, run by the Loopring relayer, and provides the most advanced and enjoyable trading experience on Ethereum. Gas-free, blazingly fast, completely secure. Whether you are doing a single swap, 30 trades per minute, providing liquidity in the AMM pool or order book, or transferring tokens to 1 friend or 100 friends, Loopring Layer 2 is the L2 standard.";
+
+"new_asset_wallet" = "Go to wallet";
+"gwei" = "Gwei";
+
+"l1_receive_title" = "L1 Receive";
+"expired_warning" = "Warning";
+"expired_need_help" = "Need help? View FAQs?";
+"debug_log_alert_title" = "Debug Log";
+"payment_style_available_pay" = "Available: %@ Pay: %@";
+"payment_style_available_pay_using" = "Available: %@ (Pay using %@)";
+"payment_style_using" = "Pay using %@ ";
+"transfer_fee_discount" = "OFF";
+
+"tost_create_wallet" = "Please create wallet";
+"tost_fee_load_failed" = "Fee is unavailable. Please try again.";
+"tost_exchange_load_failed" = "Get Exchange Info Failed";
+"tost_generateeddsa_failed" = "Generate EdDSA Failed";
+"tost_dexopenAccount_failed" = "DexOpenAccount Failed";
+"tost_l2_toke_list_empty" = "Get second token list is empty.";
+"tost_twoFactorInfo_nil" = "twoFactorInfo is null";
+"tost_unsupport_style" = "Unsupported style %@";
+"orderbook_market_not_support" = "Order Book is currently unsupported for this market.";
+
+"alert_verb_content_send" = "send";
+"alert_verb_content_send_2" = "send";
+"alert_verb_content_receive" = "receive";
+"alert_verb_content_send_red_packet" = "send red packet";
+"alert_verb_content_claim_red_packet" = "claim red packet";
+"alert_verb_content_swap" = "swap";
+"alert_verb_content_place_order" = "place order";
+"alert_verb_content_scan_qr_code" = "scan QR code";
+"alert_verb_content_invest" = "invest";
+"alert_verb_content_send_token" = "send token";
+"alert_verb_content_receive_token" = "receive token";
+"alert_verb_content_send_nft" = "send NFT";
+"alert_verb_content_dapp" = "DApp";
+"alert_verb_content_bind_ens" = "bind ENS";
+"alert_verb_content_add_guardians" = "add guardians";
+"alert_verb_content_manage_guardians" = "manage Guardians";
+
+//
+"set_up_fee_desc" = "The creation fee is the gas cost to create the wallet. This amount below will not be part of your balance. It is recommended to send more than the creation fee so you will have assets available to use once your wallet is ready.";
+"re_creation" = "Re-creation means that your previous wallet will be invalid. If you choose to re-create the wallet, the assets on your previous address will be lost forever. Please operate with caution. If you choose to re-create the wallet, please enter AGREE (uppercase) to confirm.";
+"next_update_time" = "Next update in: %@. Refresh";
+"expired_alert_message" = "Unfortunately, the time has expired. If you have transferred assets to this address, please do not uninstall the app.";
+
+//
+"address_type_exchange" = "Exchange";
+
+//An error has occurred, please try again later  --> try again can clicked
+"lock_result_desc" = "An error has occurred. Please try again later.";
+"lock_result_try_again" = "try again";// in 👆 substring
+
+//set money type
+"currency_cny" = "CNY";
+"currency_usd" = "USD";
+"currency_hkd" = "HKD";
+"currency_jpy" = "JPY";
+"currency_eur" = "EUR";
+"currency_krw" = "KRW";
+"currency_gbp" = "GBP";
+"currency_cad" = "CAD";
+"currency_aud" = "AUD";
+
+//
+"my_investments_no_data" = "You can track your active investments here";
+"trust_desc" = "By trusting a contact, token transfers sent to them via L1 are exempt from your daily quota limit.";
+"you_not_trusted" = "You don\'t trust this contact";
+"trusted_no_consume" = "Unlimited daily quota";
+"my_red_packet" = "My Red Packet";
+"add_guardian_tip_risk" = "Warning";
+"add_guardian_tip_very_security" = "Very Secure";
+"address_can_not_added_guardian" = "The wallet address provided can\’t be added as a Guardian since it does not have an active Ethereum L1 account. Please activate the L1 account for this address and try again.";
+"you_trusted" = "You trust this contact";
+
+//new migration
+"recover_smart_wallet" = "Recover Wallet";
+"migrate_to_new_device_title" = "Migrate wallet to new device";
+"migrate_install_new_desc" = "Install Loopring Wallet on your new device";
+"migrate_choose_have_wallet_desc" = "Select I have a Loopring Wallet > Migrate Wallet";
+"migrate_generate_qrcode_btn" = "Generate QR code";
+"migrate_not_take_screenshot_title" = "Do not take a screenshot";
+"migrate_not_take_screenshot_desc" = "For security purposes, please do not take a screenshot of the migration QR code. Captured images may be accessible by your phone\’s cloud storage or third-party applications, potentially resulting in the loss of your assets.";
+"migrate_scan_desc" = "Scan the QR code with your new device";
+"migrate_risk_warning_desc_1" = "Enter the passcode on your new device to confirm the migration.";
+"migrate_risk_warning_desc_2" = "After migration, the wallet\’s data on this device will be deleted.";
+"migrate_wallet" = "Migrate Wallet";
+"migrate_wallet_migrating" = "Migrating";
+"migrate_wallet_migration_completed" = "Migration Completed";
+"migrate_wallet_go_to_wallet" = "Go to Wallet";
+"migrate_scan_qrcode_to_migrate_desc" = "Scan the QR code on your old device to migrate your wallet.";
+
+
+//new recover
+"recover_loopring_provides_desc" = "Loopring provides 2 ways to recover your wallet.";
+"recover_method1" = "Method 1";
+"recover_method2" = "Method 2";
+"recover_notice" = "Notice";
+"recover_notice_warning_desc" = "When you recover your wallet, all of your local data is erased, and you are logged out of your account. The only way to regain access to your account is to recover your wallet.
+Are you sure you want to recover your wallet? To confirm, please type ‘recover my wallet’ below.";
+"recover_input_word" = "recover my wallet";//Do not translate this.
+
+"recover_risk_information_desc" = "When you decide to recover the wallet, the app will be initialized. You\'ll need to follow the steps below to complete the recovery operation.";
+"recover_choose_have_wallet_desc" = "Select I have a Loopring Wallet > Recover from Cloud or Recover from Guardian";
+"recover_from_cloud" = "Recover from Cloud";
+"recover_from_guardian" = "Recover from Guardian";
+"recover_enabling_cloud" = "Enabling cloud backup is free. Your private key is encrypted and stored in your iCloud.";
+"recover_enabling_guardian" = "Pay blockchain network fees and recover your wallet with your Guardians.";
+
+//new passcode
+"psd_alphanumeric_menu" = "Custom Alphanumeric Code";
+"psd_digit_menu" = "6-Digit Numeric Code";
+"psd_change_passcode" = "Change Passcode";
+"psd_weak_hint" = "Weak";
+"psd_normal_hint" = "Normal";
+"psd_strong_hint" = "Strong";
+"psd_switch_passcode_type" = "Change Passcode Type";
+"psd_passcode_option_btn" = "Passcode Options";
+"psd_set_passcode_desc" = "This passcode will be used for transactions and other account activity.";
+"psd_length_hint" = "6–20 characters using letters, numbers & symbols";
+"psd_use_touch_id" = "Use Touch ID";
+"psd_use_face_id" = "Use Face ID";
+"nav_pop_context_rocket" = "What is ETH Staking via Rocket Pool?\n\nRocket Pool is the first truly decentralized Ethereum staking pool. Rocket Pool\’s liquid staking token allows anyone to earn staking rewards easily without running staking software or locking assets. Rocket Pool handles all of the Ethereum validator operations with smart contracts on the Execution Layer.\n\nAcquiring and holding rETH in your wallet means that you are staking ETH. rETH\'s value continuously increases relative to ETH, indicating the daily stake reward received.";
+
+
+// Analytics Settings
+"settings_analytics" = "Analytics";
+"settings_analytics_description" = "Allow Loopring Wallet to collect information regarding crash logs, button taps, page views, etc. The collection of this information will solely be used to improve user experience.";
+
+//lock screen
+"lock_screen_more" = "More";
+"token_locked_details" = "Locked Details";
+"token_locked_details_deposit" = "Deposit pending";
+"token_locked_details_withdraw" = "Withdrawal pending";
+"token_locked_details_makerOrder" = "Maker Order unfilled";
+"token_locked_details_dual_investment" = "Dual Investment";
+
+// Orderbook new cancel all alert
+"orderbook_cancel_all_alert_description" = "Cancel all open orders?";
+"orderbook_active_orders_depth" = "Depth";
+
+//settings
+"settings_appearance" = "Appearance";
+"settings_appearance_dark" = "Dark";
+"settings_appearance_light" = "Light";
+"settings_appearance_system" = "Use System Settings";
+"settings_appearance_system_description" = "Light or Dark Mode will follow your device\'s settings";
+
+// Activation
+"activation_view_progress" = "View Progress";
+
+// Migration Bugfix
+"migration_qr_code_expired_alert_title" = "Migration QR code has expired!";
+"migration_qr_code_expired_alert_description" = "Please open the Loopring Wallet app on your old device and regenerate the migration code. If you\’re unable to regenerate the code, you will need to recover the wallet using Guardians or a cloud backup.";
+
+"icloud_recovery_qr_code_expired_alert_title" = "Wallet Recovery Failed!";
+"icloud_recovery_qr_code_expired_alert_description" = "Unable to recover your wallet using the cloud backup. The wallet owner or the private key has changed since the last successful backup. Please try using the 'Recover from Guardian' method.";
+
+//rocket pool
+"staking_list_via_lido" = "Via Lido";
+"staking_list1_via_lido" = "Stake ETH and receive WSTETH";
+
+"staking_list_via_rocket_pool" = "Via Rocket Pool";
+"staking_list1_via_rocket_pool" = "Stake ETH and receive RETH";
+
+"nav_title_rocket" = "What is ETH Staking via Rocket Pool?";
+"nav_pop_contect_rocket" = "Rocket Pool is the first truly decentralized Ethereum staking pool. Rocket Pool\’s liquid staking token allows anyone to earn staking rewards easily without running staking software or locking assets. Rocket Pool handles all of the Ethereum validator operations with smart contracts on the Execution layer.
+
+Acquiring and holding rETH in your wallet means that you are staking ETH. rETH\'s value continuously increases relative to ETH, indicating the daily stake reward received.";
+
+"nav_pop_contect_risk_rocket" = "Loopring will provide a pool to allow users to trade rETH for ETH directly on Layer 2. The pool will rebalance periodically when it reaches a specific threshold. If there is not enough inventory on Layer 2, users can always withdraw their rETH tokens to Layer 1 and swap for ETH in Rocket Pool, 1Inch, etc…";
+
+"rocketpool_redeem_tips" = "It is not possible for the Loopring pool to fulfill your complete request at this time.\nYou can choose one of the following approaches for the remaining amount:\n
+· Withdraw rETH to L1 and trade through Rocket Pool, 1Inch, etc.
+· The Loopring pool will rebalance soon. Please come back later to redeem.";
+
+"rocketpool_redeem1_tips" = "It is not possible for the Loopring pool to fulfill your complete request at this time. You can only use %@ rETH to redeem now.\nYou can choose one of the following approaches for the remaining amount:\n
+· Withdraw rETH to L1 and trade through Rocket Pool, 1Inch, etc.
+· The Loopring pool will rebalance soon. Please come back later to redeem.";
+
+"reth_stake_title" = "Rocket Pool";
+
+//swap less than $100
+"swap_less_than_100_warning" = "Warning";
+
+//dual invest update
+"dual_settle_days_desc" = "Subscription Length (days)";
+"dual_if_desc" = "if";
+"dual_token_lock_hint" = "*Your token for investment will be locked until Settlement Date.";
+"dual_settle_calc_subtitle" = "Settlement Calculator";
+"dual_sold_out_subtitle" = "Products are sold out";
+"dual_sold_out_desc" = "Loopring will be rebalancing shortly; please return later to subscribe.";
+"dual_waiting_desc" = "We will try to fulfill your subscription request within minutes. If your subscription cannot be fully completed within the time frame, the unfilled portion will be unlocked. You can return later to resubscribe.";
+"go_my_dual_btn" = "Go to My Dual Investment";
+
+//amm earning
+"amm_pool_24_earn" = "24h Earn";
+"stake_total_earn" = "Total Earn";
+
+"apr_amm_pool" = "AMM Pool APR:";
+"apr_activity" = "Activity APR:";
+"apr_protocol" = "Protocol APR:";
+
+
+//dual beginner model
+"dual_beginner_desc" = "Choose a token to sell or buy";
+
+"dual_beginner_step1" = "Step 1/4:";
+"dual_beginner_step1_desc" = "Choose to sell or buy at desired price in the future";
+
+"dual_beginner_step2" = "Step 2/4:";
+"dual_beginner_step2_desc" = "Choose Target Price and Settlement Date";
+
+"dual_beginner_step3" = "Step 3/4:";
+"dual_beginner_step3_desc" = "Enter Subscription Amount";
+
+"dual_beginner_step4" = "Step 4/4:";
+"dual_beginner_step4_desc" = "Check Winning Scenarios";
+
+"dual_beginner_mode_title" = "Beginner Mode";
+"dual_beginner_mode_desc" = "Step-by-step guide for selling high or buying low";
+"dual_professional_mode_title" = "Professional Mode";
+"dual_professional_mode_desc" = "Choose a token pair to invest";
+"dual_return_token_type" = "Return Token Type";
+"dual_waiting_subtitle" = "Waiting for completion";
+"dual_waiting_desc" = "We will try to fulfill your subscription request within minutes. If your subscription cannot be fully completed within the time frame, the unfilled portion will be unlocked. You can return later to resubscribe.";
+"settle_date_title" = "At Settlement Date";
+"settle_price_desc" = "Index Price is derived from some leading exchanges.";
+"token_locked_hint" = "Your token for investment will be locked until Settlement Date.";
+"dual_beginner_sell_high" = "Sell %@ High";
+"dual_beginner_buy_low" = "Buy %@ Low";
+"dual_beginner_sell_high_desc" = "You will receive USDC or USDT";
+"dual_beginner_buy_low_desc" = "You can invest USDC or USDT";
+
+"dual_delivering_desc" = "We will calculate your investment return on the Settlement Date at 08:00 UTC based on the Settlement Price and the Target Price. You will receive your returns within 6 hours."; //new add
+"dual_beginner_return_token_type" = "Return Token Type";
+"dual_professional_desc" = "Choose a token to sell or buy";
+"invest" = "Invest";
+"dual_price_desc" = "Current Price is based on USDT derived from some leading exchanges.";
+
+// Fee
+"fee_settings_advanced" = "Advanced";
+"fee_settings_advanced_title" = "Customize Fee";
+"fee_settings_process_anyway_description" = "We were unable to estimate the fee. There might be an error in the contract, and this transaction may fail.";
+"fee_settings_process_anyway_button_title" = "I want to proceed anyway";
+"L2_withdraw_to_L1_navigation_title" = "Confirm the Withdrawal";
+
+// 'normal_withdraw_msg_colon' will change from 'Normal' to 'Normal (~40 minutes):' in the next version.
+"normal_withdraw_msg_colon" = "Normal (~40 minutes):";
+"40_minutes_suffix" = "(~40 minutes)";
+"available_colon_prefix" = "Available:";
+"gas_estimate_updating" = "Updating";
+"approve_token_description" = "It may take some time for this transaction to execute on-chain.";
+
+
+
+
+
+// Keep it at the bottom of the file.
+// ==== 👇 Multi-language settings, do not change
+"language" = "Language";
+"en" = "English";
+"zh-Hans" = "中文简体";
+"zh-Hant" = "中文繁體";
+"tr" = "Türkçe";
+"pt-PT" = "Português";
+"fr" = "Français"; //记得修改。app中多语言选项、图形验证码语言
+"jp" = "日本語";
+"español" = "Español";
+"developModel" = "DevelopModel";
+//====== 👆 Multi-language settings, do not change
+

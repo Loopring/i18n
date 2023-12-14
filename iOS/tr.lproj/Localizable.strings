@@ -1,0 +1,1986 @@
+
+"main_wallet_tab" = "Varlıklar";
+"set_wallet_name" = "Cüzdan ismini belirle";
+"generate_wallet" = "Cüzdan Oluştur";
+"recover_wallet" = "Cüzdanı Kurtar";
+"migrate_wallet" = "Cüzdanı Taşı";
+"next" = "Sıradaki";
+"password" = "Şifrenizi oluşturun";
+"repeat_password" = "Şifrenizi onaylayın";
+"backup_mnemonic" = "Gizli kurtarma kodunuzu yedekleyin";
+"confirm" = "Onay";
+"cancel" = "İptal ";
+"committing" = "Gönderiliyor";
+"rejected" = "Reddedildi";
+"retry" = "Tekrar dene";
+"tap_to_view" = "Görüntülemek için dokunun";
+"cancelled" = "İptal edildi";
+"not_support" = "Henüz desteklenmiyor";
+"et_mnemonic" = "Lütfen gizli kurtarma kodunuzu aralarında boşluk olacak şekilde girin.";
+"private_key_hint" = "Lüften özel anahtarınızı girin";
+"wallet_existed" = "Cüzdan zaten var";
+"unlock" = "Kilidi aç";
+"receive_set_money" = "Alınacak Birimi Belirle";
+"send" = "Gönder";
+"receive" = "Al";
+"transfer_in_hebao" = "Yatır";
+"buy" = "Al";
+"sell" = "Sat";
+"other" = "Diğer işlem türleri";
+"trade" = "Takas";
+"copy_address" = "Kopyalanan Adres";
+"save" = "Kaydet";
+"main_wallet_tab" = "Varlıklar";
+"defi" = "DeFi";
+"search_token" = "Token";
+"search_token_in_markets_placehold" = "Token/Çift girin ya da arayın";
+"search_nodata" = "Arama sonucu yok";
+"setting" = "Ayarlar";
+"mine" = "Profil";
+"my_" = "Benim ";
+"add_contact" = "Kişi Ekle";
+"edit_contact" = "Kişiyi Düzenle";
+"edit_guardian" = "Koruyucuyu düzenle";
+"is_add_contact" = "Bu adresi yeni kişi olarak ekle?";
+"contact_empty" = "Henüz hiç kişiniz yok";
+"password_login" = "Güvenlik kodu ile giriş yap";
+"password_forget" = "Güvenlik kodunu unuttum";
+"password_forget2" = "Güvenlik kodunu unuttum";
+"reset" = "Sıfırla";
+"wallet_locking" = "Cüzdan kilitleniyor";
+"share" = "Paylaş";
+"copy_link" = "Linki kopyala";
+"refresh" = "Yenile";
+"set_money_type" = "Para Birimi";
+"set_color" = "Renkler";
+"set_color_red_green" = "Yukarı yön kırmızı, aşağı yön yeşil";
+"set_color_green_red" = "Yukarı yön yeşil, aşağı yön kırmızı";
+"official_website" = "Web Sitesi";
+"set_contract_address" = "Akıllı Kontratlar";
+"version" = "Sürüm";
+"export_private_key" = "Özel anahtarı dışa aktar";
+"copy_private_key" = "Özel anahtarı kopyala";
+"mnemonic" = "Gizli Kurtarma Kodu";
+"private_key" = "Özel anahtar";
+"legal" = "Legal";
+"user_feedback" = "Geri Bildirim ";
+"qr_code" = "QR Kodu";
+"qr_scan_code" = "QR kodu tara";
+"align_qr_code" = "QR kodu taramak için kameranızı hizalayın";
+"set_eth_gas_limit" = "ETH gönderirken, gas ücreti üst limiti \n olmalıdır";
+"enter_the_amount" = "Lütfen hacmi girin";
+"enter_the_count" = "Lütfen miktarı girin";
+"address_or_ens_hint" = "Bir adres ya da ENS girin";
+"input_valid_address" = "Geçersiz adres";
+"not_enough_balance" = "Yetersiz bakiye";
+"available" = "Uygun";
+"money" = "Hacim";
+"tokens" = "Tokenler";
+"token" = "Token";
+"input_pay_password" = "Lütfen hesabınızın güvenlik kodunu girin";
+"to" = "Alıcı";
+"from" = "Gönderici";
+"address" = "Adres";
+"ID" = "TxID";
+"memo" = "Not";
+"gas_fee" = "Madenci ücreti";
+"gas_price" = "Gas ücreti";
+"gas_limit" = "Gas ücreti limiti";
+"tx_status_success" = "Başarılı";
+"tx_status_pending" = "Sürüyor";
+"tx_status_failed" = "Başarısız";
+"received" = "Alındı";
+"status" = "Durum";
+"date" = "Tarih";
+"pending" = "Sürüyor";
+"time" = "Tarih";
+"no_data_approve_records" = "Onay geçmişi bulunmuyor";
+"keystore_psw_error" = "Geçersiz şifre";
+"transfer_error" = "Transfer başarısız oldu. Lütfen daha sonra tekrar deneyin.";
+"private_key_error" = "Geçersiz özel anahtar";
+"mnemonic_invalid" = "Geçersiz Gizli Kurtarma Kodu";
+"upgrade_confirm" = "Güncelle";
+"upgrade_contract" = "Akıllı Kontratı Güncelle";
+"dex_account" = "Loopring L2 Hesabı";
+"export_dex_warning" = "Lütfen bu bilgileri kimseyle paylaşmayn ve internete bağlı bir bilgisayarda text dosyası olarak saklamayın. Aksi takdirde varlıklarınızı düşük fiyatlı emirler dolayısıyla kaybedebilirsiniz.";
+"dex_createing_account" = "Aktifleştiriliyor";
+"dex_createing" = "Loopring L2 hesabınız oluşturuluyor. ";
+"dex_deposit" = "Yatır";
+"copy" = "Kopyala";
+"copy_to_clipborad_success" = "Panoya kopyalandı";
+"save_pic_success" = "Fotoğraf kütüphanenize kaydedildi";
+"order_expired" = "Süresi doldu";
+"order_detail" = "Emir detayları";
+"total" = "Toplam ";
+"completed" = "Tamamlandı";
+"success" = "Başarılı";
+"succeeded" = "Başarılı oldu";
+"failed" = "Başarısız Oldu";
+"submit_to_ethereum" = "Ethereum L1\'e iletildi";
+"failed_and_retry" = "Bir hata oluştu, lütfen daha sonra tekrar deneyin. Sorun devam ederse lütfen destek birimimize ulaşın.";
+"upgrade_to_latest_version" = "En son versiyona güncelle";
+"cant_get_token_info" = "Kripto varlık bilgilerine ulaşılamıyor. Lütfen daha sonra tekrar deneyin.";
+"amount" = "Miktar ";
+"amount_input" = "Lütfen miktarı girin";
+"price" = "Fiyat";
+"trading_fee" = "Ücret";
+"order_time" = "Emir Zamanı";
+"trade_pair" = "İsim";
+"dex_enter_coin" = "Lütfen bir token seçin";
+"save_to_album" = "Albüme kaydet";
+"delete" = "Sil";
+"no_data" = "Kayıt yok";
+"no_datas" = "Veri yok";
+"no_market" = "İşlem çifti yok";
+"committing_to_eth" = "Ethereum L1\'e işleniyor. Lütfen bekleyin.";
+"guardian" = "Koruyucu";
+"guardian_manager" = "Koruyucu Yönetimi";
+"add_guardian" = "Koruyucu Ekle";
+"trusted_title" = "Güvenilir Kişiler";
+"contact_title" = "Kişiler";
+"account_details" = "Hesabım";
+"contact_all" = "Tüm Kişiler";
+"contact_others" = "Diğer Kişiler";
+"from_intenet" = "İnternet üzerinden";
+"who_protects_me" = "Beni Kim Koruyor";
+"who_i_protect" = "Kimleri Koruyorum";
+"wallet_i_protect" = "Koruduğum Cüzdanlar";
+"pending_requests" = "Bekleyen istekler";
+"guardian_activity" = "İşlemler";
+"transfer_to" = "%@ adresine";
+"layer_transfer_to" = "%@ ⭢ %@";
+"received_from" = "%@ adresinden";
+"pay" = "Öde";
+"deposit" = "Yatır";
+"security_desc" = "Cihazının çalınması ya da kaybolması durumunda cüzdanınızı kurtarabilmek için Koruyucu ekleyin.";
+"add_as_guardian" = "Koruyucu olarak ekle";
+"add" = "Ekle";
+"trust" = "Güven";
+"add_trust" = "Güven Ekle";
+"remove_trust" = "Güven Kaldır";
+"security" = "Güvenlik";
+"remove" = "Kaldır";
+"remove_someone_contact" = "Kişiyi Sil";
+"lock" = "Kilitle";
+"migrate_account_instruction" = "Orjinal cihazınızdaki QR kodunu tarayın.";
+"ask_guardian_lock_wallet" = "Cüzdanınızı kilitlemek için Koruyucularınızla iletişime geçin.";
+"lock_wallet_msg" = "Cüzdan kilitleme talebiniz alındı. Blokzincir üzerinde onaylandığında cüzdanınızdaki varlıklar dondurulacak. Bu işlemin ardından kurtarma işlemiyle tekrar kontrolü sağlayabilirsiniz.";
+"wallet_locked_msg" = "Cüzdanınız kilitlendi. Kilidi açmak için dokunun.";
+"unlock_wallet" = "Cüzdan kilidini aç";
+"approve_unlock_wallet_title" = "";
+"locking" = "Kilitleniyor...";
+"unlocking" = "Kilit açılıyor...";
+"wallet_locked" = "Cüzdanınız kilitlendi";
+"wallet_locked_until" = "Cüzdan kilitli";
+"wallet_unlocked" = "Cüzdanın kilidi açıldı";
+"locked_by_someone" = "%@ tarafından kilitlendi";
+"trust_warning_title" = "Bu kişiye güveniyor musunuz?";
+"trust_warning_content" = "Bir kez güvendiğinizde, bu adrese transferlerinizde günlük sınırınızı aşabilirsiniz. Günlük kotanız bu adres özelinde geçerli olmaz.";
+"remove_trust_warning_title" = "Bu kişiye güvenmeyi bırakmak istiyor musunuz?";
+"remove_trust_warning_content" = "Silindikten sonra, bu kişiye yapılan transferler günlük kotanızda sayılacak.";
+"add_guardian_warning_title" = "Koruyucu olarak ekle?";
+"add_guardian_warning_content" = "Koruyucularınız telefonunuzun çalınması, kaybolması gibi durumlarda cüzdanınızı kurtarmanıza ve ihtiyacınız olduğunda cüzdanınızı kilitlemenize veya kilidi açmanıza yardm eder.";
+"invite" = "Davet et";
+"remove_guardian_warning_title" = "Koruyucuyu Sil?";
+"remove_guardian_warning_content" = "Bu adresi silerseniz artık sizi korumaz ve cüzdanınızı kurtarmaya yardım edemez.";
+"lock_warning_title" = "Cüzdanı kilitlemek istiyor musunuz?";
+"lock_warning_content" = "Cüzdan kilitlendiğinde varlıklar dondurulacak. Lütfen bu talebi yapanın cüzdanın sahibi olduğundan emin olun.";
+"unlock_warning_title" = "Cüzdanın kilidini açmak istiyor musunuz?";
+"unlock_warning_content" = "Bu, cüzdanın sahibi varlıklarının kilidini açmak istediğinde kullanılır.";
+"choose_guardians" = "Koruyucuları Seçin";
+"start_scan" = "Taramaya Başla";
+"add_guardian_to_eth" = "Koruyucu Ekleniyor";
+"add_guardian_in_pending" = "Koruyucu ekleme işlemi devam ediyor, tamamlanma süresi %@";
+"wait_guardian_approve" = "Koruyucu onayı bekleniyor";
+"remove_guardian_in_pending" = "Koruyucu silme işlemi devam ediyor, tamamlanma süresi %@";
+"add_guardian_rejected" = "Koruyucu talebi reddedildi";
+"add_guardian_failed" = "Koruyucu ekleme başarısız oldu. Tekrar denemek için dokunun.";
+"need_your_approve" = "Onay gerekiyor";
+"need_guardian_approve" = "Koruyucu onayı gerekiyor";
+"need_you_approve_sth" = "%@ için onay gerekiyor";
+"you_are_submit_approve_sth" = "%@ için onayınız iletildi ";
+"add_whitelist_to_eth" = "Güven ekleme işlemi Ethereum L1'e işleniyor";
+"add_whitelist_in_pending" = "Güven ekleme devam ediyor, %@ içinde tamamlanacak";
+"remove_whitelist_to_eth" = "Güven kaldırma işlemi Ethereum L1'e işleniyor";
+"guardian_address_hint" = "Ethereum adresi ya da ENS";
+"guardian_address_hint_without_network" = "Cüzdan adresi ya da ENS";
+"guardian_address_hint_without_ens" = "Ethereum adresi";
+"verify_email" = "E-mail ile doğrula";
+"verify_phone" = "Cep telefonu numarası ile doğrula";
+"verify_register_phone" = "Lütfen telefon numaranızı girin";
+"verify_register_email" = "Lütfen e-mail adresinizi girin";
+"email_enter_number" = "E-mail adresinizi girin";
+"phone_enter_number" = "Telefon numaranızı girin";
+"email_enter_code" = "E-mail doğrulama kodunu girin";
+"phone_enter_code" = "SMS doğrulama kodunu girin";
+"send_code" = "Doğrulama kodu gönder";
+"resend_code" = "Tekrar Gönder";
+"set_password" = "Güvenlik Kodunuzu Belirleyin";
+"start_app_need_pwd" = "Giriş Yapmak için Güvenlik Kodu Gerekir";
+"enter_password" = "Şifrenizi girin";
+"enter_new_password" = "Yeni Güvenlik Kodu Ayarla";
+"enter_new_password_again" = "Yeni Güvenlik Kodunu Doğrula";
+"ens_support_character" = "ENS yalnız küçük harfler ve sayılar içerebilir";
+"ens_already_registered" = "Bu ENS önceden alınmış";
+"invalid_wallet_or_ens_address" = "Geçersiz cüzdan adresi ya da ENS";
+"invalid_email_address" = "Geçersiz e-mail adresi";
+"invalid_phone_num" = "Geçersiz cep telefonu numarası";
+"get_email_code_fail" = "Doğrulama kodu alınamadı. Lütfen tekrar deneyin.";
+"email_code_sent" = "Doğrulama kodu gönderildi";
+"email_already_registered" = "Bu e-mail adresi zaten kullanılıyor";
+"phone_already_registered" = "Bu telefon numarası zaten kullanılıyor";
+"request_phone_email_too_frequency" = "Kısa sürede çok fazla kez doğrulama kodu istendi. Lütfen 24 saat bekleyin.";
+"request_verify_code_too_frequency" = "Doğrulama kodu kısa sürede çok fazla kez istendi. Lütfen daha sonra tekrar deneyin.";
+"verify_email_code_fail" = "Doğruma başarısız oldu. Lütfen kodunuzu kontrol edin. ";
+"change_pwd" = "Güvenlik Kodunu Değiştir";
+"change" = "Değiştir";
+"change_pwd_please" = "Lütfen güvenlik kodunu değiştirin";
+"reset_pwd" = "Güvenlik Kodunu Sıfırla";
+"generate_migrate_info_exception" = "Cüzdanı farklı bir cihaza taşıma işlemi başarısız oldu, lütfen tekrar deneyin. Eğer sorun devam ederse destek birimimize başvurun.";
+"pwd_not_same" = "Güvenlik kodları uyuşmuyor";
+"secure" = "Cüzdan Güvende";
+"wallet_queue3" = "Cüzdanınız oluşturuluyor. Bu birkaç dakika ya da saat sürebilir. Cüzdanınız hazır olduğunda size bildireceğiz.";
+"email_notify" = "E-mail";
+"phone_notify" = "SMS";
+"wallet_create_now" = "Cüzdanınızı şimdi oluşturun";
+"cancel_create_wallet_agree" = "Lütfen onaylamak için büyük harfle \"AGREE\" yazın";
+"create_wallet_again" = "Tekrar Oluştur";
+"button_think" = "İptal Et";
+"accept_guardian_request_title" = "Koruyucu isteği";
+"accept_guardian_request_content" = "%@ kişisinin Koruyucusu olmak istiyor musunuz?";
+"guardian_added" = "Eklendi";
+"reject" = "Reddet";
+"accept" = "Kabul Et";
+"approve" = "Onayla";
+"notify_guardian" = "Koruyucuya Haber Ver";
+"notify_person_do_it" = "Lütfen onaylamaları için Loopring Cüzdanlarını açmalarını isteyin.";
+"notify_approve_recover_wallet_title" = "Koruyucusu olduğunuz %@ cüzdanını kurtarmaya çalışıyor, bu işlem Koruyucu onayı gerektirir. Lütfen Loopring Cüzdannızı açın ve onay kodunu girin.";
+"daily_limit_remain" = "%@ ETH kaldı";
+"add_now" = "Şimdi Ekle";
+"protects_empty_title" = "Henüz hiçbir cüzdanı korumuyorsunuz";
+"ok" = "Tamam";
+"close" = "Kapat";
+"open" = "Aç";
+"already_your_contact_canchangename" = "Kişi zaten kayıtlı. İsterseniz ismi değiştirebilirsiniz.";
+"already_your_guardian_canchangename" = "Koruyucu zaten eklenmiş. İsmini değiştirebilirsiniz.";
+"official_guardian" = "Resmi Loopring Koruyucusu";
+"official_guardian_name" = "Resmi Loopring Koruyucusu";
+"official_guardian_desc_one" = "Resmi Loopring Koruyucusu Loopring tarafından hesap güvenliğiniz için sağlanır.";
+"official_guardian_desc_two" = "Diğer Koruyucularınız ile birlikte çalışır.";
+"official_guardian_desc_three" = "Resmi Loopring Koruyucusu cüzdan kurtarılması ve günlük sınırın üzerindeki işlemler için doğrulama kodları gönderir. ";
+"cancel_guardian_addition" = "Koruyucu Eklemeyi İptal Et";
+"cancel_guardian_removal" = "Koruyucu Silmeyi İptal Et";
+"retry_add_guardian_addition" = "Korucuyu Eklemeyi Tekrar Dene";
+"retry_add_guardian_addition_content" = "Koruyucu ekleme başarısız oldu. Lütfen tekrar deneyin.";
+"retry_add_rejected_guardian_content" = "Reddedildi. Tekrar deneyin?";
+"waiting_approve" = "Onay bekleniyor";
+"approving" = "Onaylanıyor";
+"approved" = "Onaylandı";
+"approve_id" = "Onay Kimliği";
+"approve_id2" = "Onay Kimliği: %@";
+"your_approve_code" = "Onay Kodu";
+"operator_guide" = "Operasyon Rehberi";
+"approve_status" = "Onay Durumu";
+"wallet_guardian" = "Cüzdan Koruyucusu";
+"other_guardian" = "Diğer Koruyucu";
+"approve_guide_normal" = "Bir Koruyucu olarak Loopring Cüzdan kullanmak için:\n1. Profil > Koruyucu Yönetimi > Kimleri Koruyorum yolunu takip edin\n2. Koruduğunuz kişi tarafından gönderilen isteği bulun\n3. Onaylayın";
+"approve_guide_hardware" = "Bir Koruyucu olarak cüzdanınızı kullanmak için:\n1. Burayı ziyaret edin %@ \n2. Koruduğunuz kişi tarafından gönderilen isteği bulun\n3. Onaylayın";
+"approve_recover_title" = "Cüzdan Kurtarma Onayı";
+"approve_transfer_title" = "Kotayı Aşma Onayı";
+"approve_code" = "Onay Kodu";
+"approve_submitter" = "Sahip";
+"approve_history" = "Onaylama Geçmişi";
+"get_approve_detail_error" = "Onay detaylarını alma işlemi başarısız oldu. Lütfen daha sonra tekrar deneyin.";
+"approve_action_recover" = "Cüzdanı kurtar";
+"approve_action_exceed_quota" = "Günlük kotayı aş";
+"cancel_approve_quota_transfer" = "Günlük kotayı aşan transferi iptal et";
+"cancel_approve_recover" = "Cüzdan kurtarmayı iptal et";
+"please_select_guardian" = "Lütfen en az %@ Koruyucu seçin";
+"choose_one_guardian" = "Lütfen bir Koruyucu seçin";
+"approve_tx_content" = "Miktar: %@ ETH";
+"approve_tx_content2" = "Miktar";
+"approve_tx_data" = "Veri: %@";
+"approve_tx_data2" = "Veri: ";
+"approve_send_to" = "Alıcı: %@";
+"approve_send_to2" = "Alıcı";
+"sign_msg" = "WalletConnect'i onayla";
+"Sign" = "İmza";
+"Message:" = "Mesaj:";
+"done" = "Tamamlandı";
+"name" = "İsim";
+"to_top" = "Yukarı Çık";
+"pay_list" = "Ücret Tercihi";
+"dapp_settings" = "DApp Ayarları";
+"dapp_settings_private_mode" = "DApp Gizlilik Modu";
+"dapp_settings_private_mode_description" = "Gizlilik modu aktifleştirilince, bir kereye mahsus DApp'lerin cüzdan adresi bilginizi okuması gerekir.";
+"dapp_settings_clean_up_network_cache" = "Ağ Önbelleğini Temizle";
+"dapp_settings_clean_up_network_cache_success" = "Ağ önbelleği başarıyla temizlendi.";
+"dapp_settings_clear_allowance" = "DApp İzinlerini Kaldır";
+"dapp_settings_clear_allowance_description" = "DApp izinlerini temizledikten sonra, şimdiye kadar kullandığınız tüm DApp'lere teker teker yeniden izin vermeniz gerekir.";
+"dapp_settings_clear_allowance_success" = "DApp izinleri başarıyla kaldırıldı";
+"liquidity" = "Likidite ";
+"hide_small_money" = "Küçük miktarları gizle";
+"hide_money" = "Bakiyeyi Gizle";
+"balance_only" = "Bakiye";
+"all" = "Tamamı";
+"all2" = " Tamamı";
+"wallet_create" = "Cüzdan Oluştur";
+"create_wallet_fail" = "Cüzdan oluşturma başarısız. Lütfen daha sonra tekrar deneyin.";
+"loopring_wallet" = "Loopring Wallet"; // do not change
+"transfer_fee" = "Ücret";
+"transfer_fee_:" = "Ücret: ";
+"transfer_fee_desc" = "Ücret - Loopring Tarafından Ödendi";
+"operator_fee_with_value" = "Ethereum Ücreti: %@";
+"loopring_pay_account_not_found" = "Alıcı adresin aktif Loopring L2 hesabı bulunmuyor.";
+"email_title" = "E-mail";
+"phone_title" = "Telefon Numarası";
+"lrc_total_reward" = "Toplam Ödüller";
+"lrc_action_claim" = "Talep Et";
+
+//<!-- DeFi Compound Protocol -->
+"defi_withdraw" = "Çek";
+
+// <!-- DApp -->
+"dapp_browser" = "DApp Tarayıcısı";
+"dapp_msg" = "Merkeziyetsiz uygulamalara ulaşmanızı sağlayan bir Web3 tarayıcısı.";
+
+"DApp_instruction_title" = "Üçüncü parti bir DApp'i ziyaret ediyorsunuz.";
+"DApp_instruction_description" = "Bir üçüncü parti DApp'i kullanırken, bu DApp'in kullanım koşullarını kabul edersiniz ve %@ size karşı sorumlu hale gelir.";
+"DApp_connect_title" = "%@'e bağlan?";
+"DApp_connect_description" = "Onayla'yı seçerek %@ tarafından cüzdanınızın herkese açık adresine ulaşılmasına izin verirsiniz.";
+"uniswap_title" = "Uniswap";
+"uniswap_description" = "AMM borsasında tokenler kazanmak için kaynak aktarın";
+"sushiswap_title" = "SushiSwap";
+"sushiswap_description" = "AMM borsası";
+"dodo_title" = "DODO";
+"dodo_description" = "PMM algoritmasına sahip merkeziyetsiz borsa.";
+"aave_title" = "Aave";
+"aave_description" = "Açık kaynaklı DeFi protokolü";
+"balancer_title" = "Balancer";
+"balancer_description" = "Otomatize edilmiş porfolyo yönetimi ve takas platformu";
+"debank_title" = "DeBank";
+"debank_description" = "Her şey bir arada DeFi platformu";
+"pooltogether_title" = "PoolTogether";
+"pooltogether_description" = "Kaybedensiz piyango";
+"wepiggy_title" = "WePiggy";
+"wepiggy_description" = "Kripto varlık ödünç verme piyasası protokolü";
+"1inch_title" = "1inch";
+"1inch_description" = "En verimli DeFi toplayıcısı";
+"compound_title" = "Compound";
+"compound_description" = "Faiz kazanın ve token ödünç alın";
+"curve_title" = "Curve";
+"curve_description" = "İleri seviye arz-fiyat dengesi gözeterek blockchain üzerinde likidite üretir";
+"zapper_title" = "Zapper.Fi";
+"zapper_description" = "Tüm De-Fi varlıklarınızı ve gerekliliklerinizi basit bir arayüz ile yönetin";
+"makerdao_title" = "MakerDAO";
+"makerdao_description" = "Ön yargısız global finans sistemi";
+
+//<!--daily limit-->
+"daily_limit_title" = "Günlük Kota";
+"adjust_daily_limit_title" = "Günlük kotayı ayarlayın";
+"reset_in_times" = "%@ içinde sıfırlanır";
+"changing_to_in_times" = "%@ ETH dönüştürülüyor %@";
+"changing_to_eth" = "%@ ETH dönüştürme işlemi Ethereum L1'e iletiliyor";
+"daily_limit_desc" = "Unutmayın, günlük kota yalnız bilinen değeri olan tokenler için uygulanabilir.";
+"transfer_amount" = "Miktar";
+
+//<!--chart type -->
+"chart_15m" = "15dk";
+"chart_1h" = "1sa";
+"chart_4h" = "4sa";
+"chart_1d" = "1g";
+"chart_1w" = "1h";
+
+//<!--metaTx type-->
+"metatx_action_transfer" = "Gönder";
+"metatx_action_approved_transfer" = "Transfer Günlük Kotayı Aşıyor";
+"metatx_action_lock_wallet" = "Cüzdanı Kilitle";
+"metatx_action_unlock_wallet" = "Cüzdanın Kilidini Aç";
+"metatx_action_dex_account" = "Loopring L2 Hesabını Oluştur/Sıfırla";
+"metatx_action_dex_deposit" = "Taşı";
+"metatx_action_dex_withdraw" = "Taşı";
+"metatx_action_token_approval" = "Token Onayı";
+"metatx_action_add_guardian" = "Ekle %@";
+"metatx_action_confirm_guardian_addition" = "Koruyucu Eklemeyi Onayla";
+"metatx_action_cancel_guardian_addition" = "%@ Eklemeyi İptal Et";
+"metatx_action_reject_guardian_addition" = "Koruyucu Eklemeyi Reddet";
+"metatx_action_remove_guardian" = "Sil %@";
+"metatx_action_cancel_guardian_removal" = "%@ Silmeyi İptal Et";
+"metatx_action_add_trust" = "Güven Ekle";
+"metatx_action_remove_trust" = "Güven Kaldır";
+"metatx_action_approve" = "Onayla";
+"metatx_action_unknown" = "Sözleşme Çağrısı";
+"metatx_action_offchain_approve_recover" = "Cüzdan Onayını Kurtar";
+"metatx_action_offchain_approve_transfer" = "Günlük Transfer Onayı Limitini Aş";
+"metatx_action_offchain_approve_token" = "Günlük Token Onayı Limitini Aş";
+
+"input_error" = "Girdi Hatası";
+
+"wallet_not_created" = "Lütfen hesabınızı aktifleştirin";
+"wallet_not_L1_created" = "Lütfen Ethereum L1 hesabınızı aktifleştirin";
+"wallet_not_L2_created" = "Lütfen Loopring L2 hesabınızı aktifleştirin";
+
+"wallet_creating" = "Cüzdanınız oluşturuluyor. Lütfen bekleyin.";
+"wallet_recovering" = "Cüzdanınız kurtarılıyor. Lütfen bekleyin.";
+"free_time_use_up" = "Çok fazla deneme gerçekleştirdiniz. Lütfen yarın tekrar deneyin.";
+
+"invitation_code" = "Davet Kodu";
+"quota" = "davet alanları";
+
+"about" = "Hakkında";
+"terms" = "şartlar";
+"terms" = "Şartlar";
+"privacy" = "Gizlilik";
+"privacy" = "Gizlilik";
+"risk_disclose" = "Risk Bildirimi";
+"net_error" = "Ağ bağlantısı yok!";
+"net_error_retry" = "Ağ hatası. Lütfen daha sonra tekrar deneyin.";
+"agree" = "Kabul Et";
+"custom_amount" = "Miktarı Ayarla";
+
+"year" = " yıl";
+"month" = " ay";
+"day" = " gün";
+"hour" = " saat";
+"minute" = " dakika";
+"second" = " saniye";
+"ago" = " önce";
+"Just now" = "Az önce";
+"favorite" = "Favori";
+
+//<!--Transfer -->
+"transfer_to_account" = "Hedef hesabı seçin";
+"transfer_to_prople" = "Alıcıyı Seçin";
+"transfer_choose_token" = "Token Seçin";
+"transfer_confirm" = "Transferi Onayla";
+"transfer_set_count" = "%@ mikarını ayarla";
+"transfer_canot_zero" = "Sıfır olamaz";
+
+"to_new" = "Alıcı";
+"from_new" = "Gönderici";
+"transfer_new" = "Transfer";
+"account_progressing" = "İşleminiz başlatıldı. Tamamlanma süresi ağın durumuna bağlıdır.";
+"speed_fast" = "Hızlı";
+"speed_generally" = "Normal";
+"speed_standard" = "Standard";
+//<!-- Guiding -->
+"free_activation" = "Aktiflleştir";
+"free_activation2" = "Aktifleştir";
+"set_up_key" = "Anahtarı Ayarla";
+"layer2_guidepage_msg" = "Loopring L2 hesabınız Ethereum seviyesi güvenliği garanti eder";
+"layer2_guidepage_fast" = "Transferler ve takaslar anında gerçekleşir";
+"layer2_guidepage_lowfee" = "İşlemler 100 kat daha hızlı ve ucuzdur";
+
+//<!--new main -->
+"ethereum_account_layer" = "Ethereum L1";
+"loopring_account_layer" = "Loopring L2";
+"ethereum_account_layer_fee" = "/L1";
+"loopring_account_layer_fee" = "/L2";
+"account_first" = "L1";
+"account_first_me" = "Ethereum Hesabım";
+"account_second" = "L2";
+"account_second_me" = "Loopring Hesabım";
+"account_second_msg" = "Yüksek Hız, Düşük Ücretler";
+"second_floor" = "Loopring";
+"first_account" = "Ethereum Hesabı";
+"second_account" = "Loopring Hesabı";
+"arbitrum_account" = "Arbitrum Hesabı";
+"transfer_to_my_second" = "Kendime (L1'den L2'ye)";
+"transfer_to_my_first" = "Kendime (L2'den L1'e)";
+"transfer_to_myself" = "Kendime (%@'den %@'e)";
+"to_deposit" = "Yatır";
+"search_selector" = "Filtreler";
+
+"set_token_show" = "Tokenleri Filtrele";
+"token_show_have_record" = "Tutulan tokenler";
+"token_show_small" = "1$'dan düşük değere sahip tokenler";
+"token_show_noprice" = "Fiyat verisi olmayan tokenler";
+
+"gasfee_lower" = "Düşük Ücret";
+"transfer_fast" = "Hızlı Transfer";
+"new_people_guide" = "Yönergeler";
+"easy_use" = "Kullanımı kolay";
+"easy_use_notify" = "Akılda kalıcı bir isim ve adres seçmeniz önerilir";
+"security_notify" = "Özel anahtarlara ihtiyaç duymadan gözetimsizlik! Sosyal kurtarma ve akıllı araçlarla varlıklarınızı güvende tutun.";
+
+"comming_wallet" = "Cüzdanı Aç";
+"wallet_migrated_doscancode" = "Taşıma işlemini tamamlamak için tarayın";
+"migrate_account_notice" = "Taşıma işlemi için, lütfen başka bir cihazda Loopring Cüzdan uygulamasını kullanarak tarayın.";
+"wallet_migrated_success_content" = "Cüzdanınız başka bir cihaza başarıyla taşındı. Bu cihaz artık cüzdanınıza erişemez. 'Cüzdanı Sil'e basarak bu cihazdaki veriyi kaldırabilirsiniz.";
+"wallet_migrated_open_new_wallet" = "Taşınmış cüzdanı yeni cihazınızda açın.";
+"wallet_migrated_help_img" = "migHelp_en";
+"wallet_migrated_success" = "Cüzdan taşıma işlemi başarılı.";
+"wallet_migrated_pending" = "Cüzdan taşıma işlemi devam ediyor.";
+"wallet_migrated_old_stepone" = "1. Eki cihazınızda Loopring Cüzdan'ı açın";
+"wallet_migrated_old_steptwo" = "2. Eski cihazınızda gösterilen QR kodu yeni cihazınızla tarayın";
+"wallet_migrated_old_stepone_notify" = "Profil > Güvenlik > Cüzdanı Taşı yolunu kullanın";
+"free" = "Ücretsiz";
+
+//<!-- Create Wallet -->
+"wallet_create_phonenum" = "Cep telefonu ile oluşturun";
+"wallet_create_email" = "E-mail ile oluşturun";
+"wallet_create_name_is_onlyone" = "Bu isim ağ üzerinde benzersiz olmalıdır. Değiştirilemez.";
+"wallet_create_create_money" = "Oluşturma ücreti:";
+"wallet_create_create_name" = "İsim ücreti:";
+"wallet_create_create_address" = "Adres ücreti:";
+"wallet_create_choose_pay_way" = "Lütfen Bir Yatırma Yöntemi Seçin";
+"wallet_create_choose_deposit" = "Yatırma yöntemi seçin";
+
+//<!-- RecoverWallet-->
+"wallet_recover_input_phone" = "Lütfen kayıtlı cep telefonu numaranızı girin %@";
+"wallet_recover_input_email" = "Lütfen kayıtlı e-mail adresinizi girin %@";
+"verify_register_people" = "Lütfen Kimliğinizi Doğrulayın";
+"can_not_add_self_guardian" = "Bu cüzdan adresi size ait. Kendinizi Koruyucu olarak ekleyemezsiniz.";
+"dex_hide_other_token" = " Diğerlerini Gizle";
+"dex_change_rate" = "24s Dğşm%";
+"dex_price" = "Son Fiyat";
+"dex_pair" = "Çift";
+"name_this_contact" = "Bu adresi isimlendirin";
+"overdue" = "Süresi doldu";
+"recover_wait_approve_to_main" = "Cüzdan kurtama talabiniz Koruyucu onayı bekliyor. varlıklar sayfasına giderek görüntüleyin.";
+"recover_close_hint" = "Cüzdanınıza dönmek için dokunun.Varlıklar bölümünün sol üstünden bu sayfaya tekrar ulaşabilirsiniz.";
+
+//<!-- Point-->
+"points" = "Puanlar";
+"my_points" = "Puanlarım";
+"sign_in" = "Giriş yap";
+"point_records" = "Puan Geçmişi";
+"invite_create_wallet" = "Cüzdan oluşturma daveti";
+"freeze" = "Kilitli";
+"unfreeze" = "İade ";
+"sign_in_continues_day" = "Giriş Serisi: %@ gün";
+"sign_in_more_points" = "Giriş serinizi canlı tutun ve her gün %@ puan kazanın";
+"signed_in_today" = "Bugün giriş yapıldı";
+"invite_points_title" = "Arkadaş Daveti";
+"invite_points_sub_title" = "Davetinizle katılan ve L1 cüzdanını aktifleştiren her arkadaşınız için %@ puan kazanın";
+"create_wallet_points_title" = "Cüzdan Oluşturma";
+"create_wallet_points_sub_title" = "Cüzdanınızı oluşturduğunuz için %@ puan kazandınız";
+"points_rules" = "Loopring Puanları Hakkında";
+"frozon" = "Kilitli";
+"get_points" = "Puan Kazanın";
+"use_points" = "Puan Kullanın";
+"system_points" = "Resmi hediye";
+
+//<!-- Guardians ui-->
+"guardian_use" = "Koruyucunun Rolü";
+"account_danger_notify" = "Önemli miktarda varlığınız bulunuyor. Güvenliğinizi artırmak için daha fazla Koruyucu eklemenizi öneririz.";
+"account_danger_notify2" = "Önemli miktarda varlığınız bulunuyor. Ethereum L1 hesabınızı aktifleştirerek Koruyucu ekleyebilir, hesabınızı daha güvenli hale getirebilirsiniz.";
+"go_add" = "Ekle";
+"fee" = "Ücret";
+"guardian_add_success" = "Koruyucu ekleme talebi iletildi";
+"guardian_add_success_msg" = "Lütfen potansiyel Koruyucunuza talebiniz hakkında bilgi verin. Sorumluluğu kabul ya da reddetmek onların seçimidir.";
+"your_friend" = "Arkadaşınız";
+"invite_you_to_guardian" = "sizi Loopring Cüzdan için Koruyucusu yapmak üzere davet ediyor";
+"invite_guardian_do" = "1. Loopring Cüzdan uygulamasını açın\n\n2. Profil > Koruyucu Yönetimi > Kimleri Koruyorum \n\n3. İsteği bulun \n\n4. Onaylayın ya da reddedin";
+"receive_code_other" = "QR Kodu";
+"name_this_guardian" = "Lütfen Koruyucuya isim verin";
+"dex_volume" = "Hac.";
+
+"set_sure_close_Touch_ID" = "Dokunmatik doğrulamayı kapat?";
+"set_sure_close_Face_ID" = "Yüz tanımayı kapat?";
+"finger_login" = "Parmak iziyle giriş yap";
+"faceId_login" = "Yüz tanımayı etkilenleştir";
+"add_again" = "Tekrar ekle";
+"no_capture" = "Ekran görüntüsü almayın";
+"no_capture_desc" = "Taşımak için gerekli olan QR kodu güvende tutulmalıdır. Lütfen ekran görüntüsü almayın, ekran görüntüsü almak güvenliğinizi tehlikeye atabilir.";
+"i_know" = "Biliyorum";
+
+"find_new_version_app" = "Yeni versiyon bulundu";
+"pay_use_fen_first" = "Loopring Puanlarını Kullan";
+"pay_custom" = "Ücret Tokeni Kullanım Önceliği";
+"pay_system_set" = "Loopring ücretleri tercihinize göre tahsil eder";
+"pay_system_choose" = "Eğer seçilmemişse, sistem ödeme yöntemini otomatik olarak seçer";
+"drag" = "Sürükleyin";
+"system_recommend" = "Sistem önerisi";
+"custom" = "Ayarlanabilir";
+
+"resend_invitecode" = "Tekrar gönder";
+"verification_code" = "Onay Kodu";
+"wallet_create_choose_orgin" = "Oluşturma yöntemini seçin";
+"congratulations" = "Tebrikler!";
+"activate" = "Aktifleştir";
+"timedown" = "Kalan Süre";
+"delete_data" = "Veriyi Sil";
+
+"ens_min_character" = "4-12 karakter";
+"ens_input_placeholder" = "4-12 karakter";
+"ens_min_character_7" = "7-12 karakter";
+"guardian_notify_security" = "Cüzdanınız son derece güvenli ve varlıklarınız kontrolünüz altında. Koruyucular sizin seçtiğiniz güvenlik ekibinizdir. En az 3 Koruyucu eklemenizi ısrarla öneririz. ";
+"guardian_notify_security_relative" = "Cüzdanınız güvenli. \nSize en az 3 Koruyucu eklemenizi öneririz. Daha fazlasını ekleyerek güvenliğinizi artırabilirsiniz.";
+"guardian_notify_danger" = "Cüzdanınızın güvenlik garantisi bulunmuyor. Lütfen en kısa sürede daha çok Koruyucu ekleyin.";
+"guardian_use_notify" = "Koruyucu tamamen güvendiğiniz biri olmalıdır. Sahip olduğunuz başka bir cüzdanı kullanarak kendi koruyucunuz da olabilirsiniz. Koruyucularınızın yarısından fazlası sizinle ortaklaşa çalıştığı sürece, cihazınızı kaybetseniz dahi varlıklarınızı kurtarabilirsiniz. Güvendiğiniz kişileri (eş, kardeş, ebeveynler, çocuklar ya da arkadaşlar) ve sahip olduğunuz cüzdanları Koruyucu olarak eklemenizi öneririz. Koruyucuların bazı işlevleri:";
+"guardian_add_notify" = "Varlıklarınızı ve kimliğinizi korumak amacıyla, kendinizin ya da arkadaşlarınızın Loopring Cüzdanlarını kolayca Koruyucu olarak ekleyebilirsiniz. Bir cüzdan adresi eklediğinizde, ona bağlı Loopring uygulamasına bildirim gönderilir. Arkadaşlarınıza ve ailenize Loopring Cüzdan kullanmaları için davetiye gönderebilirsiniz.\n%@";
+"guardian_add_notify2" = "Eğer Loopring Cüzdan olmayan adresleri Koruyucu olarak eklemek isterseniz, bilgisayarınızda bu web sitesini ziyaret edin:\n%@.";
+"you_are_someone_guardian" = "%@ kişisini koruyorsunuz. Onun cüzdanını kilitleyebilirsiniz.";
+"guardian_lock_unlock" = "Kilitle/Aç";
+"wallet_lock_unlock_point" = "Cüzdanı kilitlemek/açmak";
+"recover_wallet_point" = "Cüzdanı kurtarmak";
+"metatx_action_approve_transfer_point" = "Günlük kotanın üzerindeki transferleri onaylamak";
+"balance_not_enough" = "(Yetersiz bakiye)";
+"about_fee" = "Max";
+"about_fee_with_value" = "(Max)";
+"wallet_create_free_notify" = "Cüzdanınızı ücretsiz oluşturma hakkına sahipsiniz";
+"wallet_create_free_notify2" = "%@ değerinde ETH yada stablecoin ekleyin ve güvenlikten taviz vermeden 100 katı daha hızlı ve ucuz işlemlerin tadını çıkarmaya başlayın.";
+"wallet_create_to_receive" = "Yatırmak için";
+"wallet_create_to_receive2" = "%@ saniyede yatırmak için";
+"search_noaddress" = "Üzgünüz, verdiğiniz adres bir Loopring Cüzdan adresi değil";
+"guardian_advanced_1" = "Eğer Loopring Cüzdanı olmayan bir adresi Koruyucu olarak eklemek isterseniz burayı ziyaret edin: ";
+"guardian_advanced_3" = " bilgisayarınızdan sayfayı açtıktan sonra, Koruyucu olarak eklemek istediğiniz cüzdanı bağlayın ve oluşturulacak QR kodu Loopring Cüzdan uygulamasıyla tarayın.";
+"scancode_transfer_toaddress" = "Bu adres sadece ERC-20 tokenleri destekler. Başka blokzincirlerden aktarım yaparsanız varlıklarınız kaybolur.";
+"transfer_confirm2" = "İşlemi Onayla";
+"code_sended" = "%@'e gönderildi";
+"approve_unlock_title" = "Cüzdan Onayı Kilidini Aç";
+"approve_remove_guardian" = "Koruyucuyu Sil";
+"cancel_approve_unlock_wallet" = "Cüzdanın kilidini açmayı iptal et";
+"invite_people_create" = "Bir arkadaşınıza Loopring Cüzdan için referans olarak kazanabilirsiniz";
+"invite_people_send_you" = "%@ Puan";
+"invite_code_me" = "Referans kodum";
+"invite_now" = "Davet Et";
+"interpretation" = "\@ yorumlama hakkı Loopring Technology Ltd. şirketine aittir. ";
+"created_send" = "Loopring Cüzdan kullanması için bir arkadaşınıza referans olun.";
+"set_limit_notify" = "Günlük kota oluşturarak, bir gün içinde transfer edebilecğiniz varlık miktarını sınırlandırıp cüzdan güvenliğinizi artırabilrisiniz. (Eğer bir adres \'güvenilir\' olarak kaydedilmişse, günlük kotanızı aşabilisiniz.";
+"set_limit_notify3" = "Günlük kota belirlediğiniz için, gelecekteki Ethereum L1 işlemleriniz yaklaşık %20 daha yüksek ücretlerle gerçekleşecektir.";
+"go_set" = "Belirle";
+"day_limit_all" = "Mevcut günlük kota: %@ ETH";
+"day_limit_no" = "Hiçbir kota belirlenmedi";
+"not_unlock_other_wallet" = "Başkasının cüzdan kilidi açılamaz.";
+"daily_quota_off_title" = "Günlük kotayı kapat";
+"daily_quota_off_content" = "Günlük kotayı kaldırdıktan sonra bütün işlem ücretleri yaklaşık %20 azalır. Ek olarak, hiçbir adrese transfer limiti olmaz.";
+"daily_quota_off_committing" = "Günlük kotayı kaldırma talebi Ethereum L1'e iletildi";
+"daily_quota_off_time" = "Günlük kotayı işleme girdikten %@ sonra kaldırabilirsiniz";
+"daily_quota_not_zero" = "Günlük kota 0 olamaz";
+"daily_quota_the_same" = "Girdiğiniz kota mevcut kotayla aynı";
+"invite_people_now" = "Şimdi davet edin.";
+"choose_approve_transfer_title" = "Transfer onayı gerekiyor";
+"choose_approve_transfer_content" = "Madenci ücreti de limite dahildir. Güncel tranfer miktarı ve madenci ücreti birlikte günlük kotanızı aşıyor bu yüzden de onaylanması gerekiyor.";
+"go_approve" = "Onay sürecini başlat";
+"phone_not_match" = "Girdiğiniz telefon numarası yanlış";
+"email_not_match" = "Girdiğiniz posya kutusu yanlış";
+"L2_not_support_token" = "Loopring L2 bu tokeni desteklemiyor";
+"migrate_not_find_info" = "Geçerli başka cihaza taşıma bilgisi bulunamadı";
+"migrate_eos_unsupport" = "Sadece Loopring Cüzdan taşınması destekleniyor.";
+"migrate_error" = "Taşıma başarısız oldu. Lütfen daha sonra tekrar deneyin. Eğer sorun devam ederse destek birimimize başvurun.";
+"migrate_old_layer_one_error" = "Taşımaya çalıştığınız Ethereum L1 hesabı eski bir versiyonda. Yeni cihazınızda cüzdan kurtma işlemi gerçekleştirmelisiniz.";
+"migrate_old_layer_two_error" = "Taşımaya çalıştığınız Loopring L2 hesabı eski bir versiyonda. Lütfen önce Loopring L2 hesabınızı sıfırlayın.";
+"rule" = "Kurallar";
+"invite_give_gift" = "Referans Olun";
+"deposited_me" = "Yatırdım";
+"wallet_create_agreement2" = "Devam etmek kullanım koşullarını kabul ettiğinizi doğrular: ";
+"and" = "ve";
+"choose_fee_type" = "Ödeme Yöntemi Seçin";
+
+//<!-- swap -->
+"estimate_fee" = "Takas Ücreti (Öng.)";
+"swap_now" = "Takas";
+"swap_title" = "Yalın";
+"slippage_limit" = "Fiyat Kayma Toleransı";
+"buy_min" = "Alınacak Mimimum Miktar";
+"price_impact" = "Fiyat Etkisi";
+"spot" = "Spot";
+"buy_about" = "Al";
+"layer2_no_balance" = "Loopring L2 hesabınızda henüz %@ bakiyesi yok. Ethereum L1 hesabının bakiyesi: %@";
+"slippage_limit_msg" = "Eğer fiyat aleyhinizde bu yüzde oranında değişirse takasınız iptal edilecek.";
+"min_swaped" = "Havuz fiyatı dinamik olarak güncellendiği için, şu an gördüğünüz fiyat işlem gerçekleştiği anda değişebilir. Ayrıca, elinize geçecek miktardan ücretler düşülecektir. Protokol, gördüğünüz değerin elinize geçecek minimum miktar olacağını garanti eder.";
+"new_swap_fee" = "Takas ücreti VIP seviyenize ve takas yapılan miktara bağlıdır. Küçük takaslar (100$ ve altı) daha yüksek ücret gerektirir. Lütfen takas yapmadan önce ücreti inceleyin.";
+"estimate_received_desc" = "Ücretler çıkarıldıktan sonra L2 hesabınıza aktarılacak token.";
+"price_impact_msg" = "Takas miktarına bağlı olarak, piyasa fiyatı ve öngörülen gerçekleşme fiyatı arasındaki tahmini fark";
+"swap_amount_min" = "Miktar çok küçük (Min %@)";
+"swap_amount_min2" = "Miktar çok küçük (Min %@ %@)";
+"swap_amount_max2" = "Miktar çok büyük (Max %@ %@)";
+"swap_records" = "Takas Geçmişi";
+"swap_records_details" = "Takas Detayları";
+"swap_success" = "Başarılı!";
+"swap_failed" = "Hata! Takas Gerçekleşmedi";
+"swap_price_impact" = "İşleminiz havuzdaki fiyatı %@ miktarında etkileyecek. Devam etmek istiyor musunuz?";
+"swap_confirm_two_msg" = "%@ ile @ takaslamak istiyor musunuz?";
+"swap_confirm_two" = "Takas İçin Doğrulama Gerekir";
+"swap_confirm_not_notify" = "Bana tekrar hatırlatma";
+"confirm_not_notify" = "Bana tekrar hatırlatma";
+"phone_area_code" = "Alan Seç";
+"search_phone_area" = "Alanda Ara";
+
+"metatx_action_recover_wallet" = "Ethereum L1 Hesabı Kurtarma";
+"learn_more" = "Daha fazla bilgi";
+"wallet_create_phone_usage" = "Resmi Loopring Koruycusu'na yaptığınız istek için size ulaşabileceğimiz bir iletişim bilgisine ihtiyacımız var. Bu sayede gerektiğinde cüzdanınızı kilitlemenize ve kurtarmanıza yardım edebiliriz.";
+"wallet_verify_phone_usage" = "İsteğinizi doğrulamak için size ulaşmamız gerekiyor.";
+"button_continue" = "Devam";
+"security_spec" = "Güvenlik Özellikleri";
+
+//<!-- Orderbook -->
+"orderbook_hide_others" = "Diğerlerini Gizle";
+"orderbook_cancel_all" = "Hepsini İptal Et";
+"orderbook_active_orders" = "Aktif Emirler";
+"orderbook_latest_trade" = "En Son Takaslar";
+"orderbook_select_side_default" = "Varsayılan";
+"orderbook_select_side_buy" = "Al";
+"orderbook_select_side_sell" = "Sat";
+"orderbook_limit_buy" = "Limit / Al";
+"orderbook_limit_sell" = "Limit / Sat";
+"orderbook_record_status" = "Durum";
+"orderbook_record_filled_and_amount" = "Gerçekleşen/Miktar";
+"orderbook_record_avg_and_price" = "Ort./Fiyat";
+"orderbook_record_market_name" = "İsim";
+"orderbook_record_title_active" = "Emir Geçmişi";
+"orderbook_record_title_historical" = "Gerçekleşen Emirler";
+"orderbook_record_title" = "Emirler";
+"orderbook_record_detail_title" = "Emir Detayları";
+"orderbook_trade_time" = "Zaman";
+"orderbook_trade_price" = "Fiyat";
+"orderbook_trade_amount" = "Miktar";
+"orderbook_24_highest" = "24s En Yüksek";
+"orderbook_24_lowest" = "24s En Düşük";
+"orderbook_24_volume" = "24s Hacim";
+"orderbook_trade_detail" = "İşlem Detayları";
+"orderbook_price_lower_than_20_percent" = "Satış fiyatınız en güncel fiyatın %20 altında. Lütfen emri vermek istediğinizi doğrulayın.";
+"orderbook_price_higher_than_20_percent" = "Alım fiyatınız en güncel fiyatın %20 üzerinde. Lütfen emri vermek istediğinizi doğrulayın.";
+
+//<!-- L2L1 Packed Activation-->
+"L2_L1_activation_L1" = "Bir akıllı kontrata bağlı olan Ethereum L1 hesabınızı aktifleştirerek; sosyal kurtarma, hesabınızı istediğinizde kilitleme, günlük transfer kotası belirleme gibi gelişmiş güvenlik araçlarına erişebilirsiniz. Ayrıca, bir Loopring L2 hesabı da aktifleştirmiş olursunuz. Ethereum’a açılan ultra hızlı, ultra ucuz bir geçitle, Loopring L2\’nin sunduğu bütün özellikleri özgürce kullanabilirsiniz.";
+"L2_L1_activation_L2" = "Bir Loopring L2 hesabı aktifleştirerek, tüm L2 işlevlerini 100 kata kadar daha düşük ücretlerle kullanabilirsiniz. Ayrıca gas ücreti olmadan token/NFT transferleri gerçekleştirebilir, NFT üretebilir, DEX’de takas yapabilir, AMM Havuzlarına katılabilir ve daha birçok ayrıcalıktan faydalanabilirsiniz!";
+"L2_L1_activation_together_1" = "Akıllı kontrata bağlı Ethereum L1 hesabınız sosyal kurtarma, transfer kotası gibi gelişmiş güvenlik araçlarına sahiptir.";
+"L2_L1_activation_together_2" = "Ayrıca Loopring L2 hesabınız da oluşturulur. Ultra hızlı, ucuz bir şekilde Ethereum’a erişilebilir; Loopring L2 özelliklerini özgürce kullanabilirsiniz.
+Bir Loopring L2 hesabı aktifleştirerek, tüm L2 işlevlerini 100 kata kadar daha düşük ücretlerle kullanabilirsiniz. Ayrıca gas ücreti olmadan token/NFT transferleri yapabilir, NFT üretebilir, DEX’de takas yapabilir AMM Havuzlarına katılabilir ve daha birçok ayrıcalıktan faydalanabilirsiniz!";
+
+"L2_L1_payment_title" = "Aktivasyon için bir token seçin";
+"L2_L1_Activation_fee" = "Aktivasyon ücreti ";
+
+"L2_L1_insuffcient_balance_title" = "Loopring L2 hesap bakiyesi yetersiz";
+"L2_L1_insuffcient_balance_description" = "Lütfen aşağıdaki tokenlerden birinde, L2 hesabınızın aktivasyonu için gerekli miktarda varlığınız olduğundan emin olun.";
+"L2_L1_insuffcient_balance_tip" = "Eğer yatırma işlemi gerçekleştirdiyseniz lütfen bekleyin. Ethereum L1 işlemleri 30 dakika kadar sürebilir. ";
+"L2_L1_insuffcient_balance_add_asset_popover" = "Token transferi gas ücreti gerektirir ve bu ücret yatırdığınız miktardan düşebilir. Size, yatırdığınız miktarın aktivasyon için yeterli olması için, gerekli miktardan biraz daha fazlasını yatırmanızı öneririz.";
+"L2_L1_insufficient_section_title_token" = "Token ";
+"L2_L1_insufficient_section_title_minRequirement" = "Min. Gereken";
+"L2_L1_insufficient_section_title_recommend" = "Önerilen";
+
+"L2_L1_add_asset" = "Varlık Ekle";
+"L2_L1_add_L2_asset_title" = "Loopring L2 Varlıkları Ekle";
+"L2_L1_add_L2_asset_subtitle" = "L2 varlıklarını nasıl eklemek istersiniz?";
+"L2_L1_reminder_description" = "L2 bakiyeniz yetersiz ama L1’de yeterli varlığınız bulunuyor. L1 aktifleştirmek otomatik olarak L2 hesabınızı da aktifleştirir.";
+"L2_L1_reminder_title" = "L1 ve L2 hesaplarını birlikte aktifleştirebilirsiniz. ";
+"L2_L1_reminder_subtitle" = "Loopring Akıllı Cüzdan bir akıllı kontrata bağlıdır. Bu sayede daha gelişmiş güvenliğe sahiptir, sosyal kurtarma, hesap kilitleme, günlük işlem kotası belirleme vb. Ayrıca DApp hizmetlerine erişebilir ve L1 token transferleri gerçekleştirebilirsiniz.";
+
+"L2_L1_acknowledege_title" = "Oto-aktivasyon Onayı";
+"L2_L1_acknowledege_description" = "Loopring, yatırma işleminizden sonra L2 hesabınızı otomatik olarak aktifleştirecek. Cüzdan aktifleştirme ücreti düşüldükten sonra kalan miktar L2 hesabınıza aktarılacak.";
+"L2_L1_acknowledge_pick_up_activation_token" = "Aktivasyon için bir token seçin";
+
+"L2_L1_L2_receive_warning" = "Bu adrese sadece %@ gönderin";
+"L2_L1_card_activating" = "Aktifleştiriliyor ";
+"L2_L1_activating_in_progress_title" = "Aktivasyon devam ediyor";
+"L2_L1_activating_in_progress_subtitle" = "Hesabınızı aktifleştirmek için %@ seçeneğini seçtiniz. Varlıklarınız L2’ye ulaştığında Loopring otomatik olarak hesabınızı aktifleştirecek. Aktivasyon sürecine başka bir tokeni seçerek baştan başlamak isterseniz, şu anki sürecin bitmesini beklemelisiniz. ";
+"L2_L1_buy_with_card_title" = "Kart ile ";
+"L2_L1_buy_with_card_description" = "Loopring’de direkt olarak kartınızla kripto para satın alın.";
+"L2_L1_success_confirmation_title" = "Onay";
+"L2_L1_success_subtitle" = "Lütfen anladığınızı onaylayın. ";
+"L2_L1_success_description" = "Cüzdanınız oluşturulduktan sonra uygulamayı silmeyin. Bu özel anahtarınızı sileceği için, hesabınızı kurtarmanız gerekir. Bu işlem Ethereum L1 gas ücretine bağlı olarak pahalı olabilir.";
+"L2_L1_success_description_subtitle" = "Güvenlik nedenleri yüzünden özel anahtarınızı kaydetmiyoruz.";
+"L2_L1_success_I_understand_title" = "Cüzdanımın güvenliğinden sorumlu olduğumu anlıyorum. ";
+"L2_L1_old_activate_l2_activate_first" = "Henüz Ethereum L1 hesabınızı aktifleştirmediniz. Lütfen aktifleştirin.";
+"L2_L1_old_activate_l2_isRecoverActive" = "Henüz Ethereum L1 hesabınızı aktifleştirmediniz.";
+"L2_L1_old_activate_l2_waiting_deposit" = "Ethereum L1 hesap aktivasyonunuz yatırma işleminizi bekliyor. Lütfen yatırma işlemi gerçekleştirin.";
+"L2_L1_alert_activateL1_title" = "Hesabı Aktifleştir";
+"L2_L1_alert_activateL1_message" = "Bu işlem için L1 hesabınızı aktifleştirmeniz gerekiyor.";
+"L2_L1_alert_activateL2_title" = "Hesabı Aktifleştir";
+"L2_L1_alert_activateL2_message" = "Bu işlem için L2 hesabınızı aktifleştirmeniz gerekiyor.";
+"L2_L1_alert_activationInProgress_title" = "Aktivasyon sürüyor";
+"L2_L1_alert_activationInProgress_message" = "Loopring %@ hesabınızı aktifleştiriyor. Bu süreç biraz zaman alabilir. Lütfen işlem tamamlanana kadar bekleyin.";
+"L2_L1_alert_activationFailed_title" = "Oto-aktivasyon başarısız";
+"L2_L1_alert_activationFailed_message" = "Hesap aktivasyonu başarısız oldu. Lütfen uygulamayı silmeyin ve destek birimimize ulaşın.";
+//<!-- AMM -->
+"amm_title" = "AMM Likiditesi";
+"amm_title_msg" = "Her takastan %0.20 ücret kazanmak için likidite sağlayın.";
+"amm_title_msg2" = "Likidite partnerleri (LP) gerçekleşen tüm takaslardan %0.20 oranında ücret kazanır. LP'lerin toplam kazancı havuzdaki varlıklarıyla orantılı olarak artar. Seçili AMM havuzlarına katılan LP'ler ayrıca LRC ve diğer token cinslerinden likidite madenciliiği ödülleri kazanır.";
+"amm_in" = "Yatırma";
+"amm_out" = "Çekme";
+"amm_in_out" = "Likidite";
+"amm_in_out_details" = "Detaylar";
+"amm_all_money" = "Pozisyonların Toplam Değeri";
+"daily_income" = "APR";
+"amm_my_lptoken" = "LP Tokenlerim";
+"amm_all_lptoken" = "Toplam LP Tokenleri";
+"me_s" = "Benim %@";
+"amm_all_s" = "Toplam %@";
+"amm_my_proportion" = "Havuzdaki Payım";
+"amm_do_layer" = "* Sadece Loopring L2'de ";
+"mining" = "Madencilik";
+"action_need_pay" = "Bu işlem ödeme gerektirir";
+"walletconnect" = "WalletConnect";
+"walletconnect_protocol" = "Bu servis WalletConnect protokolü tarafından destekleniyor";
+"walletconnect_success_msg" = "WalletConnect bağlandı";
+"walletconnect_dis" = "Bağlantıyı Kes";
+"type" = "Tür";
+"amm_lp_count" = "LP miktarı";
+"wallet_connect_request_connect" = " cüzdanınıza bağlanmak istiyor";
+"wallet_connect_connected" = " cüzdanınıza bağlandı";
+"send_transaction" = "İşlem Gönder";
+"history" = "Geçmiş";
+"amm_in_confirm_two" = "%@ havuzuna yatırma işlemini doğrula?";
+"amm_out_confirm_two" = "%@ havuzundan çekme işlemini doğrula?";
+"fee_amm" = "Havuz Ücreti";
+"official_reward" = "Resmi Ödül";
+"withdrawal_reward" = "Çekme Ödülü";
+"order_reward" = "Emir Ödülü";
+"swap_reward" = "Takas Ödülü";
+"amm_reward" = "AMM Ödülü";
+"price_about" = "Fiyat";
+"stake" = "Stake";
+"lptoken_notify" = "Bir havuza likidite sağladığınızda, havuz buna karşılık gelen LP tokenleri oluşturur. Bu, varlıklarınızın havuzdaki oranına karşılık düşer.";
+"yes" = "Evet";
+"no" = "Hayır";
+"swap_records_msg" = "%@ varlığını %@ ile takasla";
+"amm_in_out_record2" = "Geçmiş";
+"all_rewards" = "Toplam Ödül";
+"mining_my_reward" = "Ödüllerim";
+"amm_my_pool" = "Likidite Pozisyonum";
+"recommend" = "Önerilen";
+"amm_all_money_msg" = "Tüm likidite pozisyonlarınızın güncel değeri";
+"rewards" = "Ödül";
+"amount_of_funds" = "Likidite";
+"amm_join_type" = "AMM Yatırma";
+"amm_exit_type" = "AMM Çekme";
+"pre_pay_fee" = "Ödenmiş Ücret";
+"refund_fee" = "İade Ücreti";
+"send_redpacket_type" = "Kırmızı Paket Gönder";
+"receive_redpacket_type" = "Kırmızı Paket Çek";
+"quotation" = "Piyasalar";
+"fee_rewards" = "Ücret Ödülleri";
+
+"new_activity" = "Yeni Aktiviteler";
+"announcement_center" = "Yeni Duyuru";
+"new_pairs" = "Yeni Çift";
+"will_open" = " Çok Yakında";
+"opening" = " Madencilik";
+"end" = "Bitti";
+"activity_time" = "Süre: %@";
+"mining_rewards" = "Ödüller";
+"amm_volume" = "Hac.";
+"liquidity_time" = "Teşvik Dönemi:";
+"pay_use_layer2" = "Loopring L2 Tokenlerini Kullan";
+"pay_with_layer2" = "Loopring L2 tarafından ödendi";
+"pay_with_layer1" = "Ethereum L1 tarafından ödendi";
+"pay_with_arbitrum" = "Arbitrum tarafından ödendi";
+
+"pay_with_layer1_switch_1" = "Ethereum L1 tarafından ödendi. Şununla değiştir";
+"pay_with_layer1_switch_2" = "Loopring L2";
+"pay_with_layer2_switch_1" = "Loopring L2 tarafından ödendi. Şununla değiştir";
+"pay_with_layer2_switch_2" = "Ethereum L1";
+"gas_price_normal" = "Normal (<5 dk): %@ gwei. Şununla değiştir";
+"gas_price_normal_suffix" = "En Hızlı ";
+"gas_price_fast" = "En Hızlı (0.5 dk): %@ gwei. Şununla değiştir";
+"gas_price_fast_suffix" = "Normal";
+
+"activite_ranking" = "· Takas Sıralaması ·";
+"activite_your_trade" = "Hacminiz: %@";
+"activite_your_ranking" = "Sıralamanız: ";
+"activite_rank_before" = "No. %@";
+"activite_rank_after" = "İlk %@ sırada değil";
+"to_trade" = "Takas";
+"trade_vol" = "Hacim";
+"ranking" = "Sıralama";
+"fee_rewards2" = "Ücret Ödülleri";
+"mining_rewards2" = "Madencilik Ödülleri";
+"amm_in_totry" = "AMM'e Katıl";
+"you_pay" = "Ödeyeceğiniz";
+"you_get" = "Alacağınız";
+"activite_total_rewards" = "Ödüller";
+"ranking_wait" = "Çok Yakında";
+"amm_other" = "Diğerleri";
+"asset_not_found" = "Varlık bulunamadı";
+"not_found_qrcode_info" = "Bilgi bulunamadı";
+"mining_will_open" = " Madencilik Çok Yakında ";
+"mining_opening" = " Madencilik ";
+"mining_end" = " Madencilik Sona Erdi ";
+"dialog_yes" = "Evet";
+"dialog_no" = "Hayır";
+
+"Hide" = "Gizle";
+
+"fee_is" = "Ücret: %@";
+"red_package" = "Kırmızı Paketler";
+"rp_can_withdraw" = "Çek";
+"rp_send" = "Kırmızı Paket Gönder";
+"rp_i_send" = "Gönderilen";
+"rp_i_receive" = "Alınan";
+"rp_private" = "Özel Kırmızı Paket";
+"rp_public" = "Herkese Açık Kırmızı Paket";
+"rp_relay" = "Kırmızı Paket'i Paylaş";
+"rp_public_msg" = "Kırmızı Paketiniz herkese açık ve herkes birazını almayı deneyebilir.";
+"rp_count" = "Böl";
+"rp_input_count" = "Miktar";
+"send_time" = "Gönderme Zamanı";
+"send_now" = "Şimdi Gönder";
+"rp_money_to_rp" = "Kırmızı Paket Hazırla";
+"rp_expired_msg" = "Kırmızı Paketler 24 saat aktif kalır. Bu süre bittikten sonra alınmayan tokenler bir gün içinde iade edilir.";
+"rp_best_wishes" = "En iyi dileklerle";
+"rp_balance" = "Kırmızı Paket Bakiyesi";
+"feeling_lucky" = "En Şanslı Çekim";
+"rp_type_normal" = "Eşit Miktar";
+"rp_amount_each" = "Her Biri İçin Miktar";
+"rp_one" = "-";
+"rp_set_name" = "İmza Değiştir";
+"rp_receive_details" = "Detayları Göster >";
+"rp_help_me" = "Kırmızı Paket'i Paylaş";
+"rp_help_me_msg" = "Eğer paketin alıcısı da paketi hediye ederse, ek olarak bir sonraki kişinin aldığı miktarın yarısını da kazanır.";
+"waiting" = "Bekleniyor...";
+"transfer_to_L1_msg" = "Bir borsa adresine gönderim yaparken, lütfen dikkat edin:\n1: Borsanızın akıllı kontratlardan transferleri desteklediğinden emin olun.;\n2: İlk işleminiz başarıyla gerçekleşmeden başka bir işlem gerçekleştirmeyin.";
+"transfer_to_L2_msg" = "L2'den herhangi bir gözetimsiz Ethereum L1 cüzdanına varlık gönderebilirsiniz. Ancak, eğer gözetimli bir cüzdana gönderiyorsanız (borsalardaki cüzdanlar gibi) lütfen önce alıcı adresin Loopring L2 'yi desteklediğinden emin olun.";
+"normal_withdraw_msg_colon" = "Normal:";
+"fast_withdraw_msg_colon" = "Hızlı (~15 saniye):";
+"my_redpacket" = "Geçmiş";
+"rp_normal" = "Normal Kırmızı Paket";
+"rp_normal_msg" = "Tüm alıcılar, hediyeden önceden belirlenmiş bir pay kazanır.";
+"rp_lucky" = "Şanslı Kırmızı Paket";
+"rp_lucky_msg" = "Tüm alıcılar, hediyeden rastgele bir pay kazanır.";
+"rp_choost_type" = "Kırmızı Paket Türünü Seçin";
+"main_hot" = "Popüler";
+"amm_mining_rewards_total" = "Şimdiki/Toplam Madencilik Ödülleri";
+"rp_open" = "Aç";
+"rp_invite_frien" = "Arkadaşlarınızı Davet Edin";
+"rp_use_ens" = "ENS Kullan";
+"rp_use_sign" = "İmza Kullan";
+"rp_start" = " Başla";
+"rp_receive_end" = "Üzgünüz, Kırmızı Paket sona erdi";
+"rp_relay2" = "Paylaş";
+"rp_lucky2" = "Şanslı";
+"rp_total_amount" = "Toplam";
+"rp_received_finish" = "Bitir";
+"rp_received_pending" = "Açılıyor";
+"rp_received_notstart" = "Henüz başlamadı";
+"rp_has_received" = "Açıldı";
+"walletconnect_msg_default" = "Varsayılan format. Şununla değiştir:";
+"walletconnect_msg_utf8" = "UTF-8 formatı. Şununla değiştir:";
+"walletconnect_had_disconnect" = "WallecConnect bağlantısı kesildi";
+"wc_connect_failed" = "Bağlantı başarısız. Lütfen tekrar deneyin";
+"utf8_format" = "UTF-8 formalı";
+"default_format" = "Varsayılan format";
+"total_amount" = "Toplam";
+"input_you_search_token" = "Aranacak tokeni girin";
+"connect_success" = "Başarıyla Bağlandı";
+"amm_join_fee" = "AMM yatırma ücreti: %@";
+"rp_msg" = "Kırmızı zarflar, yüzyıllardır süren bereketli bir gelenektir. Onun devamı olan Kırmızı Paket ile istediğiniz tokeni arkadaşlarınıza ve topluluğunuza hediye edebilir, iyi dileklerinizi paylaşabilirsiniz!.\n";
+"application" = "Yatırım";
+"rp_max_count" = "Maksimum Kırmızı Paket sayısı: %@";
+"rp_received_finish_2" = "Kırmızı Paket alındı";
+"rp_received_end" = "Bu Kırmızı Paket'in süresi dolmuş";
+"rp_private2" = "Özel";
+"rp_public2" = "Herkese açık";
+
+"rp_number_max" = "Kırmızı Paket miktarı şunu geçemez: ";
+"rp_number_min" = "Tek bir paketin miktarı şundan az olamaz:";
+"rp_private_msg" = "Kırmızı Paket oluşturulan QR kod yardımıyla özel olarak paylaşılır.";
+"rp_use_wallet_scan" = "\"Loopring Cüzdan\" ile tarayarak sahip olun.";
+
+"send_redpacket_type" = "Kırmızı Paket Gönder";
+"receive_redpacket_type" = "Kırmızı Paket Çek";
+"rp_start" = " Başla";
+"rp_who_help_other" = " Yardım";
+"rp_who_help_me" = " Yardım Et";
+"no_limit" = "Bir limit bulunmasa da değişiklik henüz desteklenmiyor";
+"long_press_drag" = "Uzunca basın ve sürükleyin";
+"open_time_yet" = "Açma işlemi başarısız oldu";
+"rp_fast_to_receive" = "Acele et ve kaçırma!";
+"feed_back_email" = "E-mail";
+"fee_deploy" = "Cüzdanınızın akıllı kontratını aktifleştirmek için ödenen Gas ücreti (Ethereum ağına ödendi)";
+"red_Packet_send_time_earlier" = "Kırmızı Paket geçmiş tarihli gönderilemez";
+"red_Packet_send_time_exceed" = "Kırmızı Paket 24 saat içinde gönderilmelidir";
+"dex_trade_swap_fee" = "Küçük miktar ücreti";
+"dex_trade_fee_details_trade" = "%@ ve daha küçük miktarlı emir ücretleri; mevcut gas ücretine bağlı olarak değişir ve yalnız doldur ya da Öldür/Piyasa emirleri olarak gerçekleşebilirler. Emir miktarınızı büyüterek en düşük ücretin %@ tadını çıkarın.";
+"offchain_fee_updated" = "Ücret değişti. Lütfen tekrar deneyin.";
+
+"protocol_fee_reward" = "Protokol ücreti dağıtımı";
+"maker_fee_reward" = "Yapıcı İadesi";
+"referrer_fee_reward" = "Referans İadesi";
+"channel_fee_reward" = "Bağlantı İadesi";
+"rp_now_help_me_count_msg1" = "//这里是";
+"rp_now_help_me_count_msg2" = " Bana Kırmızı Paket ile ödül almamı sağlayan arkadaşlarım şu kadar kazandı";
+
+"coin_details" = " Hakkında";
+"coin_start_time" = "Başlangıç Tarihi";
+"coin_start_amount" = "Toplam Arz";
+"coin_start_pirce" = "Açılış Fiyatı";
+"coin_address" = "Token Kontrat Adresi";
+"coin_net" = "Resmî ";
+"coin_introduction" = "Hakkında";
+
+"verify_face_id" = "Yüz tanıma ile doğrula";
+"verify_touch_id" = "Parmak izi ile doğrula";
+"input_Password" = "Güvenlik kodunu girin";
+"face_Id_to_open" = "Yüz tanıma için dokunun";
+"touch_Id_to_open" = "Parmak izi için dokunun";
+
+
+//EOA
+"create_loopring_wallet" = "%@ Akıllı Cüzdanı Oluştur";
+"recover_loopring_wallet" = "Akıllı Cüzdanı Kurtar";
+"import_wallet_eoa" = "EOA Cüzdanı İçe Aktar";
+"eoa_walletname_hint" = "1–12 rakam ya da alfabetik karakter";
+"backup_tips" = "Yedekleme Önerileri";
+"backup_tips_msg" = "Gizli Kurtarma Kodu cüzdandaki varlıklara erişiminizi sağlar.";
+"mnemonic_msg1" = "Gizli Kurtarma Kodu İngilizce kelimelerden oluşur. Lütfen onları yazın ve güvenliklerinden emin olun.";
+"backup_mnemonic" = "Gizli kurtarma kodunuzu yedekleyin";
+"backup_mnemonic_msg1" = "Lütfen Gizli Kurtarma Kodunu bir kağıda yazın ve doğru olduğundan emin olun.";
+"mnemonic_save_msg1" = "Gizli Kurtarma Kodunu ağ bağlantısı olmayan güvenli bir yerde saklayın. E-mail, bulutta fotoğraf olarak ya da sosyal uygulamalarda sakın bulundurmayın.";
+"mnemonic_save_msg2" = "Gizli Kurtarma Kodunu kimseyle paylaşmayın. Eğer birinin erişimi varsa, cüzdanınızın tamamını kontrol edebilir.";
+"backup_confirm" = "Yedeklediğinizi  Onaylayın.";
+"mnemonic_verify" = "Gizli Kurtarma Kodunu yazarak doğrulayın.";
+"mnemonic_verify_msg1" = "Gizli Kurtarma Kodunuzdan ard arda gelen 3 kelimeyi doğrulayarak cüzdanınızı oluşturabilirsiniz.";
+"mnemonic_verify_msg2" = "Lütfen %@ Gizli Kurtarma Kodunu onaylayarak doğru bir şekilde yedeklediğinizi kanıtlayın.";
+"backup_mnemonic_error" = "Üç hata yaptınız. Lütfen tekrar yedekleyin.";
+"import_wallet_use_mnemonic" = "Gizli Kurtarma Kodunu kullanarak bir cüzdanı içe aktar";
+"import_wallet_use_key" = "Cüzdanın özel anahtarını içe aktar";
+"import_mnemonic" = "Gizli Kurtarma Kodu";
+"import_privatekey" = "Özel anahtar";
+"output_key_outline" = "Çevrimdışı kaydet";
+"output_key_outline_msg" = "Lütfen önemli bilgileri e-mail, bulut depolama, not defteri gibi araçlarda saklamaktan sakının. Çünkü bunlar, varlıklarınızı tehlikeye atabilir.";
+"output_key_net" = "Lütfen internet aracılığıyla göndermeyin";
+"output_key_net_msg" = "İnternet kullanan araçlarla göndermekten sakınmak hackerlardan korunmanıza yardım edebilir ve varlıklarızı kaybetmeyi engelleyebilir. Önerilen, cüzdanın QR kodu tarayıcısını kullanarak, taramanın çevrimdışı olarak gerçekleştirilmesidir.";
+"output_key_tools" = "Parola yönetme araçlarından faydalanın";
+"output_key_tools_msg" = "Profesyonel parola yönetim araçlarını kullanarak şifrelerinizi saklamanız ve yönetmeniz önerilir.";
+"private_key_hint" = "Lüften özel anahtarınızı girin";
+"lptoken_notify" = "Bir havuza likidite sağladığınızda, havuz buna karşılık gelen LP tokenleri oluşturur. Bu, varlıklarınızın havuzdaki oranına karşılık düşer.";
+"private_key_error" = "Geçersiz özel anahtar";
+"mnemonic_invalid" = "Geçersiz Gizli Kurtarma Kodu";
+
+"speed_up_tx" = "Hızlandır";
+"speed_up_tx_msg" = "İşlemlerin hızını en iyi ücretlerle hızlandırın";
+"cancel_tx" = "İşlemi İptal Et";
+"cancel_tx_msg" = "Cüzdan adresinize 0 ETH değerinde bir işlem gönderin";
+"speed_up_before" = "Hızlandırmadan Önce";
+"speed_up_after" = "Hızlandırmadan Sonra";
+"apply_authorization" = "Token Onayı";
+
+"authorization_details" = "Yetki Detayları ";
+"authorization_amount" = "Yetki Miktarı";
+"authorization_address" = "Yetki Adresi";
+"authority" = "Yetkili";
+"unlimited" = "Sınırsız";
+"dex_apply_for_authorization" = "Loopring L2 Token Onayı ";
+
+"activite_dex" = "Loopring L2 hesabını aktifleştir";
+"activite_dex_msg" = "Loopring L2 hesabını aktifleştirmek için, Loopring L2 hesabında %@ ETH olmalıdır.";
+"activite_dex_msg2" = "Loopring L2 hesabını aktifleştirmek için, o adrese bir yatıma işlemi gerçekleşmesi gerekir.";
+
+"edit_your_wallet_name" = "Buraya ismi girin";
+"account_available" = "Uygun";
+
+"to_trade1" = "Takas>>";
+"ranking" = "Sıralama";
+"ranking_pk1" = "Turnuva";
+"favorite_add" = " + Favorilere Ekle";
+"favorite_del" = "Sil";
+"favorite_del2" = "Favoriyi Sil";
+"favorite_del3" = "  Favorilerden Kaldır";
+"favorite_add2" = "Favori Ekle";
+"favorite_set" = "Düzenle";
+"swap_time_countdown" = "Geri sayın bittikten sonra takas seçeneği açılacak";
+"no_trade_ranking_found" = "Takas sıralaması bulunamadı";
+"favorite_edit" = "Favorileri Düzenle";
+"favorite_edit_done" = "Tamam";
+"transfer_again" = "Tekrar Transfer Et";
+
+
+"arbitrum" = "Arbitrum";
+"ethereum" = "Ethereum";
+
+"chart_24hour" = "24 Saat";
+"chart_1week" = "1 Hafta";
+"chart_1month" = "1 Ay";
+
+"only_support_same_network_contact" = "Bu %@ kişisinin cüzdan adresi. yalnız o bu ağa Koruyucu ekleyebilir.";
+
+"time_oneday2" = "24 Saat";
+"time_oneWeek2" = "1 Hafta";
+"time_oneMonth2" = "1 Ay";
+
+
+"arbitrum_address_description" = "Bu adres sadece Arbitrum ağını destekler. Lütfen başka bir ağa varlık göndermeyin.";
+
+"manage_wallet" = "Cüzdan Yönetimi";
+"Waiting_for_Payment" = "Yatırma bekleniyor. Devam etmek için dokunun.";
+"Waiting_for_Payment_title" = "Yatırma bekleniyor";
+
+"wallet_status_creating" = " Oluşturuluyor";
+"wallet_status_recovering" = "Kurtarılıyor";
+
+"transfer_warning_1" = "Bu adres %@ Arbitrum ağı tarafından desteklenmiyor. Bu adrese gönderemezsiniz.";
+"transfer_warning_2" = "Lütfen bu adresin %@ Arbitrum ağını desteklediğini doğrulayın. Aksi taktirde tranfer ettiğiniz tokenler kaybolur.";
+"transfer_warning_3" = "Bu adres %@ Ethereum ağını desteklemiyor. Bu adrese çekim yapamazsınız.";
+"transfer_warning_4" = "Lütfen bu adresin %@ Ethereum ağını desteklediğini doğrulayın. Aksi takdirde çektiğiniz tokenler kaybolur.";
+"transfer_warning_5" = "Bu adres %@ Ethereum ağını desteklemiyor. Bu adrese gönderemezsiniz.";
+"add_trust_guardian_warning_1" = "Lütfen bu adresin %@, bu ağı %@ desteklediğinden emin olun. ";
+
+"can_not_lock" = "Koruduğunuz kişinin cüzdan kontrat versiyonu V1. Cüzdanı kilitleyemezsiniz. Lütfen ona başka bir Koruyucu ya da Resmi Loopring Koruyucusu kullanarak kilitlemesini söyleyin.";
+"others" = "Diğerleri";
+
+"network_support_pre" = "Destek";
+"no_assets_yet" = "Henüz varlığınız yok. Lütfen dokunun %@.";
+
+"ens_fee" = "ENS Ücreti: ";
+"bind_ens" = "ENS Oluşturun";
+"ens_fee_title" = "Cüzdanın ENS'i";
+"bind_ens_nav" = "Lütfen cüzdanın ENS adresini girin";
+"fee_title_suffix" = "%@ Ücreti";
+"confirm_pay" = "Ödemeyi Onayla";
+"title_ens_name" = "ENS";
+"title_ens_fee" = "ENS Ücreti: ";
+"fee_purpose" = "Amaç";
+"title_transaction_fee" = "Ücret";
+"title_ens_payment" = "Ödeme";
+"title_ens_create_fee" = "ENS Kayıt Ücreti";
+"ens_binding_status_failed" = "Başarısız";
+"ens_binding_status_binding" = "İşleniyor ";
+"ens_binding_status_bound" = "Başarılı";
+"ens_binding_status_submitted" = "İletildi";
+"ens_invalid_msg" = "Geçersiz ENS";
+"wallet_create_or_recover" = " + Cüzdanı Oluştur ya da Kurtar";
+"wallet_create_choose" = "Cüzdan oluşturmak için bir ağ seçin";
+"arbitrum_what_is" = "Arbitrum Nedir?";
+"arbitrum_msg" = "Arbitrum, Ethereum ağındaki akıllı kontratların yetkinliğini artırmak için tasarlanmış bir çözümdür. Onların hızlarını ve ölçekllendiilmelerini artırırken bir yandan da gizlilik fonksiyonları ekler.";
+"arbitrum_how_to_work" = "Arbitrum nasıl çalışır?";
+"arbitrum_how_to_work_msg" = "Arbitrum derleyicisi, sizin Solidity kontratlarınızı alır, düzenler ve Arbitrum'da çalışmasını sağlar. EthBridge de Arbitrum-land'i Ethereum-Land'e bağlar, size ether ve diğer tokenleri istediğiniz gibi yollamanızı sağlar. Arbitrum kodunuz seçtiğiniz onaylayıcılar aracılığıyla çalışır. Kontratınız yalnız bir onaylayıcı dahi çalıştığı sürece aktif kalır ve bu AnyTrust garantisidir. Bütün bunlar hızlıca ve çoğunluğu blokzincir dışında gerçekleşir.";
+"arbitrum_additional_benefits" = "Ek faydalar";
+"arbitrum_additional_benefits_msg" = "Arbitrum Ethereum ile uyumludur. Arbitrum neredeyse tüm aktiviteyi blokzincir dışına taşır böylece DApp'inizin boyutu ve verisinden bağımsızlaştırarak ölçeklendirilebilmesini sağlar. Arbitrum ayrıca DApp'inizin ne yaptığını görebilecek kişileri seçmenizi sağlayarak gizliğinizi korur. Arbitrum AnyTrust ile, tek bir doğrulayıcı bile dürüstçe devam ederse DApp'inizin çalışmaya devam edeceği garantisi verir. Projenizde güvenle ilerlemenizi sağlar.";
+
+"ac_check_trade_warning" = "Üzgünüz, kullanım şartlarımız nedeyiyle şimdilik bölgenize emir hizmeti ya da AMM yatırma servisi veremiyoruz.";
+"ac_check_regist_warning" = "Üzgünüz, kulanım şartlarımız nedeniyle şimdilik bölgenizde cüzdan oluşturma hizmeti veremiyoruz.";
+
+"counterfactual_name" = "Karşıolgusal";
+"recover_not_create" = "Ethereum L1 hesabınız aktifleştirilmemiş. Önce Ethereum L1 hesabınızı aktif hale getirip, sonra kurtarma işlemi gerçekleştirebilirsiniz.";
+"receiveInfo" = "Cüzdanınızın Ethereum L1 hesabı aktif olmadığı için, cüzdanınızı kurtarmak için önce onu aktif hale getirmelisiniz. Lütfen cüzdanınızı kurtarmak için gerekli olan varlıkları cüzdanınıza yatırın. Aktivasyon ücreti: $ %@ Kurtarma ücreti: $ %@";
+"Reactivate" = "Tekrar Aktifleştir";
+"activate_l2" = "Loopring L2 hesabını aktifleştir";
+"activate_Account" = "Hesabı Aktifleştir";
+"activate_newQR_infor_l1" = "Bu adres yalnız Ethereum varlıklarını destekler. Lütfen başka blokzincirlerden varlık aktarmayın.";
+"activate_newQR_infor_l2" = "Transfer işlemlerinde varlık kaybının önüne geçmek için lütfen bir Loopring L2 hesabı kullanın.";
+"activate_newQR_message1_l1" = "Biz hesabınıza ulaşırken lütfen bekleyin. İşlem blokzincir üerinde gerçeleşeceği için zaman alabilir.";
+"activate_newQR_message2_l1" = "Emrin süresinin bitmesine";
+"activate_newQR_message3_l1" = "Daha fazla varlık da aktarabilirsiniz. Cüzdanınız oluşturulduktan sonra bu varlıklar cüzdanınızda kalacaktır.";
+"activate_newQR_message4_l1_main" = "Bu adres %@. Lütfen varlık kaybı yaşamamak için başka bir token transfer etmeyin. ";
+"activate_newQR_message4_l1_sub" = "sadece şu tokeni alabilir %@ ";
+
+
+"activate_newQR_only_receive_main" = "Not: Bu adres %@. Lütfen varlık kaybı yaşamamak için başka bir token transfer etmeyin. ";
+"activate_newQR_only_receive_sub" = "sadece şu tokeni alabilir %@ ";
+
+"set_No_account_L2_transfer_message" = "Alıcı henüz Loopring L2 hesabını oluşturmamış. Eğer gözetimli bir cüzdana (mesela bir borsa tarafndan kullanılan bir cüzdana) gönderiyorsanız, lütfen Loopring L2'yu desteklediğinden emin olun. ";
+"migration_Warning" = "Sadece Loopring Cüzdan taşımasını destekler";
+"pay_again" = "Tekrar Yatır";
+"contact_us" = "Bize ulaşın";
+"unable_to_pay_fee" = "Ücreti ödenemedi";
+"open_l2_fee" = "Bu ücret yalnız Loopring L2 bakiyesinden ödenebilir. Lütfen ücret tercihlerinizi 'Profil > Ayalarlar > Ücret Tercihleri > Loopring L2 Tokenlerini Kullan' yoluyla güncelleyin.";
+"waring_message" = "Bu adres yalnız ERC-20 tokenlerini destekler. Başka ağlardan aktardığınız varlıklar KAYBOLUR.
+Cüzdan oluşturma ücreti, masraflar için kullanıldığından hesabınıza aktarılmayacaktır. Gas ücretinden tasarruf etmek için, size cüzdan oluşturma ücretinden fazla kaynak aktarmanızı öneririz. ";
+"lp_token_cannot_withdrawn" = "LP tokenleri çekilemez.";
+"network_unstable" = "Ağ bağlantısı tutarsız.";
+"order_expires" = "%@ içinde emrin süresi bitecek. Yatırma bekleniyor.";
+"order_expires_main" = "içinde emrin süresi bitecek. Yatırma bekleniyor.";
+"order_expired_title" = "Emrin süresi doldu.";
+"order_expired_message" = "Oluşturduğunuz Ethereum L1 hesabına 24 saat içinde kaynak aktarmadığınız için emriniz geçersiz oldu. Lütfen cüzdanı tekrar oluşturun.";
+"new_l1_l2_receive" = "Al";
+"new_l1_l2_send" = "Gönder";
+"new_l1_l2_segment_control_l2" = "Loopring L2";
+"new_l1_l2_segment_control_l1" = "Ethereum L1";
+"UnKnwon_NFT" = "Bilinmeyen NFT";
+"l1_activating" = "Ethereum L1 hesabınız aktifleştiriliyor. Lütfen bekleyin.";
+"approval_failed" = "Onay başarısız. Lütfen isteği tekrarlayın.";
+"reset_approval0" = "Yatırdığınız varlık miktarı onaylanandan fazla olduğu için şu işlemleri yapmanız gerekiyor:  \n\n·Onayı sıfırla \n\n·Onaylanan miktarı ayarla";
+"reset_approval1" = "Günlük kotanızı aştınız. Koruyucu fonksiyonunu kullanarak kotanızı güncelleyebilirsiniz.";
+"daily_limit_reached" = "Günlük kotaya doldu.";
+"number_min2" = "Girdi değeri yatırma miktarından az olamaz. (Min %@ %@)";
+
+"reset_approval_exceed_daily_quota" = "";
+
+"corrupted_data" = "
+1. Lütfen uygulamayı silmeyin.
+2. Lütfen yatırma ve çekme işlemi gerçekleştirmeyin.
+3. Lütfen Profil > Hakkında yoluna gidin, websitenin altındaki boş alana tıklayın, log penceresindeki kayıtları kopyalayın ve bize gönderin.
+";
+
+"enable_push_notification" = "Anlık Bildirimler";
+"sed_red_pack_sensitive_words" = "Uygunsuz kelime algılandı. Lütfen başka bir yazı kullanarak tekrar deneyin.";
+"take_a_little_time" = "Bu işlemin ağ üzerinde gerçekleşmesi biraz vakit alabilir.";
+"l1_receive_item1" = "Kart ile";
+"l1_receive_item2" = "L1 hesabımdan";
+"l1_receive_item3" = "Başka bir Loopring L2 hesabından";
+"l1_receive_item4" = "Bir L1 hesabından";
+"from_my_L2_account" = "L2 hesabımdan";
+"from_another_wallet" = "Bir L1 hesabından ya da borsadan";
+"myL1ToMyL2" = "L1 hesabımdan L2 hesabıma";
+"myL2ToMyL1" = "L2 hesabımdan L1 hesabıma";
+"anotherL2ToMyL2" = "Başka bir Loopring L2 hesabından benim L2 hesabıma";
+"anotherL1ToMyL1" = "Bir L1 hesabından ya da borsadan";
+
+"to_my_l2_account_send" = "L2 hesabıma";
+"to_my_l1_account_send" = "L1 hesabıma";
+"to_loopring_l2_account" = "Başka bir Loopring L2 hesabına";
+"to_eth_l1_account_incl_exchange" = "Başka bir Ethereum ETH cüzdanına\n(borsalar dahil)";
+"to_eth_l1_account_incl_exchange_2" = "Başka bir Ethereum L1 hesabına\n(borsalar dahil)";
+
+"eoa_wallet" = "EOA Cüzdan";
+"wallet_" = "Cüzdan";
+"binance" = "Binance";
+"huobi" = "Huobi";
+"other_smar_twallet" = "Diğer Akıllı Cüzdanlar";
+
+"eoa_wallet_desc" = "Bu cüzdan, akıllı kontrata bağlı değil. (Örneğin, MetaMask, imToken, Ledger, Trezor vb.)";
+"loopring_wallet_desc" = "Bu cüzdan Loopring Cüzdan uygulaması ile oluşturuldu ve bir Loopring akıllı kontratına sahip.";
+"l2_not_active" = "Alıcı Loopring L2 hesabını siz bu adrese varlık gönderdikten sonra aktifleştirebilir.";
+"other_smar_twallet_desc" = "Bu cüzdan Loopring L2 desteklemeyen bir akıllı kontrat kullanıyor. Varlıklarınızı Ethereum L1 kullanarak göndermelisiniz.";
+
+"exchange_desc" = "Bu borsalar henüz Loopring L2 transferlerini desteklemiyor. (Binance, Coinbase, vb.). Varlıklarınızı Ethereum L1 kullanarak göndermelisiniz.";
+"l2_address_origin" = "Lütfen gönderdiğiniz adresin Loopring L2'yi desteklediğinden emin olun.";
+"l2_not_open_risk" = "Bu adresin aktif Loopring L2 hesabı bulunmuyor. Lütfen cüzdanın Loopring L2'ya erişebildiğinden emin olun.";
+"address_type" = "Adres Türü";
+"select_address_source" = "Lütfen adres türünü seçin:";
+"eg_eoa_wallet" = "Loopring Cüzdan, MetaMask, GameStop Wallet, Coinbase Wallet, imToken, Ledger, Trezor, ve diğer EOA cüzdanlar.";
+"hobi_transactions_time" = "İşlemlerin 24 saat beklemesi gerekiyor";
+"amm_pool" = "AMM Havuzu";
+"set_your_payment_passcode" = "Güvenlik Kodu Oluştur";
+"confirm_your_payment_passcode" = "Güvenlik Kodunu Onayla";
+"seconds_Reacquire" = "saniye kaldı";
+"mobile_phone_" = "Cep tELEFONU";
+"email_creation" = "E-mail ile Oluşturma";
+"mobile_phone_creation" = "Cep Telefonu ile Oluşturma";
+"create_wallet_desc" = "Resmi Loopring Koruyucusu'na ilettiğiniz işlemleri doğrulamak için bir iletişim adresine ihtiyacımız var. Lütfen sürekli kullandığınız bir e-mail/telefon numarası girin çünkü hesabınızı kilitlemeniz ya da kurtarmanız gerektiğinde size bu şekilde ulaşacağız.";
+"enter_your_email" = "E-mail adresinizi girin";
+"enter_your_phone" = "Telefon numaranızı girin";
+"invitation_code" = "Davet Kodu";
+"invitation_code_input" = "Bir davet kodu girin";
+"optional" = "( Opsiyonel )";
+"invite_dode_desc" = "Referans puanı kazanmak için, önerilen kişi Ethereum L1 hesabını aktifleştirmelidir. ";
+"from_an_exchange" = "Bir borsadan";
+"my_balance" = "Bakiyem";
+"my_amount" = "Miktar";
+"accessRedPacket" = "Kırmızı Paketlere Eriş";
+"others_" = "Diğerleri";
+"confirm_cex_support_title" = "Borsanın desteklediğini onayla";
+"confirm_cex_support" = "
+Çekme işleminden önce, lütfen borsanızın akıllı kontratlardan gelen transferleri kabul ettiğinden emin olun.
+
+L2'den L1'e çekim bir akıllı kontrat işlemidir. Bazı borsalar bu işlemi tanımayabilir.
+
+Eğer çektiğiniz tokenler 24 saat içinde borsa adresinizde gözükmezse, lüften borsanızdan yardım isteyin ve bu işlemi manuel olarak gerçekleştirmeleri gerektiğini vurgulayın.";
+
+"understand_risk" = "Riski anladım ve kabul ediyorum.";
+"exceed_daily_quota_deposit_approval" = "Günlük Yatırma Kotası Aşım Onayı";
+
+//<!-- 2FA -->
+"1fa_reset_password_fill_code" = "Doğrulama kodu buraya gönderilecek: %@";
+"2fa_introduction_title" = "İki Faktörlü Kimlik Doğrulama (2FA)";
+"2fa_btn_sms_title" = "SMS adresi";
+"2fa_btn_email_title" = "E-mail adresi";
+"2fa_btn_loopringauth_title" = "İmza Doğrulayıcı";
+"2fa_btn_authenticator" = "Doğrulayıcı";
+"2fa_loopringauth_info" = "İmza Doğrulayıcı'un cüzdanın özel anahtarına ulaşması gerekir. Resmi Loopring Koruyucusu ile güvenlik kodu/biometrik doğrulama bağlantısıyla birlikte çalışır.";
+"2fa_looprintauth_frozen_toast" = "Cüzdanınızın güvenliği için 24 saatlik geri sayımın dondurulması gerekiyor.";
+"2fa_sms_auth_title_add" = "Yeni SMS Doğrulaması Ekle";
+"2fa_email_auth_title_add" = "Yeni E-Mail Doğrulaması Ekle";
+"2fa_sms_auth_title_delete" = "SMS Doğrulamasını Sil";
+"2fa_email_auth_title_delete" = "E-Mail Doğrulamasını Sil";
+"2fa_have_not_set_passcode" = "Henüz bir güvenlik kodu ayarlamadınız. Lütfen güvenliğiniz için ektstra doğrulama yöntemi ekleyin.";
+"2fa_choose_verification_title" = "Doğrulama Yöntemi Seç";
+"2fa_choose_verification_title_only_official" = "Resmi Koruyucu Onayı";
+"2fa_choose_select_secondary_auth" = "İkincil doğrulama yöntemi seçin";
+"2fa_choose_verification_subtitle" = "Bu süreç iki doğrulama gerektirir. İmza Doğrulayıcı ve ikincil bir yöntem daha.";
+"2fa_choose_verification_subtitle_only_official" = "Lütfen bir doğrulama yöntemi seçin. Bu süreç %@ adet kimlik doğrulama yöntemi gerektirir.";
+"2fa_choose_one_or_empty_tip" = "Lütfen devam etmek için %@ adet doğrulama yöntemi seçin.";
+"2fa_choose_more_than_one_tip" = "Yalnız %@ adet onay yöntemi gerekiyor. Lütfen devam etmek için bir yöntemi çıkarın.";
+"2fa_choose_verification_loopringAuth_subtitle" = "Güvenlik kodu ya da biometik doğrulama ile";
+"2fa_verification_title" = "Doğrulama";
+"2fa_enter_email" = "E-mail adresinizi girin %@";
+"2fa_enter_phone" = "Telefon numaranızı girin %@";
+"2fa_enter_authenticator_code" = "Doğrulama kodunu girin";
+"2fa_send_email_code" = "Doğrulama kodu buraya gönderilecek %@";
+"2fa_send_phone_code" = "Doğrulama kodu buraya gönderilecek %@";
+"2fa_input_authenticator_code" = "Authenticator\'dan gelen 6 haneli kodu girin";
+"2fa_sign_button_not_sign" = "İmza";
+"2fa_sign_button_signed" = "İmzalandı";
+"2fa_security_verification_title" = "Güvenlik Doğrulaması";
+"2fa_change_auth_description" = "%@ ile doğrulama varlıklarınızın üzerine bir güvenlik katmanı daha ekler.";
+"2fa_change_auth_authenticator" = "Doğrulayıcı, varlıklarınız için ikinci bir güvenlik katmanı oluşturur.";
+"2fa_enable_auth_authenticator_des" = "Güvendiğiniz bir kimlik doğrulama uygulamasını indirerek, onay kodları oluşturabilirsiniz.";
+"2fa_delete_forbid_description" = "İki doğrulama yöntemine sahip olmanız gerekiyor. Bu yöntemi devre dışı bırakmadan önce başka bir doğrulama kaynağı eklemelisiniz.";
+"2fa_delete_title" = "%@ seçeneğini devre dışı bırakmak istiyor musunuz?";
+"2fa_i_understand" = "Anladım";
+"2fa_recover_title" = "Lütfen cüzdan adını ya da adresini girin";
+// https://desk.zoho.com/portal/loopring/en/newticket
+"2fa_require_count_not_satisfy_alert" = "Kimliğinizi doğrulamak için iki faktörlü kimlik doğrulama aşamasını geçemezsiniz. Lütfen Loopring destek ekibine kimliğinizi doğrulayacak bilgiler sunarak bir yardım talebi oluşturun.";
+"2fa_require_cooldown_24hours" = "İmza Doğrulayıcı'u sıfırlayarak hassas bir güvenlik operasyonu gerçekleştirdiniz. Varlıklarınızın güvenliğini garanti etmek için hesabınız 24 saat dondurulacaktır. Lütfen bu süre dolunca tekrar deneyin.";
+"2fa_add_authenticator_des" = "Google Authenticator, Microsoft Authenticator vb.";
+"2fa_add_authenticator_title_1" = "1. Doğrulayıcı uygulamanızla QR kodu tarayın";
+"2fa_add_authenticator_subtitle_1" = "QR kodu tarayamıyorsanız, hesap ve anahtar bilgilerinizi manuel olarak Doğrulayıcı uygulamaya girebilirsiniz.";
+"2fa_add_authenticator_title_2" = "2. Lütfen onay kodunu girin";
+"2fa_add_authenticator_account" = "Hesap";
+"2fa_add_authenticator_key" = "Anahtar";
+
+"2fa_google_authenticator" = "Google Authenticator";
+"2fa_pre_verify_subtitle" = "Doğrulama bilgilerini tamamla";
+"2fa_choose_verification_method" = "Doğrulama yöntemini seç";
+"2fa_error_111005" = "Günlük 2FA doğrulama limitiniz doldu.";
+"2fa_error_111006" = "Doğrulama sürecinizin süresi doldu.";
+"2fa_error_111007" = "Maksimum yollama adedine ulaştınız.";
+"2fa_error_111008" = "Verdiğiniz bilgiler, kayıt bilgilerinizle uyuşmuyor.";
+"2fa_error_111009" = "Doğrulama sayısı limitinizi doldurdunuz.";
+"2fa_error_111010" = "Girmiş olduğunuz doğrulama kodu yanlış.";
+"2fa_reset_authenticator" = "Doğrulayıcıyı Değiştir";
+"2fa_security_frozen_str" = "Sonra Geçerli";
+"2fa_card_frozen_str" = "Geri Sayım ";
+"2fa_recover_step_1" = "Adım 1/3: Cüzdanınızı kurtarmak için Koruyucularınıza bildirim gönderin.";
+"2fa_recover_step_2" = "Adım 2/3: Kurtarma sürecine başlamadan önce, isteğinizin size ait olduğundan emin olmak için kimliğinizi doğrulamamız gerekiyor. ";
+"2fa_recover_step_3" = "Adım 3/3: Lütfen kurtarma işlemine başlamak için, hesabınızın güvenlik kodunu belirleyin.";
+"2fa_loopringAuth_freezing" = "Kilitli";
+"2fa_forget_loopringAuth_notice" = "Bildirim";
+"2fa_forget_loopringAuth_notice_subtitle" = "Varlıklarınızı güvende tutmak için, güvenlik kodunuz değiştirildikten sonra hesabınız 24 saat boyunca kilitlenir. Lütfen bu sürenin ardından tekrar deneyin.";
+"2fa_add_guard_title" = "İki Faktörlü Kimlik Doğrulama (2FA)";
+"2fa_account_at_risk" = "Hesabınız Risk Altında";
+"2fa_account_at_risk_tip_security" = "İleri seviyede güvenlik içi en az iki farklı onay yöntemi kullanmanız önerilir.";
+"2fa_less_than_three_options_with_space" = "İleri seviyede güvenlik için en az iki farlı onay yönetimi kullanmanız önerilir.
+
+İkiden az doğrulama yöntemi aktifse,
+telefonunuzu kaybetmeniz ya da şifrenizi unutmanız durumunda cüzdanın sahibi olduğunuzu kanıtlayamazsınız.";
+"2fa_account_fix_me" = "Beni düzelt";
+"2fa_verify_your_passcode" = "Güvenlik kodunuzu doğrulayın";
+"2fa_have_not_setup_passcode" = "Güvenlik kodu oluşturulmamış";
+"2fa_set_new_passcode" = "Yeni Güvenlik Kodu Ayarla";
+"2fa_set_new_passcode_description" = "Güvenlik kodunuz transfer gibi işlemlerde ve birçok hesap aktivitesini gerçekleştirmek için kullanılır.";
+"2fa_confirm_new_passcode" = "Yeni Güvenlik Kodunu Onayla";
+"2fa_enabled" = "Aktif";
+"2fa_less_than_three_options" = "Cüzdanınız risk altında, lütfen daha fazla kimlik doğrulama yöntemi aktifleştirin. İleri seviyede güvenlik için en az iki kimlik doğrulama yönteminin aktif olması önerilir.";
+"2fa_change_passcode" = "Güvenlik Kodunu Değiştir";
+"2fa_introduction_mask_description" = "Daha fazla kimlik doğrulama yöntemi eklemek ve güvenliğinizi artırmak için dokunun";
+"2fa_verify_to_upgrade_description" = "Güvenliğiniz için, güvenlik kodu ile onaylama gerekiyor.";
+"2fa_add_authenticator_save_key" = "Lütfen anahtarınızı not edin ve güvenli bir yerde saklayın. İnternete yüklemeyin.
+Eğer doğrulayıcınızı siler ya da kaybederseniz, bu anahtar ile 2FA'nızı kurtarabilirsiniz.";
+
+"2fa_introduction_content" = "İleri düzeyde güvenlik için, İmza Doğrulayıcı'nın yanında en az iki kimlik doğrulama yöntemi daha aktif olmalıdır. Böylece:
+
+· Cüzdanınızı kurtarabilirsiniz
+· Güvenlik kodunuzu sıfırlayabilirsiniz
+
+Devam etmek için güvenlik kodunuzu doğrulayın";
+"2fa_introduction_info_content" = "İleri düzeyde güvenlik için, İmza Doğrulayıcı'nın yanında en az iki kimlik doğrulama yöntemi daha aktif olmalıdır. Böylece:
+
+· Cüzdanınızı kurtarabilirsiniz
+· Güvenlik kodunuzu sıfırlayabilirsiniz";
+//
+"l2_trade" = "%@ ile %@ takasla";
+"redeem_amm_pool" = "AMM Havuzundan Kazandıklarını Çek";
+"to_my_l1_account_u" = "L1 Hesabıma";
+"to_my_l2_account_u" = "L2 Hesabıma";
+"l1_receive_item2_u" = "L1 Hesabımdan";
+"pay_l1_transaction_fee" = "L1 İşlem Ücretini Öde";
+"l2_paid_fee" = "Ödenen L2 / Ücret";
+"l2_paid" = "Ödenen L2";
+"add_trust_address" = "Güvenilen Adres Ekle";
+"remove_trust_address" = "Güvenilen Adresi Sil";
+"enable_daily_quota" = "Günlük Kotayı Aktifleştir";
+"disable_daily_quota" = "Günlük Kotayı Kapat";
+"activate_l2_account" = "L2 Hesabını Aktifleştir";
+"new_l1_l2_activity_2" = "İşlemler";
+"l1_transactions" = "L1 İşlemleri";
+"l2_transactions" = "L2 İşlemleri";
+"to_l1_account" = "L1 Hesabı";
+"to_l2_account" = "L2 Hesabı";
+"send_redpacket" = "Kırmızı Paket Gönder";
+"claim_redPacket" = "Kırmızı Paket Al";
+"recover_account" = "Hesabı Kurtar";
+"active_l1_account" = "L1 Hesabını Aktifleştir";
+"paid_by_loopring" = "Loopring Tarafından Ödendi";
+"metatx_update_account" = "L2 Hesabını Oluştur/Sıfırla";
+"invest_amm_pool" = "AMM Havuzuna Yatırım Yap";
+"cant_transfer_to_yourself" = "Kendinize transfer yapamazsınız";
+"refund" = "İade ";
+"exceed_daily_quota_deposit_approval" = "Günlük Yatırma Kotası Aşım Onayı";
+"layerSwap_title" = "Uyarı";
+"layerSwap_desc" = "Layerswap, borsalardan Loopring L2'ye direkt olarak token aktarmayı sağlayan bir üçüncü parti uygulamasıdır. Bu servise yönelik endişeleriniz varsa, ziyaret edebilirsiniz.";
+"dex_deposit_tos" = "TOS";
+"l2_receive" = "L2 Alacağı";
+"new_swap_title" = "Takas";
+"new_orderbook_title" = "Emir Defteri";
+"new_fiat_title" = "Fiat ";
+"claim_to_loopring_l2" = "Loopring L2'ya Çek";
+"claim" = "Çek";
+"my_l2_account" = "L2 Hesabım";
+"lockToken_info" = "
+Yatırma bekleniyor: %@
+Çekim işlemi sürüyor: %@
+Yapıcı emri gerçekleşmedi: %@
+Dual Yatırım: %@
+";
+"force_withdraw" = "Zorla Çek";
+"force_withdraw_detail_sub" = "Loopring L2\'den Ethereum L1\'e çekilecek tokenlere şu anda sahip olan adrestir.";
+"force_withdraw_detail_pop" = "Bu özellik kullanıcının tokenlerini L2 adresinden L1'e çekmesini sağlar. Hedef ya aktifleştirilmemiş bir L2 hesabı, ya da bir borsa adresi olmalıdır.
+Bu işlem Ethereum ağında gerçekleştiği için genelde 30 dakikadan fazla süre gerektirir. Lütfen bekleyin.
+";
+
+"trust_address" = "Bu Adrese Güven";
+"force_withdraw" = "Zorla Çek";
+"force_Withdraw_subtitle" = "Tokenin L2'den L1'e çekileceği adres";
+"force_Withdraw_desc" = "Alıcının aktif bir Loopring L2 hesabı olmasa da, tokenlerinizi Loopring L2'den Ethereum L1'e çekebilirsiniz. Bu işlem genellikle Loopring L2'den merkezi bir borsaya (CEX) token gönderildiğinde kullanılır. Merkezi borsaların L2 hesabı olmadığı için tokenleri kurtarmak için bu işlemi gerçekleştirmek gerekebilir.";
+
+"force_Withdraw_confirm_warning" = "Bu özellik kullanıcının tokenlerini L2 adresinden L1'e çekmesini sağlar. Hedef ya bir cüzdan ya da bir borsa adresi olmalıdır.
+·Bu işlem Ethereum ağı üzerinde gerçekleştiği için 30 dakika kadar sürebilir. Lütgen bekleyin.";
+
+"force_Withdraw_error" = "Bu adreste Loopring L2 aktifleştirilmiş. Güvenlik nedeniyle Loopring kendi L2'sinden L1'e çekim işlemlerini desteklemez.";
+"force_Withdraw_no_token_error" = "Bu adreste çekilecek bir L2 tokeni bulunamadı.";
+"force_Withdraw_input_place_holder" = "Lütfen adresi girin";
+"updating" = "Güncelleniyor";
+"fee_full_fail" = "Ücret Çekimi Başarısız";
+"limit_order" = "Limit Emri";
+"limit_order_alert_body" = "Almak ya da satmak için kabul ettiğiniz minimum ya da maksimum miktarı ayarlamak için kullanılır.";
+"market_order" = "Piyasa Emri";
+"market_order_alert_body" = "O andaki piyasa değeri üzerinden anında alım/satım işlemleri için kullanılır.";
+"add_exchange_address_to_trust" = "Bu, Loopring'in L2 adreslerine token yatırmayı sağlayan operatör hesabıdır. Eğer bu adresi Güvenilir Adres olarak eklerseniz, L2 transferlerinizde herhangi bir sınırlama olmayacaktır. İstediğinizin bu olduğundan emin olun.";
+"l1_to_l2_no_exchange_address" = "Herhangi bir Loopring L2 adresine yapılan transferler, operatör Loopring adresi üzerinden gerçekleşir. Operatör varlıkları doğru adreslere yönlendirir. Eğer Loopring operatörünü güvenilir kişi olarak eklemezseniz, Koruyucu onayı gerekecektir.";
+"subscribe" = "Katıl";
+"market_order_min_quantity_alert" = "Küçük takaslar (~$100 altında)  daha yüksek ücret oranına sahiptir.
+Takas Ücreti: %@
+Ücret Oranı: %@
+Alınacak Mimimum Miktar: %@";
+"market_order_success" = "Başarıyla Takaslandı";
+"market_order_fail" = "Takas Başarısız";
+"ethereum_fee" = "Ethereum Ücreti";
+
+"delete_account" = "Hesabı Sil";
+"delete_account_detail" = "Hesabınızı silerseniz, bu cüzdan adresine ait tüm kaydedilmiş bilgiler kalıcı olarak kaybolacaktır.
+
+Bilgileriniz bir kez silindikten sonra, artık bu adrese ulaşamaz ve kurtaramazsınız.
+
+Lütfen cüzdanı silmeden önce tüm varlıklarınızı çektiğinizden emin olun.";
+"confirm_delete_account" = "Hesabınızı silmek istediğinizden emin misiniz?";
+"send_success" = "İstek Gönderildi";
+"send_request" = "İsteğiniz alındı. 2 iş günü içinde cevap vereceğiz.";
+"stacked_risk_title" = "Lido üzerinden ETH Stakelemek, ne demek?";
+"stacked_risk_sub_title" = "Lido ETH 2.0 için geliştirilmiş bir staking sağlayıcısıdır. Lido, kullanıcılarına varlıklarını kilitlemeden ve bir altyapı hazırlama gerekliliği olmadan staking imkanı sunar.
+
+Ethereum ağında ETH stakelerken Lido'yu tercih eden kullanıcılar bir token (stETH) teslim alırlar. Bu token Ethereum ağında stakelenmiş olan ETH değerini 1:1 oranında temsil eder. Bu token staking ödülleri için bir köprü olarak görülebilir.
+
+WSETH, stETH'nin wrap edilmiş halidir. Kullanıcı tokeni aldığında, WSETH'nin toplam miktarı değişmez. Bunun yerine, tokenin değeri kazanılan staking ödüllerini gösterecek şekilde zaman içinde artar.";
+"risk_warning" = "Risk uyarısını okudum ve anladım";
+"risk_warning_2" = "Kullanıcıların Ethereum 2.0'ın ikinci evresine kadar WSETH karşılığında ETH çekemeyeceğini bilmesi önemli bir husustur. Bununla birlikte birçok borsa piyasa değerine göre WSETH karşılığında ETH sunmaktadır.
+
+Loopring, kullanıcılarının WSETH karşılığında ETH talep edebileceği bir havuz oluşturacaktır. Havuz spesifik bir sınıra ulaştığında periyodik olarak tekrar dengelenecektir. Eğer L2'de yeterli envanter yoksa, kullanıcılar istediklerinde WSETH tokenlerini L1'e çekerek, Lido, Curve ya da 1inch üzerinden ETH'ye dönüştürebilirler.";
+"overview" = "Özet";
+"staking" = "Staking";
+"eth_staking" = "ETH Staking";
+"stake_ether" = "Ether Stakele";
+"est_rate_apr" = "Öng. Oran (APR)";
+"my_investment" = "Yatırımlarım";
+"stake_ether" = "Ether Stakele";
+"your_balance_is_insufficient" = "Bakiyeniz yetersiz";
+
+"no_quota_available" = "Loopring yakında havuzu oluşturacak. Lütfen katılmak için buraya geri dönün ve tekrar deneyin.";
+
+"no_quota_available2" = "Loopring havuzu şu anda isteğinizi tamamlayamıyor.
+Kalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz:\n
+·WSETH'yi L1'e çek ve Uniswap, 1inch ya da Lido üzerinden takaslayabilirsiniz.
+.Loopring havuzu yakında yeniden dengelenecek. Lütfen çekim için daha sonra tekrar deneyin.";
+
+"redeem" = "Çek";
+"subscribe" = "Katıl";
+"detail" = "Detaylar";
+"transaction" = "İşlemler";
+
+"max_staking_deposit" = "Kota neredeyse tamamen satıldığı için isteğiniz karşılanamıyor. Şimdilik sadece %@ ETH ile katılabilirsiniz. Loopring yakında havuzu tekrar dengeleyecektir. Bu gerçekleştiğinde tekrar gelerek katılabilirsiniz.";
+
+"max_staking_withdraw" = "Loopring havuzu şu anda isteğinizi karşılayamıyor. Şimdilik sadece %@ WSTETH ile çekim işlemi yapabilirsiniz.
+Kalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz:
+·WSETH'yi L1'e çek ve Uniswap, 1inch ya da Lido üzerinden takaslayabilirsiniz.
+Loopring havuzu yakında yeniden dengelenecek. Lütfen çekim için daha sonra tekrar deneyin.";
+
+"from2" = "Kaynak";
+"developer_mode" = "Geliştirici Modu";
+"developer_mode_desc" = "Lütfen Dile Ait String dosyasının URL'sini girin";
+"network_notice_defi_invest" = "Özür dileriz, kullanım koşullarımız gereğince bulunduğunuz lokasyonda size hizmet veremiyoruz.";
+"total_earnings" = "Toplam Kazanç";
+"subscribe_success" = "Katılım başarılı";
+"redeem_success" = "Çekim başarılı";
+"subscribe_failed" = "Katılım başarısız";
+"redeem_failed" = "Çekme başarısız";
+"total_invest" = "Toplam Yatırım";
+"stake_pool_enable" = "ETH staking servisi şu anda kullanılamıyor. Havuz oluşturulana kadar lütfen bekleyin. Genellikle bir saat içinde hazır olur.";
+"import_language" = "Dili İçe Aktar";
+"log" = "Kayıt Defteri";
+"reset_english" = "İngilizce'ye Sıfırla";
+"import" = "İçe Aktar";
+"stake_pool_enable" = "ETH staking servisi şu anda kullanılamıyor. Havuz oluşturulana kadar lütfen bekleyin. Genellikle bir saat içinde hazır olur.";
+"earn" = "Kazan";
+"mint" = "Yarat";
+"deploy" = "Konumlandır";
+"tokenId" = "TokenId";
+"tokenId_2" = "TokenID";
+"swap_check_record_timeout" = "Lütfen durumu kayıtlarda kontrol edin.";
+"delete_account_alert_title" = "Hesap silme başarısız";
+"delete_account_alert_msg" = "Hesabınızı sildikten sonra cüzdanınız artık kullanılamaz hale gelecek. Varlık kaybı yaşamamak için cüzdanınızda bulunan varlıkları hesabınızı silmeden taşımanız gereklidir.";
+
+"what_dual_investment_title" = "Dual Yatırım Nedir?";
+
+"what_dual_investment_subtitle" = "Dual Yatırım, size bir kripto varlığı istediğiniz fiyatla ve istediğiniz zamanda yüksekten satma ya da düşükten alma imkanı sunar. Katıldıktan sonra, kullanıcılar 'Anlaşma Zamanı'na kadar işlemi iptal edemez ve varlıklarını çekemez.
+Anlaşma Zamanı geldiğinde, bazı durumlarda kripto varlıklarınızı tutmanız, bazı durumlarda da piyasa değerinin altında satmanız gerekebilir. Alım satım işlemleri risk içerir. Lütfen takaslarınızı dikkatli seçin. Kayıplarınızın telafisi olmayabilir ve tüm sorumluluk size aittir. ";
+
+"risk_warning_3" = "Dual Yatırım yüksek risk içeren bir üründür. Katılırken kullanılan varlıklar Anlaşma Zamanı gelene kadar kilitlenir ve kullanıcılar bu tarihe kadar varlıklarını çekemez ve işlemlerini iptal edemez. Anlaşma Zamanı geldiğinde, bazı durumlarda kripto varlıklarınızı tutmanız, bazı durumlarda da piyasa değerinin altında satmanız gerekebilir. Alım satım işlemleri risk içerir. Lütfen takaslarınızı dikkatli seçin. Kayıplarınızın telafisi olmayabilir ve tüm sorumluluk size aittir. ";
+
+"dual_investment_title" = "Dual Yatırım";
+"today" = "Bugün";
+"1_day" = "1 Gün";
+
+"total_quota" = "Toplam Kota";
+"subscription_succeeded" = "Katılım Başarılı";
+"subscription_succeeded_desc" = "Loopring merkeziyetsiz bir borsa (DEX) olduğu için yatırdığınız miktar kilitli olsa da hesabınızdan ayrılmaz.
+İşlem sona erdiğinde; eğer 'Anlaşma Fiyatı' 'Hedef Fiyat'tan yüksekse, hem kâr elde edersiniz hem de kilitli tokenlerinizin kilidi açılır. Eğer 'Anlaşma Fiyatı'na ulaşılır ya da 'Hedef Fiyat'dan düşük olursa, yatırımınız ve kazancınız 'Hedef Fiyat' üzerinden 'Hedef Token'e dönüştürülür.";
+// eg: Invest USDC
+"dual_inves" = "%@ Kullan";
+
+//eg:(Buy LRC Low)
+"dual_inves_buy_low" = "Düşükten %@ Al";
+
+//eg:(Sell High for LRC)
+"dual_inves_sell_height" = "%@ İçin Yüksekten Sat";
+
+//eg: Earn more USDC or BTC
+"dual_inves_earn" = " %@ ya da %@ kazan";
+
+//eg: "Return"
+"dual_return_token" = "Dönüş";
+
+//eg: Current BTC Price
+"dual_token_current_price" = "Mevcut %@ Fiyatı";
+"dual_current_price" = "Mevcut Fiyat";
+
+"dual_settlement_price" = "Anlaşma Fiyatı";
+"dual_settlement_date" = "Anlaşma Tarihi";
+
+"dual_apr" = "APR";
+"dual_target_price" = "Hedef Fiyat";
+"dual_product" = "Ürün";
+"dual_apr_desc" = "APR anlık olarak yenilenir. Katılımınız tamamlanırken en güncel APR oranı baz alınır.";
+"dual_target_price_desc" = "Hedef fiyat USDT bazlıdır ve referans noktasıdır. Anlaşma Tarihi geldiğinde Anlaşma Fiyatı bu veriye göre değerlendirilir.";
+"dual_insufficient_total_quota" = "Toplam Kota Yetersiz";
+"dual_order_has_expired" = "Katılım başarısız! \nEmrin süresi doldu.";
+"dual_exceeded_total_quota" = "Kota Aşıldı.";
+"dual_delivering" = "İletiliyor";
+
+//eg: Amount is too small (Min 100).
+"dual_amount_is_too_small" = "Miktar çok küçük (Min %@)";
+"dual_settled" = "Tamamlandı";
+"dual_subscribe" = "Katıl";
+"dual_insufficinet_balance" = "Yetersiz Bakiye";
+//eg: Amount is too large (Max 100).
+"dual_amount_over_max" = "Miktar çok büyük (Max %@)";
+
+"dual_risk_msg_1" = "Dual Yatırım'ın garantili kazanç OLMADIĞINI anladım.";
+"dual_risk_msg_2" = "Katılırken kullandığım varlıkların Anlaşma Tarihi gelene kadar kilitleneceğini, işlemin iptal edilemeyeceğini ve bu tariha kadar çekim yapamayacağımı anladım.";
+"dual_risk_msg_3" = "Anlaşma miktarı ile ilgili muhtemel sonuçları incelemem ve katılım detaylarını doğrulamam gerektiğini anladım.";
+"dual_risk_msg_4" = "Risk uyarısını okudum.";
+"dual_commingsoon" = "Çok yakında";
+"dual_subscribe_time" = "Katılım Zamanı";
+"dual_days" = "Gün";
+
+
+//NFT related strings below
+"balance_2" = "Bakiye";
+"amount_2" = "Miktar";
+"contract_address_" = "Kontrat Adresi";
+"minter_" = "Yaratıcı";
+"token_id" = "Token ID";
+"token_standard" = "Token Standardı";
+"blockchain" = "Blokzincir";
+"description" = "Açıklama";
+"refresh_nft_metadata" = "Metadata güncellemesi. Seçili varlığı güncelleme için sıraya aldık. Birkaç dakika içinde kontrol edin.";
+"refresh_nft_metadata_refreshing" = "Metadata yenileniyor. Birkaç dakika içinde tekrar kontrol edebilirsiniz.";
+"hide_small_liquidity" = "Küçük likiditeyi gizle";
+"nft_self_trading" = "Kendinle Takas";
+"nft_collectibles" = "Koleksiyon";
+"nft_item" = "parça";
+"nft_items" = "Parça";
+"new_trade_title" = "Takas";
+"commingsoon" = "Çok yakında";
+
+//<!-- iCloud --> add from icloud branch
+"icloud_security_setting_title" = "iCloud Yedeklemesi";
+"icloud_security_setting_subtitle" = "Yedekleme Yok";
+"icloud_introduction_title" = "iCloud Yedeklemesi";
+
+"icloud_introduction_des1" = "iCloud Yedeklemesi ücretsizdir. Özel anahtarlarınız şifrelenir ve bulut hesabınızda saklanır.";
+"icloud_introduction_des2" = "· iCloud\'a yüklenen veri güvenlik için şifrelenir.
+· Loopring\'in bulut servisleri üzerinde kontrolü yoktur. Eğer risk konusunda endişeliyseniz, bu özelliği istediğiniz zaman devre dışı bırakabilirsiniz.";
+"icloud_introduction_des3" = "· iCloud\'a yüklenen veri güvenlik için şifrelenir.
+· Eğer anahtarlarınızı kaybederseniz, 'Cloud ile kurtar cüzdan' seçeneği ile cüzdanınızı ücretsiz olarak kurtarabilirsiniz.";
+"icloud_disable_alert_title" = "Bir iCloud hesabı bulunamadı ya da iCloud Drive devre dışı";
+"icloud_disable_alert_description" = "iCloud üzerinden yedeklemenizi kurtarmak için, cihazınızda iCloud'u etkinleştirmelisiniz";
+"icloud_status_no_backup" = "Yedekleme Yok";
+"icloud_status_enabled" = "Şifrelenmiş anahtarınız aktif iCloud hesabınıza yedeklendi";
+"icloud_status_verifyFailed" = "Oto Yedekleme doğrulaması başarısız";
+"icloud_enter_passcode" = "Lütfen güvenlik kodunuzu girin";
+"icloud_enter_passcode_subtitle" = "Bu güvenlik kodu bulut dosya şifrelemesi içindir.";
+"icloud_recover_from_cloud" = "Cloud ile kurtar";
+"icloud_recover_from_cloud_description" = "Lütfen kurtarmak istediğiniz cüzdanı seçin. Bu yolla cüzdanınızı ücretsiz olarak kurtarabilirsiniz. 24 saat sonra yeniden erişim kazanırsınız. ";
+"icloud_recover_list_button_title" = "Kurtar";
+"icloud_recover_list_empty" = "Yedeklenmiş bir dosyanız bulunmuyor.";
+"icloud_recover_decrypt_failed" = "Özel anahtar çözümlenemedi. Güvenlik kodu yanlış ya da şifrelenmiş dosya bozulmuş olabilir. Lütfen doğru güvenlik kodunu girin ve tekrar deneyin.";
+"icloud_recover_decrypt_subtitle" = "Bu parola bulut yedeklemeniz içindir.";
+"icloud_migrate_previous_title" = "Daha önceden iCloud yedeklemesine sahiptiniz. Tekrar aktifleştirmek ister misiniz?";
+"icloud_recover_list_wallet_prefix" = "%@ Cüzdanı";
+"icloud_backuping" = "Cüzdanınızın özel anahtarı yedekleniyor...";
+"icloud_close_confirm_description" = "iCloud yedeklemesini kapatırsanız, bulut hesabınızdaki verinin senkronu bozulacaktır. Bu durum ilerde cüzdanınızı iCloud kullanarak kurtarmak isterseniz sorunlara yol açabilir. Eğer buluttaki cüzdan verisini silmek istiyorsanız, bunu iCloud'daki ilgili dosyaları silerek yapmanızı öneririz.";
+"icloud_cose_confirm_title" = "iCloud yedeklemesini kapat";
+//add order orderbook
+"orderbook_order_processing" = "İşleniyor";
+"orderbook_order_processted" = "Tamamlandı";
+"orderbook_order_cancelled" = "İptal Edildi";
+
+//ramp
+"buy_with_ramp" = "Ramp ile Al";
+"buy_with_banxa" = "Banxa ile Al";
+"buy_with_card_desc" = "Ramp & Banxa ile Kripto Al";
+"buy_with_other_wallet" = "Bir Loopring Cüzdan'dan transfer et";
+"buy_with_receive_l2" = "L2 cüzdandan al";
+
+//active
+"until_next_check" = "Sıradaki giriş için kalan süre:";
+
+//transfer
+"transfer_l1_send" = "L1'e Gönder";
+"transfer_l2_send" = "L2'ye Gönder";
+"transfer_select" = "Seç";
+//eg: The currency ETH will not be transferred to the contract address 0x00000";
+"transfer_alert_message" = "%@ varlığı bu adrese transfer edilmeyecek %@";
+"transfer_alert_not_supported" = "Token Desteklenmiyor";
+
+//管理钱包
+"manager_wallet_layer2" = "Layer 2";
+"manager_wallet_delete_alert_title" = "Cüzdanı silmek istediğinizden emin misiniz?";
+"manager_wallet_delete_alert_message" = "Cüzdanı sildikten sonra yalnızca kurtarma işlemi gerçekleştirdikten sonra erişim sağlayabilirsiniz.";
+
+//alert title
+"alert_title_clear_data" = "Veriyi Temizle";
+"alert_title_corrupted" = "Bozulmuş Cüzdan Verisi";
+"alert_title_corrupted_data" = "Bozuk Veri";
+
+//tableViewFoot loading
+"tableview_foot_looding" = "Yükleniyor...";
+
+//
+"2fa_signature_auth_passcode" = "İmza Doğrulayıcı (Güvenlik kodu ile)";
+"create_novice_guide" = "Başlangıç Rehberi";
+"creation_fee" = "Oluşturma Ücreti";
+"nfts" = "NFTler";
+"records_my" = "Bana ait";
+"verification_code_sent_to_user" = "Şuraya gönderildi:%@";
+"create_wallet_pay_qr" = "/2 Bu adrese yalnız %@ gönderin. Cüzdan oluşturma adresi yatırdığınız miktardan düşülür. Gas ücretinden tasarruf etmek için oluşturma ücretinden fazla miktarda varlık yatırmanız önerilir. Böylece cüzdanınız oluşturulduğunda kullanıma hazır varlıklarınız olur.";
+"create_wallet_rewardpoint" = "Cüzdanınız %@ puan ile başarıyla oluşturuldu";
+"create_wallet_rewardpoint_desc" = "Bir davet kodu kullanırsanız %@ puan kazanırsınız";
+"create_wallet_visit" = "Bir Loopring Cüzdanım var";
+
+"push_setting_title" = "Anlık Bildirimler";
+"push_setting_message" = "İşlemlere ve cüzdan güvenliğine dair bildirimler alın.";
+"push_setting_cancel" = "İzin Verme";
+"push_setting_allow" = "İzin Ver";
+"order_book_cancel_all_order" = "Tüm Emirler İptal Edildi";
+"order_book_cancel_order" = "Emir İptal Edildi";
+"2fa_require_count_not_satisfy_alert_sub" = "bir yardım talebi oluşturun"; //lowercase first letter
+"2fa_button_title" = "Gönder";
+"2fa_email_sent" = "E-mail gönderildi";
+"2fa_sent_code" = "Kod gönderildi";
+"2fa_enter_code" = "Kodunuzu girin";
+"2fa_loopring_address" = "Loopring (%@)";
+"2fa_change_auth" = "%@ değiştir";
+"2fa_set_passcode_alert_continue" = "Devam";
+"2fa_set_login_alert_continue" = "Devam";
+"2fa_time_emaining" = "Kalan Süre";
+"2fa_submit_created" = "Zaten Yatırdınız Mı?";
+"tost_copied" = "Kopyalandı";
+
+"order_book_error_1" = "Cüzdan Oluşturulmamış";
+"order_book_error_2" = "Miktar çok küçük";
+"order_book_error_3" = "Miktar çok büyük";
+"order_book_error_4" = "Bilinmeyen Hata";
+"order_book_error_5" = "Layer 2 Oluşturulmamış";
+"order_book_error_6" = "Cüzdan Bakiyesi Yetersiz";
+"active_ask_friend" = "Bir arkadaşa sor";
+"active_ask_friend_desc" = "L2 hesabına sahip bir arkadaşınızdan sizin hesabınıza varlık yatırmasını isteyin";
+"feed_back_report" = "Lütfen bir rapor iletin.";
+
+"gro_desc" = "GRO Yatırım Açıklaması";
+"gro_message" = "Bu GRO açıklamasıdır...";
+
+"new_asset_guide_title" = "Loopring L2";
+"new_asset_guide_desc" = "Uygulama Loopring tarafından yönetilen, (loopring.io/#/layer2) yüksek performans sunan; gözetimsiz borsa (AMM, emir defteri) ve ödeme platformudur. Loopring protokolü üzerine kurulmuştur, Loopring relayer'ı ile çalışır ve Ethereum üzerindeki en gelişmiş, en keyifli alım/satım deneyimini kullanıcılarına sunar. Gas ücreti olmadan, ultra hızlı ve tamamen güvenli! Arada bir takas yapmak, dakikada 30 alım/satım işlemi gerçekleştirmek, AMM havuzuna ya da emir defterine likidite sağlamak, 100 arkadaşınıza token göndermek ya da istediğiniz ne olursa olsun, Loopring Layer 2, L2'nin altın standardıdır.";
+
+"new_asset_wallet" = "Cüzdana git";
+"gwei" = "Gwei";
+
+"l1_receive_title" = "L1'e Al";
+"expired_warning" = "Uyarı";
+"expired_need_help" = "Yardıma ihtiyacınız mı ar? SSS'yi incelemek ister misiniz?";
+"debug_log_alert_title" = "Debug Kayıt Defteri";
+"payment_style_available_pay" = "Uygun: %@ Ödenecek: %@";
+"payment_style_available_pay_using" = "Uygun: %@ (%@ kullanarak öde)";
+"payment_style_using" = "%@ kullanarak öde";
+"transfer_fee_discount" = "İNDİRİM";
+
+"tost_create_wallet" = "Lütfen cüzdan oluşturun";
+"tost_fee_load_failed" = "Ücret yetersiz. Tekrar deneyin.";
+"tost_exchange_load_failed" = "Borsadan bilgi alınamadı. ";
+"tost_generateeddsa_failed" = "EdDsa Oluşturma Başarısız";
+"tost_dexopenAccount_failed" = "Dex Hesap Oluşturma Başarısız";
+"tost_l2_toke_list_empty" = "İkinci token listesi boş";
+"tost_twoFactorInfo_nil" = "İki faktör bilgisi yok";
+"tost_unsupport_style" = "Bu stil desteklenmiyor %@";
+"orderbook_market_not_support" = "Bu piyasa şimdilik emir defteri fonksiyonunu desteklemiyor.";
+
+"alert_verb_content_send" = "gönder";
+"alert_verb_content_send_2" = "gönder";
+"alert_verb_content_receive" = "al";
+"alert_verb_content_send_red_packet" = "Kırmızı Paket gönder";
+"alert_verb_content_claim_red_packet" = "Kırmızı Paket al";
+"alert_verb_content_swap" = "takas";
+"alert_verb_content_place_order" = "emir oluşturun";
+"alert_verb_content_scan_qr_code" = "QR kodunu tarayın";
+"alert_verb_content_invest" = "yatırım";
+"alert_verb_content_send_token" = "token gönder";
+"alert_verb_content_receive_token" = "token al";
+"alert_verb_content_send_nft" = "NFT gönder";
+"alert_verb_content_dapp" = "DApp";
+"alert_verb_content_bind_ens" = "ENS oluştur";
+"alert_verb_content_add_guardians" = "Koruyucu ekle";
+"alert_verb_content_manage_guardians" = "Koruyucu Yönetimi";
+
+//
+"set_up_fee_desc" = "Oluşturma ücreti cüzdanı oluşturmak için gereken gas ücretidir. Gösterilen bu miktar yatırdığınız miktardan düşülecektir. Gereken miktardan daha fazlasını yatırmanız önerilir, böylece cüzdanınız oluşturulduğunda kullanıma hazır varlıklarınız olur.";
+"re_creation" = "Tekrar oluşturmak önceki cüzdanınızı geçersiz kılar. Bu işlem önceki cüzdanınızdaki varlıkların kaybolmasına yol açar. Lütfen riskin farkında olun. Eğer tekrar oluşturmaya devam etmek istiyorsanız, onaylamak için büyük harflerle AGREE yazın.";
+"next_update_time" = "Sıradaki güncellemeye kalan: %@. Yenile";
+"expired_alert_message" = "Maalesef zaman doldu. Eğer bu adrese varlık gönderdiyseniz, lütfen uygulamayı silmeyin.";
+
+//
+"address_type_exchange" = "Borsa";
+
+//An error has occurred, please try again later  --> try again can clicked
+"lock_result_desc" = "Bir hata oluştu, lütfen daha sonra tekrar deneyin.";
+"lock_result_try_again" = "%@ içinde tekrar deneyin";// in 👆 substring
+
+//set money type
+"currency_cny" = "CNY";
+"currency_usd" = "USD";
+"currency_hkd" = "HKD";
+"currency_jpy" = "JPY";
+"currency_eur" = "EUR";
+"currency_krw" = "KRW";
+"currency_gbp" = "GBP";
+"currency_cad" = "CAD";
+"currency_aud" = "AUD";
+
+
+
+
+//
+"my_investments_no_data" = "Aktif yatırımlarınızı burada takip edebilirsiniz";
+"trust_desc" = "Bir kişiye güvendiğinizde ona istediğiniz kadar varlığı L1 üzerinden kota limitine takılmadan gönderebilirsiniz.";
+"you_not_trusted" = "Bu kişiye güvenmiyorsunuz";
+"trusted_no_consume" = "Sınırsız günlük kota";
+"my_red_packet" = "Kırmızı Paketim";
+"add_guardian_tip_risk" = "Uyarı";
+"add_guardian_tip_very_security" = "Çok Güvenli";
+"address_can_not_added_guardian" = "Girdiğiniz adrresi koruyucu olarak ekleyemezsiniz çünkü aktifleştirilmiş bir Ethereum L1 hesabına sahip değil. Lütfen adresin L1 hesabını aktifleştirin ve tekrar deneyin.";
+"you_trusted" = "Bu kişiye güveniyorsunuz";
+
+//new migration
+"recover_smart_wallet" = "Cüzdanı Kurtar";
+"migrate_to_new_device_title" = "Cüzdanı başka bir cihaza taşı";
+"migrate_install_new_desc" = "Yeni cihazınıza Loopring Cüzdan yükleyin";
+"migrate_choose_have_wallet_desc" = "Bir Loopring cüzdanım Var > Cüzdanı Taşı yolunu seçin";
+"migrate_generate_qrcode_btn" = "QR kod oluştur";
+"migrate_not_take_screenshot_title" = "Ekran görüntüsü almayın";
+"migrate_not_take_screenshot_desc" = "Güvenliğiniz için lütfen taşıma QR kodunun ekran görüntüsünü almayın. Ekran görüntüleri telefonunuzun bulut depolamasında ya da üçüncü parti uygulamalarında erişilebilir olabilir ve bu da varlıklarınızı kaybetmenize yol açabilir.";
+"migrate_scan_desc" = "Yeni cihazınızla QR kodu tarayın";
+"migrate_risk_warning_desc_1" = "Yeni cihazınızda güvenlik kodunuzu girin ve taşımayı onaylayın.";
+"migrate_risk_warning_desc_2" = "Taşımanın ardından bu cihazdaki veriniz silinir.";
+"migrate_wallet" = "Cüzdanı Taşı";
+"migrate_wallet_migrating" = "Taşınıyor";
+"migrate_wallet_migration_completed" = "Taşıma Tamamlandı";
+"migrate_wallet_go_to_wallet" = "Cüzdana Git";
+"migrate_scan_qrcode_to_migrate_desc" = "Cüzdanı taşımak için, eski cihazınızdaki QR kodu tarayın.";
+
+
+//new recover
+"recover_loopring_provides_desc" = "Loopring cüzdanızı kurtarmak için size iki seçenek sunar.";
+"recover_method1" = "Seçenek 1";
+"recover_method2" = "Seçenek 2";
+"recover_notice" = "Bilgi";
+"recover_notice_warning_desc" = "Cüzdanınızı kurtardığınızda, tüm yerel veriniz silinir ve hesabınızdan çıkış yapılır. Hesabınıza yeniden erişim sağlamak için tek yol cüzdanınızı kurtarmaktır.
+Cüzdanınızı kurtarmak istediğinize emin misiniz? Onaylamak için aşağı  \‘recover my wallet\’ yazın.";
+"recover_input_word" = "recover my wallet"; //don't translate this
+
+"recover_risk_information_desc" = "Cüzdanınızı kurtarmaya karar verdiğinizde, süreç başlar. Kurtarma operasyonunu tamamlamak için aşağıdaki adımları tamamlamalısınız.";
+"recover_choose_have_wallet_desc" = "Bir Loopring Cüzdanım Var>Cloud ile kurtar ya da Koruyucular ile Kurtar yolunu seçin";
+"recover_from_cloud" = "Cloud ile Kurtar";
+"recover_from_guardian" = "Koruyucular ile Kurtar";
+"recover_enabling_cloud" = "Bulut yedeklemesi ücretsizdir. Özel anahtarlarınız şifrelenir ve iCloud hesabınızda saklanır.";
+"recover_enabling_guardian" = "Blokchain ücretini ödeyerek cüzdanınızı Koruyucularınız ile kurtarın.";
+
+//new passcode
+"psd_alphanumeric_menu" = "Özel Alfanümerik Kod";
+"psd_digit_menu" = "6 Haneli Nümerik Kod";
+"psd_change_passcode" = "Güvenlik Kodunu Değiştir";
+"psd_weak_hint" = "Zayıf";
+"psd_normal_hint" = "Normal";
+"psd_strong_hint" = "Güçlü";
+"psd_switch_passcode_type" = "Güvenlik Kodu Türünü Değiştir";
+"psd_passcode_option_btn" = "Güvenlik Kodu Seçenekleri";
+"psd_set_passcode_desc" = "Bu güvenlik kodu transferler ve diğer hesap işlemleri için kullanılır.";
+"psd_length_hint" = "Harf, rakam ve sembol içeren 6–20 karakter";
+"psd_use_touch_id" = "Touch ID Kullan";
+"psd_use_face_id" = "Face ID Kullan";
+"nav_pop_context_rocket" = "Rocket Pool ile ETH Staking Nedir?\n\nRocket Pool gerçekten merkeziyetsiz olan ilk Ethereum staking havuzudur. Rocket Pool likit staking tokeni ile isteyen herkesin bir yazılıma ihtiyaç duymadan ve varlıklarını dondurmadan ETH stakelemesini sağlar. Rocket Pool tüm Ethereum doğrulama operasyonları Execution Layer\'ı üzerinde akıllı kontratlar kullanarak gerçekleştirir. \n\nrETH almak ve cüzdanınızda tutmak ETH stakelediğinizi gösterir. rETH\'nin değeri ETH\'ye bağlı olarak devamlı artar ve bu kazandığınız staking ödüllerini temsil eder.";
+
+
+// Analytics Settings
+"settings_analytics" = "Analitik";
+"settings_analytics_description" = "Loopring Cüzdana çökmeler, buton tıklamaları, sayfa görüntülemeleri gibi verileri toplaması için izin ver. Toplanan veri yalnızca kullanıcı deneyimini geliştimek için kullanılır.";
+
+//lock screen
+"lock_screen_more" = "Daha çok";
+"token_locked_details" = "Kilitleme Detayları";
+"token_locked_details_deposit" = "Yatırma bekleniyor";
+"token_locked_details_withdraw" = "Çekim işlemi sürüyor";
+"token_locked_details_makerOrder" = "Yapıcı emri gerçekleşmedi";
+"token_locked_details_dual_investment" = "Dual Yatırım";
+
+// Orderbook new cancel all alert
+"orderbook_cancel_all_alert_description" = "Tüm emirleri iptal et?";
+"orderbook_active_orders_depth" = "Derinlik";
+
+//settings
+"settings_appearance" = "Görünüm";
+"settings_appearance_dark" = "Karanlık";
+"settings_appearance_light" = "Aydınlık";
+"settings_appearance_system" = "Sistem Ayarlarını Kullan";
+"settings_appearance_system_description" = "Karanlık ya da Aydınlık mod cihazınızın ayarlarına göre seçilir";
+
+// Migration Bugfix
+"migration_qr_code_expired_alert_title" = "Taşıma QR kodunun süresi doldu!";
+"migration_qr_code_expired_alert_description" = "Lütfen eski cihazınızda Loopring Cüzdan uygulamasını açın ve taşıma QR kodunu tekrar oluşturun. Eğer kodu tekrar oluşturamazsanız, Koruyucular ya da bulut yedeklemesi aracılığıyla cüzdanınızı kurtarmanız gerekir.";
+
+// Activation
+"activation_view_progress" = "İlerlemeyi Göster";
+
+"icloud_recovery_qr_code_expired_alert_title" = "Cüzdan Kurtarma Başarısız!";
+"icloud_recovery_qr_code_expired_alert_description" = "Cüzdanınız bulut yedeklemesi ile kurtarılamadı çünkü son başarılı yedeklemenin ardından cüzdan sahibi ya da özel anahtarda değişiklik olmuş. Lütfen \'Koruyucular ile kurtar\' seçeneğini seçin.";
+
+//rocket pool
+"staking_list_via_lido" = "Lido ile";
+"staking_list1_via_lido" = "ETH stakeleyin ve WSTETH kazanın";
+
+"staking_list_via_rocket_pool" = "Rocket Pool ile";
+"staking_list1_via_rocket_pool" = "ETH stakeleyin ve RETH kazanın";
+
+"nav_title_rocket" = "Rocket Pool ile ETH Stakelemek Ne Demek?";
+"nav_pop_contect_rocket" = "Rocket Pool gerçekten merkeziyetsiz olan ilk Ethereum staking havuzudur. Rocket Pool, likit staking tokeni aracılığıyla, staking yazılımları kullanmadan ve varlıklarınızı kilitlemeden staking yapmanıza olanak tanır. Rocket Pool tüm Ethereum onay operasyonlarını Execution katmanı üzerinde tamamlar.
+
+rETH almak ve cüzdanınızda tutmak ETH stakelediğinizi gösterir. rETH\'nin değeri ETH\'ye bağlı olarak devamlı artar ve bu kazandığınız günlük staking ödüllerini temsil eder.";
+
+"nav_pop_contect_risk_rocket" = "Loopring, kullanıcılarının rETH tokenlerini ETH ile takaslayabilmeleri için bir havuz oluşturacak. Havuz belirlenen hedeflere ulaştıkça belirli aralıklarla dengelenir. Eğer Layer 2 üzerinde yeterli varlık yoksa, kullanıcı her zaman rETH tokenlerini Layer 1\'e çekme ve Rocket Pool, 1inch gibi seçenekleri kullanarak ETH ile takaslama hakkına sahiptir.";
+
+"rocketpool_redeem_tips" = "Loopring isteğinizin tamamını şu anda karşılayamıyor.\nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz:\n
+· rETH varlıklarınızı L1\'e çekin ve Rocket Pool, 1Inch gibi platformlarda takaslayın.
+.Loopring havuzu yakında yeniden dengelenecek. Lütfen çekim için daha sonra tekrar deneyin.";
+
+"rocketpool_redeem1_tips" = "Loopring isteğinizin tamamını şu anda karşılayamıyor. Çekebileceğiniz miktar şimdilik: %@ rETH \nKalan miktar için aşağıdaki yaklaşımlardan birini seçebilirsiniz:\n
+· rETH varlıklarınızı L1\'e çekin ve Rocket Pool, 1Inch gibi platformlarda takaslayın.
+.Loopring havuzu yakında yeniden dengelenecek. Lütfen çekim için daha sonra tekrar deneyin.";
+
+"reth_stake_title" = "Rocket Pool";
+
+//swap less than $100
+"swap_less_than_100_warning" = "Uyarı";
+
+//dual invest update
+"dual_settle_days_desc" = "Anlaşma İçin Kalan Gün";
+"dual_if_desc" = "eğer";
+"dual_token_lock_hint" = "*Yatırım gerçekleştirdiğiniz tokenler Anlaşma Tarihine kadar kilitli kalacaktır.";
+"dual_settle_calc_subtitle" = "Anlaşma Hesaplayıcı";
+"dual_sold_out_subtitle" = "Ürünler tamamen satıldı";
+"dual_sold_out_desc" = "Loopring yakında yeniden dengeleyecek; lütfen katılmayı daha sonra tekrar deneyin.";
+"dual_waiting_desc" = "Katılma isteğinizi dakikalar içinde gerçekleştirmeyi deneyeceğiz. Eğer katılımınız bu süre içinde tamamen gerçekleşmezse, kullanılmayan miktar üzerindeki kilit kaldırılacak. Daha sonra tekrar katılmayı deneyebilirsiniz.";
+"go_my_dual_btn" = "Dual Yatırımlarıma Git";
+
+//amm earning
+"amm_pool_24_earn" = "24s Kazanç";
+"stake_total_earn" = "Toplam Kazanç";
+
+"apr_amm_pool" = "AMM Havuzu APR:";
+"apr_activity" = "Etkinlik APR:";
+"apr_protocol" = "Protokol APR:";
+
+//dual beginner model
+"dual_beginner_desc" = "Almak ya da satmak için bir token seçin";
+
+"dual_beginner_step1" = "Adım 1/4:";
+"dual_beginner_step1_desc" = "Gelecekte istediğiniz fiyat üzerinden, almayı ya da satmayı seçin";
+
+"dual_beginner_step2" = "Adım 2/4:";
+"dual_beginner_step2_desc" = "Hedef Fiyat ve Anlaşma Tarihi Seçin";
+
+"dual_beginner_step3" = "Adım 3/4:";
+"dual_beginner_step3_desc" = "Katılım Miktarınızı Seçin";
+
+"dual_beginner_step4" = "Adım 4/4:";
+"dual_beginner_step4_desc" = "Kazanç Senaryoları";
+
+"dual_beginner_mode_title" = "Basitleştirilmiş Mod";
+"dual_beginner_mode_desc" = "Yüksekten satmak ya da düşükten almak için adım adım açıklamalı klavuz";
+"dual_professional_mode_title" = "Profesyonel Mod";
+"dual_professional_mode_desc" = "Yatırım yapmak istediğiniz token çiftini seçin";
+"dual_return_token_type" = "Dönüş Tokeni Cinsi";
+"dual_waiting_subtitle" = "Tamamlanma bekleniyor";
+"dual_waiting_desc" = "Katılma isteğinizi dakikalar içinde gerçekleştirmeyi deneyeceğiz. Eğer katılımınız bu süre içinde tamamen gerçekleşmezse, kullanılmayan miktar üzerindeki kilit kaldırılacak. Daha sonra tekrar katılmayı deneyebilirsiniz.";
+"settle_date_title" = "Anlaşma Tarihinde";
+"settle_price_desc" = "İndeks fiyatı önde gelen borsalara göre belirlenir.";
+"token_locked_hint" = "Yatırım gerçekleştirdiğiniz tokenler Anlaşma Tarihine kadar kilitli kalacaktır.";
+"dual_beginner_sell_high" = "Yüksekten %@ Sat";
+"dual_beginner_buy_low" = "Düşükten %@ Al";
+"dual_beginner_sell_high_desc" = "USDC ya da USDT alacaksınız";
+"dual_beginner_buy_low_desc" = "USDC ya da USDT kullanabilirsiniz";
+
+"dual_delivering_desc" = "Kazancınız Anlaşma Tarihinde 08.00 UTC saatinde mevcut Hedef Fiyatı ve Anlaşma Fiyatına göre hesaplanır. Kazancınız 6 saat içinde size ulaşır.";
+"dual_beginner_return_token_type" = "Dönüş Tokeni Cinsi";
+"dual_professional_desc" = "Almak ya da satmak için bir token seçin";
+"invest" = "Yatırım Yap";
+"dual_price_desc" = "Mevcut Fiyat USDT tabanlıdır ve önde gelen borsalardan alınan bilgiye dayanır.";
+
+// Fee
+"fee_settings_advanced" = "Gelişmiş";
+"fee_settings_advanced_title" = "Ücret Ayarları";
+"fee_settings_process_anyway_description" = "Ücret öngörülemedi. Kontratta bir hata olabilir ve bu yüzden bu işlem başarısız sonuçlanabilir.";
+"fee_settings_process_anyway_button_title" = "Yine de devam etmek istiyorum";
+"L2_withdraw_to_L1_navigation_title" = "Çekmeyi Onaylayın";
+
+// 'normal_withdraw_msg_colon' will change from 'Normal' to 'Normal (~40 minutes):' in the next version.
+"normal_withdraw_msg_colon" = "Normal (~40 dakika):";
+"40_minutes_suffix" = "(~40 dakika)";
+"available_colon_prefix" = "Müsait:";
+"gas_estimate_updating" = "Güncelleniyor";
+"approve_token_description" = "Bu işlemin ağ üzerinde gerçekleşmesi biraz vakit alabilir.";
+
+
+
+
+
+
+
+
+
+
+
+// Keep it at the bottom of the file.
+// ==== 👇 Multi-language settings, do not change
+"language" = "Dil";
+"en" = "English";
+"zh-Hans" = "中文简体";
+"zh-Hant" = "中文繁體";
+"tr" = "Türkçe";
+"pt-PT" = "Português";
+"fr" = "Français";//记得修改。app中多语言选项、图形验证码语言
+"jp" = "日本語";
+"español" = "Español";
+"developModel" = "DevelopModel";
+//====== 👆 Multi-language settings, do not change

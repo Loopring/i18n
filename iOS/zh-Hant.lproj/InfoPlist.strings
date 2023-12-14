@@ -1,0 +1,12 @@
+//"UILaunchStoryboardName" = "LaunchScreen";
+"CFBundleDisplayName" = "LoopringWallet";
+// 权限提示文
+"NSAppleMusicUsageDescription" = "App needs to get your media library permissions when using the play sound feature";
+"NSCameraUsageDescription" = "App needs to get camera permissions when using the Scan QR code feature";
+"NSMicrophoneUsageDescription" = "App needs to get microphone permission when using the intercom function";
+"NSPhotoLibraryAddUsageDescription" = "App needs to get album permission when saving or browsing photos";
+"NSPhotoLibraryUsageDescription" = "App needs your consent to access the album when saving or browsing photos";
+"NSLocationAlwaysUsageDescription" = "We will use your location to search for nearby WiFi hotspots.";
+"NSLocationAlwaysAndWhenInUseUsageDescription" = "We will use your location to search for nearby WiFi hotspots.";
+"NSLocationWhenInUseUsageDescription" = "We will use your location to search for nearby WiFi hotspots.";
+"NSFaceIDUsageDescription" = "App requires Face ID permission to authenticate using Face recognition.";
